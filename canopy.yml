@@ -1,11 +1,14 @@
 title: Site title
 collection:
-  - eis_collection_canopy.json
+  - collection.json
 metadata:
-  - Subject
-  - Date
-  - Language
-  - Genre
+  - Summary
+  - Themes
+  - Main Location
+  - Coordinates
+  - Key People
+  - Historical Context
+  - Completed
 featured:
 search:
   page:
