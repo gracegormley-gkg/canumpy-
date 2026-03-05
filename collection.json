@@ -1,0 +1,213 @@
+{
+  "@context": [
+    "http://iiif.io/api/presentation/3/context.json"
+  ],
+  "id": "https://gracegormley-gkg.github.io/canumpy-/collection.json",
+  "type": "Collection",
+  "label": {
+    "none": [
+      "Environmental Impact Statement Collection [Enriched]"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Transportation Library holds one of the largest collections of environmental impact statements (EISs) in the nation. The National Environmental Policy Act of 1969 requires that federal agencies prepare detailed analyses of any of their actions that significantly affect the quality of the environment. Environmental impact statements (EISs) are the result of this requirement. EISs have been produced, since 1969, on virtually every type of activity, from oil and gas development to scientific research in Antarctica, and from protection of wildlife habitat to construction of light rail lines.\n\nThe library collection began as a 1992 donation of over 20,000 EIS titles from Northwestern faculty H. Paul Friesema, a leader in the environmental movement who was instrumental in developing the university’s program in Environmental Policy and Culture."
+    ]
+  },
+  "items": [
+    {
+      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-operation-breakthrough.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/efbeb91b-0c29-4e54-b67f-2370a1c06ea4",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Operation BREAKTHROUGH"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Operation BREAKTHROUGH"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Operation BREAKTHROUGH, initiated in 1969, is a federal initiative aimed at fostering innovation in housing design and construction. It’s a project spearheaded by the Department of Transportation (DOT) and the FAA, focusing on developing and implementing new housing systems. The goal is to improve the quality of life for communities by enhancing noise reduction and promoting a more comfortable environment. The project involves a nationwide competition for housing system proposals, site planning teams, and prototype site developers. A total of 82 proposals were received, with 11 finalists selected. The project’s primary focus is to improve the quality of life for communities by enhancing noise reduction and promoting a more comfortable environment. The project is overseen by the Secretary of Transportation and the FAA, with the goal of creating a more pleasant and sustainable urban environment."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/efbeb91b-0c29-4e54-b67f-2370a1c06ea4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/f1598e68-5c67-40ab-b6a2-81a0eb055725",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Randolph Urban Renewal Project"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Randolph Urban Renewal Project"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Richmond Redevelopment and Housing Executive is undertaking a project to revitalize the Randolph Street corridor in the city of Richmond, Virginia. This project, initiated by the Richmond Redevelopment and Housing Executive, aims to improve the aesthetic and functionality of the area, particularly the Randolph Street area. The project involves demolition of existing structures and the construction of new, improved buildings. The goal is to create a more attractive and livable space for residents and businesses. Funding for the project is being provided through a combination of local grants, a temporary loan from the HUD, and land donations. The project will focus on improving the architectural quality of the area, creating a more cohesive and appealing environment for the community."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f1598e68-5c67-40ab-b6a2-81a0eb055725/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document is the Average Fuel Economy Standards for Nonpassenger Automobiles, enacted by the National Highway Traffic Safety Administration (NHTSA) in response to the Motor Vehicle Information and Cost Savings Act of 1976. It addresses the need to improve fuel economy among nonpassenger vehicles, particularly those designed for off-highway operation. The document establishes a minimum average fuel economy of 17.2 mpg for all nonpassenger automobiles manufactured in 1979 by manufacturers identified in the previous section. It also specifies a target of 17.2 mpg for jeep-type vehicles, with a higher target of 15.8 mpg for those manufactured before the end of the model year. The goal is to increase fuel efficiency and reduce reliance on petroleum resources, aligning with the Act's mandate for improved vehicle performance and cost savings."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://www.library.northwestern.edu/",
+      "type": "Agent",
+      "label": {
+        "none": [
+          "Northwestern University Libraries"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/",
+          "type": "Text",
+          "label": {
+            "none": [
+              "Northwestern University Libraries Digital Collections Homepage"
+            ]
+          },
+          "format": "text/html",
+          "language": [
+            "en"
+          ]
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://iiif.dc.library.northwestern.edu/iiif/2/00000000-0000-0000-0000-000000000003/full/pct:50/0/default.webp",
+          "type": "Image",
+          "format": "image/webp",
+          "height": 139,
+          "width": 1190
+        }
+      ]
+    }
+  ],
+  "logo": [
+    {
+      "id": "https://iiif.dc.library.northwestern.edu/iiif/2/00000000-0000-0000-0000-000000000003/full/pct:50/0/default.webp",
+      "type": "Image",
+      "format": "image/webp",
+      "height": 139,
+      "width": 1190
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1",
+      "type": "Dataset",
+      "format": "application/json",
+      "label": {
+        "none": [
+          "Northwestern University Libraries Digital Collections API"
+        ]
+      }
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement Collection"
+        ]
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1/thumbnail",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 400,
+      "height": 400
+    }
+  ]
+}
