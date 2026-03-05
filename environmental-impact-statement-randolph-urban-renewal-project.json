@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Randolph Urban Renewal Project"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Richmond Redevelopment and Housing Executive is undertaking a project to revitalize the Randolph Street corridor in the city of Richmond, Virginia. This project, initiated by the Richmond Redevelopment and Housing Executive, aims to improve the aesthetic and functionality of the area, particularly the Randolph Street area. The project involves demolition of existing structures and the construction of new, improved buildings. The goal is to create a more attractive and livable space for residents and businesses. Funding for the project is being provided through a combination of local grants, a temporary loan from the HUD, and land donations. The project will focus on improving the architectural quality of the area, creating a more cohesive and appealing environment for the community."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/f1598e68-5c67-40ab-b6a2-81a0eb055725/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/f1598e68-5c67-40ab-b6a2-81a0eb055725",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Randolph Urban Renewal Project"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Richmond Redevelopment and Housing Executive is undertaking a project to revitalize the Randolph Street corridor in the city of Richmond, Virginia. This project, initiated by the Richmond Redevelopment and Housing Executive, aims to improve the aesthetic and functionality of the area, particularly the Randolph Street area. The project involves demolition of existing structures and the construction of new, improved buildings. The goal is to create a more attractive and livable space for residents and businesses. Funding for the project is being provided through a combination of local grants, a temporary loan from the HUD, and land donations. The project will focus on improving the architectural quality of the area, creating a more cohesive and appealing environment for the community."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Randolph Urban Renewal Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Timothy Atheson; Philip V. Sanchez; James Costantina; James Madison Building; William J. Leidinger"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Unknown"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Randolph Urban Renewal Project"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f1598e68-5c67-40ab-b6a2-81a0eb055725/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f1598e68-5c67-40ab-b6a2-81a0eb055725/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f1598e68-5c67-40ab-b6a2-81a0eb055725",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

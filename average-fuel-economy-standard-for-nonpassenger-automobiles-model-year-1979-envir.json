@@ -1,0 +1,182 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document is the Average Fuel Economy Standards for Nonpassenger Automobiles, enacted by the National Highway Traffic Safety Administration (NHTSA) in response to the Motor Vehicle Information and Cost Savings Act of 1976. It addresses the need to improve fuel economy among nonpassenger vehicles, particularly those designed for off-highway operation. The document establishes a minimum average fuel economy of 17.2 mpg for all nonpassenger automobiles manufactured in 1979 by manufacturers identified in the previous section. It also specifies a target of 17.2 mpg for jeep-type vehicles, with a higher target of 15.8 mpg for those manufactured before the end of the model year. The goal is to increase fuel efficiency and reduce reliance on petroleum resources, aligning with the Act's mandate for improved vehicle performance and cost savings."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document is the Average Fuel Economy Standards for Nonpassenger Automobiles, enacted by the National Highway Traffic Safety Administration (NHTSA) in response to the Motor Vehicle Information and Cost Savings Act of 1976. It addresses the need to improve fuel economy among nonpassenger vehicles, particularly those designed for off-highway operation. The document establishes a minimum average fuel economy of 17.2 mpg for all nonpassenger automobiles manufactured in 1979 by manufacturers identified in the previous section. It also specifies a target of 17.2 mpg for jeep-type vehicles, with a higher target of 15.8 mpg for those manufactured before the end of the model year. The goal is to increase fuel efficiency and reduce reliance on petroleum resources, aligning with the Act's mandate for improved vehicle performance and cost savings."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Coordinates"
+        ]
+      },
+      "value": {
+        "none": [
+          "38.8950368, -77.0365427"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "John W. Snow; Rogers Park, Chicago, Illinois; Stephen P. Wood; John W. Snow; Rogers Park, Chicago, Illinois; George W. Snow"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 1976 by the EPA, aimed to establish a standardized fuel economy benchmark for nonpassenger automobiles to reduce fuel consumption and promote environmental sustainability. The goal was to create a consistent metric for evaluating vehicle performance, which was crucial for addressing concerns about fuel efficiency and emissions. The project, however, faced challenges with data collection and the complexities of defining 'nonpassenger' vehicles, ultimately leading to a modified version of the rule being implemented in 2016, though the initial proposal was never fully realized. Therefore, the project was completed, though it was significantly altered and implemented in a revised form."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Completed"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
