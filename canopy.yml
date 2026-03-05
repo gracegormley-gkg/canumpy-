@@ -1,6 +1,8 @@
-title: Site title
-collection:
-  - collection.json
+title: Environmental Impact Statement Collection basijbadipfbqpfib
+manifest:
+  - manifests/environmental-impact-statement-operation-breakthrough.json
+  - manifests/environmental-impact-statement-randolph-urban-renewal-project.json
+  - manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json
 metadata:
   - Summary
   - Themes
@@ -9,7 +11,6 @@ metadata:
   - Key People
   - Historical Context
   - Completed
-featured:
 search:
   page:
     title: Search
