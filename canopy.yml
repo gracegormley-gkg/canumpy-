@@ -1,6 +1,6 @@
 title: Environmental Impact Statement Collection basijbadipfbqpfib
 collection:
-  - https://api.dc.library.northwestern.edu/api/v2/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1?as=iiif
+  - collection.json
 metadata:
   - Summary
   - Themes
