@@ -2,11 +2,11 @@
   "@context": [
     "http://iiif.io/api/presentation/3/context.json"
   ],
-  "id": "https://gracegormley-gkg.github.io/canumpy-/collection.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/collection.json",
   "type": "Collection",
   "label": {
     "none": [
-      "Environmental Impact Statement Collection [Enriched]"
+      "Environmental Impact Statement Collection"
     ]
   },
   "summary": {
@@ -16,7 +16,7 @@
   },
   "items": [
     {
-      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-operation-breakthrough.json",
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-operation-breakthrough.json",
       "type": "Manifest",
       "homepage": [
         {
@@ -37,7 +37,7 @@
       },
       "summary": {
         "none": [
-          "Operation BREAKTHROUGH, initiated in 1969, is a federal initiative aimed at fostering innovation in housing design and construction. It’s a project spearheaded by the Department of Transportation (DOT) and the FAA, focusing on developing and implementing new housing systems. The goal is to improve the quality of life for communities by enhancing noise reduction and promoting a more comfortable environment. The project involves a nationwide competition for housing system proposals, site planning teams, and prototype site developers. A total of 82 proposals were received, with 11 finalists selected. The project’s primary focus is to improve the quality of life for communities by enhancing noise reduction and promoting a more comfortable environment. The project is overseen by the Secretary of Transportation and the FAA, with the goal of creating a more pleasant and sustainable urban environment."
+          "Image"
         ]
       },
       "thumbnail": [
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json",
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-randolph-urban-renewal-project.json",
       "type": "Manifest",
       "homepage": [
         {
@@ -72,7 +72,7 @@
       },
       "summary": {
         "none": [
-          "The Richmond Redevelopment and Housing Executive is undertaking a project to revitalize the Randolph Street corridor in the city of Richmond, Virginia. This project, initiated by the Richmond Redevelopment and Housing Executive, aims to improve the aesthetic and functionality of the area, particularly the Randolph Street area. The project involves demolition of existing structures and the construction of new, improved buildings. The goal is to create a more attractive and livable space for residents and businesses. Funding for the project is being provided through a combination of local grants, a temporary loan from the HUD, and land donations. The project will focus on improving the architectural quality of the area, creating a more cohesive and appealing environment for the community."
+          "Image"
         ]
       },
       "thumbnail": [
@@ -86,7 +86,7 @@
       ]
     },
     {
-      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json",
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json",
       "type": "Manifest",
       "homepage": [
         {
@@ -107,12 +107,2007 @@
       },
       "summary": {
         "none": [
-          "This document is the Average Fuel Economy Standards for Nonpassenger Automobiles, enacted by the National Highway Traffic Safety Administration (NHTSA) in response to the Motor Vehicle Information and Cost Savings Act of 1976. It addresses the need to improve fuel economy among nonpassenger vehicles, particularly those designed for off-highway operation. The document establishes a minimum average fuel economy of 17.2 mpg for all nonpassenger automobiles manufactured in 1979 by manufacturers identified in the previous section. It also specifies a target of 17.2 mpg for jeep-type vehicles, with a higher target of 15.8 mpg for those manufactured before the end of the model year. The goal is to increase fuel efficiency and reduce reliance on petroleum resources, aligning with the Act's mandate for improved vehicle performance and cost savings."
+          "Image"
         ]
       },
       "thumbnail": [
         {
           "id": "https://api.dc.library.northwestern.edu/api/v2/works/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/lincoln-hwy-upgrade-from-cicero-ave-to-chicago-road-cook-county-environmental-im.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9234b452-0bfe-48f8-92dd-88ca41ebfbf8",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Lincoln Hwy upgrade from Cicero Ave. to Chicago Road, Cook County : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Lincoln Hwy upgrade from Cicero Ave. to Chicago Road, Cook County : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9234b452-0bfe-48f8-92dd-88ca41ebfbf8/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/havasupai-indian-reservation-addition-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Havasupai Indian Reservation addition : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Havasupai Indian Reservation addition : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981-envir.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "San Jose community development block grant 3-year plan, July 1978-June 1981 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "San Jose community development block grant 3-year plan, July 1978-June 1981 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental-i.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/fb307312-04c8-4c49-afa3-e7b650650a7c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Airport Spur connection, I-94 to General Mitchell Field, Milwaukee : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Airport Spur connection, I-94 to General Mitchell Field, Milwaukee : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fb307312-04c8-4c49-afa3-e7b650650a7c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/los-angeles-regional-core-transit-system-improvements-alternatives-analysis-envi.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/0a612a40-d453-4f71-977e-8f48c8a7e34b",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Los Angeles regional core transit system improvements alternatives analysis : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Los Angeles regional core transit system improvements alternatives analysis : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0a612a40-d453-4f71-977e-8f48c8a7e34b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-state.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Buffalo light rail rapid transit project construction : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Buffalo light rail rapid transit project construction : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/bad-creek-pumped-storage-project-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/e33939cd-308b-47af-853e-58a6b1aba7e3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Bad Creek pumped storage project : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Bad Creek pumped storage project : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e33939cd-308b-47af-853e-58a6b1aba7e3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/42ff7d65-d32d-400d-bcff-0a8b1df54a68",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Metropolitan Washington rapid transit system : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Metropolitan Washington rapid transit system : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/42ff7d65-d32d-400d-bcff-0a8b1df54a68/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/penn-susquehanna-urban-renewal-project-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/200209c2-e42f-411f-9644-5f086f2f791c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Penn Susquehanna urban renewal project : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Penn Susquehanna urban renewal project : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/200209c2-e42f-411f-9644-5f086f2f791c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/marijuana-eradication-project-pulaski-county-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Marijuana eradication project, Pulaski County : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Marijuana eradication project, Pulaski County : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact-statem.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3dce989e-881b-4530-aa72-576ae4fabd1f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Colorado River flows to Mexico, Reduction of salinity : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Colorado River flows to Mexico, Reduction of salinity : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3dce989e-881b-4530-aa72-576ae4fabd1f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/proposed-endangered-species-conservation-act-of-1973-incomplete-appendices-envir.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/60f7459a-53ad-4b30-9a36-99340046bcdb",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Proposed endangered species conservation act of 1973 (incomplete appendices) : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Proposed endangered species conservation act of 1973 (incomplete appendices) : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/60f7459a-53ad-4b30-9a36-99340046bcdb/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact-statem.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/81bbecc8-30f2-4ffd-85c5-f0db284eeb92",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Summer Nuclear Plant 230 kV transmission lines, Cayce : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Summer Nuclear Plant 230 kV transmission lines, Cayce : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/81bbecc8-30f2-4ffd-85c5-f0db284eeb92/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/bedford-pine-urban-renewal-area-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Bedford-Pine urban renewal area : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Bedford-Pine urban renewal area : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/hungry-horse-cloud-seeding-program-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/e05c9c4e-c5fa-494c-a675-121ebb0da011",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Hungry Horse cloud seeding program : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Hungry Horse cloud seeding program : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e05c9c4e-c5fa-494c-a675-121ebb0da011/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/new-elmira-urban-renewal-project-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/ff9a87f5-067b-4d43-8241-851005628586",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "New Elmira urban renewal project : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "New Elmira urban renewal project : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ff9a87f5-067b-4d43-8241-851005628586/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/warm-springs-indian-reservation-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/fba536d5-f1db-4e81-b8a6-e9af0be010bd",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Warm Springs Indian Reservation : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Warm Springs Indian Reservation : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fba536d5-f1db-4e81-b8a6-e9af0be010bd/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/kanabescalante-grazing-management-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Kanab/Escalante grazing management : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Kanab/Escalante grazing management : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment-.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/29b89810-6b04-4796-82dc-a0080bab8942",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Metropolitan Atlanta rapid transit system, North Line (Lindbergh-Piedmont segment), Lindbergh Drive-Piedmont Road consolidation : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Metropolitan Atlanta rapid transit system, North Line (Lindbergh-Piedmont segment), Lindbergh Drive-Piedmont Road consolidation : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/29b89810-6b04-4796-82dc-a0080bab8942/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-state-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8f8f77c7-1286-40f2-9663-bc219f987505",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Buffalo light rail rapid transit project construction : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Buffalo light rail rapid transit project construction : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8f8f77c7-1286-40f2-9663-bc219f987505/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-proposed-castaic-haskell-junction-power-transmiss.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8941a914-a49d-4c22-a6dc-b4adc5725870",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Proposed Castaic-Haskell Junction Power Transmission Line"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Castaic-Haskell Junction Power Transmission Line"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8941a914-a49d-4c22-a6dc-b4adc5725870/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/rio-grande-amistad-hydroelectric-plant-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/c56d2b58-e4a8-4b16-bd48-43dc29c6d905",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Rio Grande, Amistad hydroelectric plant : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Rio Grande, Amistad hydroelectric plant : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c56d2b58-e4a8-4b16-bd48-43dc29c6d905/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Motor carrier commercial zones and terminal areas : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Motor carrier commercial zones and terminal areas : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-pro.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/920f48a1-7286-48c4-80f4-fc713fc764e3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Plan Modification Via Disposition Controls to the Downtown Urban Renewal Area"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Plan Modification Via Disposition Controls to the Downtown Urban Renewal Area"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/920f48a1-7286-48c4-80f4-fc713fc764e3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-interim-review-report-little-calumet-river-indian.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/25a105fa-0445-4fa8-b955-4ac7a6a6a080",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Interim Review Report, Little Calumet River, Indiana"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Interim Review Report, Little Calumet River, Indiana"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/25a105fa-0445-4fa8-b955-4ac7a6a6a080/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-promulgated-standards-of-performance-for-lime-man.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Promulgated Standards of Performance for Lime Manufacturing Plants"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Promulgated Standards of Performance for Lime Manufacturing Plants"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-pro-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/75127156-7593-40bf-8cad-0a9a6f271fe6",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Shaw School Urban Renewal Area"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Shaw School Urban Renewal Area"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/75127156-7593-40bf-8cad-0a9a6f271fe6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-proposed-hud-project-selection-criteria-for-subsi.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8e2b9830-6017-4644-a596-831a4a55b359",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Proposed HUD Project Selection Criteria for Subsidized Housing"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed HUD Project Selection Criteria for Subsidized Housing"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8e2b9830-6017-4644-a596-831a4a55b359/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-debris-removal-north-branch-chicago-river-illinoi.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/2373db98-80ca-481c-b9ab-4a4e34101633",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Debris Removal, North Branch Chicago River, Illinois"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Debris Removal, North Branch Chicago River, Illinois"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2373db98-80ca-481c-b9ab-4a4e34101633/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-public-transportation-amendments-of-1980.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5cfbddc1-d414-4b93-95d4-67dd8aca5df3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Public Transportation Amendments of 1980"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Public Transportation Amendments of 1980"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5cfbddc1-d414-4b93-95d4-67dd8aca5df3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-federal-aid-route-77-illinois-route-59-ew-tollway.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/d538507e-ef2e-445f-936f-ed6a722d94a0",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Federal Aid Route 77, Illinois Route 59, E.W. Tollway to Illinois 64, DuPage County, Illinois"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Federal Aid Route 77, Illinois Route 59, E.W. Tollway to Illinois 64, DuPage County, Illinois"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d538507e-ef2e-445f-936f-ed6a722d94a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/draft-tarp-calumet-tunnel-system-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "DRAFT: TARP Calumet tunnel system : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "DRAFT: TARP Calumet tunnel system : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/be007e4b-d662-4e2f-81c0-53f93844929c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/be007e4b-d662-4e2f-81c0-53f93844929c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/beadle-greenway-area-plan-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/9999bc4f-6607-425d-b9bd-c8215a910b80",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Beadle-Greenway area plan : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Beadle-Greenway area plan : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9999bc4f-6607-425d-b9bd-c8215a910b80/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public-housing.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Denver, Noise exposure areas around Stapleton and Buckley airports, public housing programs : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Denver, Noise exposure areas around Stapleton and Buckley airports, public housing programs : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/dade-county-metro-rail-transit-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/d3e9092b-810f-4b1a-9e9e-def1c7b8a699",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Dade County metro rail transit : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Dade County metro rail transit : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d3e9092b-810f-4b1a-9e9e-def1c7b8a699/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/detroit-downtown-people-mover-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/e962a4d2-18c5-4522-a59f-a81e2251c7ca",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Detroit downtown people mover : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Detroit downtown people mover : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e962a4d2-18c5-4522-a59f-a81e2251c7ca/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/underground-nuclear-testing-program-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/ccd55da3-3f23-409b-a94e-83a7eccf317d",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Underground nuclear testing program : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Underground nuclear testing program : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ccd55da3-3f23-409b-a94e-83a7eccf317d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/wild-free-roaming-horse-and-burro-management-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/72905c97-4f67-4a33-a864-871c879b80eb",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Wild free roaming horse and burro management : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Wild free roaming horse and burro management : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/72905c97-4f67-4a33-a864-871c879b80eb/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/ross-ice-shelf-project-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/99663d77-3c1d-41fb-aac6-161e96c6c181",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Ross Ice Shelf project : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Ross Ice Shelf project : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/99663d77-3c1d-41fb-aac6-161e96c6c181/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/four-cornersambrosiapajariot-500-kv-transmission-line-environmental-impact-state.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/eeee0a97-8076-4885-8582-6e25e3c29773",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/eeee0a97-8076-4885-8582-6e25e3c29773/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales-durin.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Bowhead whales, Proposed regulations governing the taking of bowhead whales during 1980 for subsistance, environmental assessment (EA) B1; Special report to the International Whaling Commission (1978) B2; Early development and reproduction (1979) : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Bowhead whales, Proposed regulations governing the taking of bowhead whales during 1980 for subsistance, environmental assessment (EA) B1; Special report to the International Whaling Commission (1978) B2; Early development and reproduction (1979) : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/24de1ff4-3e0b-4e26-bac2-e228a4003d3c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Cotton dust occupational exposure standard : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Cotton dust occupational exposure standard : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/24de1ff4-3e0b-4e26-bac2-e228a4003d3c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/17398b31-01b3-42f3-8a6f-7e7ac9f48823",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Polychlorinated biphenyls, Proposed rule making : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Polychlorinated biphenyls, Proposed rule making : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/17398b31-01b3-42f3-8a6f-7e7ac9f48823/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/shaw-school-urban-renewal-plan-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/2b7ab62b-094f-4cfc-a01f-3e05391f8784",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Shaw School urban renewal plan : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Shaw School urban renewal plan : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2b7ab62b-094f-4cfc-a01f-3e05391f8784/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/three-mile-island-nuclear-station-unit-2-operation-environmental-impact-statemen.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Three Mile Island Nuclear Station unit 2, operation : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Three Mile Island Nuclear Station unit 2, operation : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/proposed-lead-based-paint-regulations-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/e9579277-9c90-475e-94a6-055975228d2c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Proposed lead based paint regulations : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Proposed lead based paint regulations : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e9579277-9c90-475e-94a6-055975228d2c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county-environme.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/36d5b0f3-7371-4cac-a1bf-c052900d2d8c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Light rail transit line and Banfield Hwy improvements, Multnomah County : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Light rail transit line and Banfield Hwy improvements, Multnomah County : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/36d5b0f3-7371-4cac-a1bf-c052900d2d8c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/kingston-urban-renewal-project-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Kingston urban renewal project : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Kingston urban renewal project : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/west-seattle-freeway-36th-ave-se-to-i-5-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/1b6858dc-9375-4205-aba4-d319e027dc91",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "West Seattle Freeway, 36th Ave SE to I-5 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "West Seattle Freeway, 36th Ave SE to I-5 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/1b6858dc-9375-4205-aba4-d319e027dc91/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/philadelphia-eastwick-urban-renewal-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/39985efa-66b9-4eef-8f44-3e1a6fc27645",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Philadelphia, Eastwick urban renewal : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Philadelphia, Eastwick urban renewal : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/39985efa-66b9-4eef-8f44-3e1a6fc27645/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/metropolitan-atlanta-rapid-transit-system-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/6ea882b2-5f5e-4e2a-9124-2ef215a46d18",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Metropolitan Atlanta rapid transit system : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Metropolitan Atlanta rapid transit system : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/6ea882b2-5f5e-4e2a-9124-2ef215a46d18/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/c828b2a6-38f2-4cb1-b15c-b0895b508482",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Chattanooga, Cromwell Road low-rent housing : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Chattanooga, Cromwell Road low-rent housing : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c828b2a6-38f2-4cb1-b15c-b0895b508482/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/boston-demolition-plan-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/e26f2861-9676-4bbb-88a1-1734629bdf79",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Boston demolition plan : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Boston demolition plan : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e26f2861-9676-4bbb-88a1-1734629bdf79/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/kendall-square-urban-renewal-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/2d55f0a5-2241-49ef-a135-cd5785cc36de",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Kendall Square urban renewal : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Kendall Square urban renewal : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2d55f0a5-2241-49ef-a135-cd5785cc36de/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-rulemak.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/manifests/environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new-me.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/19ab5449-ac00-4526-8d85-763c230cdb98",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Zia Urban Renewal Project Amendment, Gallup, New Mexico"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Zia Urban Renewal Project Amendment, Gallup, New Mexico"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/19ab5449-ac00-4526-8d85-763c230cdb98/thumbnail",
           "format": "image/jpeg",
           "type": "Image",
           "width": 400,
