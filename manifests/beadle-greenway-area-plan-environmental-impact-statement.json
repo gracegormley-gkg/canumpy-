@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/beadle-greenway-area-plan-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Beadle-Greenway area plan : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Beadle Greenway Plan, proposed by the City of Sioux Falls, seeks to revitalize the area surrounding Beadle Park by creating a new greenway network. It involves acquiring land south of 14th Street to expand recreational space and improve pedestrian/bicycle traffic. The plan prioritizes pedestrian and bicycle safety, including a grade-separated crossing under 14th Street. The goal is to enhance the park's usability and provide more accessible green space for residents. The project involves collaboration between the City Parks Department, the School Board, and the Planning and Zoning Department. Land acquisition is planned to accommodate the new greenway, with a focus on separating public and private property lines and improving the crossing infrastructure."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9999bc4f-6607-425d-b9bd-c8215a910b80/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/9999bc4f-6607-425d-b9bd-c8215a910b80",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Beadle-Greenway area plan : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Beadle Greenway Plan, proposed by the City of Sioux Falls, seeks to revitalize the area surrounding Beadle Park by creating a new greenway network. It involves acquiring land south of 14th Street to expand recreational space and improve pedestrian/bicycle traffic. The plan prioritizes pedestrian and bicycle safety, including a grade-separated crossing under 14th Street. The goal is to enhance the park's usability and provide more accessible green space for residents. The project involves collaboration between the City Parks Department, the School Board, and the Planning and Zoning Department. Land acquisition is planned to accommodate the new greenway, with a focus on separating public and private property lines and improving the crossing infrastructure."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/beadle-greenway-area-plan-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Beadle-Greenway area plan : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9999bc4f-6607-425d-b9bd-c8215a910b80/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/beadle-greenway-area-plan-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/beadle-greenway-area-plan-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/beadle-greenway-area-plan-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/9999bc4f-6607-425d-b9bd-c8215a910b80/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/9999bc4f-6607-425d-b9bd-c8215a910b80",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document is a proposal from the National Highway Traffic Safety Administration (NHTA) outlining the rulemaking process for fuel economy standards for vehicles produced between 1981 and 2084. The project, initiated in 1977, aims to reduce petroleum consumption and improve vehicle fuel efficiency. NHTA is seeking to establish standards that would gradually improve average fuel economy, driven by manufacturers’ voluntary efforts and the established 20.0 mpg target. The document details the NHTA’s evaluation of potential economic impacts, including the possibility that these standards could exceed the established thresholds, necessitating a separate economic impact statement. The document also highlights the project’s origin and the agencies involved, emphasizing the goal of enhancing vehicle fuel economy and reducing environmental impact."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2db0013d-db56-496b-a68f-9fdc13a11e2f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/2db0013d-db56-496b-a68f-9fdc13a11e2f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document is a proposal from the National Highway Traffic Safety Administration (NHTA) outlining the rulemaking process for fuel economy standards for vehicles produced between 1981 and 2084. The project, initiated in 1977, aims to reduce petroleum consumption and improve vehicle fuel efficiency. NHTA is seeking to establish standards that would gradually improve average fuel economy, driven by manufacturers’ voluntary efforts and the established 20.0 mpg target. The document details the NHTA’s evaluation of potential economic impacts, including the possibility that these standards could exceed the established thresholds, necessitating a separate economic impact statement. The document also highlights the project’s origin and the agencies involved, emphasizing the goal of enhancing vehicle fuel economy and reducing environmental impact."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1977, aimed to establish a standardized fuel economy benchmark for automobiles in the United States. The goal was to encourage manufacturers to reduce vehicle fuel consumption, leading to lower emissions and potentially increased consumer choice. The project involved a lengthy and complex process of rulemaking, testing, and evaluation, ultimately culminating in the establishment of fuel economy standards that would significantly impact the automotive industry. The project was ultimately completed, with the established standards having a demonstrable impact on vehicle fuel efficiency, though the long-term economic effects remain a subject of ongoing analysis."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2db0013d-db56-496b-a68f-9fdc13a11e2f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2db0013d-db56-496b-a68f-9fdc13a11e2f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2db0013d-db56-496b-a68f-9fdc13a11e2f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

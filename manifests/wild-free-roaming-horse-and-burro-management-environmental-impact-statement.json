@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wild-free-roaming-horse-and-burro-management-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Wild free roaming horse and burro management : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the development of the 'Green Horizon Initiative,' a project focused on revitalizing the historic Willow Creek waterfront in downtown Asheville, North Carolina. The initiative, spearheaded by the Asheville City Council and the North Carolina Department of Natural and Cultural Resources, aims to transform the area into a thriving public space. Specifically, the project encompasses the restoration of existing historic buildings, the creation of new green spaces, and the implementation of sustainable design principles. The goal is to increase recreational opportunities, enhance the city’s cultural appeal, and promote environmental stewardship within the Willow Creek area. Funding is being secured through a combination of state and federal grants, with a projected completion date of 2026. The initiative will prioritize accessibility and community engagement throughout the project’s lifecycle."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/72905c97-4f67-4a33-a864-871c879b80eb/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/72905c97-4f67-4a33-a864-871c879b80eb",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Wild free roaming horse and burro management : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the development of the 'Green Horizon Initiative,' a project focused on revitalizing the historic Willow Creek waterfront in downtown Asheville, North Carolina. The initiative, spearheaded by the Asheville City Council and the North Carolina Department of Natural and Cultural Resources, aims to transform the area into a thriving public space. Specifically, the project encompasses the restoration of existing historic buildings, the creation of new green spaces, and the implementation of sustainable design principles. The goal is to increase recreational opportunities, enhance the city’s cultural appeal, and promote environmental stewardship within the Willow Creek area. Funding is being secured through a combination of state and federal grants, with a projected completion date of 2026. The initiative will prioritize accessibility and community engagement throughout the project’s lifecycle."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2018, aimed to develop a new AI-powered diagnostic tool for detecting early-stage Alzheimer's disease. Initially, the project focused on analyzing medical imaging data and identifying subtle patterns indicative of the disease. However, due to funding cuts and shifting priorities within the research institution, the project was ultimately cancelled in 2022, with the research team focusing on alternative approaches."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wild-free-roaming-horse-and-burro-management-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Wild free roaming horse and burro management : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/72905c97-4f67-4a33-a864-871c879b80eb/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wild-free-roaming-horse-and-burro-management-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wild-free-roaming-horse-and-burro-management-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wild-free-roaming-horse-and-burro-management-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/72905c97-4f67-4a33-a864-871c879b80eb/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/72905c97-4f67-4a33-a864-871c879b80eb",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

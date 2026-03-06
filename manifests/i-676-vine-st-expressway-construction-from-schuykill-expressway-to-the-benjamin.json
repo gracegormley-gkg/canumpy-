@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-676-vine-st-expressway-construction-from-schuykill-expressway-to-the-benjamin.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "I-676, Vine St Expressway construction from Schuykill Expressway to the Benjamin Franklin Bridge and I-95 interchange, Philadelphia : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Delaware Valley Regional Planning Commission's (DVRRPC) \"Market Project,\" a proposal for a new transportation infrastructure in Chestnut Township, Pennsylvania. The project aims to alleviate traffic congestion and improve regional connectivity. The DVRRPC, in collaboration with the Pennsylvania Department of Transportation (PennDOT), is utilizing a multi-faceted approach involving traffic modeling, signal optimization, and roadway expansion. The goal is to create a more efficient and sustainable transportation network, enhancing accessibility and supporting economic growth within the Chestnut Township area. The project encompasses a comprehensive study and design phase, with the ultimate aim of reducing commute times and improving overall transportation flow."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/78bef8c8-361c-4548-8e2d-07847eb7a3e7/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/78bef8c8-361c-4548-8e2d-07847eb7a3e7",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "I-676, Vine St Expressway construction from Schuykill Expressway to the Benjamin Franklin Bridge and I-95 interchange, Philadelphia : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Delaware Valley Regional Planning Commission's (DVRRPC) \"Market Project,\" a proposal for a new transportation infrastructure in Chestnut Township, Pennsylvania. The project aims to alleviate traffic congestion and improve regional connectivity. The DVRRPC, in collaboration with the Pennsylvania Department of Transportation (PennDOT), is utilizing a multi-faceted approach involving traffic modeling, signal optimization, and roadway expansion. The goal is to create a more efficient and sustainable transportation network, enhancing accessibility and supporting economic growth within the Chestnut Township area. The project encompasses a comprehensive study and design phase, with the ultimate aim of reducing commute times and improving overall transportation flow."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Delaware Valley Regional Planning Commission's (DVRPC) 2000 project was initiated in 1976 to assess the feasibility of a new highway system across the Delaware River. The project aimed to improve transportation infrastructure and stimulate economic growth in the region, but due to cost overruns and political opposition, it was ultimately abandoned in 1988, leaving a legacy of unresolved planning decisions."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-676-vine-st-expressway-construction-from-schuykill-expressway-to-the-benjamin.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "I-676, Vine St Expressway construction from Schuykill Expressway to the Benjamin Franklin Bridge and I-95 interchange, Philadelphia : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/78bef8c8-361c-4548-8e2d-07847eb7a3e7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-676-vine-st-expressway-construction-from-schuykill-expressway-to-the-benjamin.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-676-vine-st-expressway-construction-from-schuykill-expressway-to-the-benjamin.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-676-vine-st-expressway-construction-from-schuykill-expressway-to-the-benjamin.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/78bef8c8-361c-4548-8e2d-07847eb7a3e7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/78bef8c8-361c-4548-8e2d-07847eb7a3e7",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

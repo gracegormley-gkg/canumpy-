@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-los-angeles-harbor-deepening-project.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Los Angeles Harbor Deepening Project"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Port of Los Angeles' proposed deepening project, aiming to enhance cargo transport and accommodate larger, deeper-draft ships. Located in Los Angeles Harbor, the project involves a 45-foot increase in water depths adjacent to existing wharves. The goal is to improve the Port's ability to handle increased traffic and maintain its current growth rate. The document highlights the need for modifications to existing wharf infrastructure to accommodate the deeper draft ships, addressing concerns about potential subsidence and ensuring compatibility with the existing harbor environment. It also addresses potential impacts on recreational boating and calls for coordination with other agencies to ensure a smooth transition and minimize disruption."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a97f5f02-c891-4d22-895d-b4e5a1bf7e5c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a97f5f02-c891-4d22-895d-b4e5a1bf7e5c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Los Angeles Harbor Deepening Project"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Port of Los Angeles' proposed deepening project, aiming to enhance cargo transport and accommodate larger, deeper-draft ships. Located in Los Angeles Harbor, the project involves a 45-foot increase in water depths adjacent to existing wharves. The goal is to improve the Port's ability to handle increased traffic and maintain its current growth rate. The document highlights the need for modifications to existing wharf infrastructure to accommodate the deeper draft ships, addressing concerns about potential subsidence and ensuring compatibility with the existing harbor environment. It also addresses potential impacts on recreational boating and calls for coordination with other agencies to ensure a smooth transition and minimize disruption."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-los-angeles-harbor-deepening-project.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Los Angeles Harbor Deepening Project"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a97f5f02-c891-4d22-895d-b4e5a1bf7e5c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-los-angeles-harbor-deepening-project.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-los-angeles-harbor-deepening-project.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-los-angeles-harbor-deepening-project.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a97f5f02-c891-4d22-895d-b4e5a1bf7e5c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a97f5f02-c891-4d22-895d-b4e5a1bf7e5c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

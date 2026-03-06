@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/central-valley-project-san-felipe-division-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Central Valley project, San Felipe Division : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document describes the \"San Felipe Project\" proposed by the Santa Clara Valley Water District (SCVWD) in California. It’s a project aimed at increasing water supply to Hollister and North Santa Clara counties. The SCVWD seeks to deliver 26,500 acre-feet of water annually from the San Felipe Reservoir, a reservoir located in the Santa Clara Valley. The project’s goal is to address water shortages and improve water availability, particularly during periods of drought. The document highlights the Bureau of Reclamation’s data and the SCVWD’s reliance on it, emphasizing the need for a supplemental water source to meet growing demands. The project involves collaboration between the SCVWD, the Bureau of Reclamation, and various state agencies, aiming to enhance water management and resilience within the region."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/913e061e-70cf-4fa0-a181-f877aaa74c5f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/913e061e-70cf-4fa0-a181-f877aaa74c5f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Central Valley project, San Felipe Division : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document describes the \"San Felipe Project\" proposed by the Santa Clara Valley Water District (SCVWD) in California. It’s a project aimed at increasing water supply to Hollister and North Santa Clara counties. The SCVWD seeks to deliver 26,500 acre-feet of water annually from the San Felipe Reservoir, a reservoir located in the Santa Clara Valley. The project’s goal is to address water shortages and improve water availability, particularly during periods of drought. The document highlights the Bureau of Reclamation’s data and the SCVWD’s reliance on it, emphasizing the need for a supplemental water source to meet growing demands. The project involves collaboration between the SCVWD, the Bureau of Reclamation, and various state agencies, aiming to enhance water management and resilience within the region."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The San Felipe Project proposal, initiated in 1971, aimed to increase water supply for the Santa Clara Valley, primarily to address projected population growth and increasing demand. The Bureau of Reclamation initially authorized the project, believing it would provide a reliable water source. However, due to unforeseen factors like groundwater recharge and precipitation patterns, the project's implementation faced significant challenges, ultimately leading to its cancellation in 1978. The project's failure highlights the complexities of managing groundwater resources and the potential for unforeseen consequences in water supply planning."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/central-valley-project-san-felipe-division-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Central Valley project, San Felipe Division : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/913e061e-70cf-4fa0-a181-f877aaa74c5f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/central-valley-project-san-felipe-division-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/central-valley-project-san-felipe-division-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/central-valley-project-san-felipe-division-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/913e061e-70cf-4fa0-a181-f877aaa74c5f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/913e061e-70cf-4fa0-a181-f877aaa74c5f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Colorado River flows to Mexico, Reduction of salinity : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a comprehensive assessment of soil conditions across California's diverse regions, focusing on the Sierra Nevada, Klamath Mountains, Cascade Range, and Coastal Valleys. It highlights the unique characteristics of each subregion, emphasizing the importance of soil health for agricultural productivity and watershed management. The project involves a detailed analysis of precipitation patterns, vegetation cover, and land use to inform sustainable land management strategies. The goal is to identify areas with potential for improved soil quality and to guide targeted restoration efforts, ensuring long-term ecological balance and agricultural viability. The document stresses the need for adaptive management approaches considering climate change and land-use practices."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3dce989e-881b-4530-aa72-576ae4fabd1f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/3dce989e-881b-4530-aa72-576ae4fabd1f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Colorado River flows to Mexico, Reduction of salinity : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a comprehensive assessment of soil conditions across California's diverse regions, focusing on the Sierra Nevada, Klamath Mountains, Cascade Range, and Coastal Valleys. It highlights the unique characteristics of each subregion, emphasizing the importance of soil health for agricultural productivity and watershed management. The project involves a detailed analysis of precipitation patterns, vegetation cover, and land use to inform sustainable land management strategies. The goal is to identify areas with potential for improved soil quality and to guide targeted restoration efforts, ensuring long-term ecological balance and agricultural viability. The document stresses the need for adaptive management approaches considering climate change and land-use practices."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 2018, aimed to assess the long-term impacts of agricultural land use on soil health and water resources across California’s diverse regions. Utilizing a combination of remote sensing, soil analysis, and hydrological modeling, the study sought to identify vulnerable areas and inform land management strategies to mitigate potential ecological and economic consequences of intensive farming practices.  The project concluded with a report detailing specific recommendations for sustainable land management practices, ultimately focusing on promoting soil conservation and water quality protection across the state."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Colorado River flows to Mexico, Reduction of salinity : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3dce989e-881b-4530-aa72-576ae4fabd1f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3dce989e-881b-4530-aa72-576ae4fabd1f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3dce989e-881b-4530-aa72-576ae4fabd1f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

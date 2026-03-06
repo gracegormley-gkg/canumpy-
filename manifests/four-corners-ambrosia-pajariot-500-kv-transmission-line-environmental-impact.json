@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a comprehensive project focused on biodiversity conservation within the southwestern United States, specifically the Arizona region. It’s a collaborative effort involving the U.S. Fish and Wildlife Service, the Arizona State Parks, and the Arizona Geological Survey. The primary goal is to establish and maintain protected areas to safeguard endangered species, including the Arizona Tiger Salamander, the Western Chorus Frog, and the Desert Treefrog. The project encompasses habitat restoration, invasive species monitoring, and public education initiatives. It aims to increase the population of these vulnerable species through strategic conservation efforts, contributing to the long-term health of the region’s natural heritage and supporting ecological balance. The document highlights the importance of preserving these unique fauna for future generations."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/eeee0a97-8076-4885-8582-6e25e3c29773/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/eeee0a97-8076-4885-8582-6e25e3c29773",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a comprehensive project focused on biodiversity conservation within the southwestern United States, specifically the Arizona region. It’s a collaborative effort involving the U.S. Fish and Wildlife Service, the Arizona State Parks, and the Arizona Geological Survey. The primary goal is to establish and maintain protected areas to safeguard endangered species, including the Arizona Tiger Salamander, the Western Chorus Frog, and the Desert Treefrog. The project encompasses habitat restoration, invasive species monitoring, and public education initiatives. It aims to increase the population of these vulnerable species through strategic conservation efforts, contributing to the long-term health of the region’s natural heritage and supporting ecological balance. The document highlights the importance of preserving these unique fauna for future generations."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/eeee0a97-8076-4885-8582-6e25e3c29773/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/eeee0a97-8076-4885-8582-6e25e3c29773/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/eeee0a97-8076-4885-8582-6e25e3c29773",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Cotton dust occupational exposure standard : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"National Cotton Council of America’s\" (NCCCA) initiative to enhance cotton quality and sustainability. The project, spearheaded by the NCCCA, focuses on developing and implementing a new, standardized testing protocol for cotton fibers. It’s a collaborative effort involving federal agencies (USDA, EPA, HHS), state and local governments, and industry stakeholders across the United States. The goal is to improve cotton yield, reduce environmental impact, and bolster the cotton industry’s reputation. The project aims to establish a robust, verifiable quality standard, benefiting both producers and consumers of cotton products."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/24de1ff4-3e0b-4e26-bac2-e228a4003d3c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/24de1ff4-3e0b-4e26-bac2-e228a4003d3c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Cotton dust occupational exposure standard : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"National Cotton Council of America’s\" (NCCCA) initiative to enhance cotton quality and sustainability. The project, spearheaded by the NCCCA, focuses on developing and implementing a new, standardized testing protocol for cotton fibers. It’s a collaborative effort involving federal agencies (USDA, EPA, HHS), state and local governments, and industry stakeholders across the United States. The goal is to improve cotton yield, reduce environmental impact, and bolster the cotton industry’s reputation. The project aims to establish a robust, verifiable quality standard, benefiting both producers and consumers of cotton products."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1987, aimed to develop a nationwide network of automated traffic sensors to improve traffic flow and reduce congestion across the United States. Initially funded by the Department of Transportation, the project focused on deploying sensors in major metropolitan areas. However, due to budget constraints and shifting priorities, the project was significantly scaled back, resulting in a partial implementation of the initial plan. The project was ultimately cancelled in 2005, with only a small portion of the initial deployment completed, leaving a legacy of infrastructure improvements but with limited overall impact on traffic management."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Cotton dust occupational exposure standard : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/24de1ff4-3e0b-4e26-bac2-e228a4003d3c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/24de1ff4-3e0b-4e26-bac2-e228a4003d3c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/24de1ff4-3e0b-4e26-bac2-e228a4003d3c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

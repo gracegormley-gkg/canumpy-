@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Volcanic Ash Problems and Concerns for Fish and Wildlife\" report, produced by the U.S. Army Corps of Engineers (USACE) in 1980. It addresses the impacts of volcanic ash events on aquatic ecosystems, particularly in the Columbia and Snake Rivers. The report focuses on the potential for ash to disrupt salmon migration and habitat, necessitating proactive management strategies. The USACE is collaborating with various federal and state agencies, including the Fish and Wildlife Service, to assess and mitigate these risks. The primary goal is to minimize ecological damage and ensure the long-term health of these vital river systems following a significant volcanic event. The report emphasizes the need for comprehensive monitoring and adaptive management to protect these valuable resources."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/86988796-c1e3-43bd-bd7b-e58195a521fc/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/86988796-c1e3-43bd-bd7b-e58195a521fc",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Volcanic Ash Problems and Concerns for Fish and Wildlife\" report, produced by the U.S. Army Corps of Engineers (USACE) in 1980. It addresses the impacts of volcanic ash events on aquatic ecosystems, particularly in the Columbia and Snake Rivers. The report focuses on the potential for ash to disrupt salmon migration and habitat, necessitating proactive management strategies. The USACE is collaborating with various federal and state agencies, including the Fish and Wildlife Service, to assess and mitigate these risks. The primary goal is to minimize ecological damage and ensure the long-term health of these vital river systems following a significant volcanic event. The report emphasizes the need for comprehensive monitoring and adaptive management to protect these valuable resources."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Cowlitz River Floodplain Management Project, initiated in 1976, aimed to mitigate the impacts of recent volcanic ash events on the region’s water resources. Recognizing the potential for increased erosion and habitat disruption, the project focused on implementing a range of strategies, including sediment control measures and wetland restoration, to protect the river’s ecosystem. Despite significant investment and planning, the project faced challenges related to funding constraints and evolving environmental priorities, ultimately concluding with a partial implementation and a focus on ongoing monitoring and adaptive management. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/86988796-c1e3-43bd-bd7b-e58195a521fc/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/86988796-c1e3-43bd-bd7b-e58195a521fc/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/86988796-c1e3-43bd-bd7b-e58195a521fc",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

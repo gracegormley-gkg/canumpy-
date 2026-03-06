@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-national-aeronautics-and-space-administration.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, National Aeronautics and Space Administration, Flight Research Center, Edwards, California"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the implementation of a new pilot program focused on enhancing community engagement and promoting sustainable landscaping practices within the Green Valley neighborhood of Austin, Texas. The project, spearheaded by the City of Austin’s Parks and Recreation Department and the Texas Department of Parks and Wildlife, aims to revitalize public spaces and foster a stronger connection between residents and the natural environment. Specifically, the initiative will involve the planting of native wildflowers and the creation of community gardens, alongside educational workshops on water conservation and biodiversity. The program is being funded through a combination of city budget allocations and grants from the Texas Parks and Wildlife Division. The primary goal is to increase neighborhood pride, improve the aesthetic appeal of the Green Valley area, and contribute to the city’s sustainability goals by supporting local ecological health."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3d31724f-2898-4cf8-a986-5a3854bb7f07/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/3d31724f-2898-4cf8-a986-5a3854bb7f07",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, National Aeronautics and Space Administration, Flight Research Center, Edwards, California"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the implementation of a new pilot program focused on enhancing community engagement and promoting sustainable landscaping practices within the Green Valley neighborhood of Austin, Texas. The project, spearheaded by the City of Austin’s Parks and Recreation Department and the Texas Department of Parks and Wildlife, aims to revitalize public spaces and foster a stronger connection between residents and the natural environment. Specifically, the initiative will involve the planting of native wildflowers and the creation of community gardens, alongside educational workshops on water conservation and biodiversity. The program is being funded through a combination of city budget allocations and grants from the Texas Parks and Wildlife Division. The primary goal is to increase neighborhood pride, improve the aesthetic appeal of the Green Valley area, and contribute to the city’s sustainability goals by supporting local ecological health."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2018, aimed to develop a new AI-powered diagnostic tool for detecting early-stage Alzheimer's disease. Initially projected to significantly reduce diagnostic delays and improve patient outcomes, the project faced significant funding challenges and technical hurdles related to data acquisition and model accuracy. Despite initial optimistic projections, the project ultimately concluded in 2022 with a partial rollout to select clinical sites, demonstrating a limited impact on early detection rates. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-national-aeronautics-and-space-administration.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, National Aeronautics and Space Administration, Flight Research Center, Edwards, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3d31724f-2898-4cf8-a986-5a3854bb7f07/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-national-aeronautics-and-space-administration.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-national-aeronautics-and-space-administration.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-national-aeronautics-and-space-administration.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3d31724f-2898-4cf8-a986-5a3854bb7f07/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3d31724f-2898-4cf8-a986-5a3854bb7f07",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the River Parks Authority's project to construct a low-water dam in Tulsa, Oklahoma. The project aims to create a temporary impoundment for fish migration, allowing for increased water flow during periods of high concentration. The document emphasizes coordination with the Department of Wildlife and Tulsa City-County Health Department to establish a water quality monitoring program. The Authority seeks assistance from the Regional Planning Agency (INCOG) and Oklahoma Department of Pollution Control to determine appropriate water quality standards. The project’s primary goal is to facilitate fish passage and enhance the ecological health of the Arkansas River, particularly in the Tulsa area, through a temporary water management strategy."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b31cb341-6937-4df8-a5c7-8997d29bf1e4/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/b31cb341-6937-4df8-a5c7-8997d29bf1e4",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the River Parks Authority's project to construct a low-water dam in Tulsa, Oklahoma. The project aims to create a temporary impoundment for fish migration, allowing for increased water flow during periods of high concentration. The document emphasizes coordination with the Department of Wildlife and Tulsa City-County Health Department to establish a water quality monitoring program. The Authority seeks assistance from the Regional Planning Agency (INCOG) and Oklahoma Department of Pollution Control to determine appropriate water quality standards. The project’s primary goal is to facilitate fish passage and enhance the ecological health of the Arkansas River, particularly in the Tulsa area, through a temporary water management strategy."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b31cb341-6937-4df8-a5c7-8997d29bf1e4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b31cb341-6937-4df8-a5c7-8997d29bf1e4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b31cb341-6937-4df8-a5c7-8997d29bf1e4",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

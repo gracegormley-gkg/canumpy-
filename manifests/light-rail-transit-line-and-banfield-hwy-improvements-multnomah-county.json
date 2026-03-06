@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Light rail transit line and Banfield Hwy improvements, Multnomah County : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Banfield Transitway Project, a proposed light rail transit corridor in Multnomah County, Oregon, aims to improve transportation and reduce congestion. Funded by the Oregon Department of Transportation (ODOT) and the Washington State Department of Transportation (WSDOT), the project involves a 223-mile route connecting Gresham to Butler Road. The project’s primary goal is to enhance regional transportation by providing a faster, more reliable, and environmentally friendly alternative to driving. It’s a collaborative effort between ODOT, WSDOT, and the Oregon Department of Transportation, with the focus on creating a sustainable transportation network for the region. The project includes detailed environmental impact assessments and community engagement efforts to ensure its success."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/36d5b0f3-7371-4cac-a1bf-c052900d2d8c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/36d5b0f3-7371-4cac-a1bf-c052900d2d8c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Light rail transit line and Banfield Hwy improvements, Multnomah County : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Banfield Transitway Project, a proposed light rail transit corridor in Multnomah County, Oregon, aims to improve transportation and reduce congestion. Funded by the Oregon Department of Transportation (ODOT) and the Washington State Department of Transportation (WSDOT), the project involves a 223-mile route connecting Gresham to Butler Road. The project’s primary goal is to enhance regional transportation by providing a faster, more reliable, and environmentally friendly alternative to driving. It’s a collaborative effort between ODOT, WSDOT, and the Oregon Department of Transportation, with the focus on creating a sustainable transportation network for the region. The project includes detailed environmental impact assessments and community engagement efforts to ensure its success."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Banfield Transitway project, initiated in 2007, was a significant urban transportation initiative in Portland, Oregon, aiming to reduce reliance on automobiles and improve accessibility. It involved a phased approach to building a light rail line connecting key areas of the city, representing a substantial investment in public transit infrastructure. However, due to funding challenges and shifting priorities, the project faced delays and ultimately faced significant cost overruns, leading to a partial completion and a reduced scope compared to the initial plan. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Light rail transit line and Banfield Hwy improvements, Multnomah County : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/36d5b0f3-7371-4cac-a1bf-c052900d2d8c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/36d5b0f3-7371-4cac-a1bf-c052900d2d8c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/36d5b0f3-7371-4cac-a1bf-c052900d2d8c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

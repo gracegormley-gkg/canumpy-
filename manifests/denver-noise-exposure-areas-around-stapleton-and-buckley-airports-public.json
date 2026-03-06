@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Denver, Noise exposure areas around Stapleton and Buckley airports, public housing programs : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Stapleton Aid Seen in Arapahoe Field\" project, a proposed airport expansion initiative spearheaded by Stapleton International Airport in Aurora, Colorado. The project, initiated by the FAA and Denver City and County, aims to significantly increase airport capacity, addressing growing air traffic demands. The document highlights the involvement of various agencies, including the Colorado Department of Health, Denver Planning and Community Development, and the Aurora Planning Department. The primary goal is to enhance airport operations and accommodate increased passenger traffic, reflecting a strategic effort to support regional economic growth and transportation needs. The document also includes a demographic study assessing Aurora’s population and housing market trends."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Denver, Noise exposure areas around Stapleton and Buckley airports, public housing programs : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Stapleton Aid Seen in Arapahoe Field\" project, a proposed airport expansion initiative spearheaded by Stapleton International Airport in Aurora, Colorado. The project, initiated by the FAA and Denver City and County, aims to significantly increase airport capacity, addressing growing air traffic demands. The document highlights the involvement of various agencies, including the Colorado Department of Health, Denver Planning and Community Development, and the Aurora Planning Department. The primary goal is to enhance airport operations and accommodate increased passenger traffic, reflecting a strategic effort to support regional economic growth and transportation needs. The document also includes a demographic study assessing Aurora’s population and housing market trends."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in the late 1970s, aimed to address the growing need for affordable housing in Aurora, Colorado, following a period of rapid population growth and increasing demand. Recognizing the potential for increased traffic congestion and air pollution associated with a rapidly expanding city, the project focused on developing a comprehensive plan to integrate new housing developments with existing infrastructure and transportation networks. Despite initial enthusiasm, the project faced significant challenges related to funding, community opposition, and evolving zoning regulations, ultimately leading to its cancellation in 1979, leaving behind a legacy of infrastructure improvements and a complex housing landscape."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Denver, Noise exposure areas around Stapleton and Buckley airports, public housing programs : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

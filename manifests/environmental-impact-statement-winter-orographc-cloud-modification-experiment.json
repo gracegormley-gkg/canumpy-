@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-winter-orographc-cloud-modification-experiment.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Winter Orographc Cloud Modification Experiment, Rocky Mountains of Colorado"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The National Hail Research Experiment, conducted by the Laboratory of Atmospheric Physics at the University of Nevada, Reno, investigates the effects of seeding materials, specifically silver iodide, on precipitation patterns. The project aims to determine how seeding influences total rainfall and regional weather conditions. It focuses on analyzing the diffusion of silver iodide in the atmosphere, with a particular emphasis on its potential impact on local precipitation. The study seeks to understand the mechanisms behind this phenomenon, including potential effects on vegetation and wildlife. The project involves collaboration between the Reno laboratory and the National Research Committee on Environment and Resources (NRCER). The goal is to provide insights into the potential risks and benefits associated with silver iodide seeding, informing future weather modification strategies and promoting responsible environmental stewardship."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7c20b0af-cc9e-478b-b8b5-076ab66d4313/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/7c20b0af-cc9e-478b-b8b5-076ab66d4313",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Winter Orographc Cloud Modification Experiment, Rocky Mountains of Colorado"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The National Hail Research Experiment, conducted by the Laboratory of Atmospheric Physics at the University of Nevada, Reno, investigates the effects of seeding materials, specifically silver iodide, on precipitation patterns. The project aims to determine how seeding influences total rainfall and regional weather conditions. It focuses on analyzing the diffusion of silver iodide in the atmosphere, with a particular emphasis on its potential impact on local precipitation. The study seeks to understand the mechanisms behind this phenomenon, including potential effects on vegetation and wildlife. The project involves collaboration between the Reno laboratory and the National Research Committee on Environment and Resources (NRCER). The goal is to provide insights into the potential risks and benefits associated with silver iodide seeding, informing future weather modification strategies and promoting responsible environmental stewardship."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The National Hail Research Experiment, initiated in 1968, was a long-term, federally funded research project focused on understanding the impact of silver iodide on precipitation patterns in mountainous regions. The project aimed to investigate the potential for this chemical to influence weather modification and, consequently, the environment. Despite initial optimism, the project ultimately concluded with limited data and a lack of conclusive evidence regarding its long-term effects, leading to its cancellation and a focus on alternative research approaches."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-winter-orographc-cloud-modification-experiment.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Winter Orographc Cloud Modification Experiment, Rocky Mountains of Colorado"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7c20b0af-cc9e-478b-b8b5-076ab66d4313/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-winter-orographc-cloud-modification-experiment.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-winter-orographc-cloud-modification-experiment.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-winter-orographc-cloud-modification-experiment.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/7c20b0af-cc9e-478b-b8b5-076ab66d4313/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/7c20b0af-cc9e-478b-b8b5-076ab66d4313",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

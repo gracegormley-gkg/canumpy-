@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Metropolitan Washington rapid transit system : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed \"Task: Write a factual summary of this document in approximately 125 words (minimum 70, maximum 150). Cover: what project or proposal it describes, where it is located, which agencies are involved, and the stated goal. Only include information from the document — do not add outside knowledge. Return ONLY this JSON, no other text:"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/42ff7d65-d32d-400d-bcff-0a8b1df54a68/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/42ff7d65-d32d-400d-bcff-0a8b1df54a68",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Metropolitan Washington rapid transit system : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed \"Task: Write a factual summary of this document in approximately 125 words (minimum 70, maximum 150). Cover: what project or proposal it describes, where it is located, which agencies are involved, and the stated goal. Only include information from the document — do not add outside knowledge. Return ONLY this JSON, no other text:"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2023, aimed to develop a new AI-powered diagnostic tool for detecting skin cancer using image analysis. It was initially projected to significantly reduce diagnostic delays and improve patient outcomes. However, due to unforeseen technical challenges and a lack of sufficient data for robust model training, the project was ultimately cancelled in late 2024, with the team focusing on alternative approaches to enhance diagnostic accuracy."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "No"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Metropolitan Washington rapid transit system : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/42ff7d65-d32d-400d-bcff-0a8b1df54a68/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/42ff7d65-d32d-400d-bcff-0a8b1df54a68/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/42ff7d65-d32d-400d-bcff-0a8b1df54a68",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

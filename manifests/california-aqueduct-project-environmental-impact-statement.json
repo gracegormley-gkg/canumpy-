@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/california-aqueduct-project-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "California aqueduct project : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the California Condor’s Endangered Species Act (ESA) proposal, focusing on critical habitat for the species. It outlines the project’s goal of protecting the Condor’s survival through targeted land acquisition and management. The proposal involves significant land parcels across California, including the Sespe-Piru Condor Area, Sisquoc Condor Area, and Blue Ridge Condor Area. The document highlights the importance of these areas, particularly the Sespe Condor Sanctuary, as crucial nesting and feeding locations. The proposal calls for careful evaluation of land use to minimize potential impacts on condor populations, emphasizing the need for conservation efforts to ensure the species’ long-term viability."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/01b6796e-1cbf-4c98-a651-5bcd07a3e95d/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/01b6796e-1cbf-4c98-a651-5bcd07a3e95d",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "California aqueduct project : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the California Condor’s Endangered Species Act (ESA) proposal, focusing on critical habitat for the species. It outlines the project’s goal of protecting the Condor’s survival through targeted land acquisition and management. The proposal involves significant land parcels across California, including the Sespe-Piru Condor Area, Sisquoc Condor Area, and Blue Ridge Condor Area. The document highlights the importance of these areas, particularly the Sespe Condor Sanctuary, as crucial nesting and feeding locations. The proposal calls for careful evaluation of land use to minimize potential impacts on condor populations, emphasizing the need for conservation efforts to ensure the species’ long-term viability."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rogers Park, Chicago, Illinois; John H. Lauten; Kenneth F. Plumb; Alfred R. Golze; Robert V. Phillips"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The California Condor Project, initiated in 1983, was a massive, multi-billion dollar initiative to recover a critically endangered species – the California Condor. Driven by a combination of scientific research, conservation efforts, and public pressure, the project aimed to reintroduce condors into the wild through captive breeding and habitat restoration. However, due to funding cuts and shifting priorities, the project ultimately faced significant challenges and was significantly scaled back, resulting in a partial success in reintroducing a smaller population, but with limited long-term impact. It was ultimately cancelled in 2011."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/california-aqueduct-project-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "California aqueduct project : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/01b6796e-1cbf-4c98-a651-5bcd07a3e95d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/california-aqueduct-project-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/california-aqueduct-project-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/california-aqueduct-project-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/01b6796e-1cbf-4c98-a651-5bcd07a3e95d/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/01b6796e-1cbf-4c98-a651-5bcd07a3e95d",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

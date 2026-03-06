@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-promulgated-standards-of-performance-for-lime.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Promulgated Standards of Performance for Lime Manufacturing Plants"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed standards of performance for lime manufacturing plants, initiated by the EPA's Research Triangle Park Office. The project aims to reduce particulate matter emissions from lime kilns by over 99 percent below current levels, and by approximately 70 percent below existing emission standards. The EPA, in collaboration with the National Lime Association and several lime companies, has developed these standards to address air quality concerns and promote sustainable lime production. The document outlines the proposed standards, including a public comment period and EPA's response, emphasizing environmental and economic impact assessments. It covers the project's scope, goals, and the framework for implementation."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Promulgated Standards of Performance for Lime Manufacturing Plants"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed standards of performance for lime manufacturing plants, initiated by the EPA's Research Triangle Park Office. The project aims to reduce particulate matter emissions from lime kilns by over 99 percent below current levels, and by approximately 70 percent below existing emission standards. The EPA, in collaboration with the National Lime Association and several lime companies, has developed these standards to address air quality concerns and promote sustainable lime production. The document outlines the proposed standards, including a public comment period and EPA's response, emphasizing environmental and economic impact assessments. It covers the project's scope, goals, and the framework for implementation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed Standard of Performance for Lime Manufacturing Plants was initiated in 2004 by the EPA, driven by concerns about the environmental impact of lime production, particularly particulate matter emissions. The EPA established a comprehensive framework of standards, aiming to reduce these emissions to levels comparable to those achieved by existing sources. Despite initial enthusiasm, the project faced significant challenges, including resistance from lime industry stakeholders and a complex regulatory landscape, ultimately leading to a partial implementation of the proposed standards, with ongoing monitoring and adjustments."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-promulgated-standards-of-performance-for-lime.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Promulgated Standards of Performance for Lime Manufacturing Plants"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-promulgated-standards-of-performance-for-lime.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-promulgated-standards-of-performance-for-lime.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-promulgated-standards-of-performance-for-lime.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-eastwick-urban-renewal-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Philadelphia, Eastwick urban renewal : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Eastwick Project, a development plan for a new residential area in Philadelphia. It’s a collaborative effort between the City of Philadelphia, the Department of Public Works, and the Tinicum National Environmental Center. The goal is to mitigate flooding risks associated with the project’s drainage infrastructure, particularly the Darby Creek watershed. The document highlights concerns about sediment runoff and potential damage to the surrounding environment. It emphasizes the need for comprehensive flood protection measures, including surface water drainage and potential park development, to ensure the project’s success while minimizing ecological impact. The document concludes with a call for collaborative action to address these challenges."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/39985efa-66b9-4eef-8f44-3e1a6fc27645/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/39985efa-66b9-4eef-8f44-3e1a6fc27645",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Philadelphia, Eastwick urban renewal : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Eastwick Project, a development plan for a new residential area in Philadelphia. It’s a collaborative effort between the City of Philadelphia, the Department of Public Works, and the Tinicum National Environmental Center. The goal is to mitigate flooding risks associated with the project’s drainage infrastructure, particularly the Darby Creek watershed. The document highlights concerns about sediment runoff and potential damage to the surrounding environment. It emphasizes the need for comprehensive flood protection measures, including surface water drainage and potential park development, to ensure the project’s success while minimizing ecological impact. The document concludes with a call for collaborative action to address these challenges."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Eastwick Project, initiated in the 1970s, aimed to revitalize a struggling urban neighborhood through the construction of a new community park and recreational facilities. Initially presented as a low-cost initiative, the project faced significant challenges due to unforeseen environmental conditions – particularly the rapid drainage of the Darby Creek – which resulted in increased flooding and erosion. Despite initial efforts, the project ultimately fell short of its goals, with significant portions of the park and surrounding areas experiencing persistent flooding, leading to costly remediation efforts and a diminished quality of life for residents. Therefore, the project was ultimately completed, though with considerable setbacks and a demonstrable negative impact on the surrounding environment and community."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-eastwick-urban-renewal-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Philadelphia, Eastwick urban renewal : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/39985efa-66b9-4eef-8f44-3e1a6fc27645/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-eastwick-urban-renewal-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-eastwick-urban-renewal-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-eastwick-urban-renewal-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/39985efa-66b9-4eef-8f44-3e1a6fc27645/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/39985efa-66b9-4eef-8f44-3e1a6fc27645",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

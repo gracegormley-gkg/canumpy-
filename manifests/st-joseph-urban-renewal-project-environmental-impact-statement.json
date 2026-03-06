@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/st-joseph-urban-renewal-project-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "St.Joseph urban renewal project : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Land Clearance Authority’s proposal for urban revitalization in the St. Joseph area. The project, encompassing three half-block parcels (36-102, 36-105, 36-107), aims to remediate historical blights and enhance the city’s cultural heritage. The Authority argues these buildings are not historically significant and pose hazards to public safety. The proposal involves demolition and restoration of these structures, prioritizing preservation of architectural character. The Land Clearance Authority is requesting $7,500 in contingency funds from the Department of Urban Planning and Environment Protection Agency to fund this effort, aiming to create a more aesthetically pleasing and historically valuable urban landscape. The goal is to balance preservation with economic development and community benefit."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/623b42e5-8776-42e2-a055-51067bc3e2d4/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/623b42e5-8776-42e2-a055-51067bc3e2d4",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "St.Joseph urban renewal project : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Land Clearance Authority’s proposal for urban revitalization in the St. Joseph area. The project, encompassing three half-block parcels (36-102, 36-105, 36-107), aims to remediate historical blights and enhance the city’s cultural heritage. The Authority argues these buildings are not historically significant and pose hazards to public safety. The proposal involves demolition and restoration of these structures, prioritizing preservation of architectural character. The Land Clearance Authority is requesting $7,500 in contingency funds from the Department of Urban Planning and Environment Protection Agency to fund this effort, aiming to create a more aesthetically pleasing and historically valuable urban landscape. The goal is to balance preservation with economic development and community benefit."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Land Clearance Project for the St. Joseph neighborhood represents a significant effort to address historical blight and economic decline. Prior to the 20th century, the area was primarily a collection of small, dilapidated businesses, including a binder factory, resulting in a neglected and unattractive landscape. The project aims to revitalize the area by demolishing several buildings and creating a public park, but the project has faced considerable opposition from local residents and businesses, leading to delays and cost overruns. Ultimately, the project was completed, though with some modifications and adjustments to the design, and the area has been transformed into a more attractive and functional public space, though the initial goals of preservation and revitalization have not been fully achieved."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/st-joseph-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "St.Joseph urban renewal project : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/623b42e5-8776-42e2-a055-51067bc3e2d4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/st-joseph-urban-renewal-project-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/st-joseph-urban-renewal-project-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/st-joseph-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/623b42e5-8776-42e2-a055-51067bc3e2d4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/623b42e5-8776-42e2-a055-51067bc3e2d4",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

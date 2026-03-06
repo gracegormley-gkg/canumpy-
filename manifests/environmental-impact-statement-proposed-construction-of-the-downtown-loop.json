@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-construction-of-the-downtown-loop.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Proposed Construction of the Downtown Loop Freeway at Greenville, South Carolina"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the construction of a new multi-lane controlled access road connecting Greenville, South Carolina, to the existing downtown loop. The project, spearheaded by the Department of Transportation, aims to improve traffic flow and reduce congestion in the region. The document highlights the need for compensation to the city of Greenville for the taking of land and recreational areas, as outlined in the Environmental Policy Act of 1969. The project involves collaboration between the State Highway Department, the Department of Housing and Urban Development, and the Forest Service, with the EPA overseeing radiation safety. The document emphasizes the importance of consulting with local planning agencies and clearinghouses to ensure compliance with environmental regulations and to address potential impacts on the region's natural resources. It also recommends consultation with experts on radiation safety and recommends reviewing Circular A-95 for alternative relocation strategies."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/c11ed375-5ef6-4b74-bad2-acf782427c87",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Construction of the Downtown Loop Freeway at Greenville, South Carolina"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the construction of a new multi-lane controlled access road connecting Greenville, South Carolina, to the existing downtown loop. The project, spearheaded by the Department of Transportation, aims to improve traffic flow and reduce congestion in the region. The document highlights the need for compensation to the city of Greenville for the taking of land and recreational areas, as outlined in the Environmental Policy Act of 1969. The project involves collaboration between the State Highway Department, the Department of Housing and Urban Development, and the Forest Service, with the EPA overseeing radiation safety. The document emphasizes the importance of consulting with local planning agencies and clearinghouses to ensure compliance with environmental regulations and to address potential impacts on the region's natural resources. It also recommends consultation with experts on radiation safety and recommends reviewing Circular A-95 for alternative relocation strategies."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-construction-of-the-downtown-loop.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Construction of the Downtown Loop Freeway at Greenville, South Carolina"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-construction-of-the-downtown-loop.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-construction-of-the-downtown-loop.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-construction-of-the-downtown-loop.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c11ed375-5ef6-4b74-bad2-acf782427c87/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c11ed375-5ef6-4b74-bad2-acf782427c87",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

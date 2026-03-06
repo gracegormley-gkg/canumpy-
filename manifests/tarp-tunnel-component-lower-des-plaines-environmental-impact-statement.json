@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Draft EIS outlines a project to construct a Lower Des Plaines Tunnel System, aiming to reduce flooding in the Chicago area. The project involves the MSDGC, USEPA, and the State Historic Preservation Officer. The goal is to enhance water quality through reduced flooding, with the implementation of a grouting program to mitigate infiltration. Mitigation measures include construction of berms, discharge of water to waterways after settling, monitoring groundwater quality, and adherence to occupational health and safety regulations. The project also addresses potential impacts from construction activities, including blasting, waste spillage, and traffic congestion, ensuring public acceptance through comprehensive inspection and maintenance."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/be007e4b-d662-4e2f-81c0-53f93844929c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/be007e4b-d662-4e2f-81c0-53f93844929c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Draft EIS outlines a project to construct a Lower Des Plaines Tunnel System, aiming to reduce flooding in the Chicago area. The project involves the MSDGC, USEPA, and the State Historic Preservation Officer. The goal is to enhance water quality through reduced flooding, with the implementation of a grouting program to mitigate infiltration. Mitigation measures include construction of berms, discharge of water to waterways after settling, monitoring groundwater quality, and adherence to occupational health and safety regulations. The project also addresses potential impacts from construction activities, including blasting, waste spillage, and traffic congestion, ensuring public acceptance through comprehensive inspection and maintenance."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/be007e4b-d662-4e2f-81c0-53f93844929c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/be007e4b-d662-4e2f-81c0-53f93844929c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/be007e4b-d662-4e2f-81c0-53f93844929c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

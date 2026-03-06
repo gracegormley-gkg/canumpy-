@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/hungry-horse-cloud-seeding-program-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Hungry Horse cloud seeding program : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Hungry Horse Cloud Seeding Project, a proposed initiative to increase snowpack in the region to enhance hydroelectric power generation. Located in Montana, the project involves the Bonneville Power Administration (BPA) and the Bureau of Reclamation. The goal is to expand snowmelt runoff, potentially increasing water availability for power generation. Concerns raised include potential impacts on wildlife, including elk, and the long-term effects of silver iodide on the environment. The document highlights the need for monitoring and evaluation to assess the project's success and mitigate potential negative consequences. It also addresses cost, value, and project management aspects, and includes a summary of public comments received during a meeting held in Kalispell, Montana, on October 15, 1973."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e05c9c4e-c5fa-494c-a675-121ebb0da011/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e05c9c4e-c5fa-494c-a675-121ebb0da011",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Hungry Horse cloud seeding program : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Hungry Horse Cloud Seeding Project, a proposed initiative to increase snowpack in the region to enhance hydroelectric power generation. Located in Montana, the project involves the Bonneville Power Administration (BPA) and the Bureau of Reclamation. The goal is to expand snowmelt runoff, potentially increasing water availability for power generation. Concerns raised include potential impacts on wildlife, including elk, and the long-term effects of silver iodide on the environment. The document highlights the need for monitoring and evaluation to assess the project's success and mitigate potential negative consequences. It also addresses cost, value, and project management aspects, and includes a summary of public comments received during a meeting held in Kalispell, Montana, on October 15, 1973."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/hungry-horse-cloud-seeding-program-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Hungry Horse cloud seeding program : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e05c9c4e-c5fa-494c-a675-121ebb0da011/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/hungry-horse-cloud-seeding-program-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/hungry-horse-cloud-seeding-program-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/hungry-horse-cloud-seeding-program-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e05c9c4e-c5fa-494c-a675-121ebb0da011/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e05c9c4e-c5fa-494c-a675-121ebb0da011",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

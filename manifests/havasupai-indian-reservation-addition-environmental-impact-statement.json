@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Havasupai Indian Reservation addition : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Environmental Inventory Map Series\" for the HavenSupai Indian Reservation in Arizona, prepared by the Applied Remote Sensing Program Office of arid lands studies. The map series, encompassing 10 designated areas, aims to assist in planning and development. It includes topographical maps, drainage routes, vegetation, and landforms, highlighting the terrain and potential for future development. The project focuses on identifying and mapping key areas, including canyons, streams, and grasslands. The HavenSupai Tribe is collaborating with the University of Arizona to create this comprehensive resource, aiming to facilitate sustainable land use and resource management within the reservation area. The map series is designed to aid in strategic planning and resource allocation for the region."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Havasupai Indian Reservation addition : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Environmental Inventory Map Series\" for the HavenSupai Indian Reservation in Arizona, prepared by the Applied Remote Sensing Program Office of arid lands studies. The map series, encompassing 10 designated areas, aims to assist in planning and development. It includes topographical maps, drainage routes, vegetation, and landforms, highlighting the terrain and potential for future development. The project focuses on identifying and mapping key areas, including canyons, streams, and grasslands. The HavenSupai Tribe is collaborating with the University of Arizona to create this comprehensive resource, aiming to facilitate sustainable land use and resource management within the reservation area. The map series is designed to aid in strategic planning and resource allocation for the region."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Havasupai Indian Reservation addition : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

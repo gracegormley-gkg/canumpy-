@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/noise-regulations-and-type-certification-alternatives-civil-supersonic-sst.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Noise regulations and type certification alternatives, civil supersonic (SST) aircraft : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed noise contouring and landing procedures for aircraft operations at Houston Intercontinental Airport (HIA). The project, spearheaded by the Federal Aviation Administration (FAA), aims to mitigate noise impact on surrounding communities. HIA is undergoing a significant redesign, including enhanced noise reduction measures. The FAA is implementing a phased approach, focusing on reducing noise levels during takeoff and landing phases. The goal is to achieve a 100-meter reduction in noise levels, significantly improving the quality of life for residents in the vicinity. The project involves a detailed noise contouring strategy, utilizing a 245.05-foot landing radius and a 100-foot takeoff radius, with a focus on minimizing disturbance to the surrounding environment."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/87baf9bd-ab6f-449e-af0e-b69f95b43cfa/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/87baf9bd-ab6f-449e-af0e-b69f95b43cfa",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Noise regulations and type certification alternatives, civil supersonic (SST) aircraft : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed noise contouring and landing procedures for aircraft operations at Houston Intercontinental Airport (HIA). The project, spearheaded by the Federal Aviation Administration (FAA), aims to mitigate noise impact on surrounding communities. HIA is undergoing a significant redesign, including enhanced noise reduction measures. The FAA is implementing a phased approach, focusing on reducing noise levels during takeoff and landing phases. The goal is to achieve a 100-meter reduction in noise levels, significantly improving the quality of life for residents in the vicinity. The project involves a detailed noise contouring strategy, utilizing a 245.05-foot landing radius and a 100-foot takeoff radius, with a focus on minimizing disturbance to the surrounding environment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2017, aimed to assess the potential impact of supersonic aircraft noise on the surrounding environment, specifically focusing on the Houston Intercontinental Airport. The goal was to determine if the noise levels could be mitigated through technological advancements and operational adjustments. However, due to persistent concerns and a lack of conclusive results, the project was ultimately deemed unsuccessful, with the airport continuing to operate with the existing noise levels."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/noise-regulations-and-type-certification-alternatives-civil-supersonic-sst.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Noise regulations and type certification alternatives, civil supersonic (SST) aircraft : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/87baf9bd-ab6f-449e-af0e-b69f95b43cfa/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/noise-regulations-and-type-certification-alternatives-civil-supersonic-sst.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/noise-regulations-and-type-certification-alternatives-civil-supersonic-sst.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/noise-regulations-and-type-certification-alternatives-civil-supersonic-sst.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/87baf9bd-ab6f-449e-af0e-b69f95b43cfa/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/87baf9bd-ab6f-449e-af0e-b69f95b43cfa",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

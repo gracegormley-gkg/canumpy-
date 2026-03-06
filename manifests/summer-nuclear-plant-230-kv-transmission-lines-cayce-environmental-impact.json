@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Summer Nuclear Plant 230 kV transmission lines, Cayce : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a proposed 230 kV transmission line project connecting Hampton, Jasper, and Beaufort counties in South Carolina. The project, spearheaded by the Central Electric Power Cooperative, aims to extend power lines from the Varnville 230 kV substation to the Hilton Head Mainland 230 kV substation. The initiative is driven by the federal government's requirements for environmental impact assessments, necessitating a detailed analysis of the project's potential effects on the region's historic sites. The project’s goal is to facilitate the efficient transfer of electricity, supporting economic growth and regional development within the area. The document highlights the need for careful consideration of potential impacts on the state's historic preservation efforts, emphasizing the importance of minimizing environmental disruption."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/81bbecc8-30f2-4ffd-85c5-f0db284eeb92/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/81bbecc8-30f2-4ffd-85c5-f0db284eeb92",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Summer Nuclear Plant 230 kV transmission lines, Cayce : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a proposed 230 kV transmission line project connecting Hampton, Jasper, and Beaufort counties in South Carolina. The project, spearheaded by the Central Electric Power Cooperative, aims to extend power lines from the Varnville 230 kV substation to the Hilton Head Mainland 230 kV substation. The initiative is driven by the federal government's requirements for environmental impact assessments, necessitating a detailed analysis of the project's potential effects on the region's historic sites. The project’s goal is to facilitate the efficient transfer of electricity, supporting economic growth and regional development within the area. The document highlights the need for careful consideration of potential impacts on the state's historic preservation efforts, emphasizing the importance of minimizing environmental disruption."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Summer Nuclear Plant 230 kV transmission lines, Cayce : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/81bbecc8-30f2-4ffd-85c5-f0db284eeb92/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/81bbecc8-30f2-4ffd-85c5-f0db284eeb92/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/81bbecc8-30f2-4ffd-85c5-f0db284eeb92",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dallas-fort-worth-regional-airport-new-airport-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Dallas/Fort Worth regional airport, new airport : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"D-FW Airport Impact Study,\" a comprehensive analysis conducted by Battelle City of Dallas, focusing on the long-term effects of expanding airport infrastructure. The study aims to assess the economic, social, and environmental consequences of increased passenger traffic and development. It involves collaboration between the Federal Highway Administration, City of Dallas, and various regional agencies. The goal is to inform strategic planning decisions regarding airport expansion, land use, and overall development to ensure sustainable growth and minimize negative impacts. The study covers various aspects, including transportation, parking, and community impact, utilizing data and modeling to provide a robust understanding of the project’s implications."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/be4167bc-ea0d-4701-b45b-75362d812ff5/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/be4167bc-ea0d-4701-b45b-75362d812ff5",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Dallas/Fort Worth regional airport, new airport : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"D-FW Airport Impact Study,\" a comprehensive analysis conducted by Battelle City of Dallas, focusing on the long-term effects of expanding airport infrastructure. The study aims to assess the economic, social, and environmental consequences of increased passenger traffic and development. It involves collaboration between the Federal Highway Administration, City of Dallas, and various regional agencies. The goal is to inform strategic planning decisions regarding airport expansion, land use, and overall development to ensure sustainable growth and minimize negative impacts. The study covers various aspects, including transportation, parking, and community impact, utilizing data and modeling to provide a robust understanding of the project’s implications."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dallas-fort-worth-regional-airport-new-airport-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Dallas/Fort Worth regional airport, new airport : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/be4167bc-ea0d-4701-b45b-75362d812ff5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dallas-fort-worth-regional-airport-new-airport-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dallas-fort-worth-regional-airport-new-airport-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dallas-fort-worth-regional-airport-new-airport-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/be4167bc-ea0d-4701-b45b-75362d812ff5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/be4167bc-ea0d-4701-b45b-75362d812ff5",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

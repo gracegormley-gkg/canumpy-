@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kanab-escalante-grazing-management-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Kanab/Escalante grazing management : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the BLM's proposed Kanab/Escalante Grazing Management Plan in Kane, Garfield, and Washington Counties, Utah. The plan aims to manage public land for multiple uses and long-term sustainability. It focuses on adjusting livestock AUMs to reflect recent range inventories, aiming for a 38% reduction from licensed use. The goal is to implement an alternative grazing strategy that balances livestock production with resource conservation. The plan involves collaboration between the BLM, educational institutions, private contractors, and local agencies. It’s a 60-day public comment period, concluding on July 1, 1980, allowing for feedback and revisions before final implementation. The document emphasizes the importance of sustainable grazing practices for the region's natural resources."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Kanab/Escalante grazing management : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the BLM's proposed Kanab/Escalante Grazing Management Plan in Kane, Garfield, and Washington Counties, Utah. The plan aims to manage public land for multiple uses and long-term sustainability. It focuses on adjusting livestock AUMs to reflect recent range inventories, aiming for a 38% reduction from licensed use. The goal is to implement an alternative grazing strategy that balances livestock production with resource conservation. The plan involves collaboration between the BLM, educational institutions, private contractors, and local agencies. It’s a 60-day public comment period, concluding on July 1, 1980, allowing for feedback and revisions before final implementation. The document emphasizes the importance of sustainable grazing practices for the region's natural resources."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1975 by the BLM, aimed to develop a comprehensive range management plan for the Glen Canyon National Recreation Area. Recognizing the importance of livestock grazing for recreation and wildlife habitat, the project sought to balance the needs of livestock producers with the conservation of the area’s natural resources. After a 1975 court order, the BLM implemented a 24-year grazing plan, which included adjustments to livestock AUMs to reflect recent range inventories. While the project was initially intended to be completed by October 1, 1980, it was ultimately deemed unsuccessful due to significant challenges in achieving the desired balance between livestock use and conservation, leading to a revised plan and a continued focus on sustainable land management practices."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kanab-escalante-grazing-management-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Kanab/Escalante grazing management : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kanab-escalante-grazing-management-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kanab-escalante-grazing-management-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kanab-escalante-grazing-management-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

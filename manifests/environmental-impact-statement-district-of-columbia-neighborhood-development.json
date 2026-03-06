@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Plan Modification Via Disposition Controls to the Downtown Urban Renewal Area"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document describes a federal initiative, Project Rehab, designed to revitalize low-income housing in the District of Columbia. It was enacted in 1969 as a response to displacement caused by government-funded housing projects. The project aims to renovate thousands of units for low-income families, but the legislation has been criticized for its narrow scope. The document highlights concerns that the law’s interpretation is too restrictive, limiting coverage to private developers. The document emphasizes the need for broader interpretation to ensure fair treatment for displaced residents, particularly those affected by Project Rehab. The document concludes with a call for the House Public Works Committee to approve the amendment, which would expand the law’s coverage to include similar displacement programs."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/920f48a1-7286-48c4-80f4-fc713fc764e3/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/920f48a1-7286-48c4-80f4-fc713fc764e3",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Plan Modification Via Disposition Controls to the Downtown Urban Renewal Area"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document describes a federal initiative, Project Rehab, designed to revitalize low-income housing in the District of Columbia. It was enacted in 1969 as a response to displacement caused by government-funded housing projects. The project aims to renovate thousands of units for low-income families, but the legislation has been criticized for its narrow scope. The document highlights concerns that the law’s interpretation is too restrictive, limiting coverage to private developers. The document emphasizes the need for broader interpretation to ensure fair treatment for displaced residents, particularly those affected by Project Rehab. The document concludes with a call for the House Public Works Committee to approve the amendment, which would expand the law’s coverage to include similar displacement programs."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Plan Modification Via Disposition Controls to the Downtown Urban Renewal Area"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/920f48a1-7286-48c4-80f4-fc713fc764e3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/920f48a1-7286-48c4-80f4-fc713fc764e3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/920f48a1-7286-48c4-80f4-fc713fc764e3",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-lead-content-in-paint-volume-1-and-2.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Lead Content in Paint Volume 1 and 2"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a proposal from the Consumer Product Safety Commission (CPC) concerning lead in mirror backing paint. The CPC is seeking an exemption from regulations prohibiting lead in these paints, which are commonly used in homes and commercial settings. The goal is to allow manufacturers to continue producing mirrors, a significant business sector, while minimizing lead exposure to children. The proposal argues that children are not exposed to the paint, thus eliminating the risk of lead poisoning. The CPC is considering a ‘reasonable’ level of lead (more than 10%) to maintain the viability of mirror manufacturing and the associated business. The document highlights concerns about mirror spoilage and the need for a solution that balances consumer safety with industry needs."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/70683871-9c7f-4126-bb89-a59c6c823289/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/70683871-9c7f-4126-bb89-a59c6c823289",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Lead Content in Paint Volume 1 and 2"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a proposal from the Consumer Product Safety Commission (CPC) concerning lead in mirror backing paint. The CPC is seeking an exemption from regulations prohibiting lead in these paints, which are commonly used in homes and commercial settings. The goal is to allow manufacturers to continue producing mirrors, a significant business sector, while minimizing lead exposure to children. The proposal argues that children are not exposed to the paint, thus eliminating the risk of lead poisoning. The CPC is considering a ‘reasonable’ level of lead (more than 10%) to maintain the viability of mirror manufacturing and the associated business. The document highlights concerns about mirror spoilage and the need for a solution that balances consumer safety with industry needs."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-lead-content-in-paint-volume-1-and-2.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Lead Content in Paint Volume 1 and 2"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/70683871-9c7f-4126-bb89-a59c6c823289/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-lead-content-in-paint-volume-1-and-2.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-lead-content-in-paint-volume-1-and-2.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-lead-content-in-paint-volume-1-and-2.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/70683871-9c7f-4126-bb89-a59c6c823289/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/70683871-9c7f-4126-bb89-a59c6c823289",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

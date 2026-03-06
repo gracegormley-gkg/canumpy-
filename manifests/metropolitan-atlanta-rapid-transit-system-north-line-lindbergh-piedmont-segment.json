@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Metropolitan Atlanta rapid transit system, North Line (Lindbergh-Piedmont segment), Lindbergh Drive-Piedmont Road consolidation : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a project to construct a new transit line in Peachtree Creek, a suburban area of Atlanta, Georgia. The project, spearheaded by the MARTA Authority, involves a 12-mile route connecting several neighborhoods. The goal is to improve transportation options and reduce traffic congestion, aiming for a more efficient and sustainable transportation network. The document highlights environmental concerns, including potential impacts on natural habitats and open space. It also addresses socio-economic considerations, ensuring equitable access for all residents. The project is supported by a multi-agency collaboration, including MARTA, the Georgia Department of Transportation, and local planning authorities. The document emphasizes careful land acquisition and mitigation strategies to minimize disruption to the community."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/29b89810-6b04-4796-82dc-a0080bab8942/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/29b89810-6b04-4796-82dc-a0080bab8942",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Metropolitan Atlanta rapid transit system, North Line (Lindbergh-Piedmont segment), Lindbergh Drive-Piedmont Road consolidation : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a project to construct a new transit line in Peachtree Creek, a suburban area of Atlanta, Georgia. The project, spearheaded by the MARTA Authority, involves a 12-mile route connecting several neighborhoods. The goal is to improve transportation options and reduce traffic congestion, aiming for a more efficient and sustainable transportation network. The document highlights environmental concerns, including potential impacts on natural habitats and open space. It also addresses socio-economic considerations, ensuring equitable access for all residents. The project is supported by a multi-agency collaboration, including MARTA, the Georgia Department of Transportation, and local planning authorities. The document emphasizes careful land acquisition and mitigation strategies to minimize disruption to the community."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2018, aimed to construct a new transit line in the Peachtree Creek area, a densely populated urban zone. Recognizing the potential for increased noise pollution from increased traffic, the project sought to mitigate this impact through the implementation of noise barriers along the rail line. However, due to significant community opposition and cost overruns, the project was ultimately cancelled in 2022, leaving behind a complex legacy of environmental concerns and a significant investment in infrastructure that was never fully utilized."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Metropolitan Atlanta rapid transit system, North Line (Lindbergh-Piedmont segment), Lindbergh Drive-Piedmont Road consolidation : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/29b89810-6b04-4796-82dc-a0080bab8942/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/29b89810-6b04-4796-82dc-a0080bab8942/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/29b89810-6b04-4796-82dc-a0080bab8942",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

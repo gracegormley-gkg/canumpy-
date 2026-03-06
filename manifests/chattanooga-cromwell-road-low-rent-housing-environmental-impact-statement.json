@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Chattanooga, Cromwell Road low-rent housing : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a noise survey conducted at a proposed low-rent housing project near Chattanooga, Tennessee, to assess its potential impact on the surrounding environment. The project site is located adjacent to Lovell Field, a major airport, and is heavily trafficked by vehicles, including commercial trucks and motorcycles. The primary goal of the survey is to determine if the noise levels will exceed HUD standards, impacting residents' quality of life. The project involves the Tennessee Department of Conservation and Heritage (TCDH), the Tennessee Valley Authority (TVA), and the AVA/TR 74-331 Acoustics Associates consulting engineers. The noise survey utilizes a 24-hour monitoring period, collecting data on vehicle traffic and aircraft operations to evaluate the potential for noise pollution. The survey aims to provide data for potential mitigation strategies to minimize the impact on the community."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/c828b2a6-38f2-4cb1-b15c-b0895b508482/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/c828b2a6-38f2-4cb1-b15c-b0895b508482",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Chattanooga, Cromwell Road low-rent housing : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a noise survey conducted at a proposed low-rent housing project near Chattanooga, Tennessee, to assess its potential impact on the surrounding environment. The project site is located adjacent to Lovell Field, a major airport, and is heavily trafficked by vehicles, including commercial trucks and motorcycles. The primary goal of the survey is to determine if the noise levels will exceed HUD standards, impacting residents' quality of life. The project involves the Tennessee Department of Conservation and Heritage (TCDH), the Tennessee Valley Authority (TVA), and the AVA/TR 74-331 Acoustics Associates consulting engineers. The noise survey utilizes a 24-hour monitoring period, collecting data on vehicle traffic and aircraft operations to evaluate the potential for noise pollution. The survey aims to provide data for potential mitigation strategies to minimize the impact on the community."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Chattanooga, Cromwell Road low-rent housing : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c828b2a6-38f2-4cb1-b15c-b0895b508482/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c828b2a6-38f2-4cb1-b15c-b0895b508482/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c828b2a6-38f2-4cb1-b15c-b0895b508482",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

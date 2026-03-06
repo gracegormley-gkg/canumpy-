@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/shaw-school-urban-renewal-plan-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Shaw School urban renewal plan : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Shaw School Urban Renewal Area\" project, a significant redevelopment initiative within the District of Columbia. Located in the Northeast, specifically within the Shaw School Urban Renewal Area, the project aims to revitalize the area through a comprehensive plan. It’s overseen by the Planning Commission and the Redevelopment Act, with the support of the Zoning Commission. The goal is to create a balanced and sustainable urban landscape, incorporating new rights-of-way, easements, and infrastructure improvements. The project encompasses a range of activities, including land acquisition, new construction, and design review, all designed to enhance the area’s functionality and aesthetic appeal while adhering to the District’s zoning regulations. The document emphasizes a careful balance between preservation and development, aiming to create a vibrant and functional community."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2b7ab62b-094f-4cfc-a01f-3e05391f8784/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/2b7ab62b-094f-4cfc-a01f-3e05391f8784",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Shaw School urban renewal plan : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Shaw School Urban Renewal Area\" project, a significant redevelopment initiative within the District of Columbia. Located in the Northeast, specifically within the Shaw School Urban Renewal Area, the project aims to revitalize the area through a comprehensive plan. It’s overseen by the Planning Commission and the Redevelopment Act, with the support of the Zoning Commission. The goal is to create a balanced and sustainable urban landscape, incorporating new rights-of-way, easements, and infrastructure improvements. The project encompasses a range of activities, including land acquisition, new construction, and design review, all designed to enhance the area’s functionality and aesthetic appeal while adhering to the District’s zoning regulations. The document emphasizes a careful balance between preservation and development, aiming to create a vibrant and functional community."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The 'Renewal Action Areas' project, initiated in 1978, aimed to revitalize the city’s urban landscape through a series of large-scale redevelopment projects, primarily focused on the Shaw School Urban Renewal Area.  The project, driven by a desire to modernize the city’s infrastructure and address urban decay, involved the creation of new rights-of-way, easements, and infrastructure improvements.  However, due to complex political and financial challenges, the project faced significant delays and cost overruns, ultimately leading to its abandonment in 2005, with the majority of the initial plans remaining undeveloped."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/shaw-school-urban-renewal-plan-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Shaw School urban renewal plan : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2b7ab62b-094f-4cfc-a01f-3e05391f8784/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/shaw-school-urban-renewal-plan-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/shaw-school-urban-renewal-plan-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/shaw-school-urban-renewal-plan-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2b7ab62b-094f-4cfc-a01f-3e05391f8784/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2b7ab62b-094f-4cfc-a01f-3e05391f8784",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

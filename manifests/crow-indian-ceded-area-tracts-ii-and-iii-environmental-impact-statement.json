@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Crow Indian ceded area, tracts II and III : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document concerns the Bureau of Indian Affairs' (BIA) preparation of a regional environmental impact statement (REIS) for the Crow Indian Reservation and the ceded strip, encompassing the area surrounding the Crow coal leases. The BIA is tasked with evaluating cumulative impacts of mining activities, including the Shell and Amax leases, and the Peabody and Gulf permits. The document highlights the BIA’s current policy of classifying these leases as proposed actions, potentially conflicting with the Tribe’s claim of validity. The BIA is preparing the REIS to determine whether the Westmoreland leases should proceed while considering the Crow Reservation’s environmental context. The goal is to assess the cumulative impacts of these projects and ensure compliance with the Kleppe decision regarding regional impact statements."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Crow Indian ceded area, tracts II and III : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document concerns the Bureau of Indian Affairs' (BIA) preparation of a regional environmental impact statement (REIS) for the Crow Indian Reservation and the ceded strip, encompassing the area surrounding the Crow coal leases. The BIA is tasked with evaluating cumulative impacts of mining activities, including the Shell and Amax leases, and the Peabody and Gulf permits. The document highlights the BIA’s current policy of classifying these leases as proposed actions, potentially conflicting with the Tribe’s claim of validity. The BIA is preparing the REIS to determine whether the Westmoreland leases should proceed while considering the Crow Reservation’s environmental context. The goal is to assess the cumulative impacts of these projects and ensure compliance with the Kleppe decision regarding regional impact statements."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1975, was a significant attempt by the Bureau of Indian Affairs to assess the potential environmental impacts of Westmoreland Resources’ coal mining operations on the Crow Indian Reservation and the ceded strip. Recognizing the interconnectedness of these areas, the project aimed to evaluate cumulative impacts and determine whether the mining activities should be considered as proposed actions or simply contemplated projects. The project’s outcome remains unclear, with the Department directing the Bureau to proceed with the regional impact statement, but the initial intent was to address the potential for conflict between mining activities and tribal land rights, ultimately leading to a complex and ongoing legal challenge."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Crow Indian ceded area, tracts II and III : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

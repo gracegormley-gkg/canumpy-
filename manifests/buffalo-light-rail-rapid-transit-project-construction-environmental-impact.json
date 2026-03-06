@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Buffalo light rail rapid transit project construction : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"NFTA Metro Corridor\" construction noise control plan for the New York State Transportation Authority (NFTA) Metro Corridor project in New York City. The project aims to minimize construction noise impacts on residential areas and commercial districts. The document outlines specific noise reduction measures, including construction equipment sound level limits, operational procedures, and design standards. It’s overseen by the NFTA, the New York State Department of Environmental Conservation (DEC), and the New York State Department of Environmental Conservation (DEC). The goal is to achieve a balance between construction activities and community well-being, ensuring minimal disruption while maintaining project progress. The plan incorporates noise monitoring and reporting to assess effectiveness."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Buffalo light rail rapid transit project construction : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"NFTA Metro Corridor\" construction noise control plan for the New York State Transportation Authority (NFTA) Metro Corridor project in New York City. The project aims to minimize construction noise impacts on residential areas and commercial districts. The document outlines specific noise reduction measures, including construction equipment sound level limits, operational procedures, and design standards. It’s overseen by the NFTA, the New York State Department of Environmental Conservation (DEC), and the New York State Department of Environmental Conservation (DEC). The goal is to achieve a balance between construction activities and community well-being, ensuring minimal disruption while maintaining project progress. The plan incorporates noise monitoring and reporting to assess effectiveness."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, known as the ‘Buffalo Rapid Transit System’ in the 1970s, was a significant attempt to integrate a new rapid transit system across Buffalo, New York. It aimed to drastically reduce traffic congestion and improve air quality by utilizing a network of underground tunnels and elevated tracks. However, due to significant public opposition, funding cuts, and logistical challenges, the project was ultimately abandoned in favor of alternative transportation plans. It represents a case study in the challenges of large-scale infrastructure projects facing political and public resistance."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Buffalo light rail rapid transit project construction : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

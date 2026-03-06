@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/project-stormfury-atlantic-weather-modification-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Project STORMFURY, Atlantic weather modification : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "Project STORMFURY is a NOAA initiative aimed at evaluating the effectiveness of cloud seeding to mitigate hurricane impacts. It focuses on the Western Pacific and Eastern Pacific, utilizing carbon dust to reduce storm intensity. The goal is to improve hurricane forecasting and control by enhancing the storm's dynamics. The project involves collaboration between NOAA, the Colorado State University, and various research institutions. It utilizes a three-dimensional model of a tropical cyclone to simulate storm behavior and assess the impact of seeding. The project’s primary focus is on understanding the potential benefits and risks of this technology."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bbae926c-0ea9-401d-9b66-a08e1513a8c1/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/bbae926c-0ea9-401d-9b66-a08e1513a8c1",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Project STORMFURY, Atlantic weather modification : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Project STORMFURY is a NOAA initiative aimed at evaluating the effectiveness of cloud seeding to mitigate hurricane impacts. It focuses on the Western Pacific and Eastern Pacific, utilizing carbon dust to reduce storm intensity. The goal is to improve hurricane forecasting and control by enhancing the storm's dynamics. The project involves collaboration between NOAA, the Colorado State University, and various research institutions. It utilizes a three-dimensional model of a tropical cyclone to simulate storm behavior and assess the impact of seeding. The project’s primary focus is on understanding the potential benefits and risks of this technology."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/project-stormfury-atlantic-weather-modification-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Project STORMFURY, Atlantic weather modification : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bbae926c-0ea9-401d-9b66-a08e1513a8c1/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/project-stormfury-atlantic-weather-modification-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/project-stormfury-atlantic-weather-modification-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/project-stormfury-atlantic-weather-modification-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/bbae926c-0ea9-401d-9b66-a08e1513a8c1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/bbae926c-0ea9-401d-9b66-a08e1513a8c1",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

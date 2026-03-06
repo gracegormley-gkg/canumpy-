@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-endangered-species-conservation-act-of-1973-incomplete-appendices.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Proposed endangered species conservation act of 1973 (incomplete appendices) : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed \"Coastal Resilience Initiative\" – a project aimed at bolstering coastal communities’ ability to withstand increasing storm surges and sea-level rise. It’s spearheaded by the U.S. Department of Defense’s Coastal Resilience Program, with collaboration from the National Oceanic and Atmospheric Administration (NOAA) and the Bureau of Land Management (BLM). The initiative focuses on assessing and mitigating risks to vital infrastructure, including ports, harbors, and critical infrastructure along the Atlantic and Gulf Coasts. The goal is to enhance coastal defenses, improve early warning systems, and promote adaptation strategies to minimize damage and economic losses resulting from climate change impacts. The project involves detailed mapping, modeling, and implementation of natural and engineered solutions."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/60f7459a-53ad-4b30-9a36-99340046bcdb/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/60f7459a-53ad-4b30-9a36-99340046bcdb",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Proposed endangered species conservation act of 1973 (incomplete appendices) : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed \"Coastal Resilience Initiative\" – a project aimed at bolstering coastal communities’ ability to withstand increasing storm surges and sea-level rise. It’s spearheaded by the U.S. Department of Defense’s Coastal Resilience Program, with collaboration from the National Oceanic and Atmospheric Administration (NOAA) and the Bureau of Land Management (BLM). The initiative focuses on assessing and mitigating risks to vital infrastructure, including ports, harbors, and critical infrastructure along the Atlantic and Gulf Coasts. The goal is to enhance coastal defenses, improve early warning systems, and promote adaptation strategies to minimize damage and economic losses resulting from climate change impacts. The project involves detailed mapping, modeling, and implementation of natural and engineered solutions."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in the late 1960s, aimed to establish a comprehensive system for tracking and managing endangered species across the United States. The initial goal was to create a national database of species, their habitats, and conservation efforts. The project involved collaboration between federal agencies, state governments, and scientific organizations. However, due to funding limitations and shifting priorities, the project was significantly scaled back and ultimately abandoned in the early 1970s. The lack of sufficient resources and the evolving landscape of conservation led to a reduction in scope and a diminished impact on the original goals of species tracking and management. Therefore, the project was completed, but with a significantly reduced scope and a lack of long-term impact."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-endangered-species-conservation-act-of-1973-incomplete-appendices.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Proposed endangered species conservation act of 1973 (incomplete appendices) : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/60f7459a-53ad-4b30-9a36-99340046bcdb/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-endangered-species-conservation-act-of-1973-incomplete-appendices.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-endangered-species-conservation-act-of-1973-incomplete-appendices.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-endangered-species-conservation-act-of-1973-incomplete-appendices.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/60f7459a-53ad-4b30-9a36-99340046bcdb/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/60f7459a-53ad-4b30-9a36-99340046bcdb",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

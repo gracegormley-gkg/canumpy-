@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-operation-breakthrough.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-operation-breakthrough.json",
   "type": "Manifest",
   "label": {
     "none": [
@@ -9,7 +9,7 @@
   },
   "summary": {
     "none": [
-      "Operation BREAKTHROUGH, initiated in 1969, is a federal initiative aimed at fostering innovation in housing design and construction. It’s a project spearheaded by the Department of Transportation (DOT) and the FAA, focusing on developing and implementing new housing systems. The goal is to improve the quality of life for communities by enhancing noise reduction and promoting a more comfortable environment. The project involves a nationwide competition for housing system proposals, site planning teams, and prototype site developers. A total of 82 proposals were received, with 11 finalists selected. The project’s primary focus is to improve the quality of life for communities by enhancing noise reduction and promoting a more comfortable environment. The project is overseen by the Secretary of Transportation and the FAA, with the goal of creating a more pleasant and sustainable urban environment."
+      "Operation BREAKTHROUGH, initiated in 1969, is a federal initiative aimed at fostering innovation in housing systems. It’s a project spearheaded by the Department of Transportation (DOT) and the FAA, focusing on developing and implementing new housing designs to mitigate noise pollution. The goal is to create a system of housing that reduces the impact of noise on communities. The project involves a Request for Proposals (RFP) to solicit innovative housing solutions, with 68 proposals received. A selection process, involving evaluation and ranking, has selected 37 finalists. The FAA has issued a Request for Proposals (RFP) to developers to create prototype sites. The project’s primary focus is on mitigating noise impacts, with the goal of improving the quality of life for residents in areas near airports and other noise-generating facilities. The project is a collaborative effort between multiple agencies, including DOT and FAA, and involves a significant investment in research and development."
     ]
   },
   "thumbnail": [
@@ -42,7 +42,7 @@
       },
       "value": {
         "none": [
-          "Operation BREAKTHROUGH, initiated in 1969, is a federal initiative aimed at fostering innovation in housing design and construction. It’s a project spearheaded by the Department of Transportation (DOT) and the FAA, focusing on developing and implementing new housing systems. The goal is to improve the quality of life for communities by enhancing noise reduction and promoting a more comfortable environment. The project involves a nationwide competition for housing system proposals, site planning teams, and prototype site developers. A total of 82 proposals were received, with 11 finalists selected. The project’s primary focus is to improve the quality of life for communities by enhancing noise reduction and promoting a more comfortable environment. The project is overseen by the Secretary of Transportation and the FAA, with the goal of creating a more pleasant and sustainable urban environment."
+          "Operation BREAKTHROUGH, initiated in 1969, is a federal initiative aimed at fostering innovation in housing systems. It’s a project spearheaded by the Department of Transportation (DOT) and the FAA, focusing on developing and implementing new housing designs to mitigate noise pollution. The goal is to create a system of housing that reduces the impact of noise on communities. The project involves a Request for Proposals (RFP) to solicit innovative housing solutions, with 68 proposals received. A selection process, involving evaluation and ranking, has selected 37 finalists. The FAA has issued a Request for Proposals (RFP) to developers to create prototype sites. The project’s primary focus is on mitigating noise impacts, with the goal of improving the quality of life for residents in areas near airports and other noise-generating facilities. The project is a collaborative effort between multiple agencies, including DOT and FAA, and involves a significant investment in research and development."
         ]
       }
     },
@@ -93,18 +93,6 @@
           "Charles J. Orlebeke; George Romney"
         ]
       }
-    },
-    {
-      "label": {
-        "none": [
-          "Completed"
-        ]
-      },
-      "value": {
-        "none": [
-          "Unknown"
-        ]
-      }
     }
   ],
   "requiredStatement": {
@@ -121,7 +109,7 @@
   },
   "items": [
     {
-      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-operation-breakthrough.json/canvas/1",
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-operation-breakthrough.json/canvas/1",
       "type": "Canvas",
       "width": 3000,
       "height": 3000,
@@ -141,14 +129,14 @@
       ],
       "items": [
         {
-          "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-operation-breakthrough.json/canvas/1/page",
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-operation-breakthrough.json/canvas/1/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-operation-breakthrough.json/canvas/1/page/annotation",
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-operation-breakthrough.json/canvas/1/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-operation-breakthrough.json/canvas/1",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-operation-breakthrough.json/canvas/1",
               "body": {
                 "id": "https://iiif.dc.library.northwestern.edu/iiif/3/efbeb91b-0c29-4e54-b67f-2370a1c06ea4/full/max/0/default.jpg",
                 "type": "Image",

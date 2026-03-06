@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/three-mile-island-nuclear-station-unit-2-operation-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Three Mile Island Nuclear Station unit 2, operation : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed operation of the Three Mile Island Nuclear Generating Station, Unit 2, in Dauphin County, Pennsylvania. It’s a regulatory review of the facility’s environmental impact, specifically concerning potential radioactive releases to the surrounding environment. The document outlines the National Environmental Policy Act (NEPA) requirements for the facility, including extensive monitoring and mitigation strategies to minimize potential risks to the area. The project involves multiple agencies, including the NRC, EPA, Pennsylvania, and the Tri-County Regional Planning Commission. The primary goal is to assess and address potential environmental consequences of the facility’s operation, ensuring compliance with regulations and minimizing any negative impacts on the region's ecosystem and public health. The document also addresses public comments received regarding the project's environmental impact."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Three Mile Island Nuclear Station unit 2, operation : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed operation of the Three Mile Island Nuclear Generating Station, Unit 2, in Dauphin County, Pennsylvania. It’s a regulatory review of the facility’s environmental impact, specifically concerning potential radioactive releases to the surrounding environment. The document outlines the National Environmental Policy Act (NEPA) requirements for the facility, including extensive monitoring and mitigation strategies to minimize potential risks to the area. The project involves multiple agencies, including the NRC, EPA, Pennsylvania, and the Tri-County Regional Planning Commission. The primary goal is to assess and address potential environmental consequences of the facility’s operation, ensuring compliance with regulations and minimizing any negative impacts on the region's ecosystem and public health. The document also addresses public comments received regarding the project's environmental impact."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/three-mile-island-nuclear-station-unit-2-operation-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Three Mile Island Nuclear Station unit 2, operation : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/three-mile-island-nuclear-station-unit-2-operation-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/three-mile-island-nuclear-station-unit-2-operation-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/three-mile-island-nuclear-station-unit-2-operation-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

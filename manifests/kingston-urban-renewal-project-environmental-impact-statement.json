@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kingston-urban-renewal-project-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Kingston urban renewal project : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document, issued by the President on August 10, 1966, outlines a presidential directive to federal agencies to proactively evaluate and mitigate flood hazards across the nation. It emphasizes the need for agencies to assess potential risks associated with existing flood-prone areas, particularly in locations like the Tennessee Valley. The directive calls for executive agencies to develop procedures and regulations for flood hazard evaluation, including requests for information from the Bureau of the Budget and the Department of Agriculture. The goal is to minimize future Federal expenditures for flood protection and disaster relief by promoting responsible land use decisions that consider flood risks. The document establishes a timeline for immediate implementation of these procedures, with the directive taking effect on January 1, 1967."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Kingston urban renewal project : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document, issued by the President on August 10, 1966, outlines a presidential directive to federal agencies to proactively evaluate and mitigate flood hazards across the nation. It emphasizes the need for agencies to assess potential risks associated with existing flood-prone areas, particularly in locations like the Tennessee Valley. The directive calls for executive agencies to develop procedures and regulations for flood hazard evaluation, including requests for information from the Bureau of the Budget and the Department of Agriculture. The goal is to minimize future Federal expenditures for flood protection and disaster relief by promoting responsible land use decisions that consider flood risks. The document establishes a timeline for immediate implementation of these procedures, with the directive taking effect on January 1, 1967."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in the 1960s during the height of the Cold War, aimed to address the growing concern about flood risks in the United States. The President issued an executive order urging federal agencies to assess flood hazards and implement measures to mitigate potential damage. The order emphasized that federal land holdings should be evaluated for flood risks, and that flood protection measures should be implemented to minimize future losses. While the order was issued, the project’s implementation and ultimate success are not fully documented in the provided text, leaving its completion uncertain."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kingston-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Kingston urban renewal project : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kingston-urban-renewal-project-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kingston-urban-renewal-project-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kingston-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

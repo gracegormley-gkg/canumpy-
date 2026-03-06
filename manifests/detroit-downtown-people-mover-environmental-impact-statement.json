@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Detroit downtown people mover : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Draft Environmental Impact Statement for the Downtown People Mover (DPM) in Detroit, Michigan, addresses concerns regarding the project’s potential impact on the city’s historic district. The document highlights the proposed station’s location in the Grand Circus Park area, a significant historic landmark. The U.S. Department of the Interior has reviewed the project, noting potential visual impacts and concerns about archeological resources. The statement emphasizes the need for careful planning to minimize harm to the historic district, including the consideration of mitigation strategies. The document also addresses geological resources, including groundwater levels and potential impacts on foundation stability. The document concludes with a request for comments from the Michigan State Historic Preservation Officer and the Wayne County Planning Commission."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e962a4d2-18c5-4522-a59f-a81e2251c7ca/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e962a4d2-18c5-4522-a59f-a81e2251c7ca",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Detroit downtown people mover : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Draft Environmental Impact Statement for the Downtown People Mover (DPM) in Detroit, Michigan, addresses concerns regarding the project’s potential impact on the city’s historic district. The document highlights the proposed station’s location in the Grand Circus Park area, a significant historic landmark. The U.S. Department of the Interior has reviewed the project, noting potential visual impacts and concerns about archeological resources. The statement emphasizes the need for careful planning to minimize harm to the historic district, including the consideration of mitigation strategies. The document also addresses geological resources, including groundwater levels and potential impacts on foundation stability. The document concludes with a request for comments from the Michigan State Historic Preservation Officer and the Wayne County Planning Commission."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Detroit downtown people mover : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e962a4d2-18c5-4522-a59f-a81e2251c7ca/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e962a4d2-18c5-4522-a59f-a81e2251c7ca/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e962a4d2-18c5-4522-a59f-a81e2251c7ca",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

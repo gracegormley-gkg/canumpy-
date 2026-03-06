@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-castaic-haskell-junction-power.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Proposed Castaic-Haskell Junction Power Transmission Line"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The U.S. Department of Agriculture (USDA) is issuing an administrative action regarding the proposed Castaic-Haskell Junction power transmission line, a project involving the California Department of Water Resources and the Los Angeles County Forest Service. This line, located within the Angeles National Forest, aims to deliver water to Southern California's water agencies. The project, which has been under review by federal and state agencies, is designed to reduce steam power generation and enhance hydroelectric power generation, thereby minimizing air pollution. Environmental impact assessments have been conducted, with a focus on minimizing visual impacts and potential erosion. The primary goal is to construct the transmission line as part of a larger project involving the construction of the Castaic Power Plant, which will provide a reliable water supply for Los Angeles and the surrounding region. The project is coordinated with the Federal Power Commission and the Bureau of Outdoor Recreation."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8941a914-a49d-4c22-a6dc-b4adc5725870/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/8941a914-a49d-4c22-a6dc-b4adc5725870",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Castaic-Haskell Junction Power Transmission Line"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The U.S. Department of Agriculture (USDA) is issuing an administrative action regarding the proposed Castaic-Haskell Junction power transmission line, a project involving the California Department of Water Resources and the Los Angeles County Forest Service. This line, located within the Angeles National Forest, aims to deliver water to Southern California's water agencies. The project, which has been under review by federal and state agencies, is designed to reduce steam power generation and enhance hydroelectric power generation, thereby minimizing air pollution. Environmental impact assessments have been conducted, with a focus on minimizing visual impacts and potential erosion. The primary goal is to construct the transmission line as part of a larger project involving the construction of the Castaic Power Plant, which will provide a reliable water supply for Los Angeles and the surrounding region. The project is coordinated with the Federal Power Commission and the Bureau of Outdoor Recreation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Castaic-Haskell Transmission Line project, proposed by the Department of Water and Power and LADWP, is a significant infrastructure undertaking in Southern California. It aims to deliver a substantial amount of hydroelectric power to the city of Los Angeles, addressing water supply demands and reducing reliance on fossil fuels. The project has been met with considerable opposition from environmental groups and local residents due to its visual impact on the Angeles National Forest, necessitating extensive route adjustments and mitigation measures. Despite these challenges, the project has been approved by the Federal Power Commission and the State of California, and the construction is currently underway, with the completion date set for July 1971."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-castaic-haskell-junction-power.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Castaic-Haskell Junction Power Transmission Line"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8941a914-a49d-4c22-a6dc-b4adc5725870/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-castaic-haskell-junction-power.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-castaic-haskell-junction-power.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-castaic-haskell-junction-power.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8941a914-a49d-4c22-a6dc-b4adc5725870/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8941a914-a49d-4c22-a6dc-b4adc5725870",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/penn-susquehanna-urban-renewal-project-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Penn Susquehanna urban renewal project : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a proposed ordinance amendment to the Harrisburg Building Code, specifically addressing flood damage control. It establishes stricter regulations for buildings located within the Harrisburg Flood Plain Conservation District. The ordinance aims to mitigate the threat of flooding by requiring robust anchoring, ensuring minimum floor elevation, and limiting construction near flood zones. It mandates specific requirements for electrical installations, plumbing, and material selection to withstand inundation. The goal is to reduce the risk of damage and improve the safety of the community by implementing measures to prevent flooding from impacting buildings and infrastructure."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/200209c2-e42f-411f-9644-5f086f2f791c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/200209c2-e42f-411f-9644-5f086f2f791c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Penn Susquehanna urban renewal project : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a proposed ordinance amendment to the Harrisburg Building Code, specifically addressing flood damage control. It establishes stricter regulations for buildings located within the Harrisburg Flood Plain Conservation District. The ordinance aims to mitigate the threat of flooding by requiring robust anchoring, ensuring minimum floor elevation, and limiting construction near flood zones. It mandates specific requirements for electrical installations, plumbing, and material selection to withstand inundation. The goal is to reduce the risk of damage and improve the safety of the community by implementing measures to prevent flooding from impacting buildings and infrastructure."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/penn-susquehanna-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Penn Susquehanna urban renewal project : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/200209c2-e42f-411f-9644-5f086f2f791c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/penn-susquehanna-urban-renewal-project-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/penn-susquehanna-urban-renewal-project-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/penn-susquehanna-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/200209c2-e42f-411f-9644-5f086f2f791c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/200209c2-e42f-411f-9644-5f086f2f791c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

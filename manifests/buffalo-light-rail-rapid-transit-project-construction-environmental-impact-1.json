@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Buffalo light rail rapid transit project construction : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed Niagara Frontier Transportation Authority (NFTA) project, a mass transit corridor connecting Buffalo, Amherst, and Tonawanda, New York. The NFTA aims to improve regional connectivity and reduce traffic congestion through a dedicated rail line. It involves collaboration between the NFTA, New York State Department of Transportation (NYSDOT), and the Niagara Frontier Transportation Committee. The project’s primary goal is to create a sustainable transportation network, enhancing economic opportunities and improving quality of life for residents. The document highlights the project’s cost estimates, environmental considerations, and proposed mitigation strategies, emphasizing the benefits of a modernized transit system."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8f8f77c7-1286-40f2-9663-bc219f987505/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/8f8f77c7-1286-40f2-9663-bc219f987505",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Buffalo light rail rapid transit project construction : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed Niagara Frontier Transportation Authority (NFTA) project, a mass transit corridor connecting Buffalo, Amherst, and Tonawanda, New York. The NFTA aims to improve regional connectivity and reduce traffic congestion through a dedicated rail line. It involves collaboration between the NFTA, New York State Department of Transportation (NYSDOT), and the Niagara Frontier Transportation Committee. The project’s primary goal is to create a sustainable transportation network, enhancing economic opportunities and improving quality of life for residents. The document highlights the project’s cost estimates, environmental considerations, and proposed mitigation strategies, emphasizing the benefits of a modernized transit system."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1976 by the Niagara Frontier Transportation Authority, aimed to construct a new mass transit corridor connecting Buffalo, Amherst, and Tonawanda, leveraging the existing rail network. Recognizing the need for improved regional transportation, the project sought to create a more efficient and integrated system, addressing congestion and enhancing connectivity. However, due to budgetary constraints and shifting priorities, the project was ultimately cancelled in 1977, leaving behind a conceptual framework and a legacy of infrastructure development."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Buffalo light rail rapid transit project construction : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8f8f77c7-1286-40f2-9663-bc219f987505/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8f8f77c7-1286-40f2-9663-bc219f987505/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8f8f77c7-1286-40f2-9663-bc219f987505",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

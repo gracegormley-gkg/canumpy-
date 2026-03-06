@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-permit-application-by-delmarva-power-and-light.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Permit Application by Delmarva Power and Light Company, 500 KV Aerial Transmission Line, Deemers Beach, Delaware and Kelly Point, New Jersey"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the construction of a 500kV transmission line network in the Lower Delaware Valley, initiated in the 1960s to connect power generation facilities like Conastone and Peach Bottom to the eastern regions. The project, overseen by the Middle Atlantic Area Coordination Group, aims to ensure reliable and stable energy flow for Delmarva Power & Light Company and associated utilities. It involves multiple agencies, including the Corps of Engineers, Federal Power Commission, and the Tennessee Valley Authority. The goal is to expand the existing 500kV network, enhancing energy delivery and stability across the region, particularly for coal-fired power plants and nuclear facilities. The document highlights the project's critical role in supporting regional energy infrastructure."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/42b71b8a-9ad4-4b88-9c8b-7716d22c7907/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/42b71b8a-9ad4-4b88-9c8b-7716d22c7907",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Permit Application by Delmarva Power and Light Company, 500 KV Aerial Transmission Line, Deemers Beach, Delaware and Kelly Point, New Jersey"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the construction of a 500kV transmission line network in the Lower Delaware Valley, initiated in the 1960s to connect power generation facilities like Conastone and Peach Bottom to the eastern regions. The project, overseen by the Middle Atlantic Area Coordination Group, aims to ensure reliable and stable energy flow for Delmarva Power & Light Company and associated utilities. It involves multiple agencies, including the Corps of Engineers, Federal Power Commission, and the Tennessee Valley Authority. The goal is to expand the existing 500kV network, enhancing energy delivery and stability across the region, particularly for coal-fired power plants and nuclear facilities. The document highlights the project's critical role in supporting regional energy infrastructure."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in the 1960s, aimed to establish a high-voltage transmission network connecting key power generation sites in Pennsylvania and New Jersey to facilitate the reliable delivery of low-cost coal-fired power to the Delaware Valley region. The project, spearheaded by the Middle Atlantic Area Coordination Group, was designed to enhance the region’s energy infrastructure and support the growth of the region’s industrial and agricultural sectors. Despite initial successes, the project ultimately faced significant challenges and was discontinued in 1975 due to cost overruns and logistical difficulties, leaving a legacy of a complex transmission system."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-permit-application-by-delmarva-power-and-light.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Permit Application by Delmarva Power and Light Company, 500 KV Aerial Transmission Line, Deemers Beach, Delaware and Kelly Point, New Jersey"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/42b71b8a-9ad4-4b88-9c8b-7716d22c7907/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-permit-application-by-delmarva-power-and-light.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-permit-application-by-delmarva-power-and-light.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-permit-application-by-delmarva-power-and-light.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/42b71b8a-9ad4-4b88-9c8b-7716d22c7907/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/42b71b8a-9ad4-4b88-9c8b-7716d22c7907",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

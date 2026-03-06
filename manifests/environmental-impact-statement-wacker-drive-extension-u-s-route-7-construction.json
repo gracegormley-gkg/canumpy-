@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-wacker-drive-extension-u-s-route-7-construction.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Wacker Drive Extension, U.S. Route 7, Construction"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a project to improve air quality within the Illinois Center Development area, specifically addressing carbon monoxide (CO) emissions. The project involves a comprehensive exhaust system designed to enhance the efficiency of CO removal. It’s spearheaded by the Department of Public Works and involves engineers from John Dolio & Associates, Inc. The goal is to evaluate the effectiveness of a system that will reduce CO levels, potentially impacting the development’s overall air quality and public health. The document outlines a cost-benefit analysis comparing the proposed system to typical vehicular tunnel designs, and details the implementation of a catalytic combustion method to minimize CO production. It also includes a conceptual overview of the system, including its components and potential effects of current pollution control laws."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e2c41484-ef73-400a-ad96-35ef2d93fc94/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e2c41484-ef73-400a-ad96-35ef2d93fc94",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Wacker Drive Extension, U.S. Route 7, Construction"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a project to improve air quality within the Illinois Center Development area, specifically addressing carbon monoxide (CO) emissions. The project involves a comprehensive exhaust system designed to enhance the efficiency of CO removal. It’s spearheaded by the Department of Public Works and involves engineers from John Dolio & Associates, Inc. The goal is to evaluate the effectiveness of a system that will reduce CO levels, potentially impacting the development’s overall air quality and public health. The document outlines a cost-benefit analysis comparing the proposed system to typical vehicular tunnel designs, and details the implementation of a catalytic combustion method to minimize CO production. It also includes a conceptual overview of the system, including its components and potential effects of current pollution control laws."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-wacker-drive-extension-u-s-route-7-construction.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Wacker Drive Extension, U.S. Route 7, Construction"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e2c41484-ef73-400a-ad96-35ef2d93fc94/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-wacker-drive-extension-u-s-route-7-construction.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-wacker-drive-extension-u-s-route-7-construction.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-wacker-drive-extension-u-s-route-7-construction.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e2c41484-ef73-400a-ad96-35ef2d93fc94/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e2c41484-ef73-400a-ad96-35ef2d93fc94",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

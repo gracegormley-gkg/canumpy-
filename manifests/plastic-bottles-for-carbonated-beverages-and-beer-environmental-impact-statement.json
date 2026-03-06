@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/plastic-bottles-for-carbonated-beverages-and-beer-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Plastic bottles for carbonated beverages and beer : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed \"Oregon Bottle Bill,\" a state law aimed at reducing beverage container waste. It originates from the Oregon State Legislature and is overseen by the Oregon Department of Environmental Quality. The goal is to restrict the availability of single-use plastic bottles and containers, encouraging reusable alternatives. The bill seeks to generate revenue through a bottle fee, promoting recycling and reducing landfill waste within the state. It involves collaboration between the Oregon State Legislature, the Oregon Department of Environmental Quality, and various stakeholders interested in environmental sustainability."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/16bd6843-d6c6-4ed0-b831-0f755ecec291/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/16bd6843-d6c6-4ed0-b831-0f755ecec291",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Plastic bottles for carbonated beverages and beer : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed \"Oregon Bottle Bill,\" a state law aimed at reducing beverage container waste. It originates from the Oregon State Legislature and is overseen by the Oregon Department of Environmental Quality. The goal is to restrict the availability of single-use plastic bottles and containers, encouraging reusable alternatives. The bill seeks to generate revenue through a bottle fee, promoting recycling and reducing landfill waste within the state. It involves collaboration between the Oregon State Legislature, the Oregon Department of Environmental Quality, and various stakeholders interested in environmental sustainability."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "The United States"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bruce Owen; Martin Tall; John Feindl; Ronald Petersen; Bruce Hannon"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 1973, aimed to establish a nationwide bottle labeling law in California, spurred by growing consumer demand for beverage information and a desire to promote recycling. Initially met with resistance from the beverage industry, the law ultimately passed and became a landmark achievement in environmental policy, significantly impacting beverage packaging practices across the state. While the initial implementation faced challenges, it ultimately proved successful in fostering a more sustainable approach to beverage production and consumption."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/plastic-bottles-for-carbonated-beverages-and-beer-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Plastic bottles for carbonated beverages and beer : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/16bd6843-d6c6-4ed0-b831-0f755ecec291/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/plastic-bottles-for-carbonated-beverages-and-beer-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/plastic-bottles-for-carbonated-beverages-and-beer-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/plastic-bottles-for-carbonated-beverages-and-beer-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/16bd6843-d6c6-4ed0-b831-0f755ecec291/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/16bd6843-d6c6-4ed0-b831-0f755ecec291",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

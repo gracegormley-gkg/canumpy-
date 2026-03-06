@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Polychlorinated biphenyls, Proposed rule making : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document outlines the FDA's proposed rule making to address the growing problem of PCB contamination in paper food packaging material. The rule aims to reduce the dietary intake of PCB's by limiting the use of salvaged paper and paperboard containing PCB residues. The FDA, in collaboration with various federal and state agencies, including the Office of Science and Technology, Council on Environmental Quality, and the Department of Commerce, is investigating PCB contamination in food and wildlife. The Interdepartmental Task Force, established in September 1971, supported the rule, and its report affirmed its necessity. The goal is to minimize PCB contamination, enhance environmental quality, and provide a uniform regulatory approach to this persistent chemical compound."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/17398b31-01b3-42f3-8a6f-7e7ac9f48823/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/17398b31-01b3-42f3-8a6f-7e7ac9f48823",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Polychlorinated biphenyls, Proposed rule making : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document outlines the FDA's proposed rule making to address the growing problem of PCB contamination in paper food packaging material. The rule aims to reduce the dietary intake of PCB's by limiting the use of salvaged paper and paperboard containing PCB residues. The FDA, in collaboration with various federal and state agencies, including the Office of Science and Technology, Council on Environmental Quality, and the Department of Commerce, is investigating PCB contamination in food and wildlife. The Interdepartmental Task Force, established in September 1971, supported the rule, and its report affirmed its necessity. The goal is to minimize PCB contamination, enhance environmental quality, and provide a uniform regulatory approach to this persistent chemical compound."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Federal Register"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Sam D. Fine; Rogers Park, Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1971 by the FDA, aimed to address a growing concern about PCB contamination in food – a problem that had been increasingly documented through industry reports and environmental monitoring. The initial proposal focused on establishing a temporary tolerance for unavoidable PCB residues in paper food packaging, recognizing the potential for long-term environmental impacts. However, due to industry resistance and concerns about unintended consequences, the project ultimately faced significant challenges and was ultimately abandoned in favor of a more targeted approach involving stricter regulation and monitoring of PCB levels in food products. Therefore, the project was completed – null -."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Polychlorinated biphenyls, Proposed rule making : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/17398b31-01b3-42f3-8a6f-7e7ac9f48823/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/17398b31-01b3-42f3-8a6f-7e7ac9f48823/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/17398b31-01b3-42f3-8a6f-7e7ac9f48823",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

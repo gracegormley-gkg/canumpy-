@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-hud-project-selection-criteria-for.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Proposed HUD Project Selection Criteria for Subsidized Housing"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document outlines the proposed HUD (Federal Housing Administration) project selection criteria for subsidized housing development across the United States. It details a rigorous process designed to ensure projects align with national housing goals, prioritizing low-income families. The criteria encompass detailed standards for environmental impact, land use, and community benefit, aiming for long-term sustainability and equitable housing access. It’s a comprehensive guide for field offices, emphasizing uniformity and adherence to established federal policies and local planning. The document’s primary goal is to promote the efficient allocation of resources while upholding the principles of orderly growth and development, ultimately contributing to a more inclusive and prosperous nation."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8e2b9830-6017-4644-a596-831a4a55b359/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/8e2b9830-6017-4644-a596-831a4a55b359",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed HUD Project Selection Criteria for Subsidized Housing"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document outlines the proposed HUD (Federal Housing Administration) project selection criteria for subsidized housing development across the United States. It details a rigorous process designed to ensure projects align with national housing goals, prioritizing low-income families. The criteria encompass detailed standards for environmental impact, land use, and community benefit, aiming for long-term sustainability and equitable housing access. It’s a comprehensive guide for field offices, emphasizing uniformity and adherence to established federal policies and local planning. The document’s primary goal is to promote the efficient allocation of resources while upholding the principles of orderly growth and development, ultimately contributing to a more inclusive and prosperous nation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1971, aimed to streamline the process of awarding federal housing assistance to low-income communities, particularly in the National Capital Region. Prior to this, the HUD process was cumbersome and often resulted in delays and disputes. The goal was to create a more efficient and standardized system for evaluating housing projects, ensuring that resources were allocated to areas with the greatest need. While the project was formally adopted, it faced significant challenges and ultimately faced a complete cancellation due to budget constraints and shifting priorities within the federal housing program, leaving a legacy of administrative complexity and a need for a more streamlined approach to housing development. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-hud-project-selection-criteria-for.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed HUD Project Selection Criteria for Subsidized Housing"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8e2b9830-6017-4644-a596-831a4a55b359/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-hud-project-selection-criteria-for.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-hud-project-selection-criteria-for.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-hud-project-selection-criteria-for.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8e2b9830-6017-4644-a596-831a4a55b359/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8e2b9830-6017-4644-a596-831a4a55b359",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

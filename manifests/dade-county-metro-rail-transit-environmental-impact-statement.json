@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Dade County metro rail transit : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Rapid Transit Project\" – a proposed light rail system in Miami-Dade County, Florida. It’s overseen by the Florida Department of Transportation (FDOT) and the Miami-Dade Transit Authority (MDA). The project aims to improve transportation, reduce traffic congestion, and stimulate economic growth. The document highlights the need for a new rail line to address growing demand and enhance connectivity. It emphasizes the importance of preserving historical and archaeological resources, particularly the Hialeah Park Racetrack and the Florida East Coast Railway Freight House, which are integral to the region’s heritage. The document also details the project’s alignment and potential impacts, including mitigation strategies for potential environmental concerns."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/d3e9092b-810f-4b1a-9e9e-def1c7b8a699/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/d3e9092b-810f-4b1a-9e9e-def1c7b8a699",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Dade County metro rail transit : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Rapid Transit Project\" – a proposed light rail system in Miami-Dade County, Florida. It’s overseen by the Florida Department of Transportation (FDOT) and the Miami-Dade Transit Authority (MDA). The project aims to improve transportation, reduce traffic congestion, and stimulate economic growth. The document highlights the need for a new rail line to address growing demand and enhance connectivity. It emphasizes the importance of preserving historical and archaeological resources, particularly the Hialeah Park Racetrack and the Florida East Coast Railway Freight House, which are integral to the region’s heritage. The document also details the project’s alignment and potential impacts, including mitigation strategies for potential environmental concerns."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Dade County metro rail transit : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d3e9092b-810f-4b1a-9e9e-def1c7b8a699/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d3e9092b-810f-4b1a-9e9e-def1c7b8a699/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d3e9092b-810f-4b1a-9e9e-def1c7b8a699",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

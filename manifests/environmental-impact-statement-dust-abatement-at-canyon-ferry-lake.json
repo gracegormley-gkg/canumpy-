@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-dust-abatement-at-canyon-ferry-lake.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Dust Abatement at Canyon Ferry Lake"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details a Dust Abatement project at Canyon Ferry Lake, Montana, initiated by the Bureau of Reclamation. The project aims to control air pollution and improve wildlife habitat by establishing a network of islands and dikes to create safe nesting areas for geese. The document highlights concerns about the impact of blowing dust on the lake’s ecosystem and proposes mitigation strategies, including the creation of a master plan for future development. The project involves collaboration between the Bureau of Reclamation, Montana’s Environmental Quality Council, and the Montana Water Resources Board, with the goal of balancing environmental concerns with the needs of the region’s residents and wildlife."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/64b5d0d0-cca8-4c7c-9a37-bb9623cf88b2/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/64b5d0d0-cca8-4c7c-9a37-bb9623cf88b2",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Dust Abatement at Canyon Ferry Lake"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details a Dust Abatement project at Canyon Ferry Lake, Montana, initiated by the Bureau of Reclamation. The project aims to control air pollution and improve wildlife habitat by establishing a network of islands and dikes to create safe nesting areas for geese. The document highlights concerns about the impact of blowing dust on the lake’s ecosystem and proposes mitigation strategies, including the creation of a master plan for future development. The project involves collaboration between the Bureau of Reclamation, Montana’s Environmental Quality Council, and the Montana Water Resources Board, with the goal of balancing environmental concerns with the needs of the region’s residents and wildlife."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Dust Abatement Project at Canyon Ferry Lake, initiated in 1971, was a significant initiative in Montana's environmental landscape. It aimed to combat air pollution by establishing a wildlife habitat, specifically for migratory birds and other wildlife. The project, spearheaded by the Montana Water Resources Board, was funded by the state and involved the construction of a series of dikes to create a buffer zone. However, due to unforeseen challenges and a lack of sufficient funding, the project ultimately fell short of its initial goals, remaining largely undeveloped."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-dust-abatement-at-canyon-ferry-lake.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Dust Abatement at Canyon Ferry Lake"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/64b5d0d0-cca8-4c7c-9a37-bb9623cf88b2/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-dust-abatement-at-canyon-ferry-lake.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-dust-abatement-at-canyon-ferry-lake.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-dust-abatement-at-canyon-ferry-lake.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/64b5d0d0-cca8-4c7c-9a37-bb9623cf88b2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/64b5d0d0-cca8-4c7c-9a37-bb9623cf88b2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

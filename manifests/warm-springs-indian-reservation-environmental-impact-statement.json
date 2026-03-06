@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/warm-springs-indian-reservation-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Warm Springs Indian Reservation : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the Warm Springs National Fish Hatchery project, a proposed hatchery located in the Mid-Columbia Economic Development District in Oregon. It’s overseen by the Oregon Game Commission and the Bureau of Sport Fisheries & Wildlife. The primary goal is to establish a regional fish rearing facility to support fisheries within the area, aiming to improve fish populations and promote sustainable resource management. The project involves a three-phase recirculating pond system designed to minimize environmental impact through effluent treatment, with the intent of enhancing the hatchery’s contribution to the region’s fish resources and ecosystem health. The document highlights the need for careful planning and mitigation measures to ensure the project’s success and minimize potential ecological consequences."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/fba536d5-f1db-4e81-b8a6-e9af0be010bd/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/fba536d5-f1db-4e81-b8a6-e9af0be010bd",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Warm Springs Indian Reservation : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the Warm Springs National Fish Hatchery project, a proposed hatchery located in the Mid-Columbia Economic Development District in Oregon. It’s overseen by the Oregon Game Commission and the Bureau of Sport Fisheries & Wildlife. The primary goal is to establish a regional fish rearing facility to support fisheries within the area, aiming to improve fish populations and promote sustainable resource management. The project involves a three-phase recirculating pond system designed to minimize environmental impact through effluent treatment, with the intent of enhancing the hatchery’s contribution to the region’s fish resources and ecosystem health. The document highlights the need for careful planning and mitigation measures to ensure the project’s success and minimize potential ecological consequences."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/warm-springs-indian-reservation-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Warm Springs Indian Reservation : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fba536d5-f1db-4e81-b8a6-e9af0be010bd/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/warm-springs-indian-reservation-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/warm-springs-indian-reservation-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/warm-springs-indian-reservation-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fba536d5-f1db-4e81-b8a6-e9af0be010bd/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fba536d5-f1db-4e81-b8a6-e9af0be010bd",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

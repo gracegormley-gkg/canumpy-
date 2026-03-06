@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bad-creek-pumped-storage-project-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Bad Creek pumped storage project : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Bad Creek Pumped Storage Project,\" a large-scale water storage facility located in the Appalachian Mountains, specifically in West Virginia. It’s a collaborative effort between the U.S. Army Corps of Engineers and the Bureau of Reclamation, aiming to create a reservoir to manage water resources and generate hydroelectric power. The project encompasses extensive environmental review and mitigation strategies, including sediment control measures and wildlife protection plans. The primary goal is to increase water storage capacity, providing a reliable water supply for downstream communities while minimizing ecological impacts. The plan involves extensive clearing and vegetation management to ensure stability and prevent erosion, demonstrating a commitment to sustainable water management practices."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e33939cd-308b-47af-853e-58a6b1aba7e3/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e33939cd-308b-47af-853e-58a6b1aba7e3",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Bad Creek pumped storage project : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Bad Creek Pumped Storage Project,\" a large-scale water storage facility located in the Appalachian Mountains, specifically in West Virginia. It’s a collaborative effort between the U.S. Army Corps of Engineers and the Bureau of Reclamation, aiming to create a reservoir to manage water resources and generate hydroelectric power. The project encompasses extensive environmental review and mitigation strategies, including sediment control measures and wildlife protection plans. The primary goal is to increase water storage capacity, providing a reliable water supply for downstream communities while minimizing ecological impacts. The plan involves extensive clearing and vegetation management to ensure stability and prevent erosion, demonstrating a commitment to sustainable water management practices."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bad-creek-pumped-storage-project-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Bad Creek pumped storage project : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e33939cd-308b-47af-853e-58a6b1aba7e3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bad-creek-pumped-storage-project-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bad-creek-pumped-storage-project-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bad-creek-pumped-storage-project-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e33939cd-308b-47af-853e-58a6b1aba7e3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e33939cd-308b-47af-853e-58a6b1aba7e3",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

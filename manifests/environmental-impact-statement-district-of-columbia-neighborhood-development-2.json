@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-2.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, District of Columbia Neighborhood Development Program, 14th Street Urban Renewal Area"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Urban Renewal Plan\" for the 14th Street Urban Renewal Area in the National Capital Region. It’s a proposal by the National Capital Planning Commission to revitalize this area through redevelopment and rehabilitation. The plan aims to address blight and improve land use by removing existing obstacles and creating opportunities for private enterprise. It involves the National Capital Planning Commission, the District of Columbia Council, and various agencies involved in land management and public improvements. The primary goal is to create a more attractive and functional neighborhood through strategic land use changes, aiming to enhance the overall quality of life and promote economic growth within the area. The document outlines specific modifications to existing land disposition and redevelopment plans, including the acquisition of properties and the removal of obstacles to facilitate improvements."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/883ba17e-9950-4167-b298-03bc472d8920/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/883ba17e-9950-4167-b298-03bc472d8920",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, 14th Street Urban Renewal Area"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Urban Renewal Plan\" for the 14th Street Urban Renewal Area in the National Capital Region. It’s a proposal by the National Capital Planning Commission to revitalize this area through redevelopment and rehabilitation. The plan aims to address blight and improve land use by removing existing obstacles and creating opportunities for private enterprise. It involves the National Capital Planning Commission, the District of Columbia Council, and various agencies involved in land management and public improvements. The primary goal is to create a more attractive and functional neighborhood through strategic land use changes, aiming to enhance the overall quality of life and promote economic growth within the area. The document outlines specific modifications to existing land disposition and redevelopment plans, including the acquisition of properties and the removal of obstacles to facilitate improvements."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Urban Development"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The “Urban Renewal Plan” project, initiated in the 1970s, aimed to revitalize blighted urban areas through redevelopment and increased property values. It involved acquiring properties and converting them into more desirable locations, often through tax incentives and public funding. The project was a significant undertaking in many cities, but faced considerable opposition from residents concerned about displacement and the loss of community character. Ultimately, the project was completed, although with some modifications and adjustments to the original plan, and the city’s urban landscape shifted significantly, reflecting the goals of revitalization and economic growth."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-2.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, 14th Street Urban Renewal Area"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/883ba17e-9950-4167-b298-03bc472d8920/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-2.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-2.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-2.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/883ba17e-9950-4167-b298-03bc472d8920/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/883ba17e-9950-4167-b298-03bc472d8920",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

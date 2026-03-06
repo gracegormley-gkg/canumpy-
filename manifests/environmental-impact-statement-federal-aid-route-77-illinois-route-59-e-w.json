@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-federal-aid-route-77-illinois-route-59-e-w.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Federal Aid Route 77, Illinois Route 59, E.W. Tollway to Illinois 64, DuPage County, Illinois"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Illinois Prairie Path, a 296-foot-long recreational trail, is a significant project involving the Illinois Department of Transportation (IDOT) and the Illinois Prairie Path organization. It’s located in Elmhurst, Illinois, and aims to protect pedestrian safety at the intersection of Illinois Route 59 and the Prairie Path. The project proposes installing a push-button traffic control signal to mitigate hazards for users of the Prairie Path. The IDOT is reviewing the proposal, while the Prairie Path organization is advocating for the signal. The goal is to ensure the safety of both users of the Prairie Path and Illinois Route 59, addressing concerns about potential conflicts and hazards at the crossing point."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/d538507e-ef2e-445f-936f-ed6a722d94a0/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/d538507e-ef2e-445f-936f-ed6a722d94a0",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Federal Aid Route 77, Illinois Route 59, E.W. Tollway to Illinois 64, DuPage County, Illinois"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Illinois Prairie Path, a 296-foot-long recreational trail, is a significant project involving the Illinois Department of Transportation (IDOT) and the Illinois Prairie Path organization. It’s located in Elmhurst, Illinois, and aims to protect pedestrian safety at the intersection of Illinois Route 59 and the Prairie Path. The project proposes installing a push-button traffic control signal to mitigate hazards for users of the Prairie Path. The IDOT is reviewing the proposal, while the Prairie Path organization is advocating for the signal. The goal is to ensure the safety of both users of the Prairie Path and Illinois Route 59, addressing concerns about potential conflicts and hazards at the crossing point."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-federal-aid-route-77-illinois-route-59-e-w.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Federal Aid Route 77, Illinois Route 59, E.W. Tollway to Illinois 64, DuPage County, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d538507e-ef2e-445f-936f-ed6a722d94a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-federal-aid-route-77-illinois-route-59-e-w.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-federal-aid-route-77-illinois-route-59-e-w.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-federal-aid-route-77-illinois-route-59-e-w.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d538507e-ef2e-445f-936f-ed6a722d94a0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d538507e-ef2e-445f-936f-ed6a722d94a0",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

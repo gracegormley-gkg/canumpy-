@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/asheville-community-development-plan-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Asheville community development plan : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the \"Valley Street Connector Project,\" a $12 million initiative to revitalize the East End-Valley Street neighborhood in Asheville, North Carolina. It’s located within the city’s Community Development Program, spearheaded by the Housing Authority and Butler Associates, Consulting Engineers. The project’s primary goal is to improve stormwater drainage and grading, creating a safer and more aesthetically pleasing area. Funding is allocated from the State Highway Commission, Appalachian Regional Council, Urban Development Action Grant, and Bureau of Outdoor funds. The project involves a phased approach, beginning with initial land acquisition and subsequent construction of clustered site housing, including elderly residents. The document emphasizes community involvement and resident feedback, with a focus on addressing issues like brush cleanup, fence replacement, and dog control. The project aims to enhance the neighborhood’s overall quality of life and support the elderly population."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Asheville community development plan : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the \"Valley Street Connector Project,\" a $12 million initiative to revitalize the East End-Valley Street neighborhood in Asheville, North Carolina. It’s located within the city’s Community Development Program, spearheaded by the Housing Authority and Butler Associates, Consulting Engineers. The project’s primary goal is to improve stormwater drainage and grading, creating a safer and more aesthetically pleasing area. Funding is allocated from the State Highway Commission, Appalachian Regional Council, Urban Development Action Grant, and Bureau of Outdoor funds. The project involves a phased approach, beginning with initial land acquisition and subsequent construction of clustered site housing, including elderly residents. The document emphasizes community involvement and resident feedback, with a focus on addressing issues like brush cleanup, fence replacement, and dog control. The project aims to enhance the neighborhood’s overall quality of life and support the elderly population."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/asheville-community-development-plan-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Asheville community development plan : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/asheville-community-development-plan-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/asheville-community-development-plan-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/asheville-community-development-plan-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

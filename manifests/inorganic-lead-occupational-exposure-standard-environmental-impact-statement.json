@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/inorganic-lead-occupational-exposure-standard-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Inorganic lead occupational exposure standard : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"State Clearinghouse Review Officer\" project, a comprehensive initiative undertaken by the state of Indiana to standardize and improve the quality of state-level data collection and reporting. It’s located in Indianapolis, Indiana, involving multiple state agencies, including the Indiana Department of Administration, the Indiana Budget and Finance Office, and the Indiana State Planning Agency. The primary goal is to enhance data transparency, accuracy, and comparability across the state, ensuring better informed decision-making for state government operations and policy development. The clearinghouse aims to consolidate and standardize data collection methods, fostering greater accountability and efficiency within the state’s administrative structure."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/c378cec1-8b83-4931-a2ea-74902caa3d29/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/c378cec1-8b83-4931-a2ea-74902caa3d29",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Inorganic lead occupational exposure standard : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"State Clearinghouse Review Officer\" project, a comprehensive initiative undertaken by the state of Indiana to standardize and improve the quality of state-level data collection and reporting. It’s located in Indianapolis, Indiana, involving multiple state agencies, including the Indiana Department of Administration, the Indiana Budget and Finance Office, and the Indiana State Planning Agency. The primary goal is to enhance data transparency, accuracy, and comparability across the state, ensuring better informed decision-making for state government operations and policy development. The clearinghouse aims to consolidate and standardize data collection methods, fostering greater accountability and efficiency within the state’s administrative structure."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/inorganic-lead-occupational-exposure-standard-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Inorganic lead occupational exposure standard : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c378cec1-8b83-4931-a2ea-74902caa3d29/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/inorganic-lead-occupational-exposure-standard-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/inorganic-lead-occupational-exposure-standard-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/inorganic-lead-occupational-exposure-standard-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c378cec1-8b83-4931-a2ea-74902caa3d29/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c378cec1-8b83-4931-a2ea-74902caa3d29",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

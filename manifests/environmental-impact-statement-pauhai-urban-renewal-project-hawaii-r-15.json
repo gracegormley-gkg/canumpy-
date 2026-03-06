@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-pauhai-urban-renewal-project-hawaii-r-15.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Pauhai Urban Renewal Project, Hawaii R-15"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the proposed Pauahi Urban Renewal Project in Honolulu, Hawaii, a large-scale development aimed at revitalizing the historic Chinatown district. It’s overseen by the City and County of Honolulu, the Department of Housing and Urban Development, and the Atomic Energy Commission. The project’s goal is to sensitively redevelop the Chinatown area, preserving its cultural heritage while addressing concerns related to historical preservation and the preservation of the area’s character. The document highlights the need for careful planning to balance economic growth with the protection of the district’s unique identity. The document also references a March 19th letter from James H. Price, outlining concerns regarding the project’s potential impact on the area’s historic character."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4ace7810-06ae-426a-8ebe-e2c52a38bfa1/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/4ace7810-06ae-426a-8ebe-e2c52a38bfa1",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Pauhai Urban Renewal Project, Hawaii R-15"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the proposed Pauahi Urban Renewal Project in Honolulu, Hawaii, a large-scale development aimed at revitalizing the historic Chinatown district. It’s overseen by the City and County of Honolulu, the Department of Housing and Urban Development, and the Atomic Energy Commission. The project’s goal is to sensitively redevelop the Chinatown area, preserving its cultural heritage while addressing concerns related to historical preservation and the preservation of the area’s character. The document highlights the need for careful planning to balance economic growth with the protection of the district’s unique identity. The document also references a March 19th letter from James H. Price, outlining concerns regarding the project’s potential impact on the area’s historic character."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Urban Development"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed Pauahi Urban Renewal Project in Honolulu, initiated in the 1970s, was a significant attempt to revitalize the city’s Chinatown district, a historically important and culturally rich area. Driven by a desire to modernize Honolulu and attract tourism, the project aimed to redevelop existing buildings and create new residential spaces. However, the project faced considerable opposition from local residents and community groups, leading to delays and ultimately, a significant portion of the original plan was abandoned, leaving behind a complex legacy of redevelopment and community tension. The project was ultimately cancelled due to a lack of sufficient community support and the challenges of balancing preservation with progress."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-pauhai-urban-renewal-project-hawaii-r-15.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Pauhai Urban Renewal Project, Hawaii R-15"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4ace7810-06ae-426a-8ebe-e2c52a38bfa1/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-pauhai-urban-renewal-project-hawaii-r-15.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-pauhai-urban-renewal-project-hawaii-r-15.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-pauhai-urban-renewal-project-hawaii-r-15.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4ace7810-06ae-426a-8ebe-e2c52a38bfa1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4ace7810-06ae-426a-8ebe-e2c52a38bfa1",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

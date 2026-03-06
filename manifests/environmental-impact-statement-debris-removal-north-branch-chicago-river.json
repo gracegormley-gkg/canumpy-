@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-debris-removal-north-branch-chicago-river.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Debris Removal, North Branch Chicago River, Illinois"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The North River Commission proposes a cleanup of the North Branch of the Chicago River, initiated by the Army Corps of Engineers. This project, focused on the Chicago River’s North Branch, aims to restore the river’s natural environment and improve water quality. The North River Commission, comprised of various local organizations, is collaborating with the Army Corps of Engineers and the Division of Waterways. The goal is to address pollution issues, particularly algal growth, while simultaneously promoting community engagement and environmental stewardship. The project involves debris removal, vegetation replanting, and monitoring to ensure the long-term health of the river ecosystem. The Commission emphasizes a holistic approach, recognizing the need to balance ecological restoration with the reconstruction of the river’s revetment."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2373db98-80ca-481c-b9ab-4a4e34101633/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/2373db98-80ca-481c-b9ab-4a4e34101633",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Debris Removal, North Branch Chicago River, Illinois"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The North River Commission proposes a cleanup of the North Branch of the Chicago River, initiated by the Army Corps of Engineers. This project, focused on the Chicago River’s North Branch, aims to restore the river’s natural environment and improve water quality. The North River Commission, comprised of various local organizations, is collaborating with the Army Corps of Engineers and the Division of Waterways. The goal is to address pollution issues, particularly algal growth, while simultaneously promoting community engagement and environmental stewardship. The project involves debris removal, vegetation replanting, and monitoring to ensure the long-term health of the river ecosystem. The Commission emphasizes a holistic approach, recognizing the need to balance ecological restoration with the reconstruction of the river’s revetment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The North River Commission’s proposal to remove debris from the North Branch of the Chicago River, initiated in 1972, was a significant attempt to address pollution and improve the river’s aesthetic appeal. Recognizing the significant impact of the division of waterways’ revetment reconstruction project on the river’s health, the commission sought to mitigate the negative effects of the reconstruction. However, the project faced considerable opposition from local residents and environmental groups, leading to a significant delay and ultimately, the project’s abandonment. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-debris-removal-north-branch-chicago-river.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Debris Removal, North Branch Chicago River, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2373db98-80ca-481c-b9ab-4a4e34101633/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-debris-removal-north-branch-chicago-river.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-debris-removal-north-branch-chicago-river.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-debris-removal-north-branch-chicago-river.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2373db98-80ca-481c-b9ab-4a4e34101633/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2373db98-80ca-481c-b9ab-4a4e34101633",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

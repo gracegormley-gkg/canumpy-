@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-public-transportation-amendments-of-1980.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Public Transportation Amendments of 1980"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document outlines a legislative proposal to enhance federal transportation funding through increased mass transit projects. It focuses on expanding transit systems across the nation, particularly in urban areas. The proposal involves the Department of Transportation (DOT) and the Federal Transit Administration (FTA). The goal is to improve mobility, reduce reliance on foreign oil, stimulate economic development, and enhance the nation’s overall productivity. The document highlights potential environmental impacts, including construction disruptions, air quality concerns, and potential impacts on sensitive natural areas. It emphasizes mitigation strategies to minimize these adverse effects, aiming for long-term benefits while acknowledging the need for careful planning and consideration of irreversible commitments."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5cfbddc1-d414-4b93-95d4-67dd8aca5df3/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/5cfbddc1-d414-4b93-95d4-67dd8aca5df3",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Public Transportation Amendments of 1980"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document outlines a legislative proposal to enhance federal transportation funding through increased mass transit projects. It focuses on expanding transit systems across the nation, particularly in urban areas. The proposal involves the Department of Transportation (DOT) and the Federal Transit Administration (FTA). The goal is to improve mobility, reduce reliance on foreign oil, stimulate economic development, and enhance the nation’s overall productivity. The document highlights potential environmental impacts, including construction disruptions, air quality concerns, and potential impacts on sensitive natural areas. It emphasizes mitigation strategies to minimize these adverse effects, aiming for long-term benefits while acknowledging the need for careful planning and consideration of irreversible commitments."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, known as the 'Transit Corridor Enhancement Act' of 1998, aimed to modernize and expand public transportation systems across the United States, particularly in urban areas. Prior to this, the nation’s transit infrastructure was largely outdated and inefficient, leading to congestion and environmental concerns. The Act was a significant investment in infrastructure development, with the goal of improving accessibility, reducing traffic, and promoting economic growth. However, due to budgetary constraints and political opposition, the project was ultimately scaled back and significantly reduced in scope, resulting in a partial implementation of the original plan. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-public-transportation-amendments-of-1980.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Public Transportation Amendments of 1980"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5cfbddc1-d414-4b93-95d4-67dd8aca5df3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-public-transportation-amendments-of-1980.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-public-transportation-amendments-of-1980.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-public-transportation-amendments-of-1980.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5cfbddc1-d414-4b93-95d4-67dd8aca5df3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5cfbddc1-d414-4b93-95d4-67dd8aca5df3",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

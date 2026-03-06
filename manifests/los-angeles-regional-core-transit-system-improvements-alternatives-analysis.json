@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-regional-core-transit-system-improvements-alternatives-analysis.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Los Angeles regional core transit system improvements alternatives analysis : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the analysis of eleven alternative transit projects for Los Angeles City, focusing on rapid transit development. The project, initiated by the City of Los Angeles Planning Department, aims to improve transportation and reduce congestion. It involves collaboration between the City of Los Angeles, SCRTD, CALTRANS, and various regional agencies. The primary goal is to evaluate the feasibility and cost-effectiveness of various transit options, including rail rapid transit and bus enhancements. The document highlights community concerns regarding costs, property taxes, and potential disruption during construction. It also emphasizes the importance of incorporating community input into the decision-making process, specifically regarding the Hollywood station location, which is currently under review. The document concludes with a summary of the evaluation results and a discussion of potential financing strategies."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/0a612a40-d453-4f71-977e-8f48c8a7e34b/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/0a612a40-d453-4f71-977e-8f48c8a7e34b",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Los Angeles regional core transit system improvements alternatives analysis : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the analysis of eleven alternative transit projects for Los Angeles City, focusing on rapid transit development. The project, initiated by the City of Los Angeles Planning Department, aims to improve transportation and reduce congestion. It involves collaboration between the City of Los Angeles, SCRTD, CALTRANS, and various regional agencies. The primary goal is to evaluate the feasibility and cost-effectiveness of various transit options, including rail rapid transit and bus enhancements. The document highlights community concerns regarding costs, property taxes, and potential disruption during construction. It also emphasizes the importance of incorporating community input into the decision-making process, specifically regarding the Hollywood station location, which is currently under review. The document concludes with a summary of the evaluation results and a discussion of potential financing strategies."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "La Brea Fossil Deposit"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Robert F. Heizer; Charles Rozaire"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Los Angeles Regional Transit Development Program (RTDP) was initiated in 2003 as a collaborative effort between the City of Los Angeles, the Los Angeles County Transportation Commission, and the California Department of Transportation, aiming to improve transportation infrastructure and reduce congestion throughout the region. The project’s initial focus was on expanding and improving the existing bus system, with a significant emphasis on creating a more efficient and accessible transit network. Despite initial enthusiasm, the project faced considerable opposition from various stakeholders, particularly regarding cost and potential disruption to property values, ultimately leading to a significant delay and a re-evaluation of the overall strategy. The project was ultimately completed, albeit with some adjustments and a shift in priorities, and is now considered a foundational element of Los Angeles’s transportation planning efforts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-regional-core-transit-system-improvements-alternatives-analysis.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Los Angeles regional core transit system improvements alternatives analysis : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0a612a40-d453-4f71-977e-8f48c8a7e34b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-regional-core-transit-system-improvements-alternatives-analysis.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-regional-core-transit-system-improvements-alternatives-analysis.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-regional-core-transit-system-improvements-alternatives-analysis.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0a612a40-d453-4f71-977e-8f48c8a7e34b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0a612a40-d453-4f71-977e-8f48c8a7e34b",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

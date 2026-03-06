@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-hurricane-modification-research-project-stormfury.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Hurricane Modification Research, Project STORMFURY"
+    ]
+  },
+  "summary": {
+    "none": [
+      "Project STORUFURY is a Texas initiative to study hurricane modification through experimental seeding. It involves the Department of Water Development, the Texas Weather Modification Act, and the Texas Department of Natural Resources. The goal is to assess the potential impact of seeding on Florida’s environment, focusing on reducing hurricane-related damage. The project aims to evaluate the effects of seeding on rainfall patterns and storm surges, with the ultimate goal of improving coastal resilience. The document highlights the need for careful monitoring and data collection to determine the feasibility and benefits of this approach."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/584ffa42-7aa1-4281-bbcd-c552c80b7240/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/584ffa42-7aa1-4281-bbcd-c552c80b7240",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Hurricane Modification Research, Project STORMFURY"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "Project STORUFURY is a Texas initiative to study hurricane modification through experimental seeding. It involves the Department of Water Development, the Texas Weather Modification Act, and the Texas Department of Natural Resources. The goal is to assess the potential impact of seeding on Florida’s environment, focusing on reducing hurricane-related damage. The project aims to evaluate the effects of seeding on rainfall patterns and storm surges, with the ultimate goal of improving coastal resilience. The document highlights the need for careful monitoring and data collection to determine the feasibility and benefits of this approach."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1971 by the Texas Weather Modification Act, aimed to study the potential of hurricane modification to reduce storm damage and enhance water resources in the state. The project, spearheaded by the Assistant Secretary of the Interior, focused on evaluating the potential hazards of increased storm surges and wind speeds, ultimately concluding that the risks outweighed the benefits and leading to its cancellation. The project's failure highlights a conflict between scientific research and practical application in a resource-intensive environment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-hurricane-modification-research-project-stormfury.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Hurricane Modification Research, Project STORMFURY"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/584ffa42-7aa1-4281-bbcd-c552c80b7240/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-hurricane-modification-research-project-stormfury.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-hurricane-modification-research-project-stormfury.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-hurricane-modification-research-project-stormfury.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/584ffa42-7aa1-4281-bbcd-c552c80b7240/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/584ffa42-7aa1-4281-bbcd-c552c80b7240",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

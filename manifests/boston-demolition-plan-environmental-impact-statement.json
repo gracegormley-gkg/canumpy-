@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/boston-demolition-plan-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Boston demolition plan : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a comprehensive stormwater management plan for Boston, focusing on reducing pollution from demolished buildings. It addresses the area of 12,300 acres occupied by buildings, requiring a targeted removal of sand and gravel from the site. The project, overseen by the Corps of Engineers, involves collaboration between the Boston Redevelopment Authority and the Boston Pollution Control Commission. The primary goal is to mitigate erosion and pollution by capturing sediment before it enters Boston Harbor. The plan emphasizes effective stormwater management through detention basins and catch basins, ensuring compliance with environmental regulations and protecting the harbor's ecosystem. It’s a crucial step in safeguarding Boston’s water quality."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e26f2861-9676-4bbb-88a1-1734629bdf79/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e26f2861-9676-4bbb-88a1-1734629bdf79",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Boston demolition plan : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a comprehensive stormwater management plan for Boston, focusing on reducing pollution from demolished buildings. It addresses the area of 12,300 acres occupied by buildings, requiring a targeted removal of sand and gravel from the site. The project, overseen by the Corps of Engineers, involves collaboration between the Boston Redevelopment Authority and the Boston Pollution Control Commission. The primary goal is to mitigate erosion and pollution by capturing sediment before it enters Boston Harbor. The plan emphasizes effective stormwater management through detention basins and catch basins, ensuring compliance with environmental regulations and protecting the harbor's ecosystem. It’s a crucial step in safeguarding Boston’s water quality."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/boston-demolition-plan-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Boston demolition plan : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e26f2861-9676-4bbb-88a1-1734629bdf79/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/boston-demolition-plan-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/boston-demolition-plan-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/boston-demolition-plan-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e26f2861-9676-4bbb-88a1-1734629bdf79/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e26f2861-9676-4bbb-88a1-1734629bdf79",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

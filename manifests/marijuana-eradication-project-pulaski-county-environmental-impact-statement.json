@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/marijuana-eradication-project-pulaski-county-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Marijuana eradication project, Pulaski County : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a project to control marijuana cultivation within Illinois, specifically in Vinamac County. It’s a collaborative effort involving Indiana State Conservation and Purdue University’s Extension Service. The goal is to mitigate the negative impacts of marijuana plants on wildlife, particularly in areas near state wildlife refuges. The project involves a helicopter inspection to assess the effectiveness of a herbicide application, aiming to reduce the number of plants while preserving the natural environment. The document highlights concerns about potential wildlife harm and emphasizes a balanced approach to managing this growing issue."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Marijuana eradication project, Pulaski County : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a project to control marijuana cultivation within Illinois, specifically in Vinamac County. It’s a collaborative effort involving Indiana State Conservation and Purdue University’s Extension Service. The goal is to mitigate the negative impacts of marijuana plants on wildlife, particularly in areas near state wildlife refuges. The project involves a helicopter inspection to assess the effectiveness of a herbicide application, aiming to reduce the number of plants while preserving the natural environment. The document highlights concerns about potential wildlife harm and emphasizes a balanced approach to managing this growing issue."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 1971, aimed to implement a comprehensive, aerial surveillance program to monitor marijuana cultivation within Indiana. Recognizing the potential for increased illegal activity, the project sought to identify and disrupt the growing network, utilizing a combination of aerial surveys and targeted herbicide application. However, due to concerns about unintended ecological consequences and the potential for increased law enforcement pressure, the project was ultimately halted after a year of intensive monitoring and evaluation, with limited success in achieving its primary goals."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/marijuana-eradication-project-pulaski-county-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Marijuana eradication project, Pulaski County : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/marijuana-eradication-project-pulaski-county-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/marijuana-eradication-project-pulaski-county-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/marijuana-eradication-project-pulaski-county-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

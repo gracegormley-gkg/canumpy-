@@ -1,9 +1,13 @@
-title: Environmental Impact Statement Collection basijbadipfbqpfib
+title: Environmental Impact Statement Collection
 collection:
-     - https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/canopy_output/collection.json
+  - https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/collection.json
 metadata:
   - Summary
   - Themes
+  - Main Location
+  - Key People
+  - Historical Context
+  - Completed
 
 search:
   page:

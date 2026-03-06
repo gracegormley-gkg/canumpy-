@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/olympic-winter-games-1980-lake-placid-north-elba-and-wilmington-and-vicinity.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Olympic Winter Games, 1980, Lake Placid, North Elba and Wilmington and vicinity : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document addresses the environmental impact of the 1980 Winter Olympics on the Lake Placid Central School District. The project aims to minimize disruptions during construction, particularly concerning pedestrian traffic and snow management. The document highlights concerns about soil stabilization and the potential for increased foot traffic, suggesting the ‘no Olympics’ alternative is being dropped. It emphasizes the importance of snowmaking equipment availability and proposes a strategy to mitigate potential impacts through careful planning and snow management. The document underscores the need for a balanced approach, acknowledging the educational and cultural value of the event while prioritizing the preservation of the local environment and community."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/1d9ca3fe-6260-4990-b4aa-081821da89a5/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/1d9ca3fe-6260-4990-b4aa-081821da89a5",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Olympic Winter Games, 1980, Lake Placid, North Elba and Wilmington and vicinity : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document addresses the environmental impact of the 1980 Winter Olympics on the Lake Placid Central School District. The project aims to minimize disruptions during construction, particularly concerning pedestrian traffic and snow management. The document highlights concerns about soil stabilization and the potential for increased foot traffic, suggesting the ‘no Olympics’ alternative is being dropped. It emphasizes the importance of snowmaking equipment availability and proposes a strategy to mitigate potential impacts through careful planning and snow management. The document underscores the need for a balanced approach, acknowledging the educational and cultural value of the event while prioritizing the preservation of the local environment and community."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The 1980 Winter Olympics were a major event in the United States, and the Environmental Impact Statement (EIS) for the site was a crucial component of the project's planning. The EIS aimed to minimize disruption to the surrounding environment, particularly the historic Lake Placid Central School property, and to ensure the Olympic Games would be a positive experience for the community. However, the EIS’s focus on ‘no-impact’ alternatives, particularly the ‘no Olympics’ alternative, was deemed insufficient to adequately address the potential ecological consequences, ultimately leading to its abandonment.  Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/olympic-winter-games-1980-lake-placid-north-elba-and-wilmington-and-vicinity.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Olympic Winter Games, 1980, Lake Placid, North Elba and Wilmington and vicinity : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/1d9ca3fe-6260-4990-b4aa-081821da89a5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/olympic-winter-games-1980-lake-placid-north-elba-and-wilmington-and-vicinity.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/olympic-winter-games-1980-lake-placid-north-elba-and-wilmington-and-vicinity.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/olympic-winter-games-1980-lake-placid-north-elba-and-wilmington-and-vicinity.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/1d9ca3fe-6260-4990-b4aa-081821da89a5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/1d9ca3fe-6260-4990-b4aa-081821da89a5",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "San Jose community development block grant 3-year plan, July 1978-June 1981 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Talladega Bypass\" project in Alabama, proposed by Alternate 2, aiming to construct a new bypass route to Scunty, Alabama. The project, estimated to cost $1,872,000, involves earthwork and transportation costs. It’s overseen by the Central Relocation Office, and the project is supported by the Housing Division and the County Recorder’s Office. The goal is to alleviate traffic congestion and improve transportation infrastructure, potentially benefiting the local economy. The project is a CDBG housing rehabilitation initiative, requiring relocation assistance for displaced residents."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "San Jose community development block grant 3-year plan, July 1978-June 1981 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Talladega Bypass\" project in Alabama, proposed by Alternate 2, aiming to construct a new bypass route to Scunty, Alabama. The project, estimated to cost $1,872,000, involves earthwork and transportation costs. It’s overseen by the Central Relocation Office, and the project is supported by the Housing Division and the County Recorder’s Office. The goal is to alleviate traffic congestion and improve transportation infrastructure, potentially benefiting the local economy. The project is a CDBG housing rehabilitation initiative, requiring relocation assistance for displaced residents."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "San Jose community development block grant 3-year plan, July 1978-June 1981 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-line-delmarva-power-and-light-delaware-river-permit-de-nj.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "500 kV transmission line, Delmarva Power and Light, Delaware River, permit (DE,NJ) : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed overhead power line project spanning the Delaware River near Castle County, Pennsylvania. The project, spearheaded by the State of Delaware, aims to establish a new electrical connection for the Delmarva Power & Light Company. The project involves collaboration between the State of Delaware, the Delmarva Power Company, and the County Council. The stated goal is to improve energy distribution and potentially reduce operational costs, though the document does not provide detailed specifications or environmental impact assessments. It highlights the project's location and the involvement of multiple agencies, emphasizing the state's commitment to infrastructure improvements."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "500 kV transmission line, Delmarva Power and Light, Delaware River, permit (DE,NJ) : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed overhead power line project spanning the Delaware River near Castle County, Pennsylvania. The project, spearheaded by the State of Delaware, aims to establish a new electrical connection for the Delmarva Power & Light Company. The project involves collaboration between the State of Delaware, the Delmarva Power Company, and the County Council. The stated goal is to improve energy distribution and potentially reduce operational costs, though the document does not provide detailed specifications or environmental impact assessments. It highlights the project's location and the involvement of multiple agencies, emphasizing the state's commitment to infrastructure improvements."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed 'Crystal Bridge' project, initiated in 1968 by the Delaware State Park Commission, aimed to construct a massive, technologically advanced bridge spanning the Delaware River, connecting the state’s western and eastern regions.  It was a bold, ambitious undertaking envisioned as a symbol of technological progress and economic growth, but faced significant funding challenges and political opposition, ultimately leading to its cancellation in 1972 due to cost overruns and shifting priorities, leaving the project a largely forgotten footnote in Delaware’s history."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-line-delmarva-power-and-light-delaware-river-permit-de-nj.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "500 kV transmission line, Delmarva Power and Light, Delaware River, permit (DE,NJ) : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-line-delmarva-power-and-light-delaware-river-permit-de-nj.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-line-delmarva-power-and-light-delaware-river-permit-de-nj.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-line-delmarva-power-and-light-delaware-river-permit-de-nj.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-berkeley-urban-renewal-project-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "West Berkeley urban renewal project : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document is a response to comments submitted by the Ocean View Committee regarding the West Berkeley Industrial Park project, initiated by the HUD. The project aims to revitalize the area by constructing new light industry and commercial spaces, aiming to eliminate low-income housing and create new employment opportunities. The document highlights the housing shortage in Berkeley and the need for adequate relocation housing, emphasizing the City’s commitment to providing displaced residents with suitable housing alternatives. It details the HUD’s guidelines for displacement, including the requirement for demonstrating sufficient housing availability within a reasonable timeframe and the need to replace occupied low-income housing units. The document also addresses environmental concerns, including storm drainage improvements and minor air quality impacts, while acknowledging the project’s potential to positively impact the area’s overall quality of life."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3d1c890a-1782-45ec-ad54-55011cf69b88/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/3d1c890a-1782-45ec-ad54-55011cf69b88",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "West Berkeley urban renewal project : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document is a response to comments submitted by the Ocean View Committee regarding the West Berkeley Industrial Park project, initiated by the HUD. The project aims to revitalize the area by constructing new light industry and commercial spaces, aiming to eliminate low-income housing and create new employment opportunities. The document highlights the housing shortage in Berkeley and the need for adequate relocation housing, emphasizing the City’s commitment to providing displaced residents with suitable housing alternatives. It details the HUD’s guidelines for displacement, including the requirement for demonstrating sufficient housing availability within a reasonable timeframe and the need to replace occupied low-income housing units. The document also addresses environmental concerns, including storm drainage improvements and minor air quality impacts, while acknowledging the project’s potential to positively impact the area’s overall quality of life."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The West Berkeley Industrial Park project, initiated in 1970, was a controversial urban renewal initiative in Berkeley, California, aimed at revitalizing the city’s industrial sector.  Initially lauded as a potential economic boon, the project faced significant opposition from residents and community groups, particularly those concerned about displacement and the loss of neighborhood character. Despite initial optimistic projections, the project ultimately faced substantial challenges, including budget overruns and a lack of adequate affordable housing, leading to its abandonment in 1973.  Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-berkeley-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "West Berkeley urban renewal project : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3d1c890a-1782-45ec-ad54-55011cf69b88/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-berkeley-urban-renewal-project-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-berkeley-urban-renewal-project-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-berkeley-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3d1c890a-1782-45ec-ad54-55011cf69b88/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3d1c890a-1782-45ec-ad54-55011cf69b88",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

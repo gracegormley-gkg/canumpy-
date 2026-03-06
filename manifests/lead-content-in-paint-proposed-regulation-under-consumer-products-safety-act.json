@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lead-content-in-paint-proposed-regulation-under-consumer-products-safety-act.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Lead content in paint, proposed regulation under Consumer Products Safety Act : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a proposal from the Consumer Product Safety Commission (HEW) to address lead contamination in paint products. The Commission, under the Lead-Based Paint Poisoning Prevention Act, seeks to establish a safe level of lead in paint, currently at 0.06 percent. The document outlines a comprehensive process involving data collection, expert analysis, and a decision-making process to determine if the current definition of lead-based paint is adequate. The Commission is requesting input from various agencies, including HUD, the FDA, and the EPA, to ensure a thorough evaluation. The goal is to establish a clear and consistent standard for lead-containing paint, promoting consumer safety and environmental protection."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/ee020c1c-c909-4280-82e3-9a3c840bf039/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/ee020c1c-c909-4280-82e3-9a3c840bf039",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Lead content in paint, proposed regulation under Consumer Products Safety Act : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a proposal from the Consumer Product Safety Commission (HEW) to address lead contamination in paint products. The Commission, under the Lead-Based Paint Poisoning Prevention Act, seeks to establish a safe level of lead in paint, currently at 0.06 percent. The document outlines a comprehensive process involving data collection, expert analysis, and a decision-making process to determine if the current definition of lead-based paint is adequate. The Commission is requesting input from various agencies, including HUD, the FDA, and the EPA, to ensure a thorough evaluation. The goal is to establish a clear and consistent standard for lead-containing paint, promoting consumer safety and environmental protection."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lead-content-in-paint-proposed-regulation-under-consumer-products-safety-act.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Lead content in paint, proposed regulation under Consumer Products Safety Act : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ee020c1c-c909-4280-82e3-9a3c840bf039/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lead-content-in-paint-proposed-regulation-under-consumer-products-safety-act.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lead-content-in-paint-proposed-regulation-under-consumer-products-safety-act.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lead-content-in-paint-proposed-regulation-under-consumer-products-safety-act.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/ee020c1c-c909-4280-82e3-9a3c840bf039/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/ee020c1c-c909-4280-82e3-9a3c840bf039",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Kendall Square urban renewal : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed Urban Renewal project for the Kendall Square area of Cambridge, Massachusetts. It outlines a plan to redevelop the site with a mix of residential, commercial, and light industrial uses. The goal is to revitalize the area, creating a more vibrant and functional space. The project includes a fire station, industrial facilities, retail spaces, a hotel, and a park. The document emphasizes the 'Preferred Plan,' a carefully considered design that balances economic development with preservation of the area's historical character. It highlights the need for specific environmental controls, including noise mitigation measures and energy conservation standards, as mandated by federal regulations and the Cambridge Historical Commission. The document also calls for the CRA to incorporate the MHC's feedback into the design process."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4d4c7746-8342-4de4-b577-800db1eede37/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/4d4c7746-8342-4de4-b577-800db1eede37",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Kendall Square urban renewal : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed Urban Renewal project for the Kendall Square area of Cambridge, Massachusetts. It outlines a plan to redevelop the site with a mix of residential, commercial, and light industrial uses. The goal is to revitalize the area, creating a more vibrant and functional space. The project includes a fire station, industrial facilities, retail spaces, a hotel, and a park. The document emphasizes the 'Preferred Plan,' a carefully considered design that balances economic development with preservation of the area's historical character. It highlights the need for specific environmental controls, including noise mitigation measures and energy conservation standards, as mandated by federal regulations and the Cambridge Historical Commission. The document also calls for the CRA to incorporate the MHC's feedback into the design process."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in the 1970s, aimed to revitalize the downtown area of Cambridge, Massachusetts, by constructing a mixed-use development incorporating a fire station, industrial spaces, retail stores, and a hotel. The project, initially envisioned as a significant economic driver, faced considerable opposition from preservation groups and community members concerned about the potential loss of historic character. Ultimately, the project was completed, though with some modifications and adjustments to the design, reflecting the concerns raised and the need to balance development goals with preservation efforts. It was deemed successful in generating economic activity and creating a more vibrant downtown area, but it also resulted in some controversy and adjustments to the original plan."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Kendall Square urban renewal : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4d4c7746-8342-4de4-b577-800db1eede37/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4d4c7746-8342-4de4-b577-800db1eede37/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4d4c7746-8342-4de4-b577-800db1eede37",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

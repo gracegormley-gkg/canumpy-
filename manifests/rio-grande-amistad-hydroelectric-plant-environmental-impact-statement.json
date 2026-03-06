@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rio-grande-amistad-hydroelectric-plant-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Rio Grande, Amistad hydroelectric plant : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed construction of a new hydroelectric dam, the 'Amistad Reservoir,' located in the Rio Grande basin, near the border of Arizona and New Mexico. The project, spearheaded by the US Bureau of Reclamation, aims to generate significant electricity and provide water resources for the region. The document highlights the project’s goal of increasing water supply and power generation through the construction of a new dam, with a focus on optimizing water flow and minimizing environmental impact. It emphasizes the collaboration between federal agencies, including the Bureau of Reclamation and the US Forest Service, and the involvement of local communities and stakeholders. The project is a significant undertaking with substantial financial investment and long-term implications for water management and regional economies."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/c56d2b58-e4a8-4b16-bd48-43dc29c6d905/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/c56d2b58-e4a8-4b16-bd48-43dc29c6d905",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Rio Grande, Amistad hydroelectric plant : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed construction of a new hydroelectric dam, the 'Amistad Reservoir,' located in the Rio Grande basin, near the border of Arizona and New Mexico. The project, spearheaded by the US Bureau of Reclamation, aims to generate significant electricity and provide water resources for the region. The document highlights the project’s goal of increasing water supply and power generation through the construction of a new dam, with a focus on optimizing water flow and minimizing environmental impact. It emphasizes the collaboration between federal agencies, including the Bureau of Reclamation and the US Forest Service, and the involvement of local communities and stakeholders. The project is a significant undertaking with substantial financial investment and long-term implications for water management and regional economies."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rio-grande-amistad-hydroelectric-plant-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Rio Grande, Amistad hydroelectric plant : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c56d2b58-e4a8-4b16-bd48-43dc29c6d905/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rio-grande-amistad-hydroelectric-plant-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rio-grande-amistad-hydroelectric-plant-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rio-grande-amistad-hydroelectric-plant-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c56d2b58-e4a8-4b16-bd48-43dc29c6d905/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c56d2b58-e4a8-4b16-bd48-43dc29c6d905",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

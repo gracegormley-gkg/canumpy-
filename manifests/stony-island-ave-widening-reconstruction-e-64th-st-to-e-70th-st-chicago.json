@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stony-island-ave-widening-reconstruction-e-64th-st-to-e-70th-st-chicago.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Stony Island Ave widening, reconstruction, E. 64th St to E. 70th St, Chicago : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document describes the \"Stony Island Avenue Improvement\" project, a major roadway enhancement in Jackson Park, Chicago, Illinois. It involves widening the northbound lanes of the existing road, relocating park benches, and planting trees to compensate for land taken from the park. The project, initiated by the Chicago Park District, aims to improve traffic flow and enhance the park’s aesthetic appeal. The goal is to create a smoother, more accessible route for pedestrians and vehicles while preserving the park’s natural environment. The project is being overseen by the Department of Public Works and involves coordination with the Chicago Park District to ensure the land is appropriately re-landscaped. The document confirms the project’s approval based on the preliminary plans and acknowledges minor adjustments to address park bench placement and tree planting."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/065547ad-ed41-41ea-8f90-11726668cc6f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/065547ad-ed41-41ea-8f90-11726668cc6f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Stony Island Ave widening, reconstruction, E. 64th St to E. 70th St, Chicago : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document describes the \"Stony Island Avenue Improvement\" project, a major roadway enhancement in Jackson Park, Chicago, Illinois. It involves widening the northbound lanes of the existing road, relocating park benches, and planting trees to compensate for land taken from the park. The project, initiated by the Chicago Park District, aims to improve traffic flow and enhance the park’s aesthetic appeal. The goal is to create a smoother, more accessible route for pedestrians and vehicles while preserving the park’s natural environment. The project is being overseen by the Department of Public Works and involves coordination with the Chicago Park District to ensure the land is appropriately re-landscaped. The document confirms the project’s approval based on the preliminary plans and acknowledges minor adjustments to address park bench placement and tree planting."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "South Cornell Drive, Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Cornell Drive; Paul; Redeemer; Mary Prohy Johnson; Jay Miller"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stony-island-ave-widening-reconstruction-e-64th-st-to-e-70th-st-chicago.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Stony Island Ave widening, reconstruction, E. 64th St to E. 70th St, Chicago : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/065547ad-ed41-41ea-8f90-11726668cc6f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stony-island-ave-widening-reconstruction-e-64th-st-to-e-70th-st-chicago.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stony-island-ave-widening-reconstruction-e-64th-st-to-e-70th-st-chicago.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stony-island-ave-widening-reconstruction-e-64th-st-to-e-70th-st-chicago.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/065547ad-ed41-41ea-8f90-11726668cc6f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/065547ad-ed41-41ea-8f90-11726668cc6f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

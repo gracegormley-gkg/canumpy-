@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-city-university-urban-renewal-project-iowa-city.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, City-University Urban Renewal Project, Iowa City, Iowa"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Project for a Pedestrian-Oriented Campus\" proposed by the University of Iowa for the downtown Iowa City area. It outlines a plan to redesign the campus's central core, prioritizing pedestrian traffic and creating a more inviting environment. The project involves a comprehensive land use study, preliminary zoning changes, and a redesign of key streets and pathways. The goal is to improve accessibility, enhance the campus’s aesthetic appeal, and foster a stronger connection between students, faculty, and the community. The document also addresses parking system improvements, noise control, and preliminary financial feasibility analysis, demonstrating a commitment to sustainable urban development and a user-friendly campus experience. It’s a proposal for a significant redesign of the downtown core, aiming to improve the overall quality of life for students and staff."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3285810a-f780-443e-822a-7ef14b6f639d/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/3285810a-f780-443e-822a-7ef14b6f639d",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, City-University Urban Renewal Project, Iowa City, Iowa"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Project for a Pedestrian-Oriented Campus\" proposed by the University of Iowa for the downtown Iowa City area. It outlines a plan to redesign the campus's central core, prioritizing pedestrian traffic and creating a more inviting environment. The project involves a comprehensive land use study, preliminary zoning changes, and a redesign of key streets and pathways. The goal is to improve accessibility, enhance the campus’s aesthetic appeal, and foster a stronger connection between students, faculty, and the community. The document also addresses parking system improvements, noise control, and preliminary financial feasibility analysis, demonstrating a commitment to sustainable urban development and a user-friendly campus experience. It’s a proposal for a significant redesign of the downtown core, aiming to improve the overall quality of life for students and staff."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1972, aimed to revitalize the downtown area of Iowa City through a comprehensive redevelopment plan focused on pedestrian-friendly design and improved public transportation. Initially presented as a feasibility study, the project faced significant challenges due to budgetary constraints and competing priorities. Despite initial optimism, the project ultimately faced delays and cost overruns, leading to a partial implementation and a shift in the city’s focus towards other infrastructure improvements. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-city-university-urban-renewal-project-iowa-city.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, City-University Urban Renewal Project, Iowa City, Iowa"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3285810a-f780-443e-822a-7ef14b6f639d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-city-university-urban-renewal-project-iowa-city.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-city-university-urban-renewal-project-iowa-city.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-city-university-urban-renewal-project-iowa-city.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3285810a-f780-443e-822a-7ef14b6f639d/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3285810a-f780-443e-822a-7ef14b6f639d",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

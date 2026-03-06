@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Metropolitan Atlanta rapid transit system : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document is a response from the Historic Preservation Section of the Georgia State Historic Preservation Office (GSHPP) to the Atlanta Metropolitan Planning Commission (AMPC) regarding the proposed Rapid Transit System. The document addresses concerns regarding the adequacy of the initial archaeological survey conducted for the project, specifically highlighting the lack of detailed information regarding significant historical structures within the Vine City, Techwood, Candler Park, and East Lake areas. The AMPC is requesting MARTA to conduct further research and documentation to accurately assess the impact of the project on these cultural resources, ensuring compliance with federal law and the National Historic Preservation Act. The document emphasizes the need for a comprehensive evaluation of the project’s effects and mitigation procedures, including the establishment of professional standards for archaeological recovery, and recommends a review of existing historical sites and districts to address deficiencies identified in the initial survey."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/6ea882b2-5f5e-4e2a-9124-2ef215a46d18/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/6ea882b2-5f5e-4e2a-9124-2ef215a46d18",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Metropolitan Atlanta rapid transit system : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document is a response from the Historic Preservation Section of the Georgia State Historic Preservation Office (GSHPP) to the Atlanta Metropolitan Planning Commission (AMPC) regarding the proposed Rapid Transit System. The document addresses concerns regarding the adequacy of the initial archaeological survey conducted for the project, specifically highlighting the lack of detailed information regarding significant historical structures within the Vine City, Techwood, Candler Park, and East Lake areas. The AMPC is requesting MARTA to conduct further research and documentation to accurately assess the impact of the project on these cultural resources, ensuring compliance with federal law and the National Historic Preservation Act. The document emphasizes the need for a comprehensive evaluation of the project’s effects and mitigation procedures, including the establishment of professional standards for archaeological recovery, and recommends a review of existing historical sites and districts to address deficiencies identified in the initial survey."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Atlanta Metropolitan Area’s development in the 1970s was characterized by a rapid expansion of infrastructure and urban sprawl, driven by a combination of suburban growth and a desire for increased accessibility. This project, the construction of a new light rail line, represented a significant attempt to address this growth by creating a more efficient and integrated transportation network. However, the project faced considerable opposition from local residents and environmental groups, leading to delays and ultimately, its cancellation in 1976 due to cost overruns and community concerns about its impact on the surrounding area."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Metropolitan Atlanta rapid transit system : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/6ea882b2-5f5e-4e2a-9124-2ef215a46d18/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/6ea882b2-5f5e-4e2a-9124-2ef215a46d18/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/6ea882b2-5f5e-4e2a-9124-2ef215a46d18",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

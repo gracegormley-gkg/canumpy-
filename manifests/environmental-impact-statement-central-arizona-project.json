@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-arizona-project.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Central Arizona Project"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document concerns the Central Arizona Project (CAP)’s Hooker Dam Reservoir, a proposed dam project in southwestern New Mexico. The document outlines concerns regarding potential environmental damage to the Gila River’s riparian zone, specifically through increased water temperature and reduced vegetation due to regulated stream flow. The author, Bruce J. Harris, argues that increased waterfowl utilization on the lake will diminish habitat for nesting birds and migratory waterfowl, mirroring past experiences with similar reservoirs. He contends that the reservoir’s variable water level will lead to a net loss of wildlife habitat, particularly for sensitive species. The document emphasizes the need for careful consideration of the project’s potential impact on the Gila River ecosystem, advocating for a more balanced approach to water management and riparian preservation."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/18cda179-5c34-4766-9933-ed5b19e3216b/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/18cda179-5c34-4766-9933-ed5b19e3216b",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Central Arizona Project"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document concerns the Central Arizona Project (CAP)’s Hooker Dam Reservoir, a proposed dam project in southwestern New Mexico. The document outlines concerns regarding potential environmental damage to the Gila River’s riparian zone, specifically through increased water temperature and reduced vegetation due to regulated stream flow. The author, Bruce J. Harris, argues that increased waterfowl utilization on the lake will diminish habitat for nesting birds and migratory waterfowl, mirroring past experiences with similar reservoirs. He contends that the reservoir’s variable water level will lead to a net loss of wildlife habitat, particularly for sensitive species. The document emphasizes the need for careful consideration of the project’s potential impact on the Gila River ecosystem, advocating for a more balanced approach to water management and riparian preservation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Central Arizona Project (CAP) project, initiated in the 1960s, aimed to construct the Hooker Dam Reservoir in Arizona to control flooding, provide water resources, and generate hydroelectric power. However, due to environmental concerns, including potential impacts on riparian habitats and wildlife, the project faced significant opposition from conservation groups and local communities. Ultimately, the project was scaled back and completed with a reduced capacity, demonstrating a compromise between water management and ecological preservation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-arizona-project.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Central Arizona Project"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/18cda179-5c34-4766-9933-ed5b19e3216b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-arizona-project.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-arizona-project.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-arizona-project.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/18cda179-5c34-4766-9933-ed5b19e3216b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/18cda179-5c34-4766-9933-ed5b19e3216b",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

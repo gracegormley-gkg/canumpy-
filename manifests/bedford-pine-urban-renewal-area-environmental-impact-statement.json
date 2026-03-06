@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bedford-pine-urban-renewal-area-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Bedford-Pine urban renewal area : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document is a draft Environmental Impact Statement (EIS) for the Bedford-Pine Urban Renewal Area, a 78-acre redevelopment project in Atlanta, Georgia. The EIS, prepared by the Bedford-Pine Project Area Committee (PAC), outlines the proposed changes to the area, including increased density, traffic generation, and potential displacement of residents. It focuses primarily on the 78-acre redevelopment, neglecting broader impacts on the city as a whole and the rehabilitation program. The document highlights the reliance on existing plans and data, failing to adequately address potential spin-off effects from the CDP, the withdrawal of HUD commitments, and the overall impact on the community. It is a preliminary assessment, lacking comprehensive evaluation of potential consequences and is considered deficient in its scope and analysis."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Bedford-Pine urban renewal area : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document is a draft Environmental Impact Statement (EIS) for the Bedford-Pine Urban Renewal Area, a 78-acre redevelopment project in Atlanta, Georgia. The EIS, prepared by the Bedford-Pine Project Area Committee (PAC), outlines the proposed changes to the area, including increased density, traffic generation, and potential displacement of residents. It focuses primarily on the 78-acre redevelopment, neglecting broader impacts on the city as a whole and the rehabilitation program. The document highlights the reliance on existing plans and data, failing to adequately address potential spin-off effects from the CDP, the withdrawal of HUD commitments, and the overall impact on the community. It is a preliminary assessment, lacking comprehensive evaluation of potential consequences and is considered deficient in its scope and analysis."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bedford-pine-urban-renewal-area-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Bedford-Pine urban renewal area : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bedford-pine-urban-renewal-area-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bedford-pine-urban-renewal-area-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bedford-pine-urban-renewal-area-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

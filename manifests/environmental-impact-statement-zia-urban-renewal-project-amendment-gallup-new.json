@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Zia Urban Renewal Project Amendment, Gallup, New Mexico"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Urban Renewal Plan for Gallup, New Mexico, spearheaded by the ZIA Urban Renewal Agency. It focuses on revitalizing industrial and commercial areas, aiming to create new jobs and improve the city’s economic vitality. The project involves a comprehensive assessment of existing land use, including a detailed map of proposed development. The agency is collaborating with the HUD, City of Gallup, and the Urban Renewal Agency to create a sustainable and economically diverse future for Gallup. The goal is to transform underutilized areas into thriving centers, addressing both current needs and future growth, with a focus on attracting new businesses and residents. The plan includes detailed maps and a comprehensive plan for land use and development."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/19ab5449-ac00-4526-8d85-763c230cdb98/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/19ab5449-ac00-4526-8d85-763c230cdb98",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Zia Urban Renewal Project Amendment, Gallup, New Mexico"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Urban Renewal Plan for Gallup, New Mexico, spearheaded by the ZIA Urban Renewal Agency. It focuses on revitalizing industrial and commercial areas, aiming to create new jobs and improve the city’s economic vitality. The project involves a comprehensive assessment of existing land use, including a detailed map of proposed development. The agency is collaborating with the HUD, City of Gallup, and the Urban Renewal Agency to create a sustainable and economically diverse future for Gallup. The goal is to transform underutilized areas into thriving centers, addressing both current needs and future growth, with a focus on attracting new businesses and residents. The plan includes detailed maps and a comprehensive plan for land use and development."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1973 by the ZIA Urban Renewal Plan, aimed to revitalize Gallup, New Mexico, by transforming abandoned industrial and commercial areas into mixed-use developments. Recognizing the potential for economic growth and job creation, the project focused on revitalizing existing infrastructure and creating new residential and commercial spaces. However, due to funding constraints and shifting priorities, the project ultimately faced significant delays and was not fully completed, leaving behind a legacy of partially developed areas."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Zia Urban Renewal Project Amendment, Gallup, New Mexico"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/19ab5449-ac00-4526-8d85-763c230cdb98/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/19ab5449-ac00-4526-8d85-763c230cdb98/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/19ab5449-ac00-4526-8d85-763c230cdb98",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

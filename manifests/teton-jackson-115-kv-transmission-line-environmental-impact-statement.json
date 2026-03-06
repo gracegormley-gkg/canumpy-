@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/teton-jackson-115-kv-transmission-line-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Teton-Jackson 115 kV transmission line : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed Transmission Line project in the Jackson Hole Valley, Wyoming, undertaken by Environmental Engineers of Wyoming (EEW). The project aims to construct a power line traversing the valley floor, utilizing a route chosen by a local millionaire, Walton, who owns land adjacent to the Elk Refuge. The EEW team has identified several archaeological sites – obsidian knolls, small southwest-trending valleys, and a potential quarry – within the area. The document highlights concerns regarding the map’s accuracy and the potential for interference with existing archaeological investigations. The goal is to conduct a comprehensive archaeological survey before proceeding with construction, ensuring minimal disruption to historical sites and preserving the valley’s heritage. The EEW is requesting a detailed map and a preliminary reconnaissance to guide the survey process."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2e745ac2-b7e1-457c-8695-5715a96202a7/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/2e745ac2-b7e1-457c-8695-5715a96202a7",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Teton-Jackson 115 kV transmission line : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed Transmission Line project in the Jackson Hole Valley, Wyoming, undertaken by Environmental Engineers of Wyoming (EEW). The project aims to construct a power line traversing the valley floor, utilizing a route chosen by a local millionaire, Walton, who owns land adjacent to the Elk Refuge. The EEW team has identified several archaeological sites – obsidian knolls, small southwest-trending valleys, and a potential quarry – within the area. The document highlights concerns regarding the map’s accuracy and the potential for interference with existing archaeological investigations. The goal is to conduct a comprehensive archaeological survey before proceeding with construction, ensuring minimal disruption to historical sites and preserving the valley’s heritage. The EEW is requesting a detailed map and a preliminary reconnaissance to guide the survey process."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project involves the construction of a power transmission line across a significant portion of the Jackson Hole valley, a region historically important for indigenous populations and possessing archaeological sites. The project, initiated by the State Archaeologist, aims to facilitate the development of public outdoor recreation, but its implementation raises concerns about potential historical impacts and the need for thorough archaeological investigation before construction begins. The project was ultimately completed, though with some adjustments and revisions to the route design, reflecting the complexities of the terrain and the need for a more comprehensive archaeological assessment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/teton-jackson-115-kv-transmission-line-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Teton-Jackson 115 kV transmission line : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2e745ac2-b7e1-457c-8695-5715a96202a7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/teton-jackson-115-kv-transmission-line-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/teton-jackson-115-kv-transmission-line-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/teton-jackson-115-kv-transmission-line-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2e745ac2-b7e1-457c-8695-5715a96202a7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2e745ac2-b7e1-457c-8695-5715a96202a7",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

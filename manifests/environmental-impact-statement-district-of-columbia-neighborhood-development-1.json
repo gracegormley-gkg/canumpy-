@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Shaw School Urban Renewal Area"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Urban Renewal Project\" in the downtown area of [City Name], overseen by the [Agency Name] and the [Agency Name] of the HUD. The project aims to revitalize the area by removing existing housing units due to urban renewal activities. Approximately 61 roomers are expected to relocate, with 75% of these households being public housing eligible. A total of 114 units are expected to be removed through Code Enforcement, with 32 units being HUD assisted, 4 units being Model Cities assisted, and 10 units being removed through the Public Works department. The project’s goal is to replace these units with new, rehabilitated housing, aiming for a 3% vacancy rate within three years. The document highlights the need for assistance from the SBA and other organizations to facilitate relocation and provide financial support to eligible businesses."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/75127156-7593-40bf-8cad-0a9a6f271fe6/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/75127156-7593-40bf-8cad-0a9a6f271fe6",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Shaw School Urban Renewal Area"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Urban Renewal Project\" in the downtown area of [City Name], overseen by the [Agency Name] and the [Agency Name] of the HUD. The project aims to revitalize the area by removing existing housing units due to urban renewal activities. Approximately 61 roomers are expected to relocate, with 75% of these households being public housing eligible. A total of 114 units are expected to be removed through Code Enforcement, with 32 units being HUD assisted, 4 units being Model Cities assisted, and 10 units being removed through the Public Works department. The project’s goal is to replace these units with new, rehabilitated housing, aiming for a 3% vacancy rate within three years. The document highlights the need for assistance from the SBA and other organizations to facilitate relocation and provide financial support to eligible businesses."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2018, aimed to revitalize distressed neighborhoods in the city through the construction of new affordable housing units. It was initially lauded as a significant step towards addressing the housing crisis and promoting economic opportunity, but faced significant delays and cost overruns, ultimately leading to its cancellation in 2022.  The project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Shaw School Urban Renewal Area"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/75127156-7593-40bf-8cad-0a9a6f271fe6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/75127156-7593-40bf-8cad-0a9a6f271fe6/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/75127156-7593-40bf-8cad-0a9a6f271fe6",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

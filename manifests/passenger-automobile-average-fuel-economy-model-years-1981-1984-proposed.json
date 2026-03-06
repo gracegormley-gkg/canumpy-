@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Materials in the Automobile\" project, a collaborative effort between the U.S. Department of Transportation and the Chrysler Corporation. It outlines a comprehensive assessment of automotive materials, focusing on steel, aluminum, and plastics. The goal is to identify and quantify material improvements to enhance vehicle safety, fuel efficiency, and overall performance. The project involves analyzing material properties, testing durability, and recommending design changes. It aims to provide data-driven insights for future vehicle development, contributing to safer and more sustainable transportation."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Materials in the Automobile\" project, a collaborative effort between the U.S. Department of Transportation and the Chrysler Corporation. It outlines a comprehensive assessment of automotive materials, focusing on steel, aluminum, and plastics. The goal is to identify and quantify material improvements to enhance vehicle safety, fuel efficiency, and overall performance. The project involves analyzing material properties, testing durability, and recommending design changes. It aims to provide data-driven insights for future vehicle development, contributing to safer and more sustainable transportation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

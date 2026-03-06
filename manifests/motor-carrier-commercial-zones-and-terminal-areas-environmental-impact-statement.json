@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Motor carrier commercial zones and terminal areas : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a proposed expansion of the Interstate Commerce Act's commercial zone exemption, designed to facilitate cross-state transportation between New Jersey and New York. It establishes a tiered system based on population, with exemptions granted to unincorporated areas within 3, 4, 6, and 8 miles of corporate limits, and a minimum population threshold of 2,500 for exemptions. The goal is to streamline freight movement across state lines, particularly between New Jersey and New York, by extending the existing exemption to encompass a wider geographic area. The document emphasizes the need for consistent application of the exemption across states, ensuring equitable treatment of commercial activity and promoting efficient logistics."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Motor carrier commercial zones and terminal areas : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a proposed expansion of the Interstate Commerce Act's commercial zone exemption, designed to facilitate cross-state transportation between New Jersey and New York. It establishes a tiered system based on population, with exemptions granted to unincorporated areas within 3, 4, 6, and 8 miles of corporate limits, and a minimum population threshold of 2,500 for exemptions. The goal is to streamline freight movement across state lines, particularly between New Jersey and New York, by extending the existing exemption to encompass a wider geographic area. The document emphasizes the need for consistent application of the exemption across states, ensuring equitable treatment of commercial activity and promoting efficient logistics."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Motor carrier commercial zones and terminal areas : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

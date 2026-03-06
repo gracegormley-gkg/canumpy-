@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-testing-program-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Underground nuclear testing program : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the Underground Nuclear Testing Program (UNTP) at the Nevada Test Site, a project initiated by the U.S. Department of Energy (DOE) to conduct nuclear tests. The program, overseen by the ERDA, aims to continue testing nuclear devices through fiscal year 1976 and a transition period. The document highlights the project's location in the Mojave Desert, specifically the Nevada Test Site, and involves multiple agencies, including the DOE, DOT, EPA, and state governments. The primary goal is to continue nuclear testing, with a focus on the Pahute Mesa area, to test nuclear devices through the years. The document also addresses concerns regarding groundwater transport and potential environmental impacts, including the study of radionuclides like plutonium, which are being carefully monitored and assessed."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/ccd55da3-3f23-409b-a94e-83a7eccf317d/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/ccd55da3-3f23-409b-a94e-83a7eccf317d",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Underground nuclear testing program : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the Underground Nuclear Testing Program (UNTP) at the Nevada Test Site, a project initiated by the U.S. Department of Energy (DOE) to conduct nuclear tests. The program, overseen by the ERDA, aims to continue testing nuclear devices through fiscal year 1976 and a transition period. The document highlights the project's location in the Mojave Desert, specifically the Nevada Test Site, and involves multiple agencies, including the DOE, DOT, EPA, and state governments. The primary goal is to continue nuclear testing, with a focus on the Pahute Mesa area, to test nuclear devices through the years. The document also addresses concerns regarding groundwater transport and potential environmental impacts, including the study of radionuclides like plutonium, which are being carefully monitored and assessed."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-testing-program-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Underground nuclear testing program : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ccd55da3-3f23-409b-a94e-83a7eccf317d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-testing-program-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-testing-program-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-testing-program-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/ccd55da3-3f23-409b-a94e-83a7eccf317d/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/ccd55da3-3f23-409b-a94e-83a7eccf317d",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

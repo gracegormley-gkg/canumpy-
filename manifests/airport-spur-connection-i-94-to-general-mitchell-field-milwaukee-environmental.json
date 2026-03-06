@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Airport Spur connection, I-94 to General Mitchell Field, Milwaukee : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Air Pollution Control Section's review of the Airport Spur project, located in Milwaukee, Wisconsin. The project aims to alleviate traffic congestion on local streets by constructing a new runway. The Department of Transportation (DOT) is overseeing the project, involving the Bureau of Air Pollution Control and Solid Waste Management. EPA guidelines are used to assess air quality, particularly concerning carbon monoxide concentrations. The document highlights the need to analyze receptor exposure, including potential sources like hydrocarbon emissions and background CO levels. It emphasizes the importance of calculating the difference between the ‘build’ and ‘no build’ concentrations to determine potential degradation. The review includes a calculation of the 8-hour maximum CO concentration, and a consideration of potential future traffic volume increases, aiming to ensure the project’s impact on air quality is adequately addressed."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/fb307312-04c8-4c49-afa3-e7b650650a7c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/fb307312-04c8-4c49-afa3-e7b650650a7c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Airport Spur connection, I-94 to General Mitchell Field, Milwaukee : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Air Pollution Control Section's review of the Airport Spur project, located in Milwaukee, Wisconsin. The project aims to alleviate traffic congestion on local streets by constructing a new runway. The Department of Transportation (DOT) is overseeing the project, involving the Bureau of Air Pollution Control and Solid Waste Management. EPA guidelines are used to assess air quality, particularly concerning carbon monoxide concentrations. The document highlights the need to analyze receptor exposure, including potential sources like hydrocarbon emissions and background CO levels. It emphasizes the importance of calculating the difference between the ‘build’ and ‘no build’ concentrations to determine potential degradation. The review includes a calculation of the 8-hour maximum CO concentration, and a consideration of potential future traffic volume increases, aiming to ensure the project’s impact on air quality is adequately addressed."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Airport Spur connection, I-94 to General Mitchell Field, Milwaukee : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fb307312-04c8-4c49-afa3-e7b650650a7c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fb307312-04c8-4c49-afa3-e7b650650a7c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fb307312-04c8-4c49-afa3-e7b650650a7c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

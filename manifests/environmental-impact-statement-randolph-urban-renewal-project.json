@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-randolph-urban-renewal-project.json",
   "type": "Manifest",
   "label": {
     "none": [
@@ -9,7 +9,7 @@
   },
   "summary": {
     "none": [
-      "The Richmond Redevelopment and Housing Executive is undertaking a project to revitalize the Randolph Street corridor in the city of Richmond, Virginia. This project, initiated by the Richmond Redevelopment and Housing Executive, aims to improve the aesthetic and functionality of the area, particularly the Randolph Street area. The project involves demolition of existing structures and the construction of new, improved buildings. The goal is to create a more attractive and livable space for residents and businesses. Funding for the project is being provided through a combination of local grants, a temporary loan from the HUD, and land donations. The project will focus on improving the architectural quality of the area, creating a more cohesive and appealing environment for the community."
+      "The Richmond Redevelopment and Housing Executive Agency is proposing a $25,437,377 project to revitalize the Randolph Street corridor in Richmond, Virginia. This project, overseen by LPA, aims to address urban blight and promote economic growth through the construction of new housing and improvements to existing structures. The project involves demolition and removal of existing buildings, followed by the construction of new residential units and public facilities. The goal is to create a more vibrant and accessible neighborhood, enhancing the quality of life for residents. Funding will be secured through a combination of land donations, project capital grants, and relocation payments. The project is expected to be completed within a timeframe of 12 years."
     ]
   },
   "thumbnail": [
@@ -42,7 +42,7 @@
       },
       "value": {
         "none": [
-          "The Richmond Redevelopment and Housing Executive is undertaking a project to revitalize the Randolph Street corridor in the city of Richmond, Virginia. This project, initiated by the Richmond Redevelopment and Housing Executive, aims to improve the aesthetic and functionality of the area, particularly the Randolph Street area. The project involves demolition of existing structures and the construction of new, improved buildings. The goal is to create a more attractive and livable space for residents and businesses. Funding for the project is being provided through a combination of local grants, a temporary loan from the HUD, and land donations. The project will focus on improving the architectural quality of the area, creating a more cohesive and appealing environment for the community."
+          "The Richmond Redevelopment and Housing Executive Agency is proposing a $25,437,377 project to revitalize the Randolph Street corridor in Richmond, Virginia. This project, overseen by LPA, aims to address urban blight and promote economic growth through the construction of new housing and improvements to existing structures. The project involves demolition and removal of existing buildings, followed by the construction of new residential units and public facilities. The goal is to create a more vibrant and accessible neighborhood, enhancing the quality of life for residents. Funding will be secured through a combination of land donations, project capital grants, and relocation payments. The project is expected to be completed within a timeframe of 12 years."
         ]
       }
     },
@@ -81,18 +81,6 @@
           "Timothy Atheson; Philip V. Sanchez; James Costantina; James Madison Building; William J. Leidinger"
         ]
       }
-    },
-    {
-      "label": {
-        "none": [
-          "Completed"
-        ]
-      },
-      "value": {
-        "none": [
-          "Unknown"
-        ]
-      }
     }
   ],
   "requiredStatement": {
@@ -109,7 +97,7 @@
   },
   "items": [
     {
-      "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1",
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1",
       "type": "Canvas",
       "width": 3000,
       "height": 3000,
@@ -129,14 +117,14 @@
       ],
       "items": [
         {
-          "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1/page",
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1/page",
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1/page/annotation",
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1/page/annotation",
               "type": "Annotation",
               "motivation": "painting",
-              "target": "https://gracegormley-gkg.github.io/canumpy-/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-randolph-urban-renewal-project.json/canvas/1",
               "body": {
                 "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f1598e68-5c67-40ab-b6a2-81a0eb055725/full/max/0/default.jpg",
                 "type": "Image",

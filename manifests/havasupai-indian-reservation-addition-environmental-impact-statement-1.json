@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Havasupai Indian Reservation addition : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Phoenix Area Office's plan for the 185,000-acre addition to the Havasupai Reservation in Arizona. It’s a project initiated by the Secretary of the Interior, developed in consultation with the Havasupai Tribal Council, aiming to expand the reservation’s boundaries and resources. The plan involves a comprehensive land management strategy, including wildlife control, habitat restoration, and sustainable resource utilization. The goal is to enhance the reservation’s ecological health, promote cultural preservation, and ensure long-term viability for both the Havasupai people and the broader ecosystem. The document highlights the need for careful planning and collaboration to balance conservation efforts with the needs of the Havasupai community and the surrounding environment."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/760952eb-290e-4c72-ac06-0277603570e5/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/760952eb-290e-4c72-ac06-0277603570e5",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Havasupai Indian Reservation addition : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Phoenix Area Office's plan for the 185,000-acre addition to the Havasupai Reservation in Arizona. It’s a project initiated by the Secretary of the Interior, developed in consultation with the Havasupai Tribal Council, aiming to expand the reservation’s boundaries and resources. The plan involves a comprehensive land management strategy, including wildlife control, habitat restoration, and sustainable resource utilization. The goal is to enhance the reservation’s ecological health, promote cultural preservation, and ensure long-term viability for both the Havasupai people and the broader ecosystem. The document highlights the need for careful planning and collaboration to balance conservation efforts with the needs of the Havasupai community and the surrounding environment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1973, was a significant attempt by the U.S. government to establish a permanent, self-governing community for the Havasupai Native Americans in Arizona. Recognizing the importance of preserving their cultural heritage and traditional way of life, the federal government sought to create a sustainable settlement that would balance economic development with cultural preservation. The project involved extensive land surveying, infrastructure development, and the establishment of a community center, aiming to provide a stable and culturally relevant environment for the Havasupai people. However, the project ultimately faced significant challenges, including funding constraints, logistical difficulties, and resistance from some tribal members, leading to its abandonment after several years of effort."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Havasupai Indian Reservation addition : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/760952eb-290e-4c72-ac06-0277603570e5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/760952eb-290e-4c72-ac06-0277603570e5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/760952eb-290e-4c72-ac06-0277603570e5",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

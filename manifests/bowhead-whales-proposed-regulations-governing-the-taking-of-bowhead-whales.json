@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Bowhead whales, Proposed regulations governing the taking of bowhead whales during 1980 for subsistance, environmental assessment (EA) B1; Special report to the International Whaling Commission (1978) B2; Early development and reproduction (1979) : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Bowhead Whale Field Studies\" proposed by the U.S. Department of the Interior's Alaska Planning Group (APG) in Alaska. It outlines a project to study the distribution and abundance of white whales, specifically the bowhead whale, in the eastern Beaufort Sea. The APG seeks to establish a National Wildlife Refuge to protect this vital population. The project involves a comprehensive survey using satellite imagery and traditional methods to assess the whale’s presence and estimate their numbers. The goal is to inform conservation strategies and ensure the long-term health of this unique species within the Alaskan Arctic ecosystem. The study aims to provide data for future management decisions regarding the Beaufort Sea’s wildlife."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Bowhead whales, Proposed regulations governing the taking of bowhead whales during 1980 for subsistance, environmental assessment (EA) B1; Special report to the International Whaling Commission (1978) B2; Early development and reproduction (1979) : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Bowhead Whale Field Studies\" proposed by the U.S. Department of the Interior's Alaska Planning Group (APG) in Alaska. It outlines a project to study the distribution and abundance of white whales, specifically the bowhead whale, in the eastern Beaufort Sea. The APG seeks to establish a National Wildlife Refuge to protect this vital population. The project involves a comprehensive survey using satellite imagery and traditional methods to assess the whale’s presence and estimate their numbers. The goal is to inform conservation strategies and ensure the long-term health of this unique species within the Alaskan Arctic ecosystem. The study aims to provide data for future management decisions regarding the Beaufort Sea’s wildlife."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Bowhead whales, Proposed regulations governing the taking of bowhead whales during 1980 for subsistance, environmental assessment (EA) B1; Special report to the International Whaling Commission (1978) B2; Early development and reproduction (1979) : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

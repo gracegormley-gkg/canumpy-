@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ocean-dumping-criteria-proposed-revisions-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Ocean dumping criteria, Proposed revisions : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "Image"
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4ae772df-a902-455f-b279-28ce16b6f3db/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/4ae772df-a902-455f-b279-28ce16b6f3db",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Ocean dumping criteria, Proposed revisions : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 1973, aimed to assess the feasibility of utilizing ocean dumping as a method for managing industrial waste in the Gulf of Mexico. Recognizing the growing volume of waste and the limited availability of alternative disposal methods, the EPA initiated a study to evaluate the environmental impacts and economic viability of ocean dumping. However, due to concerns about potential ecological damage and the lack of conclusive evidence supporting its long-term sustainability, the project was ultimately halted in 1977, with the EPA opting for a more targeted approach focused on improved waste management practices and the development of new technologies for treating and disposing of industrial waste more effectively. Therefore, the project was cancelled."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ocean-dumping-criteria-proposed-revisions-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Ocean dumping criteria, Proposed revisions : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4ae772df-a902-455f-b279-28ce16b6f3db/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ocean-dumping-criteria-proposed-revisions-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ocean-dumping-criteria-proposed-revisions-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ocean-dumping-criteria-proposed-revisions-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4ae772df-a902-455f-b279-28ce16b6f3db/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4ae772df-a902-455f-b279-28ce16b6f3db",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

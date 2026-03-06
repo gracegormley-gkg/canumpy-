@@ -1,0 +1,134 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/draft-tarp-calumet-tunnel-system-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "DRAFT: TARP Calumet tunnel system : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Calumet Tunnel Project, a $89 million construction initiative aimed at reducing flooding in Chicago's riverbanks. It involves the construction of the Calumet Tunnel system, which will significantly reduce pollution and enhance water quality. The project is funded by federal and local resources, and it’s designed to create jobs and improve land use. The document highlights potential risks like groundwater infiltration and rockfall, proposing mitigation strategies including monitoring, grouting, and careful site management. It emphasizes the importance of environmental protection and compliance with regulations to ensure the project's success and minimize negative impacts on the surrounding ecosystem and public safety."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "DRAFT: TARP Calumet tunnel system : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Calumet Tunnel Project, a $89 million construction initiative aimed at reducing flooding in Chicago's riverbanks. It involves the construction of the Calumet Tunnel system, which will significantly reduce pollution and enhance water quality. The project is funded by federal and local resources, and it’s designed to create jobs and improve land use. The document highlights potential risks like groundwater infiltration and rockfall, proposing mitigation strategies including monitoring, grouting, and careful site management. It emphasizes the importance of environmental protection and compliance with regulations to ensure the project's success and minimize negative impacts on the surrounding ecosystem and public safety."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Calumet Tunnel Project, initiated in the 1970s, was a massive undertaking to alleviate flooding in Chicago’s area surrounding the Calumet Lake. It was designed to reduce the volume of water flowing into the lake, thereby improving water quality and potentially increasing the value of land in the flood-prone areas. The project aimed to significantly reduce the pollutant load in the Chicago water ways, enhancing the quality of the water and creating a more valuable land use. However, due to unforeseen geological challenges and funding constraints, the project ultimately faced significant delays and cost overruns, leading to a partial completion and a reduced scope of work compared to its initial ambitions. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/draft-tarp-calumet-tunnel-system-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "DRAFT: TARP Calumet tunnel system : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/draft-tarp-calumet-tunnel-system-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/draft-tarp-calumet-tunnel-system-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/draft-tarp-calumet-tunnel-system-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-regulation-vinyl-chloride.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Proposed Regulation Vinyl Chloride"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Project Phoenix\" initiative, a comprehensive safety and environmental assessment conducted by the United States Department of Labor, specifically within the West Virginia University region. It focuses on evaluating workplace safety and environmental conditions across various industries, including manufacturing, construction, and transportation, within West Virginia. The project aims to identify potential hazards and implement improvements to protect workers and the environment. It involves collaboration between the West Virginia University Safety Studies Department, the West Virginia Department of Labor, and various industry partners. The goal is to establish a robust safety and environmental management system to ensure compliance with regulations and promote a safe and sustainable workplace environment."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/393e3bda-64a5-4ac5-acf6-634388a4c2f3/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/393e3bda-64a5-4ac5-acf6-634388a4c2f3",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Regulation Vinyl Chloride"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Project Phoenix\" initiative, a comprehensive safety and environmental assessment conducted by the United States Department of Labor, specifically within the West Virginia University region. It focuses on evaluating workplace safety and environmental conditions across various industries, including manufacturing, construction, and transportation, within West Virginia. The project aims to identify potential hazards and implement improvements to protect workers and the environment. It involves collaboration between the West Virginia University Safety Studies Department, the West Virginia Department of Labor, and various industry partners. The goal is to establish a robust safety and environmental management system to ensure compliance with regulations and promote a safe and sustainable workplace environment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1985 by the U.S. Department of Transportation, aimed to develop a standardized system for tracking and managing the movement of freight across the nation. The goal was to improve efficiency, reduce costs, and enhance safety by creating a unified, digital logbook for all vehicles. However, due to a combination of political opposition, technological challenges, and a shift in transportation priorities, the project ultimately stalled, with significant portions of the initial data collection and infrastructure development never fully completed. It remains a notable example of a large-scale transportation initiative that faced significant hurdles and ultimately fell short of its initial objectives."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-regulation-vinyl-chloride.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Regulation Vinyl Chloride"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/393e3bda-64a5-4ac5-acf6-634388a4c2f3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-regulation-vinyl-chloride.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-regulation-vinyl-chloride.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-regulation-vinyl-chloride.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/393e3bda-64a5-4ac5-acf6-634388a4c2f3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/393e3bda-64a5-4ac5-acf6-634388a4c2f3",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-lead-based-paint-regulations-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Proposed lead based paint regulations : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document is a draft Environmental Impact Statement (EIS) concerning the proposed regulation to reduce lead levels in federal and state-assisted housing. The EIS addresses the potential impact of new paint formulations on residential properties, aiming to minimize potential health risks associated with lead exposure. It involves the Environmental Quality Division of the Housing Management Office and the Department of Agriculture. The primary goal is to establish a framework for regulating lead paint, balancing environmental protection with the practical challenges of remediation and cost-effectiveness. The document highlights concerns about the potential for increased lead contamination, requiring a revised definition of lead-based paint and a detailed assessment of existing regulations to ensure compliance."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e9579277-9c90-475e-94a6-055975228d2c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e9579277-9c90-475e-94a6-055975228d2c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Proposed lead based paint regulations : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document is a draft Environmental Impact Statement (EIS) concerning the proposed regulation to reduce lead levels in federal and state-assisted housing. The EIS addresses the potential impact of new paint formulations on residential properties, aiming to minimize potential health risks associated with lead exposure. It involves the Environmental Quality Division of the Housing Management Office and the Department of Agriculture. The primary goal is to establish a framework for regulating lead paint, balancing environmental protection with the practical challenges of remediation and cost-effectiveness. The document highlights concerns about the potential for increased lead contamination, requiring a revised definition of lead-based paint and a detailed assessment of existing regulations to ensure compliance."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Urban Development"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-lead-based-paint-regulations-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Proposed lead based paint regulations : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e9579277-9c90-475e-94a6-055975228d2c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-lead-based-paint-regulations-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-lead-based-paint-regulations-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-lead-based-paint-regulations-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e9579277-9c90-475e-94a6-055975228d2c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e9579277-9c90-475e-94a6-055975228d2c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
