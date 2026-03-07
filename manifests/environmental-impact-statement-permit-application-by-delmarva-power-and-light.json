@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Delaware River, New Jersey"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Caleb Boggs; William V. Roth"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

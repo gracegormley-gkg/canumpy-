@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Boston, Massachusetts"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Kevin H. White; Martha Goldsmith; Dorchester; Tx; Arteries"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 2023, focused on mitigating stormwater runoff and erosion in Boston's urban core, specifically targeting the demolition of a significant amount of building materials. The goal was to reduce the impact of these materials on the harbor and improve water quality. Despite initial planning, the project faced significant challenges related to soil conditions and unexpected debris, ultimately leading to a partial completion with some areas still requiring remediation. Therefore, the project was completed, though with some adjustments and ongoing monitoring."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

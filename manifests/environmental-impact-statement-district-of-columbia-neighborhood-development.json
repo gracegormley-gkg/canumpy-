@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "District of Columbia Neighborhood Development Program Plan Modification via Disposition Controls to the Downtown Urban Renewal Area Project No. D.C. A-1-1"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "XXX XXX; XXXXXXXXXXXXXXAXXXXXXXXXXAXK XXXXXXXXXXXXXXXXXKX; D.C. A-1-1; Rogers Park, Chicago, Illinois; Sidney S. Zlotnick; Renee Z. Kraft"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Uniform Relocation Act of 1970 was a significant federal initiative enacted in response to growing concerns about displacement caused by government-funded housing projects, particularly in urban revitalization efforts. Prior to this, relocation faced significant legal challenges and was often poorly addressed. The act aimed to provide financial assistance and support to individuals displaced by these projects, recognizing the human cost of large-scale urban development. However, the project faced considerable opposition from developers and some political figures, ultimately leading to a limited implementation and a continued debate about its effectiveness."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

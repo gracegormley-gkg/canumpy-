@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Dallas-Fort Worth Regional Airport"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Shaffer; Tippetts-Abbett-McCarthy-Stratton"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 1968, aimed to develop a comprehensive plan for the future of the Dallas-Fort Worth area’s airport infrastructure, specifically focusing on improving transportation and parking options. The initial proposal outlined ambitious expansion plans, including significant investment in taxiways and terminal facilities. However, due to budgetary constraints and shifting priorities, the project was ultimately scaled back and completed with a revised focus on core infrastructure improvements, leaving behind a legacy of substantial, yet partially realized, airport development plans."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

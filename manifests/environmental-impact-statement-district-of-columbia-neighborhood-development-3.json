@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-3.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Downtown Urban Renewal Area"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Model Cities\" redevelopment project in the Shaw neighborhood of Philadelphia, Pennsylvania. It outlines a plan to revitalize the area through the construction of new housing units, primarily 5-bedroom units, to replace existing low-income housing. The project, overseen by the Philadelphia Department of Housing and Community Development (HUD), aims to address housing shortages and promote economic opportunity. The document specifies that approximately 104 units are expected to be constructed, with a focus on providing affordable housing options for residents. The project also includes a plan for 30 units of 1-bedroom housing, and 18 units of 2-bedroom housing, representing a total of 107 units. The goal is to replace existing low-income housing with new, high-quality housing, contributing to the revitalization of the Shaw community."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/0a144127-7673-4605-b9ad-ee968a95ff77/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/0a144127-7673-4605-b9ad-ee968a95ff77",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Downtown Urban Renewal Area"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Model Cities\" redevelopment project in the Shaw neighborhood of Philadelphia, Pennsylvania. It outlines a plan to revitalize the area through the construction of new housing units, primarily 5-bedroom units, to replace existing low-income housing. The project, overseen by the Philadelphia Department of Housing and Community Development (HUD), aims to address housing shortages and promote economic opportunity. The document specifies that approximately 104 units are expected to be constructed, with a focus on providing affordable housing options for residents. The project also includes a plan for 30 units of 1-bedroom housing, and 18 units of 2-bedroom housing, representing a total of 107 units. The goal is to replace existing low-income housing with new, high-quality housing, contributing to the revitalization of the Shaw community."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Downtown Urban Renewal Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Russell W. Peterson; Robert Blanco; William Kaplan; Richard Broun; John E. McKenna; Andrew Kauders; Frederick Warren; Benjamin 0; Marion Barry; Walter E. Washington; Charles Richardson; Melvin A. Mister; Robert Garvey; Walter A. Scheiber; Jackson Graham; David Paris"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated as part of the Model Cities Renewal Initiative, aimed to revitalize urban areas through the construction of new housing units, particularly for moderate-income residents. It was initially projected to create 123 new housing units within the Model Cities area, representing a significant investment in urban development. However, due to unforeseen economic challenges and shifting priorities, the project was ultimately cancelled in 2024, with the remaining units being repurposed or abandoned, leaving a significant void in the area's housing stock."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-3.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Downtown Urban Renewal Area"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0a144127-7673-4605-b9ad-ee968a95ff77/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-3.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-3.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-3.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0a144127-7673-4605-b9ad-ee968a95ff77/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0a144127-7673-4605-b9ad-ee968a95ff77",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

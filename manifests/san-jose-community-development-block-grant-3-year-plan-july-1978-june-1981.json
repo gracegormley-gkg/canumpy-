@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "San Jose, California"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Knox Mellon; James L. Goggin; David J. Powers; Hugh Baker; Paul De Falco; Ted Tedesco"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Talladega Bypass project in Alabama was initiated in the 1980s as a major highway construction initiative to alleviate traffic congestion on the existing Route 69 corridor. It was a large-scale infrastructure project aimed at improving transportation and economic development in the region, but faced significant challenges including environmental concerns and cost overruns. Ultimately, the project was completed in 2009, though some sections remain unfinished and the overall impact on traffic flow is still debated."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

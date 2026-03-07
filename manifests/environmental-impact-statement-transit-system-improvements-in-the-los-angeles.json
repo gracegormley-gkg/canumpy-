@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-transit-system-improvements-in-the-los-angeles.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Transit System Improvements in the Los Angeles Regional Core"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the development of a Transit Improvement Plan for the Los Angeles Regional Core, spearheaded by the Southern California Rapid Transit District (SCRTD) and the Urban Mass Transportation Administration (UMTA). Funded by the Federal government through the Southern California Rapid Transit District, the project aims to enhance regional transportation accessibility and efficiency. The SCRTD, in collaboration with the UMTA, is responsible for the planning, design, and implementation of the proposed improvements. Key agencies involved include the California Department of Transportation (CalTrans), the Los Angeles County Transportation Commission (LACTC), the Southern California Association of Governments (SCAG), and the Interagency Coordinating Committee (IACC). The project’s goal is to improve the region’s transportation infrastructure, reduce congestion, and promote economic growth, aligning with the city’s broader transportation goals. The document highlights extensive public input and collaboration with various stakeholders, demonstrating a commitment to a collaborative approach to transit planning."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b0e9742f-e362-41a2-b171-0c070403606c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/b0e9742f-e362-41a2-b171-0c070403606c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Transit System Improvements in the Los Angeles Regional Core"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the development of a Transit Improvement Plan for the Los Angeles Regional Core, spearheaded by the Southern California Rapid Transit District (SCRTD) and the Urban Mass Transportation Administration (UMTA). Funded by the Federal government through the Southern California Rapid Transit District, the project aims to enhance regional transportation accessibility and efficiency. The SCRTD, in collaboration with the UMTA, is responsible for the planning, design, and implementation of the proposed improvements. Key agencies involved include the California Department of Transportation (CalTrans), the Los Angeles County Transportation Commission (LACTC), the Southern California Association of Governments (SCAG), and the Interagency Coordinating Committee (IACC). The project’s goal is to improve the region’s transportation infrastructure, reduce congestion, and promote economic growth, aligning with the city’s broader transportation goals. The document highlights extensive public input and collaboration with various stakeholders, demonstrating a commitment to a collaborative approach to transit planning."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Los Angeles, California"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Richard Gallagher; Richard Smith; Mike Kennedy; De Leuw; Cather; Lox Angeles Regional\n; Delahousie; ond Gul\nSkidmore; Lindvall; Woodward Clyde; Mann Johnson; M. Chapman; L. Collier; Public Law; Div; Donald Gardner; Freeway System; Theale; Los Angeles Area; Ventura County Region; Bored Subway; UMTA; Fairfax; Hollywood; Universal City; LA; Las Palmas; the City of Los Angeles; WY; West Los Angeles; San Fernando Valley; North Hollywood"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Los Angeles Regional Core Rapid Transit Project, initiated in 1968, was a significant attempt to address the city’s growing transportation needs and improve mobility. Initially envisioned as a major infrastructure initiative, the project faced considerable political and logistical challenges, including funding constraints and competing priorities. Despite initial setbacks and a significant budget shortfall, the project ultimately faced a protracted period of delays and cost overruns, ultimately being scaled back and revised several times. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-transit-system-improvements-in-the-los-angeles.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Transit System Improvements in the Los Angeles Regional Core"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b0e9742f-e362-41a2-b171-0c070403606c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-transit-system-improvements-in-the-los-angeles.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-transit-system-improvements-in-the-los-angeles.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-transit-system-improvements-in-the-los-angeles.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b0e9742f-e362-41a2-b171-0c070403606c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b0e9742f-e362-41a2-b171-0c070403606c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

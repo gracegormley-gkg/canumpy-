@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "St. Joseph Center I Urban Renewal Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Stuart Symington; Thomas Eagleton; Jerry Litton; Joseph Citizen's Committee; Felix Streets"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

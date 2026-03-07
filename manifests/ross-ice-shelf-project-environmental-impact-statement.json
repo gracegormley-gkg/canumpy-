@@ -45,6 +45,30 @@
           "Energy Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Ross Ice Shelf Project (RISP)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "John P. Giacomini; Mary Alice McWhinnie; David Elliot; Robert H. Rutford; Bruce Parker; Y. S. Antarctic Research Program"
+        ]
+      }
     }
   ],
   "requiredStatement": {

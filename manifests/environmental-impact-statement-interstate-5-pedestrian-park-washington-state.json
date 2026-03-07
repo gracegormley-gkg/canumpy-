@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interstate-5-pedestrian-park-washington-state.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Interstate 5 Pedestrian Park, Washington State"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the construction of a pedestrian park over Interstate 5 in Seattle, Washington. The project, spearheaded by the Washington State Department of Highways, aims to enhance public access to green space and improve the city’s environmental quality. The park, spanning approximately 225 feet, will feature ventilation and stacks to mitigate air pollution. The document highlights the potential benefits of the park, including improved air quality and increased recreational opportunities for visitors. The project is a response to concerns about air pollution and seeks to create a valuable resource for the community, aligning with the state’s environmental policy goals."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7bc711f6-961a-494a-9910-04160d85c149/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/7bc711f6-961a-494a-9910-04160d85c149",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Interstate 5 Pedestrian Park, Washington State"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the construction of a pedestrian park over Interstate 5 in Seattle, Washington. The project, spearheaded by the Washington State Department of Highways, aims to enhance public access to green space and improve the city’s environmental quality. The park, spanning approximately 225 feet, will feature ventilation and stacks to mitigate air pollution. The document highlights the potential benefits of the park, including improved air quality and increased recreational opportunities for visitors. The project is a response to concerns about air pollution and seeks to create a valuable resource for the community, aligning with the state’s environmental policy goals."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Seattle, Washington"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "M. Eldon Green; Robin M. Towne; Mh; Washington State Department of Highways"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2008, aimed to create a pedestrian park over a section of Interstate 5 in Seattle, designed to improve public access to green space and potentially reduce traffic congestion. The project was initially met with support from the Seattle Department of Transportation and the City of Seattle, highlighting a desire to enhance the city’s urban environment. However, after a period of delays and cost overruns, the project was ultimately cancelled in 2012 due to significant challenges in achieving the initial design goals and addressing concerns about air quality and potential safety risks, ultimately failing to deliver the intended benefits of the park."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interstate-5-pedestrian-park-washington-state.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Interstate 5 Pedestrian Park, Washington State"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7bc711f6-961a-494a-9910-04160d85c149/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interstate-5-pedestrian-park-washington-state.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interstate-5-pedestrian-park-washington-state.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interstate-5-pedestrian-park-washington-state.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/7bc711f6-961a-494a-9910-04160d85c149/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/7bc711f6-961a-494a-9910-04160d85c149",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

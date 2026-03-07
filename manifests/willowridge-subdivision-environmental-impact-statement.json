@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/willowridge-subdivision-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Willowridge subdivision : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the development of the Willow Ridge Subdivision in Fort Bend County, Texas, a project initiated by the Houston-Galveston Area Council (HGC) in 1974. The project encompasses 36 acres of land, strategically located near Houston’s metropolitan area. The HGC’s goal is to expand the county’s housing supply, addressing the growing demand for residential properties. The project involves a phased construction process, with ongoing monitoring and management by the developer, Green Ridge Municipal Utility District. The document highlights the project’s short-term impacts, including noise, dust, and increased truck traffic, alongside indirect impacts on energy consumption and air quality. It also addresses the potential for loss of native vegetation and the need for mitigation strategies, including tree planting and land preservation. The document emphasizes the importance of careful planning and resource management to minimize environmental consequences and ensure the long-term sustainability of the project."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/037cfa4c-bb5f-4257-9abf-c6be5c0b524f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/037cfa4c-bb5f-4257-9abf-c6be5c0b524f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Willowridge subdivision : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the development of the Willow Ridge Subdivision in Fort Bend County, Texas, a project initiated by the Houston-Galveston Area Council (HGC) in 1974. The project encompasses 36 acres of land, strategically located near Houston’s metropolitan area. The HGC’s goal is to expand the county’s housing supply, addressing the growing demand for residential properties. The project involves a phased construction process, with ongoing monitoring and management by the developer, Green Ridge Municipal Utility District. The document highlights the project’s short-term impacts, including noise, dust, and increased truck traffic, alongside indirect impacts on energy consumption and air quality. It also addresses the potential for loss of native vegetation and the need for mitigation strategies, including tree planting and land preservation. The document emphasizes the importance of careful planning and resource management to minimize environmental consequences and ensure the long-term sustainability of the project."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Willowridge Subdivision"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Johnson- Loggins, Inc."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Willow Ridge development project, initiated in the 1970s, represents a significant attempt to address the growing housing needs of the Fort Bend County region. Driven by a combination of population growth and limited land availability, the project aimed to construct a mixed-use community encompassing residential, commercial, and recreational spaces. However, due to unforeseen challenges including high land costs, environmental concerns, and community opposition, the project faced significant delays and ultimately fell short of its initial goals. It was ultimately abandoned in 1976, leaving behind a legacy of undeveloped land and a complex set of unresolved issues regarding land use and community integration."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/willowridge-subdivision-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Willowridge subdivision : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/037cfa4c-bb5f-4257-9abf-c6be5c0b524f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/willowridge-subdivision-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/willowridge-subdivision-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/willowridge-subdivision-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/037cfa4c-bb5f-4257-9abf-c6be5c0b524f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/037cfa4c-bb5f-4257-9abf-c6be5c0b524f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

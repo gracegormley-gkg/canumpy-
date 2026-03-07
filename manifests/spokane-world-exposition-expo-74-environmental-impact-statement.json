@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/spokane-world-exposition-expo-74-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Spokane World Exposition, Expo 74 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document describes Expo '74, a large-scale event in Spokane, Washington, designed to revitalize the city's economy and enhance its environmental awareness. The project involves the construction of temporary campsites at Riverside State Park, a significant undertaking to alleviate unemployment and provide affordable housing. The document highlights the potential for increased economic activity through the exposition, aiming to promote a positive shift in Spokane’s economic landscape. It emphasizes the need for careful planning to mitigate potential environmental impacts, particularly regarding land fill and park design. The document also addresses concerns about housing affordability and the need for a diverse workforce during the event, reflecting the project’s goals of economic growth and environmental stewardship."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Spokane World Exposition, Expo 74 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document describes Expo '74, a large-scale event in Spokane, Washington, designed to revitalize the city's economy and enhance its environmental awareness. The project involves the construction of temporary campsites at Riverside State Park, a significant undertaking to alleviate unemployment and provide affordable housing. The document highlights the potential for increased economic activity through the exposition, aiming to promote a positive shift in Spokane’s economic landscape. It emphasizes the need for careful planning to mitigate potential environmental impacts, particularly regarding land fill and park design. The document also addresses concerns about housing affordability and the need for a diverse workforce during the event, reflecting the project’s goals of economic growth and environmental stewardship."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Spokane, Washington"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Frank D. Nicol; William T. Barry; Jerry E. Johns; Raymond L. Kelleher; James E. MeTicue"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "Expo '74 was a massive, ambitious project in Spokane, Washington, designed to showcase the city's industrial heritage and attract tourism. It was a significant investment by the state and local governments, aiming to revitalize the downtown area and boost the local economy. However, the project faced considerable challenges, including high costs, logistical difficulties, and a growing public concern about the impact on the city’s character. Ultimately, the project was significantly scaled back and largely abandoned after a few years, leaving behind a complex legacy of infrastructure and economic shifts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/spokane-world-exposition-expo-74-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Spokane World Exposition, Expo 74 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/spokane-world-exposition-expo-74-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/spokane-world-exposition-expo-74-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/spokane-world-exposition-expo-74-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

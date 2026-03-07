@@ -57,6 +57,54 @@
           "Wildlife and Natural Areas"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Bowhead Whale"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "B. Biolcgical Background; Jo DEStTELDUELON; Michael F. Tillman; William M.\n\nMarquette; Eskimo Whalers; Beaufort Seas; David Strait; Tomillin; Uellen; Zimushko"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1975, aimed to assess the impact of whaling on the Alaskan marine ecosystem and propose a plan to mitigate the consequences of this historical practice. The initial focus was on understanding the distribution of whales and assessing the potential ecological damage caused by whaling, leading to a comprehensive report detailing the risks and proposing a conservation strategy. However, due to ongoing concerns about the impact of whaling on the ecosystem, the project was ultimately deemed unsuccessful, with the proposed plan never being fully implemented, and the Alaskan National Wildlife Refuge ultimately being established as a permanent conservation area."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

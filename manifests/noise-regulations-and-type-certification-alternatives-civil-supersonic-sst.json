@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Hugh L. Carey; Jay S. Hammond; Dolph Briscoe; Michael S. Dukakis; George R. Ariyoshi; James R. Thompson"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

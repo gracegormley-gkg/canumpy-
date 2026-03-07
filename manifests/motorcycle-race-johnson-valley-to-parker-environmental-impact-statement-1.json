@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Parker Score\" project, a proposed action by the Bureau of Reclamation (Bureau) to mitigate adverse impacts from erosion and water management in the Johnson Valley area of California. The project aims to address unavoidable adverse impacts resulting from the erosive forces of the Colorado River, specifically focusing on the Valley Fever and the potential for soil degradation. It involves a comprehensive monitoring program utilizing aerial surveys, soil sampling, and vegetation assessments. The Bureau is collaborating with the California Department of Water Resources (DWR) and the National Register of Historic and Cultural Resources to assess and address potential impacts on archaeological and cultural resources. The project’s primary goal is to ensure the long-term sustainability of the Johnson Valley ecosystem and its associated cultural heritage while minimizing negative environmental consequences."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e5c9c784-fb97-4882-996c-724957dc959f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e5c9c784-fb97-4882-996c-724957dc959f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Parker Score\" project, a proposed action by the Bureau of Reclamation (Bureau) to mitigate adverse impacts from erosion and water management in the Johnson Valley area of California. The project aims to address unavoidable adverse impacts resulting from the erosive forces of the Colorado River, specifically focusing on the Valley Fever and the potential for soil degradation. It involves a comprehensive monitoring program utilizing aerial surveys, soil sampling, and vegetation assessments. The Bureau is collaborating with the California Department of Water Resources (DWR) and the National Register of Historic and Cultural Resources to assess and address potential impacts on archaeological and cultural resources. The project’s primary goal is to ensure the long-term sustainability of the Johnson Valley ecosystem and its associated cultural heritage while minimizing negative environmental consequences."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Johnson Valley to Parker Motorcycle Race September 1980"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "George zea; Cs mi\n\n; Lea; Bob Terrazas; Bruce; Dick Barbar; John Bailey; Bruce; Dick Crowe; Jerry Hillier; Gerry Hillier; Jim Dodd; Gerry E. Hillier; Gerald E. Hillier; Fred worthley; T.7 N.; Patton; Gerald; Dennis; Robert; John; Bruce; Dick; Jerry; George; Bob; Dick; Jerry; Gerry; Gerald; Fred; Dennis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed “Valley Fever Mitigation Plan” was initiated in 2018 by the California Desert Conservation Area, aiming to address a growing concern about fungal disease impacting native wildlife, particularly the Coocidioides immitis (California Fever) beetle. The plan focused on monitoring the beetle population, implementing targeted habitat restoration efforts, and establishing a robust early detection system. However, due to funding constraints and shifting priorities within the California Department of Fish and Wildlife, the project was ultimately scaled back and abandoned in 2022, with limited implementation of the proposed measures."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "No"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e5c9c784-fb97-4882-996c-724957dc959f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e5c9c784-fb97-4882-996c-724957dc959f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e5c9c784-fb97-4882-996c-724957dc959f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

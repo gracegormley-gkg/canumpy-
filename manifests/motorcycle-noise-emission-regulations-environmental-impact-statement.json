@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-noise-emission-regulations-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Motorcycle noise emission regulations : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details a proposed initiative by the Motor Vehicle Administration (MVA) to enhance noise emission standards for motorcycle and replacement exhaust system manufacturers. The MVA is implementing a new Acoustic Assurance Period (AAP) requiring manufacturers to conduct testing and record data to ensure their products meet stringent noise reduction criteria. This AAP aims to protect public health and welfare by limiting noise levels during the period of sale. The project involves a collaborative effort between the MVA and the Administrator, with the goal of promoting vehicle safety and reducing noise pollution through standardized testing and enforcement."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/29e993fd-c646-46b9-b599-e0fe041c5f14/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/29e993fd-c646-46b9-b599-e0fe041c5f14",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Motorcycle noise emission regulations : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details a proposed initiative by the Motor Vehicle Administration (MVA) to enhance noise emission standards for motorcycle and replacement exhaust system manufacturers. The MVA is implementing a new Acoustic Assurance Period (AAP) requiring manufacturers to conduct testing and record data to ensure their products meet stringent noise reduction criteria. This AAP aims to protect public health and welfare by limiting noise levels during the period of sale. The project involves a collaborative effort between the MVA and the Administrator, with the goal of promoting vehicle safety and reducing noise pollution through standardized testing and enforcement."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Charles EPA Public Information Center (PM-215); Scott Edwards"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1997 by the U.S. Department of Agriculture's Natural Resources Conservation Service (NRCS), aimed to develop a standardized method for measuring soil erosion rates using a newly developed, highly sensitive soil erosion sensor – the ‘Soil Erosion Sensor’ (SES). The goal was to create a more accurate and reliable method for assessing soil health and land management practices across the nation. However, due to technical challenges, cost overruns, and a lack of widespread adoption, the project ultimately failed to achieve its intended goals. The SES proved to be difficult to calibrate and maintain, and its data collection methods were not sufficiently robust to provide consistent and meaningful results for long-term monitoring."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "No"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-noise-emission-regulations-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Motorcycle noise emission regulations : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/29e993fd-c646-46b9-b599-e0fe041c5f14/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-noise-emission-regulations-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-noise-emission-regulations-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-noise-emission-regulations-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/29e993fd-c646-46b9-b599-e0fe041c5f14/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/29e993fd-c646-46b9-b599-e0fe041c5f14",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

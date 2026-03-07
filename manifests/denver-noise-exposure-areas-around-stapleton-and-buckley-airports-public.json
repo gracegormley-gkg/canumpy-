@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Buckley Air National Guard Base"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Allen Merson; Walt Kelm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

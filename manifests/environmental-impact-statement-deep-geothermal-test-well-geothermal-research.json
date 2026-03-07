@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-deep-geothermal-test-well-geothermal-research.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Deep Geothermal Test Well, Geothermal Research Investigations, Imperial Valley, California"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Bureau of Reclamation is reviewing a draft statement regarding geothermal resource development in California, specifically focusing on the Imperial Valley region. The project aims to assess the suitability of the area for geothermal energy extraction, including drilling and testing. The statement details a proposed action involving extensive environmental monitoring and mitigation, including potential for reinjection of geothermal fluids to prevent subsidence. It proposes a detailed plan for the area, including detailed land use, a detailed assessment of wildlife and recreational use, and a commitment to addressing potential impacts on water resources and surface stability. The document also outlines alternative sites and considers the potential for revisions to existing regulations to guide the project's scope and impact."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/f8de89f7-a1d4-4af6-8821-910ffddd1d69/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/f8de89f7-a1d4-4af6-8821-910ffddd1d69",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Deep Geothermal Test Well, Geothermal Research Investigations, Imperial Valley, California"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Bureau of Reclamation is reviewing a draft statement regarding geothermal resource development in California, specifically focusing on the Imperial Valley region. The project aims to assess the suitability of the area for geothermal energy extraction, including drilling and testing. The statement details a proposed action involving extensive environmental monitoring and mitigation, including potential for reinjection of geothermal fluids to prevent subsidence. It proposes a detailed plan for the area, including detailed land use, a detailed assessment of wildlife and recreational use, and a commitment to addressing potential impacts on water resources and surface stability. The document also outlines alternative sites and considers the potential for revisions to existing regulations to guide the project's scope and impact."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Imperial Valley"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "L. Armstrong; Draft; M. Warnick; Lowell 0; Coun"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed Deep Geothermal Test Well project, initiated in 2010, stemmed from a desire to assess the feasibility of utilizing geothermal energy in the Imperial Valley of California, a region with a history of seismic activity and potential for groundwater contamination. The project aimed to identify suitable locations for geothermal drilling and testing, ultimately seeking to determine the viability of a large-scale desalting facility utilizing geothermal energy. Despite initial optimism, the project ultimately faced significant challenges, including unforeseen geological complexities and regulatory hurdles, leading to its cancellation in 2018, with the project’s findings largely unused."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-deep-geothermal-test-well-geothermal-research.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Deep Geothermal Test Well, Geothermal Research Investigations, Imperial Valley, California"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f8de89f7-a1d4-4af6-8821-910ffddd1d69/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-deep-geothermal-test-well-geothermal-research.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-deep-geothermal-test-well-geothermal-research.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-deep-geothermal-test-well-geothermal-research.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f8de89f7-a1d4-4af6-8821-910ffddd1d69/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f8de89f7-a1d4-4af6-8821-910ffddd1d69",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -57,6 +57,54 @@
           "Energy Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Miami, Puerto Rico, or Bermuda"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rogers Rosenthal; Jones; Ginger; Joy xa 39S; Beulah"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in the 1970s, aimed to investigate the potential of using silver iodide to mitigate the impacts of hurricanes. It was a significant effort by NOAA to explore ways to reduce storm damage and improve coastal safety. However, due to concerns about potential unintended consequences and the complexity of hurricane dynamics, the project ultimately faced funding cuts and was discontinued, leaving behind a valuable but incomplete dataset and research findings."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

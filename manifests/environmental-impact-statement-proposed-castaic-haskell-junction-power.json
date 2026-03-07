@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Castaic-Haskell Junction Power Transmission Line"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Richard F. Droege; John D. Lane Stafté; Warren M. Dorn; Castaic Dam; Rogers Park"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

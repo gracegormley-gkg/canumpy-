@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicles-on-public-lands-implementation-of-executive-order-11644.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Off-road vehicles on public lands, implementation of Executive Order 11644 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Off-Road Vehicle Regulations\" proposed by the Bureau of Land Management (BLM) to manage the use of vehicles on public lands. It focuses on establishing standards for off-road vehicle operation, particularly concerning safety and environmental protection. The document outlines requirements for vehicle equipment, including headlights, taillights, and spark arrestors, to ensure visibility and minimize noise. It also addresses the number of headlights and taillights required for vehicles, aiming to improve safety for all users. The goal is to balance recreational use with the protection of public lands and wildlife habitats, promoting responsible off-road practices."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/f009744b-3e0c-4e53-97b5-e3262f036b8b/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/f009744b-3e0c-4e53-97b5-e3262f036b8b",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Off-road vehicles on public lands, implementation of Executive Order 11644 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Off-Road Vehicle Regulations\" proposed by the Bureau of Land Management (BLM) to manage the use of vehicles on public lands. It focuses on establishing standards for off-road vehicle operation, particularly concerning safety and environmental protection. The document outlines requirements for vehicle equipment, including headlights, taillights, and spark arrestors, to ensure visibility and minimize noise. It also addresses the number of headlights and taillights required for vehicles, aiming to improve safety for all users. The goal is to balance recreational use with the protection of public lands and wildlife habitats, promoting responsible off-road practices."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bureau of Outdoor Recreation; Department of the Interior; Secretary of the Interior"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1976, aimed to establish a comprehensive framework for regulating off-road vehicle use on public lands in the United States. Prior to this, there was a lack of consistent standards and enforcement, leading to inconsistent and potentially dangerous practices. The goal was to balance recreational use with the protection of natural resources and ensure public safety. However, the project ultimately faced significant challenges, including political opposition and evolving legal interpretations, resulting in its abandonment and a lack of definitive outcome regarding its full implementation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicles-on-public-lands-implementation-of-executive-order-11644.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Off-road vehicles on public lands, implementation of Executive Order 11644 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f009744b-3e0c-4e53-97b5-e3262f036b8b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicles-on-public-lands-implementation-of-executive-order-11644.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicles-on-public-lands-implementation-of-executive-order-11644.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicles-on-public-lands-implementation-of-executive-order-11644.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f009744b-3e0c-4e53-97b5-e3262f036b8b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f009744b-3e0c-4e53-97b5-e3262f036b8b",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

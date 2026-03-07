@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Cotton dust occupational exposure standard : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"State Strategic Plan for Workforce Development\" – a comprehensive initiative launched by the State of California to address workforce gaps across various sectors, including agriculture, technology, and healthcare. It’s located in Sacramento, California, and is overseen by the California Department of Labor, the California State Controller, and the California Workforce Development Board. The goal is to increase California’s skilled workforce, aligning with the state’s economic priorities and ensuring long-term competitiveness. The plan encompasses targeted training programs, apprenticeships, and partnerships with businesses to boost employment opportunities for all Californians. It’s a multi-year effort with a focus on skills-based training and addressing specific industry needs."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/63f36978-a696-4cd4-90cc-795158874a93/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/63f36978-a696-4cd4-90cc-795158874a93",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Cotton dust occupational exposure standard : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"State Strategic Plan for Workforce Development\" – a comprehensive initiative launched by the State of California to address workforce gaps across various sectors, including agriculture, technology, and healthcare. It’s located in Sacramento, California, and is overseen by the California Department of Labor, the California State Controller, and the California Workforce Development Board. The goal is to increase California’s skilled workforce, aligning with the state’s economic priorities and ensuring long-term competitiveness. The plan encompasses targeted training programs, apprenticeships, and partnerships with businesses to boost employment opportunities for all Californians. It’s a multi-year effort with a focus on skills-based training and addressing specific industry needs."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Ray Marshall; Joanne A. Blayne; Khoa; V.E."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2018 by the U.S. Department of Agriculture, aimed to establish a national network of agricultural research stations to improve crop yields and promote sustainable farming practices across the country. The initial goal was to consolidate research efforts and share knowledge, leading to increased efficiency and reduced costs for farmers. However, due to funding cuts and shifting priorities, the project was significantly scaled back and ultimately concluded with the discontinuation of the network, leaving a legacy of focused research rather than a comprehensive nationwide initiative."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Cotton dust occupational exposure standard : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/63f36978-a696-4cd4-90cc-795158874a93/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/63f36978-a696-4cd4-90cc-795158874a93/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/63f36978-a696-4cd4-90cc-795158874a93",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

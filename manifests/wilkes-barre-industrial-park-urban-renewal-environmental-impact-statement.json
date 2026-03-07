@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Wilkes-Barre, Industrial park urban renewal : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Redevelopment Authority's plan for the Wilkes-Barre Industrial Park U.R.A. The project, initiated by the City of Wilkes-Barre, aims to revitalize the area through a comprehensive infrastructure upgrade, including improved rail connections and road networks. The document highlights a phased approach, focusing on enhancing accessibility and promoting economic growth. It identifies the project as a significant investment in the region's future, aiming to modernize the industrial landscape and bolster local businesses. The document emphasizes the goal of creating a more efficient and sustainable industrial zone, supported by strategic planning and design considerations."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/87ad6f7e-4990-4d1e-b694-d2b75dcf0475/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/87ad6f7e-4990-4d1e-b694-d2b75dcf0475",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Wilkes-Barre, Industrial park urban renewal : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Redevelopment Authority's plan for the Wilkes-Barre Industrial Park U.R.A. The project, initiated by the City of Wilkes-Barre, aims to revitalize the area through a comprehensive infrastructure upgrade, including improved rail connections and road networks. The document highlights a phased approach, focusing on enhancing accessibility and promoting economic growth. It identifies the project as a significant investment in the region's future, aiming to modernize the industrial landscape and bolster local businesses. The document emphasizes the goal of creating a more efficient and sustainable industrial zone, supported by strategic planning and design considerations."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure; Energy Systems; Wildlife and Natural Areas; Water Systems; Urban Development; Industrial Production and Materials; Climate and Weather Modification; Governance and Institutional Control; Place Based Development Conflicts; Indigenous Narratives and Sovereignty"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          " Wilkes-Barre, Pennsylvania"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Leon E. Case; David Dobson"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1975, aimed to redesign the downtown area of Wilkes-Barre, Pennsylvania, to improve traffic flow, reduce congestion, and enhance the city’s overall urban landscape. It was initially presented as a significant investment in infrastructure, but due to budgetary constraints and shifting priorities, the project ultimately faced delays and was not fully completed. The project’s success is questionable, as it represents a significant urban redevelopment effort that never fully materialized into a fully realized plan."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "No"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Wilkes-Barre, Industrial park urban renewal : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/87ad6f7e-4990-4d1e-b694-d2b75dcf0475/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/87ad6f7e-4990-4d1e-b694-d2b75dcf0475/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/87ad6f7e-4990-4d1e-b694-d2b75dcf0475",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

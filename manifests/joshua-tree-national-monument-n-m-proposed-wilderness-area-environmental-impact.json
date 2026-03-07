@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Joshua Tree National Monument (N.M.), Proposed wilderness area : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Advisory Council’s review of the Joshua Tree National Monument Wilderness Area proposal. The Advisory Council, composed of experts from the Forest Service, Department of Agriculture, and the National Park Service, has assessed the proposed wilderness area, specifically focusing on the potential impacts of road closures and infrastructure modifications. The document highlights concerns regarding the preservation of the ‘primeval character’ and ‘influence’ as defined in the Wilderness Act, emphasizing the need to protect natural conditions. The proposed wilderness units, particularly those with old roads, are identified as potentially unsuitable for designation due to their impact on this established landscape. The goal is to ensure the wilderness area remains a protected and managed area, balancing preservation with the practical realities of road closure and infrastructure maintenance, while adhering to the Wilderness Act’s principles."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/f29be4ff-79af-4b20-84a0-eb52fa3fca48/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/f29be4ff-79af-4b20-84a0-eb52fa3fca48",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Joshua Tree National Monument (N.M.), Proposed wilderness area : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Advisory Council’s review of the Joshua Tree National Monument Wilderness Area proposal. The Advisory Council, composed of experts from the Forest Service, Department of Agriculture, and the National Park Service, has assessed the proposed wilderness area, specifically focusing on the potential impacts of road closures and infrastructure modifications. The document highlights concerns regarding the preservation of the ‘primeval character’ and ‘influence’ as defined in the Wilderness Act, emphasizing the need to protect natural conditions. The proposed wilderness units, particularly those with old roads, are identified as potentially unsuitable for designation due to their impact on this established landscape. The goal is to ensure the wilderness area remains a protected and managed area, balancing preservation with the practical realities of road closure and infrastructure maintenance, while adhering to the Wilderness Act’s principles."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Joshua Tree National Monument"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Nathaniel Park Service; William H. Taylor; John C. Smith; Robert E. Miller; William H. Taylor"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in the 1970s, aimed to establish a large wilderness area in California, primarily to protect the state's natural resources and historical sites. The initial proposal focused on creating a vast, undeveloped landscape, with the goal of preserving the area's unique geological formations and wildlife. However, due to political pressures and concerns about potential conflicts with existing land uses, the project was significantly scaled back and ultimately abandoned, leaving behind a substantial but largely undeveloped area. It was deemed too costly and difficult to manage effectively, and the political climate shifted, leading to a reduction in the scope of the initial plan."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Joshua Tree National Monument (N.M.), Proposed wilderness area : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f29be4ff-79af-4b20-84a0-eb52fa3fca48/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f29be4ff-79af-4b20-84a0-eb52fa3fca48/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f29be4ff-79af-4b20-84a0-eb52fa3fca48",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

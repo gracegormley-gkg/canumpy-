@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Downtown Loop Freeway at Greenville, South Carolina"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "U. S. C. Department of Housing and Statewide Clearinghouse; Joseph Lieberman; Robert L. Broughton; Herbert F. DeSimone; W. N. Dulin; D.J. Miller"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Downtown Loop Freeway project, initiated in the 1960s, was a significant urban development initiative in Greenville, South Carolina, aimed at improving traffic flow and facilitating economic growth. The project involved the construction of a new multi-lane freeway, designed to connect the city’s downtown area to surrounding areas. However, the project faced considerable opposition from local residents and environmental groups, leading to delays and ultimately, abandonment of the project in 1973 due to cost overruns and community concerns regarding potential environmental impacts. The project ultimately failed to achieve its intended goals of creating a more efficient transportation network, highlighting the challenges of balancing urban development with community concerns and resource constraints."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

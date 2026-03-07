@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-national-aeronautics-and-space.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, for National Aeronautics and Space Administration, Skylab Program"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Skylab Program, initiated in 1972 by NASA, was a manned spaceflight project designed to study Earth’s resources. Located at Kennedy Space Center in Florida, the program involved three crews of three men for a month-long mission. The primary goal was to gather data on oceanography, water management, agriculture, geology, and air/water pollution. The program utilized proven hardware, including Saturn V launch vehicles, and focused on conducting scientific experiments and observations. The project’s stated goal was to advance understanding of solar astronomy, space medicine, and the effects of long-term space flight on human performance. The program’s initial environmental assessment indicated minimal adverse impact, with planned waste management and monitoring to minimize potential effects on the environment. The Skylab Program was a significant endeavor aimed at furthering scientific knowledge and exploring Earth’s resources."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/667c17d8-0027-4010-8f5c-34aad4a5c4a0/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/667c17d8-0027-4010-8f5c-34aad4a5c4a0",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, for National Aeronautics and Space Administration, Skylab Program"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Skylab Program, initiated in 1972 by NASA, was a manned spaceflight project designed to study Earth’s resources. Located at Kennedy Space Center in Florida, the program involved three crews of three men for a month-long mission. The primary goal was to gather data on oceanography, water management, agriculture, geology, and air/water pollution. The program utilized proven hardware, including Saturn V launch vehicles, and focused on conducting scientific experiments and observations. The project’s stated goal was to advance understanding of solar astronomy, space medicine, and the effects of long-term space flight on human performance. The program’s initial environmental assessment indicated minimal adverse impact, with planned waste management and monitoring to minimize potential effects on the environment. The Skylab Program was a significant endeavor aimed at furthering scientific knowledge and exploring Earth’s resources."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Kennedy Space Center, Florida"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "John F. Kennedy; NASA; Skylab Progrem; John F. Kennedy Spece Center"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-national-aeronautics-and-space.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, for National Aeronautics and Space Administration, Skylab Program"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/667c17d8-0027-4010-8f5c-34aad4a5c4a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-national-aeronautics-and-space.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-national-aeronautics-and-space.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-national-aeronautics-and-space.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/667c17d8-0027-4010-8f5c-34aad4a5c4a0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/667c17d8-0027-4010-8f5c-34aad4a5c4a0",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "National Highway Traffic Safety Administration"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Richard C. Carter; John M. Machey"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, known as 'Project Phoenix,' was initiated in 1975 by the Department of Defense to develop a new, highly-capable, and relatively inexpensive fighter jet. It aimed to surpass existing jet designs in speed, maneuverability, and overall combat effectiveness. However, due to escalating budget constraints and shifting strategic priorities, the project was ultimately scaled back and abandoned in 1982, with significant portions of the research and development team reassigned to other defense initiatives.  It was deemed a costly and ultimately less effective endeavor compared to initial projections."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

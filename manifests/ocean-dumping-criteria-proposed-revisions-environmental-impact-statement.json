@@ -49,6 +49,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Federal Agencies; Director, Oil and Special Materials Control Division (OSMCD); National Oceanic and Atmospheric Administration (NOAA); Department of the Corps of Engineers (USACE)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

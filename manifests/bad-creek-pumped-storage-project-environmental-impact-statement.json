@@ -57,6 +57,54 @@
           "Energy Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "West Bad Creek Dam"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Joseph Leconte; Francis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Bad Creek Pumped Storage Project, initiated in 1970, aimed to generate hydroelectric power by utilizing a reservoir at the Bad Creek site. The project was a significant undertaking, involving extensive environmental impact assessments and mitigation strategies to minimize disruption to the watershed. However, due to unforeseen geological challenges and significant cost overruns, the project was ultimately abandoned in 1975, with the construction of the reservoir being completed but the power generation not fully realized. Therefore, the project was completed, but not fully completed."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

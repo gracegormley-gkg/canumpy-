@@ -19,7 +19,7 @@ import re
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
-MONGO_FILE = REPO_ROOT / "full_doc_mongo_output.json"
+MONGO_FILE = REPO_ROOT / "full_doc_mongo_output_FINAL.json"
 MANIFESTS_DIR = REPO_ROOT / "manifests"
 COLLECTION_OUT = REPO_ROOT / "collection.json"
 

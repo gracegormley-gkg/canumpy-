@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-land-and-water-conservation-fund-project.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Land and Water Conservation Fund Project"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the proposed acquisition of 980 acres of land between Zion and Winthrop Harbor in Lake County, Illinois, to expand the existing Illinois Beach State Park. The Bureau of Outdoor Recreation, in collaboration with the Illinois Department of Conservation, is undertaking this project, aiming to increase recreational opportunities for the public. The document highlights concerns regarding potential disruption to existing residents due to the project’s impact on commuter revenue and the need for cross-traffic protection. The goal is to enhance the park’s accessibility and provide more recreational space, though the document also acknowledges potential challenges and requires careful planning to minimize negative impacts."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/de72d730-179e-4543-a712-edfc8cdc420f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/de72d730-179e-4543-a712-edfc8cdc420f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Land and Water Conservation Fund Project"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the proposed acquisition of 980 acres of land between Zion and Winthrop Harbor in Lake County, Illinois, to expand the existing Illinois Beach State Park. The Bureau of Outdoor Recreation, in collaboration with the Illinois Department of Conservation, is undertaking this project, aiming to increase recreational opportunities for the public. The document highlights concerns regarding potential disruption to existing residents due to the project’s impact on commuter revenue and the need for cross-traffic protection. The goal is to enhance the park’s accessibility and provide more recreational space, though the document also acknowledges potential challenges and requires careful planning to minimize negative impacts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Illinois Beach State Park"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rogers Park, Chicago, Illinois; Jerry Kane; John Dowie; Gary; Paul; Robert"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Illinois Beach Acquisition project, initiated in 1972, was a significant attempt to expand recreational opportunities in northeastern Illinois. The project aimed to extend the existing Illinois Beach State Park by 980 acres, primarily to increase access to the shoreline for recreation. However, due to significant community opposition, including concerns about property values and disruption to existing infrastructure, the project was ultimately cancelled in 1973, leaving the land undeveloped and largely unused."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-land-and-water-conservation-fund-project.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Land and Water Conservation Fund Project"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/de72d730-179e-4543-a712-edfc8cdc420f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-land-and-water-conservation-fund-project.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-land-and-water-conservation-fund-project.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-land-and-water-conservation-fund-project.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/de72d730-179e-4543-a712-edfc8cdc420f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/de72d730-179e-4543-a712-edfc8cdc420f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

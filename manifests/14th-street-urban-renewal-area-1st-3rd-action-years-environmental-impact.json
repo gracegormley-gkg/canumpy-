@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "14th Street urban renewal area, 1st-3rd action years : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the District of Columbia's Urban Renewal Plan, specifically focusing on the 14th Street Urban Renewal Area. It’s a proposed redevelopment project aimed at revitalizing the area through infrastructure improvements and new construction. The Joint Committee on Landmarks, designated by the Mayor, has identified the Sacred Heart Church as a Category III landmark, requiring preservation. The plan calls for the elimination of blighting conditions and redevelopment compatible with the landmark’s value. The document highlights the involvement of the Washington Area Office of Housing Programs and the District of Columbia Neighborhood Development Program, emphasizing the agency’s commitment to preserving historic properties like the Sacred Heart Church. The goal is to enhance the area’s cultural heritage and improve the quality of life for residents."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "14th Street urban renewal area, 1st-3rd action years : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the District of Columbia's Urban Renewal Plan, specifically focusing on the 14th Street Urban Renewal Area. It’s a proposed redevelopment project aimed at revitalizing the area through infrastructure improvements and new construction. The Joint Committee on Landmarks, designated by the Mayor, has identified the Sacred Heart Church as a Category III landmark, requiring preservation. The plan calls for the elimination of blighting conditions and redevelopment compatible with the landmark’s value. The document highlights the involvement of the Washington Area Office of Housing Programs and the District of Columbia Neighborhood Development Program, emphasizing the agency’s commitment to preserving historic properties like the Sacred Heart Church. The goal is to enhance the area’s cultural heritage and improve the quality of life for residents."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Urban Development"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "District of Columbia Neighborhood Development Program"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Russell E. Train; Robert Blanco; Sheldon Meyers; Richard Broun; Benjamin 0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The 14th Street Urban Renewal Plan, initiated in the 1960s, aimed to revitalize a historically significant neighborhood in Washington, D.C., by addressing blight and promoting redevelopment. The plan involved acquiring and redeveloping properties, creating new housing, and improving infrastructure. However, the project faced significant challenges, including community opposition and complex zoning regulations, leading to delays and ultimately, a partial implementation of the plan. The project was ultimately completed, though with some areas remaining undeveloped, due to ongoing negotiations and adjustments to the plan's scope."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "14th Street urban renewal area, 1st-3rd action years : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -57,6 +57,30 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Penn-Susquehanna Urban Renewal Project, Harrisburg, Pennsylvania"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Joseph E.G. Grottenthaler; Penn; Alleyways; Adjacent Land Use; Historic Preservation; John Harris"
+        ]
+      }
     }
   ],
   "requiredStatement": {

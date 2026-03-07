@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-rush-hubbard-apartments-chicago-illinois.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Rush-Hubbard Apartments, Chicago, Illinois"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed Rush-Hubbard Apartments project in Chicago, Illinois, a large-scale residential development designed to address a housing shortage. The project, overseen by the City of Chicago’s Planning and Development Department, involves the construction of 2,400 units across 100 acres. The Department of Housing and Urban Development (HUD) is overseeing the project, while the Chicago Office of Environmental Protection (OEP) is reviewing air quality impacts. The primary goal is to increase housing availability and affordability within the city, aiming to create a mixed-income community. The document highlights concerns regarding potential environmental impacts, particularly regarding ventilation and air quality, and requests a detailed environmental impact assessment to ensure compliance with federal and state regulations. It also emphasizes the importance of equitable employment practices for construction firms involved."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8438a116-20bf-4766-ab05-2914ee604664/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/8438a116-20bf-4766-ab05-2914ee604664",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Rush-Hubbard Apartments, Chicago, Illinois"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed Rush-Hubbard Apartments project in Chicago, Illinois, a large-scale residential development designed to address a housing shortage. The project, overseen by the City of Chicago’s Planning and Development Department, involves the construction of 2,400 units across 100 acres. The Department of Housing and Urban Development (HUD) is overseeing the project, while the Chicago Office of Environmental Protection (OEP) is reviewing air quality impacts. The primary goal is to increase housing availability and affordability within the city, aiming to create a mixed-income community. The document highlights concerns regarding potential environmental impacts, particularly regarding ventilation and air quality, and requests a detailed environmental impact assessment to ensure compliance with federal and state regulations. It also emphasizes the importance of equitable employment practices for construction firms involved."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rush-Hubbard Apartments (207) Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "George J. Vavoulis; William S. Luhman"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Rush-Hubbard Apartments project, initiated in the 1970s, was a significant urban development initiative in Chicago, aiming to address housing shortages and stimulate economic growth. It was a large-scale construction project, involving the construction of hundreds of apartments and commercial spaces, and was a key component of Chicago’s urban revitalization strategy during a period of rapid growth and increasing demand for housing. However, the project faced significant challenges, including cost overruns, delays, and controversy surrounding its impact on the surrounding neighborhood, ultimately leading to its cancellation in 1979 after a lengthy legal battle and a significant financial loss for the developers.  The project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-rush-hubbard-apartments-chicago-illinois.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Rush-Hubbard Apartments, Chicago, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8438a116-20bf-4766-ab05-2914ee604664/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-rush-hubbard-apartments-chicago-illinois.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-rush-hubbard-apartments-chicago-illinois.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-rush-hubbard-apartments-chicago-illinois.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8438a116-20bf-4766-ab05-2914ee604664/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8438a116-20bf-4766-ab05-2914ee604664",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

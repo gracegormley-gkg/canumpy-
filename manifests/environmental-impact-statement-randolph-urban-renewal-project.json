@@ -66,7 +66,7 @@
       },
       "value": {
         "none": [
-          "Randolph Urban Renewal Area"
+          "Randolph Urban Renewal Project"
         ]
       }
     },
@@ -78,7 +78,31 @@
       },
       "value": {
         "none": [
-          "Timothy Atheson; Philip V. Sanchez; James Costantina; James Madison Building; William J. Leidinger"
+          "Timothy Atheson; Philip V. Sanchez; Merlin K. DuVal; James Costantina; James Madison Building; William J. Leidinger"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Randolph Redevelopment project, initiated in 1972, aimed to revitalize a significant portion of Richmond’s historic downtown area by demolishing existing structures and constructing new, modern buildings. The project, driven by a desire to modernize the city’s urban landscape, faced significant challenges due to complex zoning regulations and community opposition. Despite initial optimism, the project ultimately faced substantial cost overruns and delays, leading to a significant reduction in the final budget and a partial completion of the redevelopment plan. Therefore, the project was completed with a reduced scope and a substantial financial loss."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
         ]
       }
     }

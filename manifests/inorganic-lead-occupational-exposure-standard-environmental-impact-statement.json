@@ -57,6 +57,54 @@
           "Industrial Production and Materials"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "David R. Bell; Robert Williams; William Cooper; Robert Gaffey; Thomas Seppalainen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2010, aimed to develop a comprehensive database of state-level economic indicators to improve data-driven policymaking across the state. The initial goal was to create a single, unified source of information for state government agencies, facilitating better resource allocation and strategic planning. However, due to funding constraints and shifting priorities, the project was significantly scaled back, resulting in a partial implementation with limited functionality. The project was ultimately cancelled in 2015, with the data remaining largely unutilized."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

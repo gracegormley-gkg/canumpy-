@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Metropolitan Dade County, Florida"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rogers Park, Chicago, Illinois; William Schulte; L. Cruz; J. Griffis; N. Schrieber; W.KK; J.Griffis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Southeast Corridor Rapid Transit Project, initiated in the 1970s, was a massive, ambitious undertaking to connect the Southeast United States to the Northeast via a high-speed rail network. It was a politically driven initiative, heavily influenced by the federal government's desire to stimulate economic growth and reduce reliance on air travel. However, the project faced significant opposition from local communities concerned about environmental impacts, property values, and the disruption of established transportation patterns. Despite substantial funding and planning, the project ultimately faced budget cuts and delays, ultimately being cancelled in 1985, leaving a legacy of controversy and a complex history of failed infrastructure development."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

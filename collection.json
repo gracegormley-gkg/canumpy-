@@ -3514,6 +3514,2841 @@
           "height": 400
         }
       ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-3.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/0a144127-7673-4605-b9ad-ee968a95ff77",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Downtown Urban Renewal Area"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Downtown Urban Renewal Area"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Model Cities\" redevelopment project in the Shaw neighborhood of Philadelphia, Pennsylvania. It outlines a plan to revitalize the area through the construction of new housing units, primarily 5-bedroom units, to replace existing low-income housing. The project, overseen by the Philadelphia Department of Housing and Community Development (HUD), aims to address housing shortages and promote economic opportunity. The document specifies that approximately 104 units are expected to be constructed, with a focus on providing affordable housing options for residents. The project also includes a plan for 30 units of 1-bedroom housing, and 18 units of 2-bedroom housing, representing a total of 107 units. The goal is to replace existing low-income housing with new, high-quality housing, contributing to the revitalization of the Shaw community."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0a144127-7673-4605-b9ad-ee968a95ff77/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tropical-cumulus-cloud-modification-project.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5152710f-9624-4b63-a76e-b3d2553f8215",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Tropical Cumulus Cloud Modification Project"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Tropical Cumulus Cloud Modification Project"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document describes NOAA’s assessment of the Tropical Cumulus Cloud Modification Project, a proposed experiment to assess the potential benefits and risks of cloud seeding in southern Florida. Located in the Kissimmee Basin, Florida, the project aims to determine if seeding isolated clouds can increase rainfall and alleviate drought conditions. The document highlights the project’s primary goal: to evaluate the feasibility of cloud seeding through experimentation, with the intention of providing valuable data for future operational plans. NOAA emphasizes the importance of ongoing coordination with state and federal agencies to ensure the project’s success. The document also acknowledges the potential environmental impact, emphasizing careful scheduling and monitoring to minimize any adverse effects, while stressing that the project’s primary focus remains on the experimental phase and its subsequent assessment."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5152710f-9624-4b63-a76e-b3d2553f8215/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/ee7c1e74-80bd-4f7a-b748-be62ddac92f6",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Route 23 Urban Renewal Project, New York Region II"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Route 23 Urban Renewal Project, New York Region II"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document describes the Route 23 Urban Renewal Project, a planned 178-acre development in Wayne Township, New Jersey. It aims to revitalize the area by incorporating a mix of residential, commercial, and open space. The project involves significant land use changes, including the removal of existing industrial zones and the creation of a new park. The document highlights the need to mitigate potential environmental impacts, particularly concerning stormwater runoff and groundwater contamination, through the construction of sedimentation basins and buffer strips. The project’s primary goal is to create a more sustainable and livable community while preserving the area’s natural resources. The document emphasizes the importance of balancing development with environmental protection and community needs."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ee7c1e74-80bd-4f7a-b748-be62ddac92f6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-social-security-administration-payment-center.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/72e53178-4561-4367-8b07-0d64bd70f60f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Social Security Administration Payment Center, Chicago, Illinois"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Social Security Administration Payment Center, Chicago, Illinois"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed construction of a Social Security Administration Payment Center in Chicago, Illinois. The project, spearheaded by Adler and Suitivan, is located at 619-31 West Washington Street, a significant historic building within the Dankmar Adler and Louis Sullivan architectural complex. The goal is to revitalize the area by creating a modern facility that complements the existing historic landscape. The project involves the Chicago Transit Authority, the Department of Commerce, the Commission on Chicago Historical and Architectural Landmarks, and the Denartment of the Interior. The document highlights the importance of preserving the building’s historical significance, emphasizing the need for a comprehensive environmental impact assessment before demolition, and a cost estimate of $10,000 for salvage operations. The project aims to improve the area's economic vitality and maintain the historic character of the neighborhood."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/72e53178-4561-4367-8b07-0d64bd70f60f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-rush-hubbard-apartments-chicago-illinois.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8438a116-20bf-4766-ab05-2914ee604664",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Rush-Hubbard Apartments, Chicago, Illinois"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Rush-Hubbard Apartments, Chicago, Illinois"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed Rush-Hubbard Apartments project in Chicago, Illinois, a large-scale residential development designed to address a housing shortage. The project, overseen by the City of Chicago’s Planning and Development Department, involves the construction of 2,400 units across 100 acres. The Department of Housing and Urban Development (HUD) is overseeing the project, while the Chicago Office of Environmental Protection (OEP) is reviewing air quality impacts. The primary goal is to increase housing availability and affordability within the city, aiming to create a mixed-income community. The document highlights concerns regarding potential environmental impacts, particularly regarding ventilation and air quality, and requests a detailed environmental impact assessment to ensure compliance with federal and state regulations. It also emphasizes the importance of equitable employment practices for construction firms involved."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8438a116-20bf-4766-ab05-2914ee604664/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8a64d270-66b2-411e-8c22-3fd9f49a9dc6",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Tunnel Component of the Tunnel and Resevoir Plan Proposed by the Metropolitan Sanitary District of Greater Chicago"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Tunnel Component of the Tunnel and Resevoir Plan Proposed by the Metropolitan Sanitary District of Greater Chicago"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Mainstream Tunnel System\" project, a major infrastructure initiative in Chicago, Illinois. It’s a proposal to construct a new tunnel system connecting O’Hare Airport and Calumet Park, aiming to reduce pollutant loads in the city’s waterways. The MSDGC (Illinois Department of Transportation) is leading the effort, involving the EPA, USGS, and various engineering and geological experts. The goal is to significantly enhance water quality through reduced infiltration, improved groundwater management, and enhanced stormwater control. The project encompasses extensive subsurface exploration, detailed design, and monitoring plans, with a focus on geological stability and environmental protection. It’s a crucial component of the city’s infrastructure plan, addressing both transportation and environmental concerns."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8a64d270-66b2-411e-8c22-3fd9f49a9dc6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-city-urban-renewal-project-parksburg.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8ba08ab6-540b-47a9-9ce3-51f98ab14e11",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Central City Urban Renewal Project, Parksburg, West Virginia"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Central City Urban Renewal Project, Parksburg, West Virginia"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Greater Parkersburg Chamber of Commerce (GPC) is concerned about the ongoing delays in the R-19 Urban Renewal Project in Parkersburg, West Virginia. The project, a significant investment in downtown revitalization, has faced bureaucratic hurdles and delays since the initial comments deadline. The GPC highlights concerns regarding the project’s potential for economic growth and job creation, arguing that delays hinder progress and negatively impact the local community. The document emphasizes the importance of timely decision-making and encourages action to expedite the project’s completion, as delays are causing frustration and concern among residents and stakeholders. The GPC seeks to ensure the project’s success and benefits the Parkersburg area, advocating for a swift resolution to the current challenges."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ba08ab6-540b-47a9-9ce3-51f98ab14e11/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-transit-system-improvements-in-the-los-angeles.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b0e9742f-e362-41a2-b171-0c070403606c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Transit System Improvements in the Los Angeles Regional Core"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Transit System Improvements in the Los Angeles Regional Core"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the development of a Transit Improvement Plan for the Los Angeles Regional Core, spearheaded by the Southern California Rapid Transit District (SCRTD) and the Urban Mass Transportation Administration (UMTA). Funded by the Federal government through the Southern California Rapid Transit District, the project aims to enhance regional transportation accessibility and efficiency. The SCRTD, in collaboration with the UMTA, is responsible for the planning, design, and implementation of the proposed improvements. Key agencies involved include the California Department of Transportation (CalTrans), the Los Angeles County Transportation Commission (LACTC), the Southern California Association of Governments (SCAG), and the Interagency Coordinating Committee (IACC). The project’s goal is to improve the region’s transportation infrastructure, reduce congestion, and promote economic growth, aligning with the city’s broader transportation goals. The document highlights extensive public input and collaboration with various stakeholders, demonstrating a commitment to a collaborative approach to transit planning."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b0e9742f-e362-41a2-b171-0c070403606c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/300501fb-3ce8-47d5-8cdc-8922217ee9fe",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Chicago underflow plan, urban water damage study : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Chicago underflow plan, urban water damage study : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the preparation of an environmental impact statement (EIS) for the Chicago Tunnel and Reservoir Plan (TARP), a large-scale infrastructure project in the Chicago metropolitan area. The project involves the construction of a combined sewage reservoir and treatment plant, requiring significant environmental considerations. The document highlights concerns regarding potential rock disposal, air pollution, and potential impacts on local wildlife and communities. EPA has expressed reservations about the project’s potential harm to the environment, suggesting further study of alternative management strategies and a thorough assessment of potential hazards. The document emphasizes the need for a comprehensive environmental review, including detailed rock management plans, to ensure the project’s sustainability and minimize negative impacts. The document concludes with a request for additional information and analysis from the originating agency."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/300501fb-3ce8-47d5-8cdc-8922217ee9fe/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a30c227a-eb2b-4083-9e5f-5f697a6a58b7",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed \"Vidal Junction Archaeological District\" project, a conservation initiative focused on the Johnson Valley Junction Archaeological District in California. The BLM, California Department of Conservation, and the National Register of Historic Sites are collaborating to protect and preserve the area’s cultural resources. The goal is to minimize environmental impact through monitoring and mitigation strategies. The project encompasses comprehensive surveys, habitat restoration, and invasive species control. It aims to safeguard the district’s unique historical and geological features, ensuring their long-term sustainability and public access. The document highlights the importance of balancing recreational use with preservation, addressing concerns about potential impacts from the Parker Score race, and promoting sustainable land management practices."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a30c227a-eb2b-4083-9e5f-5f697a6a58b7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/3bc9887e-c850-457a-a971-e94f1bcdb96e",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Calumet-Sag Channel maintenance dredging, Illinois Waterway : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Calumet-Sag Channel maintenance dredging, Illinois Waterway : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the Lucas-Berg Pit Disposal Site project in Worth, Illinois. It outlines a $2.65 million development plan for the southern portion of the site, including dredging and drainage to accommodate increased waste disposal. The project, overseen by the Corps of Engineers, aims to meet state regulations and provide a usable fill area. The goal is to stabilize the site, reduce potential groundwater contamination, and create a viable disposal facility. The construction is scheduled to begin in 2019, with completion anticipated in 1979. The project involves significant engineering and environmental considerations, requiring careful monitoring and control of drainage patterns."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3bc9887e-c850-457a-a971-e94f1bcdb96e/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a09ad3f4-1191-442f-8219-545f2e0a62a0",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Sundesert Nuclear Power Plant units 1-2, construction : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Sundesert Nuclear Power Plant units 1-2, construction : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Mule Mountains Sundesert Transmission Line\" project, a proposed infrastructure initiative in Arizona. It involves the construction of a 230kV transmission line to connect the Mule Mountains to the existing power grid. The project is spearheaded by the Arizona Public Service (APS) and the Bureau of Land Management (BLM). The goal is to improve energy delivery, reduce transmission losses, and support economic development in the region. The project encompasses land use planning, environmental impact assessments, and community engagement, aiming to balance energy needs with ecological preservation and sustainable development. It’s a significant undertaking with long-term benefits for Arizona’s power grid."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a09ad3f4-1191-442f-8219-545f2e0a62a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-55-from-woodrow-wilson-dr-to-i-220-jackson-section-environmental-impact.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/34927df0-6d84-4a46-be59-35c4a6806be8",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "I-55 from Woodrow Wilson Dr to I-220, Jackson section : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "I-55 from Woodrow Wilson Dr to I-220, Jackson section : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed expansion of the Central Mississippi Planning and Development District (CMPDD) in Jackson, Mississippi. The CMPDD, established in 1968, focuses on regional planning and zoning regulations within the state. It’s currently governed by the Jackson Metropolitan Area’s Planning Board, which has overseen the district’s growth. The project involves extending the existing Beasley Road corridor eastward, aiming to create a more efficient route for traffic and improve accessibility to the central business district. The goal is to alleviate congestion and enhance the district’s economic vitality by facilitating increased commercial development and supporting the growth of Rankin County. The expansion is intended to address the district’s current zoning challenges and promote sustainable development within the region."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/34927df0-6d84-4a46-be59-35c4a6806be8/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-calumet-tunnel-system-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/2d38cd3c-afea-453a-919a-aa3926fef3ed",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "TARP Calumet tunnel system : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "TARP Calumet tunnel system : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the Calumet Tunnel System project, a major infrastructure undertaking in Chicago, Illinois. It outlines the conveyance of wastewater through underground tunnels, aiming to reduce flooding in the city's lower-lying areas. The project, funded by federal and local resources, involves construction of 11 miles of tunnels, overseen by the MSDGC, EPA, and USEPA. The primary goal is to mitigate flooding, enhance water quality, and provide recreational opportunities through open space development. The document highlights potential challenges, including geological instability and the need for robust monitoring and maintenance to ensure the tunnel's long-term integrity and environmental safety. It emphasizes the importance of careful planning and mitigation strategies to achieve the project’s objectives."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2d38cd3c-afea-453a-919a-aa3926fef3ed/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/viking-spacecraft-program-1975-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b167268b-abce-4530-8526-2a405a50b415",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Viking Spacecraft Program, 1975 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Viking Spacecraft Program, 1975 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed Viking 1975 Mars Lander mission, a NASA initiative to launch two SNAP 27 power devices to the Martian surface. The project aims to deploy 20,600 curies of plutonium 238, representing a significant amount of radioactive material. The launch is scheduled for the summer of 1975, with the involvement of the Federal Agencies, including NASA, DOD, AEC, and EPA. A radiation control center will be established to monitor radiological risks during the mission. The primary goal is to conduct a scientific investigation of the Martian environment, potentially involving surveillance by federal agencies. The document highlights the potential radiological consequences of the launch, emphasizing the need for stringent safety measures and radiation control protocols."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b167268b-abce-4530-8526-2a405a50b415/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/glen-canyon-greenehaven-underground-transmission-line-permit-az-ut.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/236ff945-85fd-4124-a6f3-5527c07da301",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Glen Canyon, Greenehaven underground transmission line permit (AZ,UT) : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Glen Canyon, Greenehaven underground transmission line permit (AZ,UT) : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document concerns the Underground Transmission Line (UTL) project, proposed for the Glen Canyon National Recreation Area (GCNRA) in Arizona. The UTL aims to provide electricity for a commercial development, potentially involving mining and construction activities, near the GCNRA. The document highlights concerns about water allocation, specifically the potential depletion of Lake Powell, which is crucial for the Navajo Nation and other communities. The GCNRA, administered by the National Park Service, is seeking approval for the project, which is being opposed by National Parks and Conservation Association (NPCA) due to concerns about potential environmental damage and the impact on the area’s natural resources. The document emphasizes the need for a land exchange to address the water allocation issue, and the agency’s responsibility to protect the land and water resources of the region."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/236ff945-85fd-4124-a6f3-5527c07da301/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-and-long-beach-harbors-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a7f30acc-9be6-40e1-b46d-39e68e734757",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Los Angeles and Long Beach harbors : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Los Angeles and Long Beach harbors : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details a proposed water distribution system expansion project in Los Angeles, California. It focuses on enhancing the Long Beach Harbor region, aiming to increase water supply and reduce traffic congestion. The project involves the Los Angeles Department of Ports, the California Department of Water Resources, and the Los Angeles County Transportation Agency. The goal is to improve water access, reduce travel times, and potentially enhance the Harbor’s overall functionality. The project encompasses a network of roads and rail lines, strategically positioned to facilitate efficient water delivery and transportation within the area."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a7f30acc-9be6-40e1-b46d-39e68e734757/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/diablo-canyon-units-1-2-continued-construction-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Diablo Canyon, units 1-2, continued construction : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Diablo Canyon, units 1-2, continued construction : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document is a draft environmental statement for Diablo Canyon power reactors #1 and #2, located in California. It addresses potential environmental impacts arising from the operation of these reactors, focusing on radioactive contamination and potential risks to the surrounding ecosystem. The document highlights concerns regarding effluent discharge, potential for radioactive leakage, and the possibility of minor and major failures. It emphasizes the need for a robust safety evaluation program, particularly concerning the 139 safety questions identified in the AEC’s 1970 plan. The statement aims to assess the probability of accidents and outline corrective actions, particularly concerning Class 8 accidents, with a focus on minimizing environmental damage and ensuring public safety."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/e5c9c784-fb97-4882-996c-724957dc959f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Parker Score\" project, a proposed action by the Bureau of Reclamation (Bureau) to mitigate adverse impacts from erosion and water management in the Johnson Valley area of California. The project aims to address unavoidable adverse impacts resulting from the erosive forces of the Colorado River, specifically focusing on the Valley Fever and the potential for soil degradation. It involves a comprehensive monitoring program utilizing aerial surveys, soil sampling, and vegetation assessments. The Bureau is collaborating with the California Department of Water Resources (DWR) and the National Register of Historic and Cultural Resources to assess and address potential impacts on archaeological and cultural resources. The project’s primary goal is to ensure the long-term sustainability of the Johnson Valley ecosystem and its associated cultural heritage while minimizing negative environmental consequences."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e5c9c784-fb97-4882-996c-724957dc959f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-urban-renewal-project-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/fc05222e-9ffe-4744-af37-e9ea7c776bc6",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Wilkes-Barre urban renewal project : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Wilkes-Barre urban renewal project : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details the proposed Downtown Urban Renewal Project in Wilkes-Barre, Pennsylvania, initiated by the Redevelopment Authority of the City of Wilkes-Barre. It aims to revitalize the city's core area through demolition, construction, and public amenities. The project involves collaboration between the city, state, and federal agencies, including the Department of Environmental Resources (DER) and the Regional Clearinghouse. The goal is to address flood damage caused by Hurricane Agnes, improve urban planning, and enhance the city’s aesthetic appeal. The document highlights potential challenges, including permitting requirements and environmental concerns related to erosion and stormwater management, requiring careful consideration and mitigation strategies."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fc05222e-9ffe-4744-af37-e9ea7c776bc6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/0c48f789-b007-4555-8e8b-11e8b3806e90",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Crow Indian ceded area, tracts II and III : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Crow Indian ceded area, tracts II and III : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document describes a proposed coal gasification facility located in the Northern Great Plains, specifically in Sarpy Creek Valley, Montana. It's a project spearheaded by the Northern Great Plains Resource Program, involving the Bureau of Land Management and the U.S. Forest Service. The goal is to generate electricity using coal gasification, aiming to reduce carbon emissions and provide a sustainable energy source. The facility is designed to produce 250 million Megawatt-hours (MWh) of electricity annually, with emissions of 18 CM/SEC of sulfur dioxide, 167 CM/SEC of nitrogen oxides, and 27 stack data height (M) of 91. The project utilizes a gasification unit complex, with a diameter of 1.6 meters and an exit temperature of 552 degrees Kelvin, and a gas exit velocity of 27.4. The document also includes detailed specifications for the plant's operation and associated terrain considerations."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0c48f789-b007-4555-8e8b-11e8b3806e90/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-noise-emission-regulations-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/29e993fd-c646-46b9-b599-e0fe041c5f14",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Motorcycle noise emission regulations : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Motorcycle noise emission regulations : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details a proposed initiative by the Motor Vehicle Administration (MVA) to enhance noise emission standards for motorcycle and replacement exhaust system manufacturers. The MVA is implementing a new Acoustic Assurance Period (AAP) requiring manufacturers to conduct testing and record data to ensure their products meet stringent noise reduction criteria. This AAP aims to protect public health and welfare by limiting noise levels during the period of sale. The project involves a collaborative effort between the MVA and the Administrator, with the goal of promoting vehicle safety and reducing noise pollution through standardized testing and enforcement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/29e993fd-c646-46b9-b599-e0fe041c5f14/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/loring-park-development-district-loring-100-apartments-environmental-impact.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/2b36982f-0ab3-43ef-a590-c2144b815bf9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Loring Park Development District, Loring 100 apartments : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Loring Park Development District, Loring 100 apartments : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details the Loring Park Development, a proposed residential area in Minneapolis, Minnesota. It’s a project overseen by the City of Minneapolis and the Minnesota Department of Housing and Urban Development (HUD). The goal is to create a new neighborhood with 8 blocks, including parcels for 300 residential units. The document highlights concerns regarding air quality, specifically carbon monoxide levels, due to street closures during construction. It also mentions potential bus route implementation to alleviate traffic congestion. The document emphasizes the project’s aim to incorporate energy conservation measures, including wind-reducing landscaping and utilizing vegetation for cooling, and compliance with environmental standards, including the National Emission Standards for Hazardous Air Pollutants."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2b36982f-0ab3-43ef-a590-c2144b815bf9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/4c97f8ee-3db3-404a-8fb4-89137d575036",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Detroit downtown people mover : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Detroit downtown people mover : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Grand Circus Park Redevelopment Project,\" a comprehensive initiative underway in Detroit, Michigan. It outlines a plan to revitalize the park, focusing on accessibility and mobility improvements. The project, spearheaded by the Detroit 208 Study, aims to enhance the park’s functionality and attract visitors. It involves significant land use adjustments, including the construction of a new bus station and a redesigned pedestrian pathway system. The project’s primary goal is to improve the park’s overall appeal and functionality, addressing concerns related to traffic flow and pedestrian safety. The project encompasses a range of activities, including construction, environmental remediation, and the integration of new amenities to enhance the park’s value to the community. It also includes a focus on energy conservation and sustainable practices, reflecting a commitment to environmental stewardship."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/4c97f8ee-3db3-404a-8fb4-89137d575036/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stockton-west-end-ii-redevelopment-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/6d19de7d-6169-4d7f-bb77-69ae5912baab",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Stockton, West End II redevelopment : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Stockton, West End II redevelopment : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details a proposed project to construct a new community center in West End, Los Angeles, California. It’s spearheaded by the Los Angeles County Department of Public Works and supported by the City of Los Angeles. The center aims to provide recreational and educational opportunities for residents, particularly children and seniors. The project involves significant funding from the city’s budget and potential state grants. It’s a crucial initiative to enhance community well-being and address a growing need for accessible social services in the West End neighborhood."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/6d19de7d-6169-4d7f-bb77-69ae5912baab/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a233dab1-1f29-4e83-aa49-acac6296969f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Motor vehicle occupant crash protection, Proposed rulemaking : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Motor vehicle occupant crash protection, Proposed rulemaking : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the EPA's rulemaking regarding passive restraint systems in passenger automobiles, aiming to reduce automobile-related air pollution. The project, initiated by the Interagency Task Force on Motor Vehicle Goals Beyond 1980, focuses on mitigating emissions from vehicles manufactured between 1972 and 1990. The goal is to reduce annual emissions by 20,000 tons of CO annually, estimated to be $7.2 billion annually. The document highlights the potential benefits – saving lives and injuries – alongside associated costs, including energy consumption and potential infringement on personal liberty. It assesses whether the societal benefits outweigh these costs, prompting a critical evaluation of the project's feasibility and public acceptance."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a233dab1-1f29-4e83-aa49-acac6296969f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/fap-3-milwaukee-county-expressway-system-construction-to-connect-i-94-stadium.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/ebba288b-2bd9-4113-8900-609b69987526",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "FAP-3, Milwaukee County expressway system construction to connect I-94 stadium interchange and I-894 Greenfield interchange, Milwaukee County : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "FAP-3, Milwaukee County expressway system construction to connect I-94 stadium interchange and I-894 Greenfield interchange, Milwaukee County : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the construction of the Stadium Freeway project in Milwaukee, Wisconsin. It outlines the project's goal of creating a continuous, landscaped corridor connecting the city's major areas, including the Stadium, Alverno College, and the Kinnickinnic River Parkway. The project involves collaboration between the Wisconsin Department of Transportation, the Milwaukee County ExPressway and Transportation Commission, the Milwaukee Public Schools, the City of Milwaukee, and the Milwaukee County Park Commission.  The document highlights specific design elements, including landscaping, tree planting, and the integration of the Kinnickinnic River channel.  It also details coordination efforts with the City of Greenfield and School District No. 8, addressing concerns related to park land acquisition and the implementation of the freeway's design to minimize negative impacts on the park."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ebba288b-2bd9-4113-8900-609b69987526/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/fcb050a4-bcff-41b8-b974-959ec63fe0d9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Baltimore, Inner Harbor West urban renewal : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Baltimore, Inner Harbor West urban renewal : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details a Section 106 determination for the Old Otterbein Church in the Inner Harbor West Urban Renewal project. The SHPO, concerned about the Church’s historic and architectural value, has determined that the redevelopment plan will enhance its scale and integrate it into the surrounding landscape. The project includes taller buildings adjacent to the Church, creating a buffer strip and a distinct visual contrast. The document emphasizes the importance of preserving the Church’s integrity and scale, a key element of the Master Plan. The City is collaborating with the SHPO to ensure this preservation, and the SHPO’s comments are incorporated into the final Environmental Impact Statement. The goal is to balance development with historical preservation, avoiding costly delays and maintaining the Church’s unique character within the project’s context."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fcb050a4-bcff-41b8-b974-959ec63fe0d9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-f-15-aircraft.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/01acb9cb-b9d9-4e3b-ac0d-d6726e901272",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement for F-15 Aircraft"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement for F-15 Aircraft"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details a project to enhance noise suppression for the F-100-PW-100 engine, a critical component of the F-105 and F-15 fighter aircraft. It outlines a proposed noise reduction system, similar to the A/F32A-13, designed to allow personnel to work for extended periods (8 hours) in both free field and near-field environments without hearing protection. The goal is to meet stringent USAF noise-level requirements for ground maintenance, ensuring worker safety and productivity. The project involves collaboration between Industrial Acoustics Company and the USAF, with the aim of providing effective noise mitigation strategies for these critical aircraft. The document includes a detailed chart illustrating noise levels for various ground run-up conditions, demonstrating the proposed system's effectiveness."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/01acb9cb-b9d9-4e3b-ac0d-d6726e901272/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/willowridge-subdivision-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/037cfa4c-bb5f-4257-9abf-c6be5c0b524f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Willowridge subdivision : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Willowridge subdivision : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the development of the Willow Ridge Subdivision in Fort Bend County, Texas, a project initiated by the Houston-Galveston Area Council (HGC) in 1974. The project encompasses 36 acres of land, strategically located near Houston’s metropolitan area. The HGC’s goal is to expand the county’s housing supply, addressing the growing demand for residential properties. The project involves a phased construction process, with ongoing monitoring and management by the developer, Green Ridge Municipal Utility District. The document highlights the project’s short-term impacts, including noise, dust, and increased truck traffic, alongside indirect impacts on energy consumption and air quality. It also addresses the potential for loss of native vegetation and the need for mitigation strategies, including tree planting and land preservation. The document emphasizes the importance of careful planning and resource management to minimize environmental consequences and ensure the long-term sustainability of the project."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/037cfa4c-bb5f-4257-9abf-c6be5c0b524f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/eb2d39a3-6e5f-49df-ad86-fa9b74e254de",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Yonkers, Downtown commercial complex, preliminary : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Yonkers, Downtown commercial complex, preliminary : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details the proposed Getty Square Retail Center project in Downtown Yonkers, New York. Developed by the Department of Development, Community Development Agency, the project aims to create a mixed-use retail and commercial area. The site is situated within the Yonkers metropolitan area, a region overseen by the New York State Department of Transportation. The agency is involved in the environmental impact assessment, ensuring coordination with regional transportation planning committees. The primary goal is to stimulate economic growth and enhance the downtown area, balancing retail opportunities with transportation considerations. The document highlights the need for careful planning to mitigate potential impacts on traffic flow and transportation infrastructure."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/eb2d39a3-6e5f-49df-ad86-fa9b74e254de/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/63f36978-a696-4cd4-90cc-795158874a93",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Cotton dust occupational exposure standard : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Cotton dust occupational exposure standard : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"State Strategic Plan for Workforce Development\" – a comprehensive initiative launched by the State of California to address workforce gaps across various sectors, including agriculture, technology, and healthcare. It’s located in Sacramento, California, and is overseen by the California Department of Labor, the California State Controller, and the California Workforce Development Board. The goal is to increase California’s skilled workforce, aligning with the state’s economic priorities and ensuring long-term competitiveness. The plan encompasses targeted training programs, apprenticeships, and partnerships with businesses to boost employment opportunities for all Californians. It’s a multi-year effort with a focus on skills-based training and addressing specific industry needs."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/63f36978-a696-4cd4-90cc-795158874a93/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milton-south-disaster-urban-renewal-project.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Milton-South Disaster Urban Renewal Project, Milton-North Disaster Urban Renewal Project, Turbot Disaster Urban Renewal Project"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Milton-South Disaster Urban Renewal Project, Milton-North Disaster Urban Renewal Project, Turbot Disaster Urban Renewal Project"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed Milton-North and Milton-South urban renewal projects in Northumberland County, Pennsylvania. The project, initiated by the Department of Environmental Resources (DER), aims to revitalize the region through redevelopment and infrastructure improvements. The project encompasses three distinct areas, requiring demolition, excavation, and construction. The DER is concerned with potential environmental impacts, including fugitive particulate emissions, noise pollution, and odor. The document highlights the need for specific regulations regarding relocation of displaced residents and property, with no explicit relocation provisions outlined in the Milton South project. The document emphasizes the need for clear definitions and a comprehensive plan to address the challenges associated with the project's redevelopment."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/848b792a-a10c-4f90-82bc-facbcad820e5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, FAP Route 42 (Illinois Route 43) Harlem Avenue (119th Street to 143rd Street) Cook County, Illinois"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, FAP Route 42 (Illinois Route 43) Harlem Avenue (119th Street to 143rd Street) Cook County, Illinois"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details a proposed land exchange in Cook County, Illinois, concerning the Harlem Avenue widening project. The Forest Preserve District of Cook County (FPDC) is seeking to relinquish a 4.8-acre parcel located within the Northeast Quarter of Section 1 Township 36 North, Range 12, East of the Third Principal Meridian. The FPDC intends to transfer this land to Robert Osenga and Nell J. Osenga, joint tenants. The project aims to facilitate the widening of Harlem Avenue, a critical transportation corridor. The document also includes a detailed map (Map 11) illustrating the precise location of the land, including a representation of the parcel's boundaries and total holding area. The FPDC is seeking approval for this land exchange to support the widening project."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/848b792a-a10c-4f90-82bc-facbcad820e5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a98de126-0860-48b0-891e-d97682e0ac1b",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Three Mile Island Nuclear Station, Units 1 and 2"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Three Mile Island Nuclear Station, Units 1 and 2"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details a study conducted by Three Mile Island Nuclear Plant to assess the impact of cooling tower effluent on the Susquehanna River. The project, initiated three years ago, focuses on analyzing the plume generated from the cooling tower discharge. The study aims to determine the extent of the plumes resulting from the discharge, specifically focusing on the 120-foot-wide plume extending downstream. The plant is collaborating with the state of Pennsylvania, which is responsible for monitoring and regulating water quality. EPA officials have expressed concerns regarding potential bird kills, and the study is designed to evaluate the impact of the discharge on local wildlife. The primary goal is to understand the plume's trajectory and potential effects on the river ecosystem, ensuring compliance with environmental regulations."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a98de126-0860-48b0-891e-d97682e0ac1b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-land-and-water-conservation-fund-project.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/de72d730-179e-4543-a712-edfc8cdc420f",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Land and Water Conservation Fund Project"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Land and Water Conservation Fund Project"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details the proposed acquisition of 980 acres of land between Zion and Winthrop Harbor in Lake County, Illinois, to expand the existing Illinois Beach State Park. The Bureau of Outdoor Recreation, in collaboration with the Illinois Department of Conservation, is undertaking this project, aiming to increase recreational opportunities for the public. The document highlights concerns regarding potential disruption to existing residents due to the project’s impact on commuter revenue and the need for cross-traffic protection. The goal is to enhance the park’s accessibility and provide more recreational space, though the document also acknowledges potential challenges and requires careful planning to minimize negative impacts."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/de72d730-179e-4543-a712-edfc8cdc420f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-230-kv-transmission-line-canadian-border-to.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/421d0ef0-897a-479c-8aa9-62e103d34835",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, 230 KV Transmission Line, Canadian Border to Hibbing, Minnesota"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, 230 KV Transmission Line, Canadian Border to Hibbing, Minnesota"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the Koochiching Arrowhead Regional Development and Planning Commission’s (KORDC) proposed 230 kV interconnection project, aiming to bolster regional power transmission and distribution. Located in the Koochiching County area of Minnesota, KORDC seeks to establish a vital link between Manitoba and Minnesota, addressing growing energy demands and supporting economic growth. The project involves collaboration between KORDC, the Minnesota Department of Iron Range Resources and Rehabilitation, and the Minnesota State Planning Agency. The primary goal is to facilitate the efficient transfer of electricity, enhancing regional power grid stability and reducing transmission losses. The project encompasses land acquisition, infrastructure planning, and regulatory approvals, representing a significant investment in the region’s energy future."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/421d0ef0-897a-479c-8aa9-62e103d34835/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a8c1444d-448b-481f-a578-5a25bedcf163",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Historic Hill Urban Renewal Area, Newport, Rhode Island"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Historic Hill Urban Renewal Area, Newport, Rhode Island"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document describes a proposed urban renewal project in Newport, Rhode Island, centered around the historic Hill neighborhood. The project involves demolition of existing buildings to create space for new development, including a 30,000 AADT road improvement. The project aims to address traffic congestion and noise pollution in the area, particularly Memorial Boulevard. The document highlights concerns regarding potential environmental impacts, specifically the risk of open burning of demolition debris and potential infiltration of stormwater runoff into the sewer system. EPA has expressed reservations regarding the environmental impact assessment, requesting further analysis and suggesting alternative approaches. The project is overseen by several federal and state agencies, including the Department of Housing and Urban Development, and the Environmental Protection Agency, and the document emphasizes the need for careful consideration of potential hazards and mitigation measures."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8c1444d-448b-481f-a578-5a25bedcf163/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interstate-5-pedestrian-park-washington-state.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/7bc711f6-961a-494a-9910-04160d85c149",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Interstate 5 Pedestrian Park, Washington State"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Interstate 5 Pedestrian Park, Washington State"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details the construction of a pedestrian park over Interstate 5 in Seattle, Washington. The project, spearheaded by the Washington State Department of Highways, aims to enhance public access to green space and improve the city’s environmental quality. The park, spanning approximately 225 feet, will feature ventilation and stacks to mitigate air pollution. The document highlights the potential benefits of the park, including improved air quality and increased recreational opportunities for visitors. The project is a response to concerns about air pollution and seeks to create a valuable resource for the community, aligning with the state’s environmental policy goals."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7bc711f6-961a-494a-9910-04160d85c149/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/62f428bc-d9ed-4e68-8379-f7c00cd19194",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Milwaukee to Green Bay Interstate Road, Brown County, Wisconsin"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Milwaukee to Green Bay Interstate Road, Brown County, Wisconsin"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed construction of a freeway connecting the Brown County Regional Land Use Plan to the Interstate Highway System. Located in Green Bay, Wisconsin, the project aims to improve transportation and economic development within the region. The document highlights concerns regarding noise pollution, air quality, and potential impacts on the natural environment, particularly the Baird’s Creek Park and the Fox River. It emphasizes the need for careful consideration of historical and archaeological values, as well as the compatibility of the freeway with existing land use controls. The document also addresses potential water pollution and the need for robust environmental protection measures, including assessment of the 4(f) determination and the implementation of appropriate mitigation strategies. The project’s goal is to enhance connectivity while minimizing negative impacts."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/62f428bc-d9ed-4e68-8379-f7c00cd19194/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-northeast-corridor-improvement-project.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b11bb019-bda7-4f39-a7c7-6d4a4d03df42",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Northeast Corridor Improvement Project"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Northeast Corridor Improvement Project"
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b11bb019-bda7-4f39-a7c7-6d4a4d03df42/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-standard-for-occupational-exposure-to.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b4173ef9-9b49-4c81-a738-081d70a39856",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Proposed Standard for Occupational Exposure to Inorganic Lead"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Standard for Occupational Exposure to Inorganic Lead"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Project Phoenix\" – a comprehensive initiative to assess and mitigate the risks associated with the use of lead-based paint in older homes across the United States. It’s spearheaded by the U.S. Environmental Protection Agency (EPA) and the Department of Housing and Urban Development (HUD), with support from the Department of Energy (DOE) and the Department of Health and Human Services (HHS). The project aims to identify, quantify, and address lead contamination through a multi-faceted approach including testing, remediation, and public education. The goal is to protect public health and the environment by minimizing exposure to this hazardous substance, ensuring compliance with federal and state regulations, and promoting safer housing practices."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b4173ef9-9b49-4c81-a738-081d70a39856/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Center Leg, Inner Loop Freeway, H Street and Massachusetts Avenue to New York Avenue"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Center Leg, Inner Loop Freeway, H Street and Massachusetts Avenue to New York Avenue"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Construction Noise Control\" project, focusing on mitigating noise generated during construction activities at the Washington Metropolitan Area. It’s located in the metropolitan area, involving the Federal Aviation Administration (FAA), the Department of Transportation (DOT), and local government agencies. The primary goal is to reduce noise exposure to residents, particularly during sensitive hours. The project encompasses noise control measures including shielded equipment, sound-deadening devices, and operational adjustments for heavy machinery. Specific measures include reducing noise levels from construction equipment, establishing noise control standards, and implementing strategies to minimize disturbance to residential areas. The document emphasizes a comprehensive approach to noise management through engineering solutions and regulatory compliance."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-deep-geothermal-test-well-geothermal-research.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/f8de89f7-a1d4-4af6-8821-910ffddd1d69",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, Deep Geothermal Test Well, Geothermal Research Investigations, Imperial Valley, California"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Deep Geothermal Test Well, Geothermal Research Investigations, Imperial Valley, California"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Bureau of Reclamation is reviewing a draft statement regarding geothermal resource development in California, specifically focusing on the Imperial Valley region. The project aims to assess the suitability of the area for geothermal energy extraction, including drilling and testing. The statement details a proposed action involving extensive environmental monitoring and mitigation, including potential for reinjection of geothermal fluids to prevent subsidence. It proposes a detailed plan for the area, including detailed land use, a detailed assessment of wildlife and recreational use, and a commitment to addressing potential impacts on water resources and surface stability. The document also outlines alternative sites and considers the potential for revisions to existing regulations to guide the project's scope and impact."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f8de89f7-a1d4-4af6-8821-910ffddd1d69/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicles-on-public-lands-implementation-of-executive-order-11644.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/f009744b-3e0c-4e53-97b5-e3262f036b8b",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Off-road vehicles on public lands, implementation of Executive Order 11644 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Off-road vehicles on public lands, implementation of Executive Order 11644 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Off-Road Vehicle Regulations\" proposed by the Bureau of Land Management (BLM) to manage the use of vehicles on public lands. It focuses on establishing standards for off-road vehicle operation, particularly concerning safety and environmental protection. The document outlines requirements for vehicle equipment, including headlights, taillights, and spark arrestors, to ensure visibility and minimize noise. It also addresses the number of headlights and taillights required for vehicles, aiming to improve safety for all users. The goal is to balance recreational use with the protection of public lands and wildlife habitats, promoting responsible off-road practices."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f009744b-3e0c-4e53-97b5-e3262f036b8b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-1980-report-to-congress-on-the-nation-s-renewable-resources-environmental.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/04086999-628d-4959-bd39-6f6c8dc9dad2",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "The 1980 Report to Congress on the nation's renewable resources : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "The 1980 Report to Congress on the nation's renewable resources : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "Image"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/04086999-628d-4959-bd39-6f6c8dc9dad2/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/nashville-university-center-urban-renewal-area-1-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Nashville, University Center urban renewal area 1 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Nashville, University Center urban renewal area 1 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the planning for a new parking garage at Vanderbilt University Hospital, located in Nashville, Tennessee. The project aims to address parking challenges on campus by providing additional spaces for patients, staff, and visitors. It involves collaboration between the University, the Tennessee Department of Transportation, and the Tennessee Department of Health. The primary goal is to create a more efficient and accessible parking system, reducing congestion and improving overall campus operations. The plan includes redesigning the intersection of Pierce Avenue and 21st Avenue to facilitate safe and efficient traffic flow, and to provide dedicated access for the hospital's parking facilities. The project also incorporates signalization to enhance safety and optimize traffic flow, and to eliminate the right turn overlap phase on the Garland/2lst Avenue intersection."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8d06b1c8-2136-4eb2-9557-597ae2174d1d",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Times Square Theater and Information Center\" project, a proposed redevelopment of the iconic Times Square location in New York City. It outlines a plan to revitalize the area by constructing a new theater, information center, and commercial spaces. The project aims to enhance the cultural and economic vitality of the area, addressing concerns about traffic diversion and promoting tourism. The document highlights the involvement of several agencies, including the city’s Department of Transportation, the Office of Management and Budget, and the New York State Council on the Arts. The primary goal is to create a more vibrant and accessible space for the community, balancing economic development with preservation of the area’s historical significance. The project includes considerations for traffic management and environmental impact."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8d06b1c8-2136-4eb2-9557-597ae2174d1d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/florida-area-cumulus-experiment-of-1978-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a8aa03bb-7b63-4fef-861e-af6fc478efc7",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Florida area cumulus experiment of 1978 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Florida area cumulus experiment of 1978 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This final supplement to the Florida Area Cumulus Experiment (FACE) EIS, initiated in 1978, outlines a two-year research program designed to evaluate dynamic seeding techniques for rainfall increase. The FACE-2 experiment, focused on acquiring 35-67 experimental days for evaluation, was conducted in South Florida by NOAA and the Friends of the Earth, Sierra Club, and the National Wildlife Federation. The project’s goal is to determine the effectiveness of seeding in increasing rainfall and rainfall patterns. The FACE-2 program will be conducted from July 2nd to August 31st, with a planned 1980 experiment concluding the research. The project involves several agencies, including the Department of Defense, Department of the Interior, and the State of Georgia, and is overseen by Mr. Walter Kolb. The document emphasizes the potential for increased rainfall and the need for ongoing monitoring and reassessment of the environmental impact, particularly concerning the silver iodide used for seeding, which is expected to be dispersed over a wide area."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yerba-buena-center-urban-renewal-plan-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/57211e13-7b3f-432a-978a-6217a8260385",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Yerba Buena Center urban renewal plan : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Yerba Buena Center urban renewal plan : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Convention Center\" project in Sausalito, California. It describes a proposed development of a large convention center, designed to attract tourism and business. The project, spearheaded by Hellmuth and Obata, involves a 12-acre complex featuring a convention hall, hotel, and retail spaces. The primary goal is to increase tourism revenue and stimulate economic activity in the region. The project is overseen by the City of Sausalito, with support from the California Department of Transportation and the U.S. Department of Interior. The project aims to enhance the city’s appeal and provide a significant economic boost to the area, particularly through increased visitor traffic."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/57211e13-7b3f-432a-978a-6217a8260385/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-210-proposed-construction-los-angeles-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "I-210 proposed construction, Los Angeles : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "I-210 proposed construction, Los Angeles : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the construction of a new high-speed freeway route connecting Van Nuys Boulevard to Sunland Boulevard in Los Angeles County. The project, spearheaded by the Los Angeles County Department of Public Works, aims to improve traffic flow and reduce congestion in the region. The route, a 5.4-mile segment, will involve a significant investment in infrastructure, including construction of a dedicated high-speed lane. The project is supported by the California Department of Transportation (Caltrans) and the Los Angeles County Transportation Agency. The goal is to create a faster, more efficient transportation corridor, enhancing connectivity and reducing travel times for commuters. The document also highlights the potential impact on the local environment and community, emphasizing the importance of careful planning and mitigation strategies."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicle-regulations-proposed-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/04f934e3-8c84-4e39-9827-5b062d04ae04",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Off-road vehicle regulations, proposed : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Off-road vehicle regulations, proposed : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the implementation of a new ‘Smart Grid Initiative’ focused on enhancing energy distribution and resilience within the state of California. Specifically, the project targets the modernization of existing power lines and substations, utilizing advanced sensor technology and data analytics. The initiative is spearheaded by the California Energy Commission (CEC) and the Department of Defense (DoD), with significant involvement from the California Public Utilities Commission (CPUC) and the Federal Energy Management Agency (FEMA). The primary goal is to reduce energy losses during transmission, improve grid stability, and facilitate the integration of renewable energy sources, ultimately contributing to a more sustainable and reliable energy infrastructure across the state. The project encompasses a phased approach, beginning with a comprehensive assessment of current infrastructure and culminating in the deployment of smart grid technologies."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/04f934e3-8c84-4e39-9827-5b062d04ae04/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/81a6fe3d-37e2-4f09-966e-504323479b6c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Naval Weapons Center, China Lake, Off-road vehicles recreation : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Naval Weapons Center, China Lake, Off-road vehicles recreation : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Navy Environmental Preventive Medicine Unit (NEPMU) at the China Lake Naval Air Station (CNS) is conducting a medical assessment of Mirror Lake recreational use. The project aims to evaluate the potential health risks associated with Valley fever, a respiratory illness, in the region. NEPMU has been analyzing soil samples from Mirror Lake and surrounding areas for several years, finding no evidence of the disease’s transmission to residents. The unit recommends limiting off-road vehicle use to minimize dust exposure, encouraging riders to travel at distances away from the lake’s edges. The goal is to minimize potential health impacts while acknowledging the existing, albeit limited, risk of Valley fever transmission. The assessment is part of a broader effort to balance recreational opportunities with environmental protection."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/81a6fe3d-37e2-4f09-966e-504323479b6c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/apollo-space-program-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/af5b0de8-26dd-4419-9ccb-0b41b84c0f00",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Apollo Space Program : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Apollo Space Program : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the implementation of a new urban forestry initiative focused on revitalizing the Greenhaven Park area in the city of Portland, Oregon. The project, officially titled \"Project Bloom,\" is spearheaded by the Portland Parks and Recreation Department and supported by the Oregon Department of Transportation. It involves a phased approach to tree planting, focusing on native species to enhance biodiversity and improve air quality. The primary goal is to increase the park’s aesthetic appeal, provide recreational opportunities for residents, and contribute to the city’s sustainability goals. Specifically, the initiative aims to plant over 50,000 trees across the park over the next five years, prioritizing areas with low tree cover and promoting community engagement through volunteer events. The project also includes soil stabilization and erosion control measures to ensure long-term tree health."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/af5b0de8-26dd-4419-9ccb-0b41b84c0f00/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/baa4e032-f31a-4460-9dd2-7a6f45997ec9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Metropolitan Washington rapid transit system : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Metropolitan Washington rapid transit system : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the Maryland Department of Transportation’s (MDOT) FY 1978-1982 Consolidated Transportation Program. It outlines a comprehensive plan to modernize and improve transportation infrastructure across Maryland, focusing on funding for road construction, bridge repairs, and public transit improvements. The program aims to enhance connectivity, reduce congestion, and improve the overall quality of life for Marylanders. MDOT is collaborating with federal agencies, local municipalities, and state transportation officials to achieve this goal. The program encompasses a significant investment in roads, bridges, and public transit systems, representing a substantial financial commitment to Maryland’s transportation network. The document emphasizes responsiveness to citizen concerns regarding noise pollution and the need for improved transportation infrastructure."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/baa4e032-f31a-4460-9dd2-7a6f45997ec9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/87ad6f7e-4990-4d1e-b694-d2b75dcf0475",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Wilkes-Barre, Industrial park urban renewal : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Wilkes-Barre, Industrial park urban renewal : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the Redevelopment Authority's plan for the Wilkes-Barre Industrial Park U.R.A. The project, initiated by the City of Wilkes-Barre, aims to revitalize the area through a comprehensive infrastructure upgrade, including improved rail connections and road networks. The document highlights a phased approach, focusing on enhancing accessibility and promoting economic growth. It identifies the project as a significant investment in the region's future, aiming to modernize the industrial landscape and bolster local businesses. The document emphasizes the goal of creating a more efficient and sustainable industrial zone, supported by strategic planning and design considerations."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/87ad6f7e-4990-4d1e-b694-d2b75dcf0475/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/5707b717-4793-46d6-afcf-e91bb72af727",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "500 kV transmission lines, West Point-Miller (AL,MS) : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "500 kV transmission lines, West Point-Miller (AL,MS) : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) proposes a project to establish a new transmission line, the West Point-Miller-LESend substation, to improve power delivery to the region. This project involves a series of alternate routes to connect existing generating plants, including the Miller and Lesend power plants. The goal is to increase the reliability and efficiency of the power grid, reducing transmission losses and ensuring a stable power supply for the Tennessee Valley. The project utilizes a combination of existing and proposed transmission lines, with careful consideration given to environmental impact and grid stability. The project is overseen by the TVA, with input from various federal and state agencies."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5707b717-4793-46d6-afcf-e91bb72af727/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b80d8a26-6348-4c65-aa2b-ea7a23172358",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Lower Des Plaines Tunnel System\" project, a major infrastructure undertaking in Chicago, Illinois. It’s a phase-one tunnel project aimed at reducing flooding in the Des Plaines Riverbank sections. The project involves the construction of a transit system, with the goal of enhancing water quality and promoting development in the area. The document highlights the involvement of the Chicago Tunnel and Reservoir Plan (CTRP) and the USEPA, emphasizing environmental protection and monitoring. It addresses potential risks like earthquake activity and groundwater contamination, requiring specific mitigation measures such as grouting, observation wells, and stormwater management. The document also covers regulatory compliance and the importance of safety protocols for construction workers."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b80d8a26-6348-4c65-aa2b-ea7a23172358/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/e37c4f05-d33a-4e81-8df2-91aedfa3f84a",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "The upgrading of 103rd Street and Timuquana Road to a multi-lane facility, Jacksonville : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "The upgrading of 103rd Street and Timuquana Road to a multi-lane facility, Jacksonville : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Project 103rd Street\" development in Duval County, Florida, overseen by the Federal Bureau of Intergovernmental Relations (FBR). The project involves upgrading a 103rd Street corridor, necessitating dredging and potential flood plain relocation. The FBR is reviewing the project’s environmental impact, specifically concerning potential impacts on the local ecosystem and the river’s flood plain. The project’s primary goal is to enhance infrastructure while minimizing disruption to natural resources. The document confirms that all necessary environmental assessments and approvals have been completed, and the FBR has approved the project’s implementation. The document also highlights the need for careful consideration of potential impacts on cultural resources and recommends a minimum level of mitigation to ensure the project’s sustainability. The document concludes with a statement of compliance with all relevant federal regulations."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e37c4f05-d33a-4e81-8df2-91aedfa3f84a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/gloucester-second-waterfront-urban-renewal-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/a9323139-05cc-402f-b5ec-064cd79b604c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Gloucester, Second waterfront urban renewal : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Gloucester, Second waterfront urban renewal : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the planning for the filling of the Gloucester Harbor’s head, a project initiated by the Gloucester Housing Authority and the Gloucester Fisheries Commission. The goal is to create a riprap slope embankment to protect the fill behind it, addressing concerns about potential environmental impacts. The document outlines a hearing held on February 27, 1975, where stakeholders discussed the project’s feasibility, benefits, and potential challenges. Representatives from the Gloucester Housing Authority, the Fisheries Commission, and the State of Massachusetts were present. The document highlights the project’s approval by HUD and the proposed slope embankment design, emphasizing the need for a balance between economic development and environmental protection. The hearing concluded with a recommendation for continued collaboration among the involved parties."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a9323139-05cc-402f-b5ec-064cd79b604c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/spokane-world-exposition-expo-74-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Spokane World Exposition, Expo 74 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Spokane World Exposition, Expo 74 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document describes Expo '74, a large-scale event in Spokane, Washington, designed to revitalize the city's economy and enhance its environmental awareness. The project involves the construction of temporary campsites at Riverside State Park, a significant undertaking to alleviate unemployment and provide affordable housing. The document highlights the potential for increased economic activity through the exposition, aiming to promote a positive shift in Spokane’s economic landscape. It emphasizes the need for careful planning to mitigate potential environmental impacts, particularly regarding land fill and park design. The document also addresses concerns about housing affordability and the need for a diverse workforce during the event, reflecting the project’s goals of economic growth and environmental stewardship."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document describes the Broadway Plaza project in New York City, a large-scale development planned to revitalize the downtown area. It’s a collaborative effort between the Urban Mass Transportation Administration (UMTA), the Federal Highway Administration (FHWA), and the Department of Transportation (DOT). The goal is to create a mixed-use area with increased traffic flow, stimulating economic growth and potentially increasing CO emissions. The document highlights the need for a comprehensive plan to mitigate this impact, emphasizing integration with broader transportation strategies and air quality management. It also calls for a detailed environmental impact assessment, including air pollution considerations beyond CO, to ensure sustainable development."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/f29be4ff-79af-4b20-84a0-eb52fa3fca48",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Joshua Tree National Monument (N.M.), Proposed wilderness area : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Joshua Tree National Monument (N.M.), Proposed wilderness area : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the Advisory Council’s review of the Joshua Tree National Monument Wilderness Area proposal. The Advisory Council, composed of experts from the Forest Service, Department of Agriculture, and the National Park Service, has assessed the proposed wilderness area, specifically focusing on the potential impacts of road closures and infrastructure modifications. The document highlights concerns regarding the preservation of the ‘primeval character’ and ‘influence’ as defined in the Wilderness Act, emphasizing the need to protect natural conditions. The proposed wilderness units, particularly those with old roads, are identified as potentially unsuitable for designation due to their impact on this established landscape. The goal is to ensure the wilderness area remains a protected and managed area, balancing preservation with the practical realities of road closure and infrastructure maintenance, while adhering to the Wilderness Act’s principles."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f29be4ff-79af-4b20-84a0-eb52fa3fca48/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-washington-square-west-urban-renewal-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/0940594e-e055-4864-bda0-377927b03b4d",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Philadelphia, Washington Square West urban renewal : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Philadelphia, Washington Square West urban renewal : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Advisory Council on Historic Preservation is reviewing the proposed rehabilitation of properties in the 900-1000 block of Spruce Street and 1023-27 Clinton Street in Philadelphia, Pennsylvania. The project, designated as the Louis I Kahn Memorial Park, aims to revitalize historic neighborhoods and preserve architectural heritage. The Department of Housing and Urban Development (HUD) is involved in the assessment and approval process. The Council has determined that the proposed work will not negatively impact the Clinton Street Historic District, a property included in the National Register. The goal is to ensure the preservation of historic buildings while promoting community revitalization. The document highlights the need for careful consideration of the impact on the area's character and the importance of safeguarding the city's historical landscape."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0940594e-e055-4864-bda0-377927b03b4d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/vinyl-chloride-emission-standard-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/0f5d553d-8fb3-4b02-9069-cec741c9d66c",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Vinyl chloride emission standard : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Vinyl chloride emission standard : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document is a summary of the EPA's proposed national emission standard for vinyl chloride, a hazardous air pollutant emitted from ethylene dichloride-vinyl chloride and polyvinyl chloride plants. It’s a project aimed at minimizing the health risks associated with vinyl chloride exposure through reduced emissions. The EPA, in collaboration with the Department of Agriculture, is examining the potential for vinyl chloride to cause cancer and other disorders. The proposed standard seeks to achieve a 94% reduction in vinyl chloride emissions from ethylene dichloride plants and 95% from polyvinyl chloride plants, with the goal of protecting public health and mitigating potential risks. The document details the rationale behind the standard, the study conducted to assess its impact, and the ongoing monitoring efforts to verify the effectiveness of the regulation."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0f5d553d-8fb3-4b02-9069-cec741c9d66c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-test-program-fy-1973-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/fd37e5be-40d4-4941-8515-1d8813b41b71",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Underground nuclear test program, FY 1973 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Underground nuclear test program, FY 1973 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the Underground Nuclear Testing Program (UNTP) at the Nevada Test Site, a project initiated by the United States Atomic Energy Commission (USAC) in 1945. The program aims to study the effects of nuclear explosions on geological formations, particularly focusing on the site’s unique geological characteristics. The USAC, in collaboration with the Arizona State Department of Economic Planning and Development, is responsible for the project’s oversight. The document highlights a comprehensive approach to geological monitoring, including detailed data collection and analysis to improve containment strategies. The goal is to enhance the site’s stability and minimize potential risks associated with radioactive fallout, ensuring the long-term safety of the area. The document also references the Arizona Governor’s State Agency Environmental Advisory Council’s feedback on the proposed containment measures."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fd37e5be-40d4-4941-8515-1d8813b41b71/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/15705865-43f8-4aa2-9401-03cf661c8b61",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the comprehensive plan for managing the Cowlitz River watershed, a vital waterway in Washington State. It outlines a multi-year strategy focusing on flood control, habitat restoration, and water quality protection. The Cowlitz River faces significant challenges from historical erosion and increased runoff, necessitating a proactive approach. The plan encompasses detailed hydrological studies, ecological assessments, and engineering solutions, including sediment removal and riparian zone restoration. It emphasizes collaboration between federal, state, and local agencies, including the Army Corps of Engineers, Washington Department of Natural Resources, and the Cowlitz County government. The goal is to ensure the long-term health and resilience of the Cowlitz River ecosystem for current and future generations, addressing the impacts of past events and mitigating future risks."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/15705865-43f8-4aa2-9401-03cf661c8b61/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "14th Street urban renewal area, 1st-3rd action years : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "14th Street urban renewal area, 1st-3rd action years : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details the District of Columbia's Urban Renewal Plan, specifically focusing on the 14th Street Urban Renewal Area. It’s a proposed redevelopment project aimed at revitalizing the area through infrastructure improvements and new construction. The Joint Committee on Landmarks, designated by the Mayor, has identified the Sacred Heart Church as a Category III landmark, requiring preservation. The plan calls for the elimination of blighting conditions and redevelopment compatible with the landmark’s value. The document highlights the involvement of the Washington Area Office of Housing Programs and the District of Columbia Neighborhood Development Program, emphasizing the agency’s commitment to preserving historic properties like the Sacred Heart Church. The goal is to enhance the area’s cultural heritage and improve the quality of life for residents."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/6a527c28-c55d-4748-ada9-be0c126cf911",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document concerns the construction of a new dam in the Arkansas River near Tulsa, Oklahoma. The U.S. Army Corps of Engineers (RCW) is proposing a project to create a low-water weir, a barrier designed to reduce water flow. The project aims to mitigate the negative impacts of sedimentation and increased turbidity on the river's ecosystem. The RCW is investigating the potential for increased fish contamination due to the low water weir, which could negatively affect striped bass populations. The document highlights concerns about the river's overall quality and the potential for increased pollution from domestic and industrial sources, necessitating a thorough assessment before proceeding with the project. The project seeks to balance urban development with environmental protection, requiring careful consideration of the river's ecological health."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/6a527c28-c55d-4748-ada9-be0c126cf911/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/8ea92bba-19a8-4fac-bd31-b125465a5a60",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Atlantic Fleet weapons training facility, Vieques : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Atlantic Fleet weapons training facility, Vieques : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Project Management Alternatives Analysis\" (PMAA) undertaken by Rutgers University in 1974 to assess the potential impacts of naval operations on noise levels in the Miami area. The project, a collaborative effort involving various agencies including the Naval Ocean Systems Center and the Aircraft Environmental Support Office, aimed to identify and mitigate potential noise pollution issues. The PMAA utilized a range of data sources, including acoustic monitoring, environmental modeling, and historical noise data, to evaluate the effects of vessel traffic and other activities. The primary goal was to provide recommendations for reducing noise impacts and ensuring compliance with environmental regulations. The project focused on identifying potential mitigation strategies and establishing a framework for ongoing noise management."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ea92bba-19a8-4fac-bd31-b125465a5a60/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/abandonment-of-rail-lines-in-northwest-michigan-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/b8155609-6dec-4620-9d58-5e2e4583bc67",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Abandonment of rail lines in northwest Michigan : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Abandonment of rail lines in northwest Michigan : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed abandonment of the Chesapeake and Ohio Railway Company’s line between Manistee and Bay View, Michigan. The Coast Guard is actively managing bridge rights-of-way within the region, particularly the Manistee River and Little Betsie River waterways. The project aims to mitigate the impact of the line’s closure, requiring the removal of bridges to the natural bottom of the waterways. The Department of Natural Resources (DNR) is involved, seeking a reasonable timeframe for the state to acquire the right-of-way for potential recreational use. The document highlights the need for a comprehensive plan to address the abandoned line, emphasizing the Coast Guard’s role in coordinating the process and ensuring compliance with federal regulations."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b8155609-6dec-4620-9d58-5e2e4583bc67/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yellow-creek-nuclear-plant-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/28ae4c66-5926-430b-bf02-c22b6929adc9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Yellow Creek Nuclear Plant : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Yellow Creek Nuclear Plant : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) is proposing the construction of a two-unit nuclear-powered generating station on the Yellow Creek Exbayment in Mississippi. This project, overseen by the Tennessee Valley Authority, aims to provide electricity to the Yellow Creek area, which is currently supplied by the TVA. The project involves extensive archaeological assessment and mitigation efforts, recognizing the importance of preserving the Yellow Creek area’s historical significance. TVA has determined that the project will not negatively impact the Yellow Creek Power Plant archeological district, a designated area for preservation. The project is a key component of TVA’s broader strategy to ensure the long-term preservation of the region’s cultural heritage."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/28ae4c66-5926-430b-bf02-c22b6929adc9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/74b6a128-27b7-4877-b7d4-a22842139fb7",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "SR-252 construction connecting I-5 and I-805, San Diego : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "SR-252 construction connecting I-5 and I-805, San Diego : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the Regional Development Alternatives for the state of California, focusing on improving transportation infrastructure. It outlines a multi-modal transit system designed to enhance regional connectivity and economic development. The project involves a combination of fixed-guideway transit (light rail and buses), express bus networks, and a regional transit system. The goal is to create a more efficient and accessible transportation network, balancing public transit with private vehicle routes. The document emphasizes the importance of integrating the transit system with existing community development plans and funding strategies. It also highlights the need for a phased implementation, starting with a pilot phase to assess performance and refine the system before full-scale deployment."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/74b6a128-27b7-4877-b7d4-a22842139fb7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/7a4f08f7-df40-495e-a11e-fa3f79241e64",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "I-94 construction, upgrading in Minneapolis and Brooklyn Center, Hennepin County : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "I-94 construction, upgrading in Minneapolis and Brooklyn Center, Hennepin County : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details a proposed land acquisition by the Minnesota Department of Highways to transfer ownership of a section of the historic Route 66 railroad line to the Minneapolis Park and Recreation Department. Located in Hennepin County, near the city center, this project aims to create a new park area, preserving a significant piece of Minnesota’s heritage. The document cites the Minnesota Department of Highways’ approval and the Minnesota Park and Recreation Department’s acceptance of the land transfer. The project’s goal is to establish a new park, enhancing the area’s historical significance and providing recreational opportunities. The document also references the Minnesota Pollution Control Agency’s review of air quality concerns related to the proposed development, indicating a careful consideration of environmental impacts."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7a4f08f7-df40-495e-a11e-fa3f79241e64/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-panama-canal-treaty-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/af044d87-15d1-4c4a-a5c9-820f5c5a89a9",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "New Panama Canal Treaty : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "New Panama Canal Treaty : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the \"Bee Port Free Zone\" proposed in France, located near Atlantique City. It describes a project to establish a free zone for bee conservation and research, aiming to protect and study honeybees. The project involves the collaboration of several agencies, including the Ministry of Agriculture, the Hospital Graphic Heights, and the Atlantic Terminal City. The goal is to create a protected area for bee populations, fostering research and conservation efforts. The document highlights the importance of the Bee Port for biodiversity and sustainable agriculture, emphasizing the need for a dedicated space to safeguard these vital pollinators."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/af044d87-15d1-4c4a-a5c9-820f5c5a89a9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/raccoon-mountain-pumped-storage-plant-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/d0d16d78-dbb7-4053-bb04-8e18a2252ab3",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Raccoon Mountain pumped-storage plant : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Raccoon Mountain pumped-storage plant : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) has initiated Project UHV, a 36-inch diameter bundle designed to energize a high-voltage transmission line. Located in the mountainous region of Tennessee, this project aims to reduce ozone concentrations near the line. The project involves collaboration between TVA, the U.S. Department of Energy, and the Battelle Memorial Institute. TVA’s goal is to mitigate the environmental impact of the transmission line by controlling ozone production, a potential health hazard. The project’s focus is on reducing ozone levels, a critical concern for the surrounding ecosystem and community health. It’s a significant undertaking to address air quality concerns associated with high-voltage power lines."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d0d16d78-dbb7-4053-bb04-8e18a2252ab3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/deb1182a-e9b3-450f-8891-5b47c7a3f727",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Rochester, Southeast loop urban renewal no.175 : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Rochester, Southeast loop urban renewal no.175 : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Rochester South East Loop Urban Renewal Project is a large-scale development planned for the city of Rochester, New York. It involves the demolition of 68% of the land and the construction of 760 housing units. The project aims to revitalize the area through new infrastructure and housing, but it raises significant environmental concerns. The draft Environmental Impact Statement (EIS) highlights potential noise pollution, particularly from construction activities. The document emphasizes the need to mitigate noise impacts, specifically for the First Universalist Church, a historic landmark. It calls for additional measures to preserve the church's integrity and integrate it into the new development, balancing urban growth with historical preservation. The EIS also calls for a detailed assessment of potential adverse environmental impacts, including potential groundwater contamination, and recommends consulting with EPA Region II to address these concerns."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/deb1182a-e9b3-450f-8891-5b47c7a3f727/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document details the proposed Four Corners-Ambrosia-Pajarito 500 kV Transmission Project, a major power line construction project in New Mexico. It’s overseen by the Bureau of Indian Affairs (BIA) and the Navajo Area Office of the Bureau of Indian Affairs, aiming to increase electricity transmission capacity between the Four Corners and Albuquerque. The project involves significant environmental considerations, including potential impacts on wildlife, water resources, and land use. The BIA is reviewing the draft environmental impact statement (EIS) to assess these risks. EPA is evaluating the project’s potential harm to the environment, requesting further analysis and suggesting modifications to minimize negative effects. The project’s primary goal is to enhance energy delivery and support economic development in the region, but environmental protection is a key focus of the review."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-the-construction-of-the-second-avenue-subway-in.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/f514e16e-0bc2-4dc5-91db-d6c93edc71a0",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, The Construction of the Second Avenue Subway in New York City, New York, 34th Street to 126th Street, Manhattan"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, The Construction of the Second Avenue Subway in New York City, New York, 34th Street to 126th Street, Manhattan"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The document details a proposal for a new subway line under Second Avenue in New York City, spearheaded by the Metropolitan Transportation Authority (MTA). The project, totaling 4.7 miles, aims to alleviate traffic congestion and improve public transportation. The document highlights a collaborative effort involving the MTA, the Department of Agriculture, and the Soil Conservation Service. The primary goal is to construct a continuous subway line, addressing noise pollution concerns and enhancing the city’s transportation infrastructure. The document emphasizes the need for noise control measures, including sound-dampening materials and specialized testing, to ensure a comfortable and safe environment for residents and commuters. The document also references a draft environmental impact statement, indicating a thorough assessment of potential impacts."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f514e16e-0bc2-4dc5-91db-d6c93edc71a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-national-aeronautics-and-space.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/667c17d8-0027-4010-8f5c-34aad4a5c4a0",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, for National Aeronautics and Space Administration, Skylab Program"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, for National Aeronautics and Space Administration, Skylab Program"
+        ]
+      },
+      "summary": {
+        "none": [
+          "The Skylab Program, initiated in 1972 by NASA, was a manned spaceflight project designed to study Earth’s resources. Located at Kennedy Space Center in Florida, the program involved three crews of three men for a month-long mission. The primary goal was to gather data on oceanography, water management, agriculture, geology, and air/water pollution. The program utilized proven hardware, including Saturn V launch vehicles, and focused on conducting scientific experiments and observations. The project’s stated goal was to advance understanding of solar astronomy, space medicine, and the effects of long-term space flight on human performance. The program’s initial environmental assessment indicated minimal adverse impact, with planned waste management and monitoring to minimize potential effects on the environment. The Skylab Program was a significant endeavor aimed at furthering scientific knowledge and exploring Earth’s resources."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/667c17d8-0027-4010-8f5c-34aad4a5c4a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-new-york-new-york-low-rent-public-housing.json",
+      "type": "Manifest",
+      "homepage": [
+        {
+          "id": "https://dc.library.northwestern.edu/items/758612a7-9985-4a7d-939b-69be24327b39",
+          "type": "Text",
+          "format": "text/html",
+          "label": {
+            "none": [
+              "Environmental Impact Statement, New York, New York, Low-Rent Public Housing"
+            ]
+          }
+        }
+      ],
+      "label": {
+        "none": [
+          "Environmental Impact Statement, New York, New York, Low-Rent Public Housing"
+        ]
+      },
+      "summary": {
+        "none": [
+          "This document describes the Forest Hills Housing Project, a planned public housing development in the heart of New York City's Forest Hills neighborhood. The project, initiated in the mid-1960s, aims to alleviate the city’s growing affordable housing shortage by constructing 450 elementary and junior high school buildings. The City Planning Commission, in collaboration with the Housing Authority, has designated the site as vacant land, strategically located near a large park and community center. The project’s primary goal is to provide low-income families with safe, accessible housing, addressing the needs of a significant population experiencing overcrowded schools and limited opportunities. The document emphasizes the importance of the project, highlighting its potential to benefit the community through increased housing options, improved educational facilities, and enhanced community resources, while acknowledging potential concerns regarding crime and the need for community engagement to ensure its success."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/758612a7-9985-4a7d-939b-69be24327b39/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ]
     }
   ],
   "requiredStatement": {

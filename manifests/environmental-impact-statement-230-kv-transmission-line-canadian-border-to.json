@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-230-kv-transmission-line-canadian-border-to.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, 230 KV Transmission Line, Canadian Border to Hibbing, Minnesota"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Koochiching Arrowhead Regional Development and Planning Commission’s (KORDC) proposed 230 kV interconnection project, aiming to bolster regional power transmission and distribution. Located in the Koochiching County area of Minnesota, KORDC seeks to establish a vital link between Manitoba and Minnesota, addressing growing energy demands and supporting economic growth. The project involves collaboration between KORDC, the Minnesota Department of Iron Range Resources and Rehabilitation, and the Minnesota State Planning Agency. The primary goal is to facilitate the efficient transfer of electricity, enhancing regional power grid stability and reducing transmission losses. The project encompasses land acquisition, infrastructure planning, and regulatory approvals, representing a significant investment in the region’s energy future."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/421d0ef0-897a-479c-8aa9-62e103d34835/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/421d0ef0-897a-479c-8aa9-62e103d34835",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, 230 KV Transmission Line, Canadian Border to Hibbing, Minnesota"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Koochiching Arrowhead Regional Development and Planning Commission’s (KORDC) proposed 230 kV interconnection project, aiming to bolster regional power transmission and distribution. Located in the Koochiching County area of Minnesota, KORDC seeks to establish a vital link between Manitoba and Minnesota, addressing growing energy demands and supporting economic growth. The project involves collaboration between KORDC, the Minnesota Department of Iron Range Resources and Rehabilitation, and the Minnesota State Planning Agency. The primary goal is to facilitate the efficient transfer of electricity, enhancing regional power grid stability and reducing transmission losses. The project encompasses land acquisition, infrastructure planning, and regulatory approvals, representing a significant investment in the region’s energy future."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Minnesota Power and Light Company substation at Hibbing, Minnesota"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "David A. Eamil; Frank W. Bennett; George Washington State Forest; Robert E. Miller; John A. Peterson"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed Winnipeg-Warroad-International Falls-Shannon 230 kV line, initiated in 1967, was a significant infrastructure project in Minnesota aimed at bolstering the state’s power grid and supporting economic growth. Driven by a need to increase electricity transmission capacity, particularly for the rapidly growing metropolitan areas of the Upper Midwest, the project sought to connect the existing power network with new sources and distribution facilities. However, due to significant opposition from landowners and environmental concerns, the project faced substantial delays and ultimately faced cancellation in 1973, leaving the region with a partially completed infrastructure network."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-230-kv-transmission-line-canadian-border-to.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, 230 KV Transmission Line, Canadian Border to Hibbing, Minnesota"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/421d0ef0-897a-479c-8aa9-62e103d34835/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-230-kv-transmission-line-canadian-border-to.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-230-kv-transmission-line-canadian-border-to.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-230-kv-transmission-line-canadian-border-to.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/421d0ef0-897a-479c-8aa9-62e103d34835/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/421d0ef0-897a-479c-8aa9-62e103d34835",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

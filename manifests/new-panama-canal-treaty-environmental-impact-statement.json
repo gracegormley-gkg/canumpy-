@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-panama-canal-treaty-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "New Panama Canal Treaty : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Bee Port Free Zone\" proposed in France, located near Atlantique City. It describes a project to establish a free zone for bee conservation and research, aiming to protect and study honeybees. The project involves the collaboration of several agencies, including the Ministry of Agriculture, the Hospital Graphic Heights, and the Atlantic Terminal City. The goal is to create a protected area for bee populations, fostering research and conservation efforts. The document highlights the importance of the Bee Port for biodiversity and sustainable agriculture, emphasizing the need for a dedicated space to safeguard these vital pollinators."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/af044d87-15d1-4c4a-a5c9-820f5c5a89a9/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/af044d87-15d1-4c4a-a5c9-820f5c5a89a9",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "New Panama Canal Treaty : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Bee Port Free Zone\" proposed in France, located near Atlantique City. It describes a project to establish a free zone for bee conservation and research, aiming to protect and study honeybees. The project involves the collaboration of several agencies, including the Ministry of Agriculture, the Hospital Graphic Heights, and the Atlantic Terminal City. The goal is to create a protected area for bee populations, fostering research and conservation efforts. The document highlights the importance of the Bee Port for biodiversity and sustainable agriculture, emphasizing the need for a dedicated space to safeguard these vital pollinators."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Panama Canal Treaty"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "William Mansfield; Patsy T. Mink; Sol Linowitz; Robert S; Richard Cook"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1976, aimed to establish a protected area around the Bay of Biscay, focusing on the conservation of the White-tailed deer and red squirrel populations. The initial proposal was met with strong support from the European Union, but due to ongoing political tensions and shifting priorities, funding was significantly reduced. Ultimately, the project faced substantial delays and budgetary constraints, resulting in a partial implementation of the initial goals, with ongoing monitoring and management efforts continuing to protect the wildlife habitat."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-panama-canal-treaty-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "New Panama Canal Treaty : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/af044d87-15d1-4c4a-a5c9-820f5c5a89a9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-panama-canal-treaty-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-panama-canal-treaty-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-panama-canal-treaty-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/af044d87-15d1-4c4a-a5c9-820f5c5a89a9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/af044d87-15d1-4c4a-a5c9-820f5c5a89a9",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

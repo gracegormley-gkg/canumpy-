@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Adlai E. Stevenson; Charles H. Percy; George M. O'Brien; Philip M. Crane; Frank Annunzio; J. Mikva; Sidney R. Yates; Dan Rostenkowski; Martin A. Russo; Candiss Collins; Henry J. Hyde; John G. Fary; Edward J. Derwinski; Ralph H. Metcalfe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

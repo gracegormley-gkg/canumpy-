@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yellow-creek-nuclear-plant-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Yellow Creek Nuclear Plant : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Tennessee Valley Authority (TVA) is proposing the construction of a two-unit nuclear-powered generating station on the Yellow Creek Exbayment in Mississippi. This project, overseen by the Tennessee Valley Authority, aims to provide electricity to the Yellow Creek area, which is currently supplied by the TVA. The project involves extensive archaeological assessment and mitigation efforts, recognizing the importance of preserving the Yellow Creek area’s historical significance. TVA has determined that the project will not negatively impact the Yellow Creek Power Plant archeological district, a designated area for preservation. The project is a key component of TVA’s broader strategy to ensure the long-term preservation of the region’s cultural heritage."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/28ae4c66-5926-430b-bf02-c22b6929adc9/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/28ae4c66-5926-430b-bf02-c22b6929adc9",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Yellow Creek Nuclear Plant : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) is proposing the construction of a two-unit nuclear-powered generating station on the Yellow Creek Exbayment in Mississippi. This project, overseen by the Tennessee Valley Authority, aims to provide electricity to the Yellow Creek area, which is currently supplied by the TVA. The project involves extensive archaeological assessment and mitigation efforts, recognizing the importance of preserving the Yellow Creek area’s historical significance. TVA has determined that the project will not negatively impact the Yellow Creek Power Plant archeological district, a designated area for preservation. The project is a key component of TVA’s broader strategy to ensure the long-term preservation of the region’s cultural heritage."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rogers Park, Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "David Freeman; Button"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) initiated the Yellow Creek Nuclear Power Plant project in the 1970s, a crucial effort to provide electricity to the Tennessee Valley region, which was heavily reliant on coal. The project aimed to modernize the region’s energy infrastructure and stimulate economic growth. However, due to environmental concerns and public opposition, the project faced significant challenges and ultimately faced delays and cost overruns, leading to its abandonment in 1986. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yellow-creek-nuclear-plant-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Yellow Creek Nuclear Plant : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/28ae4c66-5926-430b-bf02-c22b6929adc9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yellow-creek-nuclear-plant-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yellow-creek-nuclear-plant-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yellow-creek-nuclear-plant-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/28ae4c66-5926-430b-bf02-c22b6929adc9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/28ae4c66-5926-430b-bf02-c22b6929adc9",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

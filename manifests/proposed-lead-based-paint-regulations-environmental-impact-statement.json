@@ -57,6 +57,54 @@
           "Urban Development"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "HUD-PDP/OCC-Nis-75"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Offici h and ¢ of Policy Development Resear ice of General Counsel; S. Department of Monsing and Urban Develupr ont 7th Street, irinaton, D.C. 2 410 Il. IIIf. Iv. vil. VIII. Ix. TABLY"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The EPA’s Lead-Based Paint Poisoning Prevention Rule, proposed in 1975, was a significant initiative aimed at addressing the widespread use of lead-based paint in older homes. Prior to this rule, lead paint was a major public health concern, particularly among children, due to its potential to cause neurological damage. The EPA’s goal was to establish a standardized approach to regulating lead paint, aiming to reduce exposure and protect vulnerable populations. However, the rule faced considerable opposition from industry groups and some homeowners, ultimately leading to its abandonment after a lengthy legal battle and a shift in focus towards more targeted remediation efforts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/glen-canyon-greenehaven-underground-transmission-line-permit-az-ut.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Glen Canyon, Greenehaven underground transmission line permit (AZ,UT) : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document concerns the Underground Transmission Line (UTL) project, proposed for the Glen Canyon National Recreation Area (GCNRA) in Arizona. The UTL aims to provide electricity for a commercial development, potentially involving mining and construction activities, near the GCNRA. The document highlights concerns about water allocation, specifically the potential depletion of Lake Powell, which is crucial for the Navajo Nation and other communities. The GCNRA, administered by the National Park Service, is seeking approval for the project, which is being opposed by National Parks and Conservation Association (NPCA) due to concerns about potential environmental damage and the impact on the area’s natural resources. The document emphasizes the need for a land exchange to address the water allocation issue, and the agency’s responsibility to protect the land and water resources of the region."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/236ff945-85fd-4124-a6f3-5527c07da301/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/236ff945-85fd-4124-a6f3-5527c07da301",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Glen Canyon, Greenehaven underground transmission line permit (AZ,UT) : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document concerns the Underground Transmission Line (UTL) project, proposed for the Glen Canyon National Recreation Area (GCNRA) in Arizona. The UTL aims to provide electricity for a commercial development, potentially involving mining and construction activities, near the GCNRA. The document highlights concerns about water allocation, specifically the potential depletion of Lake Powell, which is crucial for the Navajo Nation and other communities. The GCNRA, administered by the National Park Service, is seeking approval for the project, which is being opposed by National Parks and Conservation Association (NPCA) due to concerns about potential environmental damage and the impact on the area’s natural resources. The document emphasizes the need for a land exchange to address the water allocation issue, and the agency’s responsibility to protect the land and water resources of the region."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Glen Canyon National Recreation Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "G. Kane County Generating Station; William P. Copple; Richard Hulse; Thomas D. Thiessen; John Wesley Powell"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1975, involved the construction of a large underground transmission line to provide electricity to a commercial development near Glen Canyon National Recreation Area. The project was initially approved by the National Park Service, but subsequent concerns about water allocation and the potential impact on the area’s natural resources led to a request for a denial of the permit. Ultimately, the project was denied, and the development was never completed, leaving a legacy of potential environmental damage and a contentious land-use conflict."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/glen-canyon-greenehaven-underground-transmission-line-permit-az-ut.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Glen Canyon, Greenehaven underground transmission line permit (AZ,UT) : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/236ff945-85fd-4124-a6f3-5527c07da301/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/glen-canyon-greenehaven-underground-transmission-line-permit-az-ut.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/glen-canyon-greenehaven-underground-transmission-line-permit-az-ut.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/glen-canyon-greenehaven-underground-transmission-line-permit-az-ut.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/236ff945-85fd-4124-a6f3-5527c07da301/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/236ff945-85fd-4124-a6f3-5527c07da301",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

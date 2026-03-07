@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Atlantic Fleet weapons training facility, Vieques : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Project Management Alternatives Analysis\" (PMAA) undertaken by Rutgers University in 1974 to assess the potential impacts of naval operations on noise levels in the Miami area. The project, a collaborative effort involving various agencies including the Naval Ocean Systems Center and the Aircraft Environmental Support Office, aimed to identify and mitigate potential noise pollution issues. The PMAA utilized a range of data sources, including acoustic monitoring, environmental modeling, and historical noise data, to evaluate the effects of vessel traffic and other activities. The primary goal was to provide recommendations for reducing noise impacts and ensuring compliance with environmental regulations. The project focused on identifying potential mitigation strategies and establishing a framework for ongoing noise management."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ea92bba-19a8-4fac-bd31-b125465a5a60/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/8ea92bba-19a8-4fac-bd31-b125465a5a60",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Atlantic Fleet weapons training facility, Vieques : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Project Management Alternatives Analysis\" (PMAA) undertaken by Rutgers University in 1974 to assess the potential impacts of naval operations on noise levels in the Miami area. The project, a collaborative effort involving various agencies including the Naval Ocean Systems Center and the Aircraft Environmental Support Office, aimed to identify and mitigate potential noise pollution issues. The PMAA utilized a range of data sources, including acoustic monitoring, environmental modeling, and historical noise data, to evaluate the effects of vessel traffic and other activities. The primary goal was to provide recommendations for reducing noise impacts and ensuring compliance with environmental regulations. The project focused on identifying potential mitigation strategies and establishing a framework for ongoing noise management."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Vieques"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Carlos Romero Barcelo; Ed Johnson; Robert Schoning; Charles A. Oravetz; Rita Miniger; John Oborheu"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 1978, focused on assessing the potential impacts of increased naval operations on the coastal environment of Vieques, Puerto Rico. Recognizing the potential for noise pollution, the project involved detailed environmental modeling and analysis to determine the most effective mitigation strategies. Despite initial optimism, the project ultimately concluded with a phased implementation of noise reduction measures, demonstrating a commitment to balancing military needs with environmental protection. Therefore, the project was completed, though with some modifications and adjustments to the initial plan."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Atlantic Fleet weapons training facility, Vieques : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ea92bba-19a8-4fac-bd31-b125465a5a60/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8ea92bba-19a8-4fac-bd31-b125465a5a60/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8ea92bba-19a8-4fac-bd31-b125465a5a60",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

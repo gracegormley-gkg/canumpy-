@@ -57,6 +57,54 @@
           "Energy Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Four Corners-Ambrosia-Pajarito 500 kV Transmission Project"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Pete V. Domenici; Manuel Lujan; Brad Smith; R. W. Beck; James R. Leonard Associates Incorporated; Ruzow"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2023, focused on assessing the potential impact of deforestation on biodiversity in the southwestern United States. Utilizing remote sensing data and wildlife surveys, researchers identified significant habitat loss and fragmentation across several key regions. Initial findings suggested a concerning decline in several species, particularly those reliant on mature forests. Despite initial optimism, the project ultimately concluded with a phased reduction in scope due to funding constraints and logistical challenges, with a revised focus on targeted conservation efforts rather than a comprehensive landscape-wide assessment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

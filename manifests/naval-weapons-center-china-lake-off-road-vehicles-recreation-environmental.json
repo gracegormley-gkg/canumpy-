@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Naval Weapons Center, China Lake, Off-road vehicles recreation : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Navy Environmental Preventive Medicine Unit (NEPMU) at the China Lake Naval Air Station (CNS) is conducting a medical assessment of Mirror Lake recreational use. The project aims to evaluate the potential health risks associated with Valley fever, a respiratory illness, in the region. NEPMU has been analyzing soil samples from Mirror Lake and surrounding areas for several years, finding no evidence of the disease’s transmission to residents. The unit recommends limiting off-road vehicle use to minimize dust exposure, encouraging riders to travel at distances away from the lake’s edges. The goal is to minimize potential health impacts while acknowledging the existing, albeit limited, risk of Valley fever transmission. The assessment is part of a broader effort to balance recreational opportunities with environmental protection."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/81a6fe3d-37e2-4f09-966e-504323479b6c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/81a6fe3d-37e2-4f09-966e-504323479b6c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Naval Weapons Center, China Lake, Off-road vehicles recreation : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Navy Environmental Preventive Medicine Unit (NEPMU) at the China Lake Naval Air Station (CNS) is conducting a medical assessment of Mirror Lake recreational use. The project aims to evaluate the potential health risks associated with Valley fever, a respiratory illness, in the region. NEPMU has been analyzing soil samples from Mirror Lake and surrounding areas for several years, finding no evidence of the disease’s transmission to residents. The unit recommends limiting off-road vehicle use to minimize dust exposure, encouraging riders to travel at distances away from the lake’s edges. The goal is to minimize potential health impacts while acknowledging the existing, albeit limited, risk of Valley fever transmission. The assessment is part of a broader effort to balance recreational opportunities with environmental protection."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "China Lake, California"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rogers Park, Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1972, aimed to assess the environmental impact of recreational use on Mirror Lake, a popular recreational area in California. The Navy’s Medical Department, after reviewing data from the Epidemiology section and environmental monitoring, concluded that the risk of Valley Fever transmission from the lake was low, but that increased dust storms posed a potential risk to respiratory health. Despite this assessment, the project ultimately did not result in a complete implementation of restrictions on off-road vehicle use, leaving the lake’s environmental health a continuing concern."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Naval Weapons Center, China Lake, Off-road vehicles recreation : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/81a6fe3d-37e2-4f09-966e-504323479b6c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/81a6fe3d-37e2-4f09-966e-504323479b6c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/81a6fe3d-37e2-4f09-966e-504323479b6c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

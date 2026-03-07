@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/apollo-space-program-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Apollo Space Program : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the implementation of a new urban forestry initiative focused on revitalizing the Greenhaven Park area in the city of Portland, Oregon. The project, officially titled \"Project Bloom,\" is spearheaded by the Portland Parks and Recreation Department and supported by the Oregon Department of Transportation. It involves a phased approach to tree planting, focusing on native species to enhance biodiversity and improve air quality. The primary goal is to increase the park’s aesthetic appeal, provide recreational opportunities for residents, and contribute to the city’s sustainability goals. Specifically, the initiative aims to plant over 50,000 trees across the park over the next five years, prioritizing areas with low tree cover and promoting community engagement through volunteer events. The project also includes soil stabilization and erosion control measures to ensure long-term tree health."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/af5b0de8-26dd-4419-9ccb-0b41b84c0f00/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/af5b0de8-26dd-4419-9ccb-0b41b84c0f00",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Apollo Space Program : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the implementation of a new urban forestry initiative focused on revitalizing the Greenhaven Park area in the city of Portland, Oregon. The project, officially titled \"Project Bloom,\" is spearheaded by the Portland Parks and Recreation Department and supported by the Oregon Department of Transportation. It involves a phased approach to tree planting, focusing on native species to enhance biodiversity and improve air quality. The primary goal is to increase the park’s aesthetic appeal, provide recreational opportunities for residents, and contribute to the city’s sustainability goals. Specifically, the initiative aims to plant over 50,000 trees across the park over the next five years, prioritizing areas with low tree cover and promoting community engagement through volunteer events. The project also includes soil stabilization and erosion control measures to ensure long-term tree health."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "President Biden; Vice President Kamala Harris; Secretary of State Antony Blinken; Secretary of Defense Lloyd Austin; Secretary of the Treasury Janet Yellen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2018, aimed to develop a new AI-powered diagnostic tool for detecting early-stage Alzheimer's disease. Initially, the project was considered a significant investment with substantial funding allocated. However, due to unexpected challenges with data acquisition and algorithm accuracy, the project was ultimately cancelled in 2022, with the team focusing on alternative research avenues."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/apollo-space-program-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Apollo Space Program : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/af5b0de8-26dd-4419-9ccb-0b41b84c0f00/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/apollo-space-program-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/apollo-space-program-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/apollo-space-program-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/af5b0de8-26dd-4419-9ccb-0b41b84c0f00/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/af5b0de8-26dd-4419-9ccb-0b41b84c0f00",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

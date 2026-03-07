@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-calumet-tunnel-system-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "TARP Calumet tunnel system : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Calumet Tunnel System project, a major infrastructure undertaking in Chicago, Illinois. It outlines the conveyance of wastewater through underground tunnels, aiming to reduce flooding in the city's lower-lying areas. The project, funded by federal and local resources, involves construction of 11 miles of tunnels, overseen by the MSDGC, EPA, and USEPA. The primary goal is to mitigate flooding, enhance water quality, and provide recreational opportunities through open space development. The document highlights potential challenges, including geological instability and the need for robust monitoring and maintenance to ensure the tunnel's long-term integrity and environmental safety. It emphasizes the importance of careful planning and mitigation strategies to achieve the project’s objectives."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2d38cd3c-afea-453a-919a-aa3926fef3ed/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/2d38cd3c-afea-453a-919a-aa3926fef3ed",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "TARP Calumet tunnel system : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Calumet Tunnel System project, a major infrastructure undertaking in Chicago, Illinois. It outlines the conveyance of wastewater through underground tunnels, aiming to reduce flooding in the city's lower-lying areas. The project, funded by federal and local resources, involves construction of 11 miles of tunnels, overseen by the MSDGC, EPA, and USEPA. The primary goal is to mitigate flooding, enhance water quality, and provide recreational opportunities through open space development. The document highlights potential challenges, including geological instability and the need for robust monitoring and maintenance to ensure the tunnel's long-term integrity and environmental safety. It emphasizes the importance of careful planning and mitigation strategies to achieve the project’s objectives."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Calumet Tunnel System"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Adlai E. Stevenson; Charles H. Percy; George M. O'Brien; Philip M. Crane; Frank Annunzio; J. Mikva; Sidney R. Yates; Dan Rostenkowski; Martin A. Russo; Candiss Collins; Henry J. Hyde; John G. Fary; Edward J. Derwinski; Ralph H. Metcalfe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Calumet Tunnel project, initiated in 1976, was a significant undertaking in Chicago to alleviate flooding issues caused by the city’s industrial and population growth. The project aimed to reduce water pollution in the Chicago River, a vital waterway for the city’s ecosystem and transportation. However, due to funding constraints and unforeseen geological challenges, the project faced delays and ultimately faced a significant cost overruns, leading to its cancellation in 1987. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-calumet-tunnel-system-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "TARP Calumet tunnel system : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2d38cd3c-afea-453a-919a-aa3926fef3ed/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-calumet-tunnel-system-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-calumet-tunnel-system-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-calumet-tunnel-system-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2d38cd3c-afea-453a-919a-aa3926fef3ed/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2d38cd3c-afea-453a-919a-aa3926fef3ed",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

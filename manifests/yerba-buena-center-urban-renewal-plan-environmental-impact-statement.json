@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yerba-buena-center-urban-renewal-plan-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Yerba Buena Center urban renewal plan : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Convention Center\" project in Sausalito, California. It describes a proposed development of a large convention center, designed to attract tourism and business. The project, spearheaded by Hellmuth and Obata, involves a 12-acre complex featuring a convention hall, hotel, and retail spaces. The primary goal is to increase tourism revenue and stimulate economic activity in the region. The project is overseen by the City of Sausalito, with support from the California Department of Transportation and the U.S. Department of Interior. The project aims to enhance the city’s appeal and provide a significant economic boost to the area, particularly through increased visitor traffic."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/57211e13-7b3f-432a-978a-6217a8260385/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/57211e13-7b3f-432a-978a-6217a8260385",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Yerba Buena Center urban renewal plan : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Convention Center\" project in Sausalito, California. It describes a proposed development of a large convention center, designed to attract tourism and business. The project, spearheaded by Hellmuth and Obata, involves a 12-acre complex featuring a convention hall, hotel, and retail spaces. The primary goal is to increase tourism revenue and stimulate economic activity in the region. The project is overseen by the City of Sausalito, with support from the California Department of Transportation and the U.S. Department of Interior. The project aims to enhance the city’s appeal and provide a significant economic boost to the area, particularly through increased visitor traffic."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yerba Buena Center Redevelopment Area, San Francisco, California"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "George B. Adams; San Francisco Area Office of the HUD; Mr. George B. Adams; The City and County of San Francisco; The San Francisco Redevelopment Agency"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1977, aimed to create a comprehensive traffic impact analysis for the YBC development in San Francisco. Recognizing the potential for increased traffic congestion, the project sought to quantify the impact of the development on travel patterns and identify potential mitigation strategies. The analysis was based on projected land use allocation and estimated travel demand, ultimately leading to a detailed traffic management plan to address the anticipated challenges. The project was ultimately completed, resulting in a detailed traffic impact study and recommendations for optimizing traffic flow in the area."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yerba-buena-center-urban-renewal-plan-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Yerba Buena Center urban renewal plan : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/57211e13-7b3f-432a-978a-6217a8260385/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yerba-buena-center-urban-renewal-plan-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yerba-buena-center-urban-renewal-plan-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yerba-buena-center-urban-renewal-plan-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/57211e13-7b3f-432a-978a-6217a8260385/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/57211e13-7b3f-432a-978a-6217a8260385",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

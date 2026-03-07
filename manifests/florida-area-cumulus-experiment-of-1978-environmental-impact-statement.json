@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/florida-area-cumulus-experiment-of-1978-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Florida area cumulus experiment of 1978 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This final supplement to the Florida Area Cumulus Experiment (FACE) EIS, initiated in 1978, outlines a two-year research program designed to evaluate dynamic seeding techniques for rainfall increase. The FACE-2 experiment, focused on acquiring 35-67 experimental days for evaluation, was conducted in South Florida by NOAA and the Friends of the Earth, Sierra Club, and the National Wildlife Federation. The project’s goal is to determine the effectiveness of seeding in increasing rainfall and rainfall patterns. The FACE-2 program will be conducted from July 2nd to August 31st, with a planned 1980 experiment concluding the research. The project involves several agencies, including the Department of Defense, Department of the Interior, and the State of Georgia, and is overseen by Mr. Walter Kolb. The document emphasizes the potential for increased rainfall and the need for ongoing monitoring and reassessment of the environmental impact, particularly concerning the silver iodide used for seeding, which is expected to be dispersed over a wide area."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a8aa03bb-7b63-4fef-861e-af6fc478efc7",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Florida area cumulus experiment of 1978 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This final supplement to the Florida Area Cumulus Experiment (FACE) EIS, initiated in 1978, outlines a two-year research program designed to evaluate dynamic seeding techniques for rainfall increase. The FACE-2 experiment, focused on acquiring 35-67 experimental days for evaluation, was conducted in South Florida by NOAA and the Friends of the Earth, Sierra Club, and the National Wildlife Federation. The project’s goal is to determine the effectiveness of seeding in increasing rainfall and rainfall patterns. The FACE-2 program will be conducted from July 2nd to August 31st, with a planned 1980 experiment concluding the research. The project involves several agencies, including the Department of Defense, Department of the Interior, and the State of Georgia, and is overseen by Mr. Walter Kolb. The document emphasizes the potential for increased rainfall and the need for ongoing monitoring and reassessment of the environmental impact, particularly concerning the silver iodide used for seeding, which is expected to be dispersed over a wide area."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Florida Area Cumulus Experiment (FACE) of 1978"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Walter Kolb; Mr. Walter Kolb; Governor; Mr. Walter Kolb; Governor; Governor"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Florida Area Cumulus Experiment (FACE) began in 1970-76 as a research program to evaluate the potential of increased rainfall through dynamic seeding. This project aimed to demonstrate the feasibility of this technique, initially focused on confirming initial rainfall data. NOAA initiated FACE-2 in 1978 to expand the experiment, aiming for a minimum of 60 days of seeding to refine the research and to continue the initial 15-month period. The project’s ultimate goal was to assess the environmental impacts of the seeding operation, particularly regarding potential impacts on the local ecosystem and water quality."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/florida-area-cumulus-experiment-of-1978-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Florida area cumulus experiment of 1978 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/florida-area-cumulus-experiment-of-1978-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/florida-area-cumulus-experiment-of-1978-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/florida-area-cumulus-experiment-of-1978-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a8aa03bb-7b63-4fef-861e-af6fc478efc7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a8aa03bb-7b63-4fef-861e-af6fc478efc7",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

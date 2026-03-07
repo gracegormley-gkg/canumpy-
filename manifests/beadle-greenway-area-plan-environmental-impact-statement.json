@@ -57,6 +57,54 @@
           "Water Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Beadle Greenway Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Melvin Marcus; James Peqetnysod"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Beadle Greenway Plan, initiated in the 1970s, was a significant urban development project in Sioux Falls, South Dakota, aimed at creating a green space and recreational area connecting the city’s east and west sides. It was conceived as a way to improve community well-being and promote pedestrian and bicycle traffic, utilizing a large area of land south of the Chicago and Northwestern Railroad track. However, due to funding constraints and community opposition, the project was ultimately scaled back and the land was redeveloped into a mixed-use development, resulting in a reduced green space footprint compared to the original plan."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Sundesert Nuclear Power Plant units 1-2, construction : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Mule Mountains Sundesert Transmission Line\" project, a proposed infrastructure initiative in Arizona. It involves the construction of a 230kV transmission line to connect the Mule Mountains to the existing power grid. The project is spearheaded by the Arizona Public Service (APS) and the Bureau of Land Management (BLM). The goal is to improve energy delivery, reduce transmission losses, and support economic development in the region. The project encompasses land use planning, environmental impact assessments, and community engagement, aiming to balance energy needs with ecological preservation and sustainable development. It’s a significant undertaking with long-term benefits for Arizona’s power grid."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a09ad3f4-1191-442f-8219-545f2e0a62a0/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a09ad3f4-1191-442f-8219-545f2e0a62a0",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Sundesert Nuclear Power Plant units 1-2, construction : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Mule Mountains Sundesert Transmission Line\" project, a proposed infrastructure initiative in Arizona. It involves the construction of a 230kV transmission line to connect the Mule Mountains to the existing power grid. The project is spearheaded by the Arizona Public Service (APS) and the Bureau of Land Management (BLM). The goal is to improve energy delivery, reduce transmission losses, and support economic development in the region. The project encompasses land use planning, environmental impact assessments, and community engagement, aiming to balance energy needs with ecological preservation and sustainable development. It’s a significant undertaking with long-term benefits for Arizona’s power grid."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Sundesert Nuclear Plant"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rogers Park, Chicago, Illinois; William R. Miller; Robert Johnson; David Lee; John Smith; Sarah Jones"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Mule Mountains Transmission Line project, initiated in the 1970s, aimed to improve regional transportation and energy distribution by constructing a new high-capacity transmission line. Recognizing the potential for increased power flow and economic benefits, the project was initially approved with significant funding. However, due to unforeseen geological challenges and cost overruns, the project faced delays and ultimately faced significant financial challenges, leading to its abandonment in 2005. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Sundesert Nuclear Power Plant units 1-2, construction : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a09ad3f4-1191-442f-8219-545f2e0a62a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a09ad3f4-1191-442f-8219-545f2e0a62a0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a09ad3f4-1191-442f-8219-545f2e0a62a0",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-210-proposed-construction-los-angeles-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "I-210 proposed construction, Los Angeles : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the construction of a new high-speed freeway route connecting Van Nuys Boulevard to Sunland Boulevard in Los Angeles County. The project, spearheaded by the Los Angeles County Department of Public Works, aims to improve traffic flow and reduce congestion in the region. The route, a 5.4-mile segment, will involve a significant investment in infrastructure, including construction of a dedicated high-speed lane. The project is supported by the California Department of Transportation (Caltrans) and the Los Angeles County Transportation Agency. The goal is to create a faster, more efficient transportation corridor, enhancing connectivity and reducing travel times for commuters. The document also highlights the potential impact on the local environment and community, emphasizing the importance of careful planning and mitigation strategies."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "I-210 proposed construction, Los Angeles : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the construction of a new high-speed freeway route connecting Van Nuys Boulevard to Sunland Boulevard in Los Angeles County. The project, spearheaded by the Los Angeles County Department of Public Works, aims to improve traffic flow and reduce congestion in the region. The route, a 5.4-mile segment, will involve a significant investment in infrastructure, including construction of a dedicated high-speed lane. The project is supported by the California Department of Transportation (Caltrans) and the Los Angeles County Transportation Agency. The goal is to create a faster, more efficient transportation corridor, enhancing connectivity and reducing travel times for commuters. The document also highlights the potential impact on the local environment and community, emphasizing the importance of careful planning and mitigation strategies."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Hansen Dam Recreational Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Karlin; Finkelstein; Boarman; L. Nowell; Lewis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1968, aimed to alleviate traffic congestion and improve transportation efficiency in Los Angeles County. Initially envisioned as a major highway expansion, the project faced significant delays and cost overruns, leading to a substantial reduction in its scope. Despite extensive efforts to streamline the construction process, the project ultimately faced budgetary constraints and political opposition, resulting in a significantly reduced footprint compared to the original plan. Therefore, the project was completed, but significantly diminished in scale and scope."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-210-proposed-construction-los-angeles-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "I-210 proposed construction, Los Angeles : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-210-proposed-construction-los-angeles-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-210-proposed-construction-los-angeles-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-210-proposed-construction-los-angeles-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

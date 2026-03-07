@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-the-construction-of-the-second-avenue-subway-in.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, The Construction of the Second Avenue Subway in New York City, New York, 34th Street to 126th Street, Manhattan"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details a proposal for a new subway line under Second Avenue in New York City, spearheaded by the Metropolitan Transportation Authority (MTA). The project, totaling 4.7 miles, aims to alleviate traffic congestion and improve public transportation. The document highlights a collaborative effort involving the MTA, the Department of Agriculture, and the Soil Conservation Service. The primary goal is to construct a continuous subway line, addressing noise pollution concerns and enhancing the city’s transportation infrastructure. The document emphasizes the need for noise control measures, including sound-dampening materials and specialized testing, to ensure a comfortable and safe environment for residents and commuters. The document also references a draft environmental impact statement, indicating a thorough assessment of potential impacts."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/f514e16e-0bc2-4dc5-91db-d6c93edc71a0/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/f514e16e-0bc2-4dc5-91db-d6c93edc71a0",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, The Construction of the Second Avenue Subway in New York City, New York, 34th Street to 126th Street, Manhattan"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details a proposal for a new subway line under Second Avenue in New York City, spearheaded by the Metropolitan Transportation Authority (MTA). The project, totaling 4.7 miles, aims to alleviate traffic congestion and improve public transportation. The document highlights a collaborative effort involving the MTA, the Department of Agriculture, and the Soil Conservation Service. The primary goal is to construct a continuous subway line, addressing noise pollution concerns and enhancing the city’s transportation infrastructure. The document emphasizes the need for noise control measures, including sound-dampening materials and specialized testing, to ensure a comfortable and safe environment for residents and commuters. The document also references a draft environmental impact statement, indicating a thorough assessment of potential impacts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Second Avenue Subway, New York City"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transit Authority Representative; Assistant Secretary for Environment and Urban Systems; Mayor; Transit Authority Representative; Urban Mass Transportation Administration Representative"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Second Avenue Subway project, initiated in the 1980s, was a massive undertaking to alleviate New York City’s growing traffic congestion and improve public transportation. Initially lauded as a transformative project, it faced significant challenges related to cost overruns, delays, and community opposition, ultimately leading to a significant portion of the original plan being scaled back and ultimately completed in phases.  The project’s history demonstrates a complex interplay of political will, engineering challenges, and public concerns, resulting in a substantial, yet partially realized, infrastructure investment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-the-construction-of-the-second-avenue-subway-in.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, The Construction of the Second Avenue Subway in New York City, New York, 34th Street to 126th Street, Manhattan"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/f514e16e-0bc2-4dc5-91db-d6c93edc71a0/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-the-construction-of-the-second-avenue-subway-in.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-the-construction-of-the-second-avenue-subway-in.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-the-construction-of-the-second-avenue-subway-in.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f514e16e-0bc2-4dc5-91db-d6c93edc71a0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/f514e16e-0bc2-4dc5-91db-d6c93edc71a0",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

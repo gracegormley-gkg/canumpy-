@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Tunnel Component of the Tunnel and Resevoir Plan Proposed by the Metropolitan Sanitary District of Greater Chicago"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Mainstream Tunnel System\" project, a major infrastructure initiative in Chicago, Illinois. It’s a proposal to construct a new tunnel system connecting O’Hare Airport and Calumet Park, aiming to reduce pollutant loads in the city’s waterways. The MSDGC (Illinois Department of Transportation) is leading the effort, involving the EPA, USGS, and various engineering and geological experts. The goal is to significantly enhance water quality through reduced infiltration, improved groundwater management, and enhanced stormwater control. The project encompasses extensive subsurface exploration, detailed design, and monitoring plans, with a focus on geological stability and environmental protection. It’s a crucial component of the city’s infrastructure plan, addressing both transportation and environmental concerns."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8a64d270-66b2-411e-8c22-3fd9f49a9dc6/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/8a64d270-66b2-411e-8c22-3fd9f49a9dc6",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Tunnel Component of the Tunnel and Resevoir Plan Proposed by the Metropolitan Sanitary District of Greater Chicago"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Mainstream Tunnel System\" project, a major infrastructure initiative in Chicago, Illinois. It’s a proposal to construct a new tunnel system connecting O’Hare Airport and Calumet Park, aiming to reduce pollutant loads in the city’s waterways. The MSDGC (Illinois Department of Transportation) is leading the effort, involving the EPA, USGS, and various engineering and geological experts. The goal is to significantly enhance water quality through reduced infiltration, improved groundwater management, and enhanced stormwater control. The project encompasses extensive subsurface exploration, detailed design, and monitoring plans, with a focus on geological stability and environmental protection. It’s a crucial component of the city’s infrastructure plan, addressing both transportation and environmental concerns."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "George R. Alexander; William Aron; James Alter; Jonathan Ela; Robert R. Kifer"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1973, focused on designing and constructing a new network of tunnels and reservoirs in Chicago, Illinois, to address drainage challenges and enhance the city’s infrastructure. The initial phase involved extensive geological surveys, detailed modeling of the city’s drainage patterns, and preliminary design of the Mainstream Tunnel system, a crucial component of the Calumet and Lower Des Plaines systems. While significant progress was made, the project ultimately faced delays and cost overruns, leading to a partial completion and a revised scope. The project was deemed null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Tunnel Component of the Tunnel and Resevoir Plan Proposed by the Metropolitan Sanitary District of Greater Chicago"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8a64d270-66b2-411e-8c22-3fd9f49a9dc6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8a64d270-66b2-411e-8c22-3fd9f49a9dc6/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8a64d270-66b2-411e-8c22-3fd9f49a9dc6",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

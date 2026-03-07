@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Yonkers, Downtown commercial complex, preliminary : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the proposed Getty Square Retail Center project in Downtown Yonkers, New York. Developed by the Department of Development, Community Development Agency, the project aims to create a mixed-use retail and commercial area. The site is situated within the Yonkers metropolitan area, a region overseen by the New York State Department of Transportation. The agency is involved in the environmental impact assessment, ensuring coordination with regional transportation planning committees. The primary goal is to stimulate economic growth and enhance the downtown area, balancing retail opportunities with transportation considerations. The document highlights the need for careful planning to mitigate potential impacts on traffic flow and transportation infrastructure."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/eb2d39a3-6e5f-49df-ad86-fa9b74e254de/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/eb2d39a3-6e5f-49df-ad86-fa9b74e254de",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Yonkers, Downtown commercial complex, preliminary : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the proposed Getty Square Retail Center project in Downtown Yonkers, New York. Developed by the Department of Development, Community Development Agency, the project aims to create a mixed-use retail and commercial area. The site is situated within the Yonkers metropolitan area, a region overseen by the New York State Department of Transportation. The agency is involved in the environmental impact assessment, ensuring coordination with regional transportation planning committees. The primary goal is to stimulate economic growth and enhance the downtown area, balancing retail opportunities with transportation considerations. The document highlights the need for careful planning to mitigate potential impacts on traffic flow and transportation infrastructure."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Getty Square"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Vincent Castaldo; Hugh L. Carey"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Getty Square Retail Center project, initiated in 1976, was a significant urban redevelopment initiative in Los Angeles, California. It aimed to revitalize the downtown area by constructing a large retail complex, including a movie theater, restaurants, and a hotel. The project was a major undertaking, involving extensive demolition and reconstruction of historic buildings, and was intended to attract new businesses and residents to the area. However, due to financial difficulties and shifting priorities, the project ultimately faced significant delays and cost overruns, ultimately being abandoned in 1982.  The project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Yonkers, Downtown commercial complex, preliminary : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/eb2d39a3-6e5f-49df-ad86-fa9b74e254de/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/eb2d39a3-6e5f-49df-ad86-fa9b74e254de/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/eb2d39a3-6e5f-49df-ad86-fa9b74e254de",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

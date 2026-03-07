@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-urban-renewal-project-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Wilkes-Barre urban renewal project : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the proposed Downtown Urban Renewal Project in Wilkes-Barre, Pennsylvania, initiated by the Redevelopment Authority of the City of Wilkes-Barre. It aims to revitalize the city's core area through demolition, construction, and public amenities. The project involves collaboration between the city, state, and federal agencies, including the Department of Environmental Resources (DER) and the Regional Clearinghouse. The goal is to address flood damage caused by Hurricane Agnes, improve urban planning, and enhance the city’s aesthetic appeal. The document highlights potential challenges, including permitting requirements and environmental concerns related to erosion and stormwater management, requiring careful consideration and mitigation strategies."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/fc05222e-9ffe-4744-af37-e9ea7c776bc6/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/fc05222e-9ffe-4744-af37-e9ea7c776bc6",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Wilkes-Barre urban renewal project : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the proposed Downtown Urban Renewal Project in Wilkes-Barre, Pennsylvania, initiated by the Redevelopment Authority of the City of Wilkes-Barre. It aims to revitalize the city's core area through demolition, construction, and public amenities. The project involves collaboration between the city, state, and federal agencies, including the Department of Environmental Resources (DER) and the Regional Clearinghouse. The goal is to address flood damage caused by Hurricane Agnes, improve urban planning, and enhance the city’s aesthetic appeal. The document highlights potential challenges, including permitting requirements and environmental concerns related to erosion and stormwater management, requiring careful consideration and mitigation strategies."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wilkes-Barre, Pennsylvania"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "George T. Akahoshi & Associates; Vincent 3; Paul H. Yeomans"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Wilkes-Barre Urban Renewal Project, initiated in 1973, was a significant attempt to revitalize the city’s downtown area following the devastating effects of Hurricane Agnes. Recognizing the need for economic recovery and community revitalization, the project aimed to modernize infrastructure, create new housing, and stimulate local businesses. However, due to complex zoning regulations, funding constraints, and community opposition, the project ultimately faced significant delays and was not fully completed, leaving behind a mixed legacy of progress and unresolved issues."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Wilkes-Barre urban renewal project : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fc05222e-9ffe-4744-af37-e9ea7c776bc6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-urban-renewal-project-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-urban-renewal-project-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-urban-renewal-project-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fc05222e-9ffe-4744-af37-e9ea7c776bc6/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fc05222e-9ffe-4744-af37-e9ea7c776bc6",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

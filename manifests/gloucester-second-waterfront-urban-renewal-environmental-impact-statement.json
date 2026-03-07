@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/gloucester-second-waterfront-urban-renewal-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Gloucester, Second waterfront urban renewal : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the planning for the filling of the Gloucester Harbor’s head, a project initiated by the Gloucester Housing Authority and the Gloucester Fisheries Commission. The goal is to create a riprap slope embankment to protect the fill behind it, addressing concerns about potential environmental impacts. The document outlines a hearing held on February 27, 1975, where stakeholders discussed the project’s feasibility, benefits, and potential challenges. Representatives from the Gloucester Housing Authority, the Fisheries Commission, and the State of Massachusetts were present. The document highlights the project’s approval by HUD and the proposed slope embankment design, emphasizing the need for a balance between economic development and environmental protection. The hearing concluded with a recommendation for continued collaboration among the involved parties."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a9323139-05cc-402f-b5ec-064cd79b604c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a9323139-05cc-402f-b5ec-064cd79b604c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Gloucester, Second waterfront urban renewal : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the planning for the filling of the Gloucester Harbor’s head, a project initiated by the Gloucester Housing Authority and the Gloucester Fisheries Commission. The goal is to create a riprap slope embankment to protect the fill behind it, addressing concerns about potential environmental impacts. The document outlines a hearing held on February 27, 1975, where stakeholders discussed the project’s feasibility, benefits, and potential challenges. Representatives from the Gloucester Housing Authority, the Fisheries Commission, and the State of Massachusetts were present. The document highlights the project’s approval by HUD and the proposed slope embankment design, emphasizing the need for a balance between economic development and environmental protection. The hearing concluded with a recommendation for continued collaboration among the involved parties."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Urban Development"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Gloucester, Massachusetts"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "John F. Kennedy; Marvin Siflinger; Roger Streets; Anderson-Nichols; Darel Tap"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/gloucester-second-waterfront-urban-renewal-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Gloucester, Second waterfront urban renewal : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a9323139-05cc-402f-b5ec-064cd79b604c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/gloucester-second-waterfront-urban-renewal-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/gloucester-second-waterfront-urban-renewal-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/gloucester-second-waterfront-urban-renewal-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a9323139-05cc-402f-b5ec-064cd79b604c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a9323139-05cc-402f-b5ec-064cd79b604c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

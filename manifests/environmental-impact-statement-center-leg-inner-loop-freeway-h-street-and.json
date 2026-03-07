@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Center Leg, Inner Loop Freeway, H Street and Massachusetts Avenue to New York Avenue"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Construction Noise Control\" project, focusing on mitigating noise generated during construction activities at the Washington Metropolitan Area. It’s located in the metropolitan area, involving the Federal Aviation Administration (FAA), the Department of Transportation (DOT), and local government agencies. The primary goal is to reduce noise exposure to residents, particularly during sensitive hours. The project encompasses noise control measures including shielded equipment, sound-deadening devices, and operational adjustments for heavy machinery. Specific measures include reducing noise levels from construction equipment, establishing noise control standards, and implementing strategies to minimize disturbance to residential areas. The document emphasizes a comprehensive approach to noise management through engineering solutions and regulatory compliance."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Center Leg, Inner Loop Freeway, H Street and Massachusetts Avenue to New York Avenue"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Construction Noise Control\" project, focusing on mitigating noise generated during construction activities at the Washington Metropolitan Area. It’s located in the metropolitan area, involving the Federal Aviation Administration (FAA), the Department of Transportation (DOT), and local government agencies. The primary goal is to reduce noise exposure to residents, particularly during sensitive hours. The project encompasses noise control measures including shielded equipment, sound-deadening devices, and operational adjustments for heavy machinery. Specific measures include reducing noise levels from construction equipment, establishing noise control standards, and implementing strategies to minimize disturbance to residential areas. The document emphasizes a comprehensive approach to noise management through engineering solutions and regulatory compliance."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "District of Columbia, Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Thomas F. Airis; Daniel S. Hammond; N. We\nWashington; Hammond; Canny"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, known as the 'Riverfront Revitalization Plan,' began in the 1990s as a significant investment in the revitalization of the downtown area of Seattle. Initially envisioned as a multi-billion dollar undertaking, the plan aimed to modernize the city's infrastructure, attract new businesses, and improve the quality of life for residents. However, due to cost overruns, shifting priorities, and public opposition, the project ultimately faced significant delays and budgetary constraints, ultimately being scaled back to a smaller, more focused initiative focused on improving public spaces rather than a complete overhaul of the city's core."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Center Leg, Inner Loop Freeway, H Street and Massachusetts Avenue to New York Avenue"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

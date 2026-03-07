@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "SR-252 construction connecting I-5 and I-805, San Diego : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Regional Development Alternatives for the state of California, focusing on improving transportation infrastructure. It outlines a multi-modal transit system designed to enhance regional connectivity and economic development. The project involves a combination of fixed-guideway transit (light rail and buses), express bus networks, and a regional transit system. The goal is to create a more efficient and accessible transportation network, balancing public transit with private vehicle routes. The document emphasizes the importance of integrating the transit system with existing community development plans and funding strategies. It also highlights the need for a phased implementation, starting with a pilot phase to assess performance and refine the system before full-scale deployment."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/74b6a128-27b7-4877-b7d4-a22842139fb7/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/74b6a128-27b7-4877-b7d4-a22842139fb7",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "SR-252 construction connecting I-5 and I-805, San Diego : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Regional Development Alternatives for the state of California, focusing on improving transportation infrastructure. It outlines a multi-modal transit system designed to enhance regional connectivity and economic development. The project involves a combination of fixed-guideway transit (light rail and buses), express bus networks, and a regional transit system. The goal is to create a more efficient and accessible transportation network, balancing public transit with private vehicle routes. The document emphasizes the importance of integrating the transit system with existing community development plans and funding strategies. It also highlights the need for a phased implementation, starting with a pilot phase to assess performance and refine the system before full-scale deployment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Southeast San Diego"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "James R. Gordon; David L. Eyres"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Regional Development Alternatives project, initiated in 1973, was a crucial initiative in California’s transportation planning. Recognizing the need for a more efficient and equitable transportation system, the project aimed to create a multi-modal network that would integrate fixed-guideway transit, bus rapid transit, and local bus services. The project’s success hinged on a carefully designed system that prioritized regional development, ensuring economic growth and improved quality of life for the entire state. Despite initial enthusiasm, the project ultimately faced significant challenges, including funding constraints and political opposition, leading to its cancellation in 1974, though its legacy continues to influence transportation planning in California."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "SR-252 construction connecting I-5 and I-805, San Diego : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/74b6a128-27b7-4877-b7d4-a22842139fb7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/74b6a128-27b7-4877-b7d4-a22842139fb7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/74b6a128-27b7-4877-b7d4-a22842139fb7",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

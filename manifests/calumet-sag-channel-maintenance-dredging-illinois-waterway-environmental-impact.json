@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Calumet-Sag Channel maintenance dredging, Illinois Waterway : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Lucas-Berg Pit Disposal Site project in Worth, Illinois. It outlines a $2.65 million development plan for the southern portion of the site, including dredging and drainage to accommodate increased waste disposal. The project, overseen by the Corps of Engineers, aims to meet state regulations and provide a usable fill area. The goal is to stabilize the site, reduce potential groundwater contamination, and create a viable disposal facility. The construction is scheduled to begin in 2019, with completion anticipated in 1979. The project involves significant engineering and environmental considerations, requiring careful monitoring and control of drainage patterns."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/3bc9887e-c850-457a-a971-e94f1bcdb96e/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/3bc9887e-c850-457a-a971-e94f1bcdb96e",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Calumet-Sag Channel maintenance dredging, Illinois Waterway : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Lucas-Berg Pit Disposal Site project in Worth, Illinois. It outlines a $2.65 million development plan for the southern portion of the site, including dredging and drainage to accommodate increased waste disposal. The project, overseen by the Corps of Engineers, aims to meet state regulations and provide a usable fill area. The goal is to stabilize the site, reduce potential groundwater contamination, and create a viable disposal facility. The construction is scheduled to begin in 2019, with completion anticipated in 1979. The project involves significant engineering and environmental considerations, requiring careful monitoring and control of drainage patterns."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Cal-Sag Channel"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Lucas-Berg Pit; Rogers Park; Chicago District; INPA; Lin"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Lucas-3erg Disposal Site project, initiated in 1978, was a significant undertaking in Illinois’s effort to manage the legacy of the Little Caluact River. The project aimed to create a long-term solution for the disposal of industrial waste, leveraging a complex system of dredging and containment. However, due to unforeseen geological challenges and cost overruns, the project was ultimately scaled back and completed with a reduced scope, primarily focusing on the initial dredging of the southern portion of the site, with the northern portion delayed until a later date. The project was deemed unsuccessful due to the difficulties in achieving the desired level of containment and environmental protection."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Calumet-Sag Channel maintenance dredging, Illinois Waterway : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/3bc9887e-c850-457a-a971-e94f1bcdb96e/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3bc9887e-c850-457a-a971-e94f1bcdb96e/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/3bc9887e-c850-457a-a971-e94f1bcdb96e",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

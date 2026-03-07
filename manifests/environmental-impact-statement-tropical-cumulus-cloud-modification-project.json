@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tropical-cumulus-cloud-modification-project.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Tropical Cumulus Cloud Modification Project"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document describes NOAA’s assessment of the Tropical Cumulus Cloud Modification Project, a proposed experiment to assess the potential benefits and risks of cloud seeding in southern Florida. Located in the Kissimmee Basin, Florida, the project aims to determine if seeding isolated clouds can increase rainfall and alleviate drought conditions. The document highlights the project’s primary goal: to evaluate the feasibility of cloud seeding through experimentation, with the intention of providing valuable data for future operational plans. NOAA emphasizes the importance of ongoing coordination with state and federal agencies to ensure the project’s success. The document also acknowledges the potential environmental impact, emphasizing careful scheduling and monitoring to minimize any adverse effects, while stressing that the project’s primary focus remains on the experimental phase and its subsequent assessment."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5152710f-9624-4b63-a76e-b3d2553f8215/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/5152710f-9624-4b63-a76e-b3d2553f8215",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Tropical Cumulus Cloud Modification Project"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document describes NOAA’s assessment of the Tropical Cumulus Cloud Modification Project, a proposed experiment to assess the potential benefits and risks of cloud seeding in southern Florida. Located in the Kissimmee Basin, Florida, the project aims to determine if seeding isolated clouds can increase rainfall and alleviate drought conditions. The document highlights the project’s primary goal: to evaluate the feasibility of cloud seeding through experimentation, with the intention of providing valuable data for future operational plans. NOAA emphasizes the importance of ongoing coordination with state and federal agencies to ensure the project’s success. The document also acknowledges the potential environmental impact, emphasizing careful scheduling and monitoring to minimize any adverse effects, while stressing that the project’s primary focus remains on the experimental phase and its subsequent assessment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rockville, Maryland"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "George W. Irving; Edward P. Cliff; Edwin L. Kirby; Norman A. Berg; Spencer Smith; George B. Hartzog"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Tropical Cumulus Cloud Modification Project, initiated in 1970, was a significant, albeit ultimately unsuccessful, attempt by the Bureau of Outdoor Recreation to experimentally assess the potential benefits of cloud seeding for rainfall enhancement in the central and southern Florida region. Driven by a desire to understand the impact of weather modification on regional hydrology, the project aimed to conduct a pilot study to evaluate the feasibility of seeding clouds for increased rainfall. Despite initial optimism, the project ultimately concluded with a lack of demonstrable benefits, leading to a significant investment of resources that was never fully realized, and the project was deemed to be a worthwhile endeavor but ultimately not completed."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tropical-cumulus-cloud-modification-project.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Tropical Cumulus Cloud Modification Project"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5152710f-9624-4b63-a76e-b3d2553f8215/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tropical-cumulus-cloud-modification-project.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tropical-cumulus-cloud-modification-project.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tropical-cumulus-cloud-modification-project.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5152710f-9624-4b63-a76e-b3d2553f8215/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5152710f-9624-4b63-a76e-b3d2553f8215",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

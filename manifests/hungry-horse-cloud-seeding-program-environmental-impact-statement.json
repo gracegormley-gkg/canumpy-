@@ -57,6 +57,54 @@
           "Water Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Hungry Horse Reservoir"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Bonneville Power Administration; Bureau of Reclamation; Bob Marshall Wilderness; U.S. Department of Interior; U.S. Department of Commerce"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Hungry Horse Cloud Seeding Project, initiated in 1964, was a controversial attempt to utilize cloud seeding to increase snowpack in the Rocky Mountains, aiming to alleviate flooding downstream. It was a significant, albeit ultimately unsuccessful, effort to manage water resources in a region experiencing rapid snowmelt. The project faced considerable opposition from environmental groups and concerned citizens, who voiced concerns about potential ecological impacts and the long-term effects of silver iodide on the environment. Despite initial optimism, the project ultimately failed to achieve its stated goals, and the area has since experienced increased flooding and erosion, highlighting the challenges of managing water resources in mountainous regions."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

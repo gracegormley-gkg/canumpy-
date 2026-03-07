@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Three Mile Island Nuclear Station, Units 1 and 2"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a study conducted by Three Mile Island Nuclear Plant to assess the impact of cooling tower effluent on the Susquehanna River. The project, initiated three years ago, focuses on analyzing the plume generated from the cooling tower discharge. The study aims to determine the extent of the plumes resulting from the discharge, specifically focusing on the 120-foot-wide plume extending downstream. The plant is collaborating with the state of Pennsylvania, which is responsible for monitoring and regulating water quality. EPA officials have expressed concerns regarding potential bird kills, and the study is designed to evaluate the impact of the discharge on local wildlife. The primary goal is to understand the plume's trajectory and potential effects on the river ecosystem, ensuring compliance with environmental regulations."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a98de126-0860-48b0-891e-d97682e0ac1b/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a98de126-0860-48b0-891e-d97682e0ac1b",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Three Mile Island Nuclear Station, Units 1 and 2"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a study conducted by Three Mile Island Nuclear Plant to assess the impact of cooling tower effluent on the Susquehanna River. The project, initiated three years ago, focuses on analyzing the plume generated from the cooling tower discharge. The study aims to determine the extent of the plumes resulting from the discharge, specifically focusing on the 120-foot-wide plume extending downstream. The plant is collaborating with the state of Pennsylvania, which is responsible for monitoring and regulating water quality. EPA officials have expressed concerns regarding potential bird kills, and the study is designed to evaluate the impact of the discharge on local wildlife. The primary goal is to understand the plume's trajectory and potential effects on the river ecosystem, ensuring compliance with environmental regulations."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Three Mile Island Nuclear Station Units 1 and 2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Billmeyer, John; Middletown, Pennsylvania; D. HISTORICAL SIGNIFICANCE"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Three Mile Island Nuclear Plant, established in 1974, was designed to generate electricity using a natural draft turbine system. The plant’s primary function was to produce nuclear power, utilizing a large, horizontal jet of water to generate steam, which then drove turbines to produce electricity. The plant’s cooling tower effluent, a byproduct of this process, was discharged into the Susquehanna River. In 1980, a significant incident occurred, resulting in a plume of water containing chlorine and temperature readings, which caused a temporary, localized cooling effect on the river. The plant’s operators immediately initiated measures to mitigate the effects of the plume, and the incident led to a thorough review of cooling tower operations and emergency response protocols. The plant was ultimately decommissioned in 1992, marking the end of its operational life and the conclusion of a complex and challenging project involving significant environmental considerations and safety measures. The project was ultimately completed, though with considerable challenges and a focus on minimizing environmental impact."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Three Mile Island Nuclear Station, Units 1 and 2"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a98de126-0860-48b0-891e-d97682e0ac1b/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a98de126-0860-48b0-891e-d97682e0ac1b/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a98de126-0860-48b0-891e-d97682e0ac1b",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "The upgrading of 103rd Street and Timuquana Road to a multi-lane facility, Jacksonville : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Project 103rd Street\" development in Duval County, Florida, overseen by the Federal Bureau of Intergovernmental Relations (FBR). The project involves upgrading a 103rd Street corridor, necessitating dredging and potential flood plain relocation. The FBR is reviewing the project’s environmental impact, specifically concerning potential impacts on the local ecosystem and the river’s flood plain. The project’s primary goal is to enhance infrastructure while minimizing disruption to natural resources. The document confirms that all necessary environmental assessments and approvals have been completed, and the FBR has approved the project’s implementation. The document also highlights the need for careful consideration of potential impacts on cultural resources and recommends a minimum level of mitigation to ensure the project’s sustainability. The document concludes with a statement of compliance with all relevant federal regulations."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/e37c4f05-d33a-4e81-8df2-91aedfa3f84a/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/e37c4f05-d33a-4e81-8df2-91aedfa3f84a",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "The upgrading of 103rd Street and Timuquana Road to a multi-lane facility, Jacksonville : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Project 103rd Street\" development in Duval County, Florida, overseen by the Federal Bureau of Intergovernmental Relations (FBR). The project involves upgrading a 103rd Street corridor, necessitating dredging and potential flood plain relocation. The FBR is reviewing the project’s environmental impact, specifically concerning potential impacts on the local ecosystem and the river’s flood plain. The project’s primary goal is to enhance infrastructure while minimizing disruption to natural resources. The document confirms that all necessary environmental assessments and approvals have been completed, and the FBR has approved the project’s implementation. The document also highlights the need for careful consideration of potential impacts on cultural resources and recommends a minimum level of mitigation to ensure the project’s sustainability. The document concludes with a statement of compliance with all relevant federal regulations."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Jacksonville, Florida"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "C. JENKINS"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in the 1970s, aimed to upgrade the 103rd Street corridor in Jacksonville, Florida, a major transportation artery. It was a significant infrastructure investment intended to improve traffic flow, reduce congestion, and enhance the city’s connectivity. However, due to environmental concerns regarding dredging and potential impacts on wetlands, the project faced significant opposition from environmental groups and local residents. Ultimately, the project was significantly scaled back, with substantial portions of the dredging and floodplain restoration efforts abandoned, leaving a legacy of incomplete environmental remediation and a contentious debate about the balance between development and ecological preservation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "The upgrading of 103rd Street and Timuquana Road to a multi-lane facility, Jacksonville : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/e37c4f05-d33a-4e81-8df2-91aedfa3f84a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e37c4f05-d33a-4e81-8df2-91aedfa3f84a/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e37c4f05-d33a-4e81-8df2-91aedfa3f84a",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

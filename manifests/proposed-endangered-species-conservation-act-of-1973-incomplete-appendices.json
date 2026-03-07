@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Endangered Species Conservation Act of 1973, specifically the proposed changes to its authority and the implications for endangered species protection."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Director, Bureau of Sport Fisheries and Wildlife; Secretary; Department of Agriculture; Department of Commerce; Department of Transportation; U.S. Coast Guard"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

@@ -57,6 +57,54 @@
           "Energy Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Nevada Test Site, Nye County, Nevada"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "James L. Liverman; W. H. Pennington; Benham; Willis; G. SEISMICITY"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1969, aimed to conduct extensive nuclear testing at the Nevada Test Site, a strategic location for studying the effects of nuclear explosions. The goal was to gather data on the long-term environmental consequences of these events, particularly regarding groundwater contamination. However, due to concerns about potential risks to groundwater and the need for a stable testing environment, the project was ultimately scaled back and concluded with a reduced testing schedule, leaving behind a legacy of radioactive contamination and a significant amount of unused test facilities."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

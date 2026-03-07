@@ -57,6 +57,42 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "John J. Flynt; Elliott H. Levitas; Larry\nP. McDonald; Matthew J. Rinaldo; George F. Mohr"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1976, aimed to establish a standardized method for calculating commercial zones based on population and corporate boundaries. The goal was to create a more consistent and easily comparable system for assessing property values and zoning regulations across states. However, the project faced significant challenges due to evolving jurisdictional boundaries and differing interpretations of the established formulas, ultimately leading to a partial implementation and a lack of widespread adoption. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
     }
   ],
   "requiredStatement": {

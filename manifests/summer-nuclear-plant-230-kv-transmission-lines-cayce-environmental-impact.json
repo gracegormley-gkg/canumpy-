@@ -57,6 +57,30 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Summer Nuclear Plant, Fairfield County"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "David A. Hamil; William R. Dalton; Central Electric Power Cooperative, Inc.; Richard Koutes; William R. Dalton; David A. Hamil"
+        ]
+      }
     }
   ],
   "requiredStatement": {

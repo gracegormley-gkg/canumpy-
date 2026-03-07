@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-new-york-new-york-low-rent-public-housing.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, New York, New York, Low-Rent Public Housing"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document describes the Forest Hills Housing Project, a planned public housing development in the heart of New York City's Forest Hills neighborhood. The project, initiated in the mid-1960s, aims to alleviate the city’s growing affordable housing shortage by constructing 450 elementary and junior high school buildings. The City Planning Commission, in collaboration with the Housing Authority, has designated the site as vacant land, strategically located near a large park and community center. The project’s primary goal is to provide low-income families with safe, accessible housing, addressing the needs of a significant population experiencing overcrowded schools and limited opportunities. The document emphasizes the importance of the project, highlighting its potential to benefit the community through increased housing options, improved educational facilities, and enhanced community resources, while acknowledging potential concerns regarding crime and the need for community engagement to ensure its success."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/758612a7-9985-4a7d-939b-69be24327b39/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/758612a7-9985-4a7d-939b-69be24327b39",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, New York, New York, Low-Rent Public Housing"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document describes the Forest Hills Housing Project, a planned public housing development in the heart of New York City's Forest Hills neighborhood. The project, initiated in the mid-1960s, aims to alleviate the city’s growing affordable housing shortage by constructing 450 elementary and junior high school buildings. The City Planning Commission, in collaboration with the Housing Authority, has designated the site as vacant land, strategically located near a large park and community center. The project’s primary goal is to provide low-income families with safe, accessible housing, addressing the needs of a significant population experiencing overcrowded schools and limited opportunities. The document emphasizes the importance of the project, highlighting its potential to benefit the community through increased housing options, improved educational facilities, and enhanced community resources, while acknowledging potential concerns regarding crime and the need for community engagement to ensure its success."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Urban Development"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Forest Hills"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "James L. Buckley; Donald Manes; Leonard H. Krim; Jerry Birbach; Sylvia Shelinsky; Alfred Diamond"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Forest Hills project, initiated in the mid-1960s as part of the scatter site policy, aimed to alleviate poverty and racial segregation in the city by building public housing in middle-income neighborhoods. The policy, rooted in the belief that existing segregated patterns were inherently flawed, sought to create a more equitable distribution of housing opportunities. However, the project faced significant opposition from community groups and local residents, who feared increased crime and a decline in neighborhood character. Despite these challenges, the project was ultimately completed, resulting in the construction of 50 public housing developments across Forest Hills, providing housing for approximately 450 families, and contributing to the city’s overall housing stock. True"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-new-york-new-york-low-rent-public-housing.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, New York, New York, Low-Rent Public Housing"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/758612a7-9985-4a7d-939b-69be24327b39/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-new-york-new-york-low-rent-public-housing.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-new-york-new-york-low-rent-public-housing.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-new-york-new-york-low-rent-public-housing.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/758612a7-9985-4a7d-939b-69be24327b39/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/758612a7-9985-4a7d-939b-69be24327b39",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

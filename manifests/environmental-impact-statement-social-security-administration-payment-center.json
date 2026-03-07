@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-social-security-administration-payment-center.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Social Security Administration Payment Center, Chicago, Illinois"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed construction of a Social Security Administration Payment Center in Chicago, Illinois. The project, spearheaded by Adler and Suitivan, is located at 619-31 West Washington Street, a significant historic building within the Dankmar Adler and Louis Sullivan architectural complex. The goal is to revitalize the area by creating a modern facility that complements the existing historic landscape. The project involves the Chicago Transit Authority, the Department of Commerce, the Commission on Chicago Historical and Architectural Landmarks, and the Denartment of the Interior. The document highlights the importance of preserving the building’s historical significance, emphasizing the need for a comprehensive environmental impact assessment before demolition, and a cost estimate of $10,000 for salvage operations. The project aims to improve the area's economic vitality and maintain the historic character of the neighborhood."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/72e53178-4561-4367-8b07-0d64bd70f60f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/72e53178-4561-4367-8b07-0d64bd70f60f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Social Security Administration Payment Center, Chicago, Illinois"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed construction of a Social Security Administration Payment Center in Chicago, Illinois. The project, spearheaded by Adler and Suitivan, is located at 619-31 West Washington Street, a significant historic building within the Dankmar Adler and Louis Sullivan architectural complex. The goal is to revitalize the area by creating a modern facility that complements the existing historic landscape. The project involves the Chicago Transit Authority, the Department of Commerce, the Commission on Chicago Historical and Architectural Landmarks, and the Denartment of the Interior. The document highlights the importance of preserving the building’s historical significance, emphasizing the need for a comprehensive environmental impact assessment before demolition, and a cost estimate of $10,000 for salvage operations. The project aims to improve the area's economic vitality and maintain the historic character of the neighborhood."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Urban Development"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Clifford A. Thomas; Dan Ryan-John; Madison; Clinton; Lester B. Knight"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1973, aimed to revitalize the Chicago Riverfront by constructing a new public park and plaza. The goal was to create a vibrant, accessible space for recreation and community engagement, addressing a need for green space in a densely populated urban area. However, due to budgetary constraints and shifting priorities, the project was ultimately scaled back and completed only partially, leaving a significant portion of the initial design and construction unfinished. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-social-security-administration-payment-center.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Social Security Administration Payment Center, Chicago, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/72e53178-4561-4367-8b07-0d64bd70f60f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-social-security-administration-payment-center.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-social-security-administration-payment-center.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-social-security-administration-payment-center.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/72e53178-4561-4367-8b07-0d64bd70f60f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/72e53178-4561-4367-8b07-0d64bd70f60f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

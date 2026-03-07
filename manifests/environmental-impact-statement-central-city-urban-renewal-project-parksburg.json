@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-city-urban-renewal-project-parksburg.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Central City Urban Renewal Project, Parksburg, West Virginia"
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Greater Parkersburg Chamber of Commerce (GPC) is concerned about the ongoing delays in the R-19 Urban Renewal Project in Parkersburg, West Virginia. The project, a significant investment in downtown revitalization, has faced bureaucratic hurdles and delays since the initial comments deadline. The GPC highlights concerns regarding the project’s potential for economic growth and job creation, arguing that delays hinder progress and negatively impact the local community. The document emphasizes the importance of timely decision-making and encourages action to expedite the project’s completion, as delays are causing frustration and concern among residents and stakeholders. The GPC seeks to ensure the project’s success and benefits the Parkersburg area, advocating for a swift resolution to the current challenges."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ba08ab6-540b-47a9-9ce3-51f98ab14e11/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/8ba08ab6-540b-47a9-9ce3-51f98ab14e11",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Central City Urban Renewal Project, Parksburg, West Virginia"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Greater Parkersburg Chamber of Commerce (GPC) is concerned about the ongoing delays in the R-19 Urban Renewal Project in Parkersburg, West Virginia. The project, a significant investment in downtown revitalization, has faced bureaucratic hurdles and delays since the initial comments deadline. The GPC highlights concerns regarding the project’s potential for economic growth and job creation, arguing that delays hinder progress and negatively impact the local community. The document emphasizes the importance of timely decision-making and encourages action to expedite the project’s completion, as delays are causing frustration and concern among residents and stakeholders. The GPC seeks to ensure the project’s success and benefits the Parkersburg area, advocating for a swift resolution to the current challenges."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Parkersburg, West Virginia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Charles J. Yieberth; John McDermott"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The R-19 Urban Renewal Project in Parkersburg, West Virginia, was initiated in 1978 as a response to declining property values and a need for economic revitalization. The project aimed to redevelop blighted areas through a mix of residential, commercial, and industrial zones, with the goal of attracting new businesses and residents. However, significant delays and bureaucratic hurdles have significantly hampered progress, leading to concerns about the project's ultimate completion and its impact on the community."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-city-urban-renewal-project-parksburg.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Central City Urban Renewal Project, Parksburg, West Virginia"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/8ba08ab6-540b-47a9-9ce3-51f98ab14e11/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-city-urban-renewal-project-parksburg.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-city-urban-renewal-project-parksburg.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-city-urban-renewal-project-parksburg.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8ba08ab6-540b-47a9-9ce3-51f98ab14e11/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8ba08ab6-540b-47a9-9ce3-51f98ab14e11",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

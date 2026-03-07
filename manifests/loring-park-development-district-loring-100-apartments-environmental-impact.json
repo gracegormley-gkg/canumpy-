@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/loring-park-development-district-loring-100-apartments-environmental-impact.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Loring Park Development District, Loring 100 apartments : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details the Loring Park Development, a proposed residential area in Minneapolis, Minnesota. It’s a project overseen by the City of Minneapolis and the Minnesota Department of Housing and Urban Development (HUD). The goal is to create a new neighborhood with 8 blocks, including parcels for 300 residential units. The document highlights concerns regarding air quality, specifically carbon monoxide levels, due to street closures during construction. It also mentions potential bus route implementation to alleviate traffic congestion. The document emphasizes the project’s aim to incorporate energy conservation measures, including wind-reducing landscaping and utilizing vegetation for cooling, and compliance with environmental standards, including the National Emission Standards for Hazardous Air Pollutants."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2b36982f-0ab3-43ef-a590-c2144b815bf9/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/2b36982f-0ab3-43ef-a590-c2144b815bf9",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Loring Park Development District, Loring 100 apartments : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details the Loring Park Development, a proposed residential area in Minneapolis, Minnesota. It’s a project overseen by the City of Minneapolis and the Minnesota Department of Housing and Urban Development (HUD). The goal is to create a new neighborhood with 8 blocks, including parcels for 300 residential units. The document highlights concerns regarding air quality, specifically carbon monoxide levels, due to street closures during construction. It also mentions potential bus route implementation to alleviate traffic congestion. The document emphasizes the project’s aim to incorporate energy conservation measures, including wind-reducing landscaping and utilizing vegetation for cooling, and compliance with environmental standards, including the National Emission Standards for Hazardous Air Pollutants."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Loring Park Development District"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Douglas Head; Dennis Grindahl; Robert Purcell; Walter Dziedzic; Thomas Johnson"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/loring-park-development-district-loring-100-apartments-environmental-impact.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Loring Park Development District, Loring 100 apartments : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2b36982f-0ab3-43ef-a590-c2144b815bf9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/loring-park-development-district-loring-100-apartments-environmental-impact.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/loring-park-development-district-loring-100-apartments-environmental-impact.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/loring-park-development-district-loring-100-apartments-environmental-impact.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2b36982f-0ab3-43ef-a590-c2144b815bf9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2b36982f-0ab3-43ef-a590-c2144b815bf9",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

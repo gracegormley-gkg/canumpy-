@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Eastwick Urban Renewal Area, Philadelphia, Pennsylvania"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Curtis Building; Doxiadis; New Eastwick Corporation; Philadelphia City Representative; Philadelphia Planning Commission; Southeast Pennsylvania Transportation Authority"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

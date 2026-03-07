@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Crow Indian ceded area, tracts II and III : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document describes a proposed coal gasification facility located in the Northern Great Plains, specifically in Sarpy Creek Valley, Montana. It's a project spearheaded by the Northern Great Plains Resource Program, involving the Bureau of Land Management and the U.S. Forest Service. The goal is to generate electricity using coal gasification, aiming to reduce carbon emissions and provide a sustainable energy source. The facility is designed to produce 250 million Megawatt-hours (MWh) of electricity annually, with emissions of 18 CM/SEC of sulfur dioxide, 167 CM/SEC of nitrogen oxides, and 27 stack data height (M) of 91. The project utilizes a gasification unit complex, with a diameter of 1.6 meters and an exit temperature of 552 degrees Kelvin, and a gas exit velocity of 27.4. The document also includes detailed specifications for the plant's operation and associated terrain considerations."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/0c48f789-b007-4555-8e8b-11e8b3806e90/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/0c48f789-b007-4555-8e8b-11e8b3806e90",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Crow Indian ceded area, tracts II and III : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document describes a proposed coal gasification facility located in the Northern Great Plains, specifically in Sarpy Creek Valley, Montana. It's a project spearheaded by the Northern Great Plains Resource Program, involving the Bureau of Land Management and the U.S. Forest Service. The goal is to generate electricity using coal gasification, aiming to reduce carbon emissions and provide a sustainable energy source. The facility is designed to produce 250 million Megawatt-hours (MWh) of electricity annually, with emissions of 18 CM/SEC of sulfur dioxide, 167 CM/SEC of nitrogen oxides, and 27 stack data height (M) of 91. The project utilizes a gasification unit complex, with a diameter of 1.6 meters and an exit temperature of 552 degrees Kelvin, and a gas exit velocity of 27.4. The document also includes detailed specifications for the plant's operation and associated terrain considerations."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Big Horn County, Montana"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "James F. Canan; Crow Tribe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project proposal for a coal gasification facility in Montana represents a significant investment in the state's energy sector. Driven by a desire to increase coal production and generate revenue, the project was initially approved with substantial funding. However, due to unforeseen environmental concerns and regulatory hurdles, the project faced delays and ultimately faced cancellation, highlighting the challenges of balancing economic goals with environmental protection and long-term sustainability within the coal industry."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Crow Indian ceded area, tracts II and III : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0c48f789-b007-4555-8e8b-11e8b3806e90/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0c48f789-b007-4555-8e8b-11e8b3806e90/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0c48f789-b007-4555-8e8b-11e8b3806e90",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

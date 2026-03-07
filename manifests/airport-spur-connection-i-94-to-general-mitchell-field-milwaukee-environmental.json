@@ -57,6 +57,42 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "General Mitchell Field"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "John Hibbs; I. C. Herried; Robert Szyba"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Airport Spur Air Quality Report, initiated in 2008, focused on assessing the potential impact of increased aircraft traffic on the surrounding area, particularly near the airport. The project aimed to mitigate potential degradation of air quality by implementing a series of measures, including increased monitoring and emission controls. However, the project faced significant challenges, including limited data and conflicting interpretations of air quality models, ultimately leading to its cancellation in 2012 due to insufficient data and unresolved issues. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
     }
   ],
   "requiredStatement": {

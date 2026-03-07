@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-test-program-fy-1973-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Underground nuclear test program, FY 1973 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Underground Nuclear Testing Program (UNTP) at the Nevada Test Site, a project initiated by the United States Atomic Energy Commission (USAC) in 1945. The program aims to study the effects of nuclear explosions on geological formations, particularly focusing on the site’s unique geological characteristics. The USAC, in collaboration with the Arizona State Department of Economic Planning and Development, is responsible for the project’s oversight. The document highlights a comprehensive approach to geological monitoring, including detailed data collection and analysis to improve containment strategies. The goal is to enhance the site’s stability and minimize potential risks associated with radioactive fallout, ensuring the long-term safety of the area. The document also references the Arizona Governor’s State Agency Environmental Advisory Council’s feedback on the proposed containment measures."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/fd37e5be-40d4-4941-8515-1d8813b41b71/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/fd37e5be-40d4-4941-8515-1d8813b41b71",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Underground nuclear test program, FY 1973 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Underground Nuclear Testing Program (UNTP) at the Nevada Test Site, a project initiated by the United States Atomic Energy Commission (USAC) in 1945. The program aims to study the effects of nuclear explosions on geological formations, particularly focusing on the site’s unique geological characteristics. The USAC, in collaboration with the Arizona State Department of Economic Planning and Development, is responsible for the project’s oversight. The document highlights a comprehensive approach to geological monitoring, including detailed data collection and analysis to improve containment strategies. The goal is to enhance the site’s stability and minimize potential risks associated with radioactive fallout, ensuring the long-term safety of the area. The document also references the Arizona Governor’s State Agency Environmental Advisory Council’s feedback on the proposed containment measures."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Nevada Test Site"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "R. E. HOLLINGSW; Li; Gerald F. Tape; Vincent; Ralph F.; Peter"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Underground Nuclear Testing Program (UNTP) in Nevada, initiated in 1949, was a highly secretive and controversial project aimed at developing a nuclear weapon. It involved the construction of a massive underground complex designed to test new and improved nuclear weapons. The project was initially supported by the U.S. government, but it quickly became a source of intense public scrutiny and opposition due to concerns about potential environmental contamination and the potential for a catastrophic accident. Ultimately, the project was abandoned in 1958, with the complex being dismantled and the site largely abandoned, leaving behind a complex legacy of scientific and environmental concerns."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-test-program-fy-1973-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Underground nuclear test program, FY 1973 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fd37e5be-40d4-4941-8515-1d8813b41b71/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-test-program-fy-1973-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-test-program-fy-1973-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-test-program-fy-1973-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fd37e5be-40d4-4941-8515-1d8813b41b71/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fd37e5be-40d4-4941-8515-1d8813b41b71",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed \"Vidal Junction Archaeological District\" project, a conservation initiative focused on the Johnson Valley Junction Archaeological District in California. The BLM, California Department of Conservation, and the National Register of Historic Sites are collaborating to protect and preserve the area’s cultural resources. The goal is to minimize environmental impact through monitoring and mitigation strategies. The project encompasses comprehensive surveys, habitat restoration, and invasive species control. It aims to safeguard the district’s unique historical and geological features, ensuring their long-term sustainability and public access. The document highlights the importance of balancing recreational use with preservation, addressing concerns about potential impacts from the Parker Score race, and promoting sustainable land management practices."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a30c227a-eb2b-4083-9e5f-5f697a6a58b7/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a30c227a-eb2b-4083-9e5f-5f697a6a58b7",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed \"Vidal Junction Archaeological District\" project, a conservation initiative focused on the Johnson Valley Junction Archaeological District in California. The BLM, California Department of Conservation, and the National Register of Historic Sites are collaborating to protect and preserve the area’s cultural resources. The goal is to minimize environmental impact through monitoring and mitigation strategies. The project encompasses comprehensive surveys, habitat restoration, and invasive species control. It aims to safeguard the district’s unique historical and geological features, ensuring their long-term sustainability and public access. The document highlights the importance of balancing recreational use with preservation, addressing concerns about potential impacts from the Parker Score race, and promoting sustainable land management practices."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wildlife and Natural Areas"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Johnson Valley Open Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Dick Crowe; Gerald Hillier"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Vidal Junction Archaeological District project, initiated in 1979, aimed to survey and document the archaeological remains of the region surrounding the Vidal Junction, a significant site for the study of early California history. The project was a large-scale, multi-year endeavor, utilizing advanced geophysical and archaeological techniques. Despite significant funding and initial enthusiasm, the project faced considerable challenges, including logistical difficulties, funding cuts, and evolving priorities. Ultimately, the project was significantly scaled back and completed in 2003, with a focus on identifying and documenting the most significant archaeological sites, and the project was deemed unsuccessful in achieving its original goals, with limited impact on the region's archaeological record. Therefore, the project was completed, null"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Motorcycle race, Johnson Valley to Parker : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a30c227a-eb2b-4083-9e5f-5f697a6a58b7/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a30c227a-eb2b-4083-9e5f-5f697a6a58b7/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a30c227a-eb2b-4083-9e5f-5f697a6a58b7",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed Four Corners-Ambrosia-Pajarito 500 kV Transmission Project, a major power line construction project in New Mexico. It’s overseen by the Bureau of Indian Affairs (BIA) and the Navajo Area Office of the Bureau of Indian Affairs, aiming to increase electricity transmission capacity between the Four Corners and Albuquerque. The project involves significant environmental considerations, including potential impacts on wildlife, water resources, and land use. The BIA is reviewing the draft environmental impact statement (EIS) to assess these risks. EPA is evaluating the project’s potential harm to the environment, requesting further analysis and suggesting modifications to minimize negative effects. The project’s primary goal is to enhance energy delivery and support economic development in the region, but environmental protection is a key focus of the review."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed Four Corners-Ambrosia-Pajarito 500 kV Transmission Project, a major power line construction project in New Mexico. It’s overseen by the Bureau of Indian Affairs (BIA) and the Navajo Area Office of the Bureau of Indian Affairs, aiming to increase electricity transmission capacity between the Four Corners and Albuquerque. The project involves significant environmental considerations, including potential impacts on wildlife, water resources, and land use. The BIA is reviewing the draft environmental impact statement (EIS) to assess these risks. EPA is evaluating the project’s potential harm to the environment, requesting further analysis and suggesting modifications to minimize negative effects. The project’s primary goal is to enhance energy delivery and support economic development in the region, but environmental protection is a key focus of the review."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed four-corners-ambrosia-pajarito 500 kV transmission line project"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Pete V. Domenici; Manuel Lujan; Harrison H. Schmitt; Pete V. Domenici; Manuel Lujan; Pete V. Domenici"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed Metropclitan Atlanta Rapid Transit System project, specifically the construction of the new rail lines and stations at Vine City, Techwood, Candler Park, and East Lake."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "William L. Graves; Jerome C. Premo; James T McIntyre; Frank Broniec; Charles H Badger; David R. Hopkins"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

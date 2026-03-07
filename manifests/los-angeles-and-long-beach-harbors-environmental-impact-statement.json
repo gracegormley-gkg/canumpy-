@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-and-long-beach-harbors-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Los Angeles and Long Beach harbors : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a proposed water distribution system expansion project in Los Angeles, California. It focuses on enhancing the Long Beach Harbor region, aiming to increase water supply and reduce traffic congestion. The project involves the Los Angeles Department of Ports, the California Department of Water Resources, and the Los Angeles County Transportation Agency. The goal is to improve water access, reduce travel times, and potentially enhance the Harbor’s overall functionality. The project encompasses a network of roads and rail lines, strategically positioned to facilitate efficient water delivery and transportation within the area."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a7f30acc-9be6-40e1-b46d-39e68e734757/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a7f30acc-9be6-40e1-b46d-39e68e734757",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Los Angeles and Long Beach harbors : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a proposed water distribution system expansion project in Los Angeles, California. It focuses on enhancing the Long Beach Harbor region, aiming to increase water supply and reduce traffic congestion. The project involves the Los Angeles Department of Ports, the California Department of Water Resources, and the Los Angeles County Transportation Agency. The goal is to improve water access, reduce travel times, and potentially enhance the Harbor’s overall functionality. The project encompasses a network of roads and rail lines, strategically positioned to facilitate efficient water delivery and transportation within the area."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Los Angeles-Long Beach Harbors"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "US. Army Engineer District, Los Angetes, Calif.; Corps of Engineers; Rogers Park, Chicago, Illinois; The United States"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The 1990s saw a significant push to modernize Los Angeles’ transportation infrastructure, driven by a combination of population growth and increasing traffic congestion. The 'Water DEPTH' project, proposed in 1990, aimed to alleviate traffic by creating a new rail route connecting the Long Beach Harbor to the city’s core. However, due to budgetary constraints and shifting priorities, the project was ultimately cancelled in 1998, leaving a legacy of a partially completed infrastructure initiative."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-and-long-beach-harbors-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Los Angeles and Long Beach harbors : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a7f30acc-9be6-40e1-b46d-39e68e734757/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-and-long-beach-harbors-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-and-long-beach-harbors-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-and-long-beach-harbors-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a7f30acc-9be6-40e1-b46d-39e68e734757/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a7f30acc-9be6-40e1-b46d-39e68e734757",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

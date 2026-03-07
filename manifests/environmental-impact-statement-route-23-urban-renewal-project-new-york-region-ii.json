@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Route 23 Urban Renewal Project, New York Region II"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document describes the Route 23 Urban Renewal Project, a planned 178-acre development in Wayne Township, New Jersey. It aims to revitalize the area by incorporating a mix of residential, commercial, and open space. The project involves significant land use changes, including the removal of existing industrial zones and the creation of a new park. The document highlights the need to mitigate potential environmental impacts, particularly concerning stormwater runoff and groundwater contamination, through the construction of sedimentation basins and buffer strips. The project’s primary goal is to create a more sustainable and livable community while preserving the area’s natural resources. The document emphasizes the importance of balancing development with environmental protection and community needs."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/ee7c1e74-80bd-4f7a-b748-be62ddac92f6/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/ee7c1e74-80bd-4f7a-b748-be62ddac92f6",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Route 23 Urban Renewal Project, New York Region II"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document describes the Route 23 Urban Renewal Project, a planned 178-acre development in Wayne Township, New Jersey. It aims to revitalize the area by incorporating a mix of residential, commercial, and open space. The project involves significant land use changes, including the removal of existing industrial zones and the creation of a new park. The document highlights the need to mitigate potential environmental impacts, particularly concerning stormwater runoff and groundwater contamination, through the construction of sedimentation basins and buffer strips. The project’s primary goal is to create a more sustainable and livable community while preserving the area’s natural resources. The document emphasizes the importance of balancing development with environmental protection and community needs."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Route 23, U.R. Project Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Robert A. Roe; Walter J. Jasinski; Robert A. Roe; Robert A. Roe; Walter J. Jasinski"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 1969, aimed to revitalize the urban landscape of Wayne Township by constructing a mixed-use development incorporating commercial, residential, and recreational spaces. Prior to the project, the area was largely characterized by industrial activity, with a significant amount of vacant land. The project was initially envisioned as a significant investment in economic growth and housing, but due to unforeseen challenges and cost overruns, it was ultimately abandoned after several years of construction and development. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Route 23 Urban Renewal Project, New York Region II"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/ee7c1e74-80bd-4f7a-b748-be62ddac92f6/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/ee7c1e74-80bd-4f7a-b748-be62ddac92f6/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/ee7c1e74-80bd-4f7a-b748-be62ddac92f6",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

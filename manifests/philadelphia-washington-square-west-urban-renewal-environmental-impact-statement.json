@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-washington-square-west-urban-renewal-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Philadelphia, Washington Square West urban renewal : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Advisory Council on Historic Preservation is reviewing the proposed rehabilitation of properties in the 900-1000 block of Spruce Street and 1023-27 Clinton Street in Philadelphia, Pennsylvania. The project, designated as the Louis I Kahn Memorial Park, aims to revitalize historic neighborhoods and preserve architectural heritage. The Department of Housing and Urban Development (HUD) is involved in the assessment and approval process. The Council has determined that the proposed work will not negatively impact the Clinton Street Historic District, a property included in the National Register. The goal is to ensure the preservation of historic buildings while promoting community revitalization. The document highlights the need for careful consideration of the impact on the area's character and the importance of safeguarding the city's historical landscape."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/0940594e-e055-4864-bda0-377927b03b4d/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/0940594e-e055-4864-bda0-377927b03b4d",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Philadelphia, Washington Square West urban renewal : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Advisory Council on Historic Preservation is reviewing the proposed rehabilitation of properties in the 900-1000 block of Spruce Street and 1023-27 Clinton Street in Philadelphia, Pennsylvania. The project, designated as the Louis I Kahn Memorial Park, aims to revitalize historic neighborhoods and preserve architectural heritage. The Department of Housing and Urban Development (HUD) is involved in the assessment and approval process. The Council has determined that the proposed work will not negatively impact the Clinton Street Historic District, a property included in the National Register. The goal is to ensure the preservation of historic buildings while promoting community revitalization. The document highlights the need for careful consideration of the impact on the area's character and the importance of safeguarding the city's historical landscape."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington Square West Urban Renewal Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Curtis Building; Scott House; Thomas Jefferson University; The Redevelopment Authority of the City of Philadelphia; Department of Housing and Urban Development"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in the 19th century, aimed to revitalize Philadelphia’s historic districts – particularly the Locust Street area – by constructing new buildings that mirrored the architectural styles of the era. The goal was to preserve the city’s heritage and create a more aesthetically pleasing urban landscape. However, due to a combination of factors including land acquisition, changing zoning regulations, and economic shifts, the project ultimately faced significant delays and cost overruns, leading to its abandonment. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-washington-square-west-urban-renewal-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Philadelphia, Washington Square West urban renewal : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0940594e-e055-4864-bda0-377927b03b4d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-washington-square-west-urban-renewal-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-washington-square-west-urban-renewal-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-washington-square-west-urban-renewal-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0940594e-e055-4864-bda0-377927b03b4d/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0940594e-e055-4864-bda0-377927b03b4d",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -61,6 +61,30 @@
     {
       "label": {
         "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Columbia River Mile 63-72 and Cowlitz River Mile 0-9.0"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Terence J. Connell; Alfonso Ramirez; Jerry Weaver; Ray Jaren; Mike Kidby; Paul Wemhoener"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Historical Context"
         ]
       },

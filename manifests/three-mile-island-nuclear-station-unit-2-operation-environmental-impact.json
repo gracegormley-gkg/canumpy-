@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Three Mile Island Nuclear Station Unit 2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "William Henry Stiegel; Robert Coleman"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in the 1970s, aimed to design and build a nuclear reactor capable of producing electricity. It was a significant undertaking, driven by the need to address energy security and reduce reliance on fossil fuels. However, due to escalating costs, political opposition, and concerns about safety, the project was ultimately cancelled in 1980, leaving behind a complex legacy of design and analysis that continues to be debated and analyzed."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

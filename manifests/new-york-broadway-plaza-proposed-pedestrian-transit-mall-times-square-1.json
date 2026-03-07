@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document describes the Broadway Plaza project in New York City, a large-scale development planned to revitalize the downtown area. It’s a collaborative effort between the Urban Mass Transportation Administration (UMTA), the Federal Highway Administration (FHWA), and the Department of Transportation (DOT). The goal is to create a mixed-use area with increased traffic flow, stimulating economic growth and potentially increasing CO emissions. The document highlights the need for a comprehensive plan to mitigate this impact, emphasizing integration with broader transportation strategies and air quality management. It also calls for a detailed environmental impact assessment, including air pollution considerations beyond CO, to ensure sustainable development."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document describes the Broadway Plaza project in New York City, a large-scale development planned to revitalize the downtown area. It’s a collaborative effort between the Urban Mass Transportation Administration (UMTA), the Federal Highway Administration (FHWA), and the Department of Transportation (DOT). The goal is to create a mixed-use area with increased traffic flow, stimulating economic growth and potentially increasing CO emissions. The document highlights the need for a comprehensive plan to mitigate this impact, emphasizing integration with broader transportation strategies and air quality management. It also calls for a detailed environmental impact assessment, including air pollution considerations beyond CO, to ensure sustainable development."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Broadway Plaza"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "George M. Cohan; Joel Widder; John Portman; Clinton; Madison Mall; Sidewalk Conditions"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Broadway Plaza project, initiated in the 1970s, was a significant urban development initiative in New York City aimed at revitalizing the downtown area and attracting tourism. It involved constructing a large, multi-story hotel complex, significantly increasing traffic volume and air pollution in the surrounding area.  Despite initial optimism, the project faced considerable opposition from environmental groups and community members concerned about its impact on air quality and the character of the neighborhood. Ultimately, the project was significantly scaled back and ultimately abandoned, leaving behind a large, largely unused complex."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

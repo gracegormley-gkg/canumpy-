@@ -57,6 +57,42 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Downtown Detroit, Michigan"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Kiyoshi Mano"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Downtown People Mover (DPM) project, initiated in the 1970s, was a significant urban development initiative in Detroit, Michigan, aimed at alleviating traffic congestion and improving accessibility to downtown businesses.  The project, initially envisioned as a phased approach, faced considerable opposition from residents and community groups concerned about the project’s visual impact and potential disruption to the city’s historic character.  Despite initial enthusiasm, the project faced significant cost overruns and delays, ultimately leading to its cancellation in 1982.  Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
     }
   ],
   "requiredStatement": {

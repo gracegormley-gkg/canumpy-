@@ -57,6 +57,54 @@
           "Water Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Arkansas River Parks Project, Tulsa, Oklahoma"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "River Parks Authority; US Army Engineer District; Tulsa Urban Renewal Authority; Oklahoma Department of Wildlife Conservation; Tulsa City-County Health City"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The proposed low-water weir project in Tulsa, Oklahoma, represents a significant effort to manage stormwater runoff and enhance the ecological health of the Arkansas River. The project, initiated in 1977, aimed to create a reservoir that would reduce flood risk and provide a habitat for aquatic life. However, due to unforeseen challenges with water quality monitoring and the potential for increased fish migration, the project was ultimately scaled back and abandoned, leaving behind a partially constructed dam and a focus on environmental impact assessment rather than full implementation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

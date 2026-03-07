@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milton-south-disaster-urban-renewal-project.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Milton-South Disaster Urban Renewal Project, Milton-North Disaster Urban Renewal Project, Turbot Disaster Urban Renewal Project"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed Milton-North and Milton-South urban renewal projects in Northumberland County, Pennsylvania. The project, initiated by the Department of Environmental Resources (DER), aims to revitalize the region through redevelopment and infrastructure improvements. The project encompasses three distinct areas, requiring demolition, excavation, and construction. The DER is concerned with potential environmental impacts, including fugitive particulate emissions, noise pollution, and odor. The document highlights the need for specific regulations regarding relocation of displaced residents and property, with no explicit relocation provisions outlined in the Milton South project. The document emphasizes the need for clear definitions and a comprehensive plan to address the challenges associated with the project's redevelopment."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Milton-South Disaster Urban Renewal Project, Milton-North Disaster Urban Renewal Project, Turbot Disaster Urban Renewal Project"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed Milton-North and Milton-South urban renewal projects in Northumberland County, Pennsylvania. The project, initiated by the Department of Environmental Resources (DER), aims to revitalize the region through redevelopment and infrastructure improvements. The project encompasses three distinct areas, requiring demolition, excavation, and construction. The DER is concerned with potential environmental impacts, including fugitive particulate emissions, noise pollution, and odor. The document highlights the need for specific regulations regarding relocation of displaced residents and property, with no explicit relocation provisions outlined in the Milton South project. The document emphasizes the need for clear definitions and a comprehensive plan to address the challenges associated with the project's redevelopment."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Milton-North Disaster Urban Renewal Project"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Draft; Raymond B. Winsey State Park; Seranton"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Milton-North and Milton-South Urban Renewal Projects, initiated in the 1970s, were a significant attempt to revitalize the region of Milton, Pennsylvania, following a period of economic decline. Driven by a desire to attract new businesses and residents, the projects involved the demolition of existing structures and the construction of new housing and commercial spaces. However, the project faced considerable opposition from local residents concerned about environmental impacts, increased traffic, and the loss of historic character, ultimately leading to its cancellation and abandonment after a decade of planning and construction."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milton-south-disaster-urban-renewal-project.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Milton-South Disaster Urban Renewal Project, Milton-North Disaster Urban Renewal Project, Turbot Disaster Urban Renewal Project"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milton-south-disaster-urban-renewal-project.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milton-south-disaster-urban-renewal-project.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milton-south-disaster-urban-renewal-project.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

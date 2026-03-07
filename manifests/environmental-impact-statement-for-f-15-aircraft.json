@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-f-15-aircraft.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement for F-15 Aircraft"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a project to enhance noise suppression for the F-100-PW-100 engine, a critical component of the F-105 and F-15 fighter aircraft. It outlines a proposed noise reduction system, similar to the A/F32A-13, designed to allow personnel to work for extended periods (8 hours) in both free field and near-field environments without hearing protection. The goal is to meet stringent USAF noise-level requirements for ground maintenance, ensuring worker safety and productivity. The project involves collaboration between Industrial Acoustics Company and the USAF, with the aim of providing effective noise mitigation strategies for these critical aircraft. The document includes a detailed chart illustrating noise levels for various ground run-up conditions, demonstrating the proposed system's effectiveness."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/01acb9cb-b9d9-4e3b-ac0d-d6726e901272/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/01acb9cb-b9d9-4e3b-ac0d-d6726e901272",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement for F-15 Aircraft"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a project to enhance noise suppression for the F-100-PW-100 engine, a critical component of the F-105 and F-15 fighter aircraft. It outlines a proposed noise reduction system, similar to the A/F32A-13, designed to allow personnel to work for extended periods (8 hours) in both free field and near-field environments without hearing protection. The goal is to meet stringent USAF noise-level requirements for ground maintenance, ensuring worker safety and productivity. The project involves collaboration between Industrial Acoustics Company and the USAF, with the aim of providing effective noise mitigation strategies for these critical aircraft. The document includes a detailed chart illustrating noise levels for various ground run-up conditions, demonstrating the proposed system's effectiveness."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Donald R. Jackson; Herbert F. DeSimone; Pratt and Whitney; Mach; Whitney; Jackson"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1969, focused on developing and implementing noise suppression technologies for military aircraft, particularly the F-100 and F-111. The goal was to ensure personnel could work safely and comfortably for extended periods in demanding ground maintenance environments, addressing concerns about noise exposure. The project ultimately resulted in the development of noise-reducing mufflers and equipment, demonstrating a commitment to minimizing noise impact during critical operations."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-f-15-aircraft.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement for F-15 Aircraft"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/01acb9cb-b9d9-4e3b-ac0d-d6726e901272/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-f-15-aircraft.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-f-15-aircraft.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-f-15-aircraft.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/01acb9cb-b9d9-4e3b-ac0d-d6726e901272/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/01acb9cb-b9d9-4e3b-ac0d-d6726e901272",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

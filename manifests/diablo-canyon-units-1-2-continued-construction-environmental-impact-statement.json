@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/diablo-canyon-units-1-2-continued-construction-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Diablo Canyon, units 1-2, continued construction : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document is a draft environmental statement for Diablo Canyon power reactors #1 and #2, located in California. It addresses potential environmental impacts arising from the operation of these reactors, focusing on radioactive contamination and potential risks to the surrounding ecosystem. The document highlights concerns regarding effluent discharge, potential for radioactive leakage, and the possibility of minor and major failures. It emphasizes the need for a robust safety evaluation program, particularly concerning the 139 safety questions identified in the AEC’s 1970 plan. The statement aims to assess the probability of accidents and outline corrective actions, particularly concerning Class 8 accidents, with a focus on minimizing environmental damage and ensuring public safety."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Diablo Canyon, units 1-2, continued construction : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document is a draft environmental statement for Diablo Canyon power reactors #1 and #2, located in California. It addresses potential environmental impacts arising from the operation of these reactors, focusing on radioactive contamination and potential risks to the surrounding ecosystem. The document highlights concerns regarding effluent discharge, potential for radioactive leakage, and the possibility of minor and major failures. It emphasizes the need for a robust safety evaluation program, particularly concerning the 139 safety questions identified in the AEC’s 1970 plan. The statement aims to assess the probability of accidents and outline corrective actions, particularly concerning Class 8 accidents, with a focus on minimizing environmental damage and ensuring public safety."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Diablo Canyon Units 1 & 2"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Richard B. Hastings; Louis B. Werner"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1963, was a crucial effort by the U.S. Nuclear Regulatory Commission (NRC) to assess the environmental risks associated with the construction of new nuclear power plants, specifically the Diablo Canyon power plants. The goal was to establish a comprehensive framework for managing these risks, incorporating both technical and regulatory considerations. The project, initially focused on evaluating potential environmental impacts, evolved into a detailed environmental impact assessment (EIA) that became a cornerstone of nuclear power plant design and regulation. However, due to political and public opposition, the project was ultimately scaled back and ultimately abandoned, with the Diablo Canyon plants remaining operational, though with ongoing monitoring and potential future revisions to the environmental assessment. Therefore, the project was null."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/diablo-canyon-units-1-2-continued-construction-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Diablo Canyon, units 1-2, continued construction : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/diablo-canyon-units-1-2-continued-construction-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/diablo-canyon-units-1-2-continued-construction-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/diablo-canyon-units-1-2-continued-construction-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

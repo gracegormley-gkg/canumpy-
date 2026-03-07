@@ -57,6 +57,54 @@
           "Industrial Production and Materials"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Consumer Product Safety Commission (CPSC) Notice Published October 6, 1976 (41 FR 44126)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Walter Hobby; Mr. Walter Hobby; Dan; Rogers Park, Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1976 by the National Paint & Coatings Association, aimed to establish a standardized method for identifying and quantifying lead in paint, a significant environmental and health concern. The initial goal was to create a universally accepted definition of lead-based paint and a system for monitoring its presence in the environment. However, due to political opposition and a lack of widespread adoption, the project ultimately stalled, with the definition remaining vague and the implementation of a comprehensive monitoring system never fully realized. It remains a notable example of a project hampered by conflicting interests and a lack of consensus, ultimately failing to achieve its intended purpose."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "No"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document concerns the construction of a new dam in the Arkansas River near Tulsa, Oklahoma. The U.S. Army Corps of Engineers (RCW) is proposing a project to create a low-water weir, a barrier designed to reduce water flow. The project aims to mitigate the negative impacts of sedimentation and increased turbidity on the river's ecosystem. The RCW is investigating the potential for increased fish contamination due to the low water weir, which could negatively affect striped bass populations. The document highlights concerns about the river's overall quality and the potential for increased pollution from domestic and industrial sources, necessitating a thorough assessment before proceeding with the project. The project seeks to balance urban development with environmental protection, requiring careful consideration of the river's ecological health."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/6a527c28-c55d-4748-ada9-be0c126cf911/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/6a527c28-c55d-4748-ada9-be0c126cf911",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document concerns the construction of a new dam in the Arkansas River near Tulsa, Oklahoma. The U.S. Army Corps of Engineers (RCW) is proposing a project to create a low-water weir, a barrier designed to reduce water flow. The project aims to mitigate the negative impacts of sedimentation and increased turbidity on the river's ecosystem. The RCW is investigating the potential for increased fish contamination due to the low water weir, which could negatively affect striped bass populations. The document highlights concerns about the river's overall quality and the potential for increased pollution from domestic and industrial sources, necessitating a thorough assessment before proceeding with the project. The project seeks to balance urban development with environmental protection, requiring careful consideration of the river's ecological health."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Arkansas River"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Oklahoma City officials; Corps of Engineers; Tulsa City-County Health Department; Tulsa Urban Renewal Authority; Federal Water Pollution Control Act Amendments of 1972"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in the 1970s, aimed to construct a stormwater retention basin in Tulsa, Oklahoma, to mitigate flooding and improve water quality. Recognizing the historical problem of phosphorus runoff from industrial and residential areas, the project was designed to capture and treat this pollutant. However, due to unforeseen challenges with sediment transport and the potential for increased algal blooms, the project was ultimately scaled back and abandoned, leaving the basin largely undeveloped. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/6a527c28-c55d-4748-ada9-be0c126cf911/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/6a527c28-c55d-4748-ada9-be0c126cf911/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/6a527c28-c55d-4748-ada9-be0c126cf911",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the comprehensive plan for managing the Cowlitz River watershed, a vital waterway in Washington State. It outlines a multi-year strategy focusing on flood control, habitat restoration, and water quality protection. The Cowlitz River faces significant challenges from historical erosion and increased runoff, necessitating a proactive approach. The plan encompasses detailed hydrological studies, ecological assessments, and engineering solutions, including sediment removal and riparian zone restoration. It emphasizes collaboration between federal, state, and local agencies, including the Army Corps of Engineers, Washington Department of Natural Resources, and the Cowlitz County government. The goal is to ensure the long-term health and resilience of the Cowlitz River ecosystem for current and future generations, addressing the impacts of past events and mitigating future risks."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/15705865-43f8-4aa2-9401-03cf661c8b61/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/15705865-43f8-4aa2-9401-03cf661c8b61",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the comprehensive plan for managing the Cowlitz River watershed, a vital waterway in Washington State. It outlines a multi-year strategy focusing on flood control, habitat restoration, and water quality protection. The Cowlitz River faces significant challenges from historical erosion and increased runoff, necessitating a proactive approach. The plan encompasses detailed hydrological studies, ecological assessments, and engineering solutions, including sediment removal and riparian zone restoration. It emphasizes collaboration between federal, state, and local agencies, including the Army Corps of Engineers, Washington Department of Natural Resources, and the Cowlitz County government. The goal is to ensure the long-term health and resilience of the Cowlitz River ecosystem for current and future generations, addressing the impacts of past events and mitigating future risks."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Columbia River Mile 63-72 and Cowlitz River Mile 0-9"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Terence J. Connell; Doris McKillip; Alfonso Ramirez; Jerry Weaver; Ray Jaren; Mike Kidby; Paul Wemhoener; Ken Cooper; Ruth Love; Ron Mason; Bruce Burch; Charles Noll; Dennis Berry; Jack Bechly; Kim Larson; Robert E. Willis; Jay Sturgill; Jim Addison; Dave Ellis; Bruce Duffe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in 2018, focused on assessing the long-term ecological impacts of dredging activities in the Cowlitz River watershed following the 2018 Mt. St. Helens eruption. The initial assessment identified significant erosion and sediment deposition, threatening aquatic habitat and impacting fish populations. Despite initial concerns, the project concluded with a phased remediation plan, incorporating sediment stabilization techniques and habitat restoration efforts. The project was ultimately completed, with a significant portion of the remediation efforts successfully implemented, though ongoing monitoring and adaptive management are crucial to ensure long-term ecological stability."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/15705865-43f8-4aa2-9401-03cf661c8b61/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/15705865-43f8-4aa2-9401-03cf661c8b61/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/15705865-43f8-4aa2-9401-03cf661c8b61",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

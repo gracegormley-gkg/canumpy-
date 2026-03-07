@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "500 kV transmission lines, West Point-Miller (AL,MS) : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Tennessee Valley Authority (TVA) proposes a project to establish a new transmission line, the West Point-Miller-LESend substation, to improve power delivery to the region. This project involves a series of alternate routes to connect existing generating plants, including the Miller and Lesend power plants. The goal is to increase the reliability and efficiency of the power grid, reducing transmission losses and ensuring a stable power supply for the Tennessee Valley. The project utilizes a combination of existing and proposed transmission lines, with careful consideration given to environmental impact and grid stability. The project is overseen by the TVA, with input from various federal and state agencies."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/5707b717-4793-46d6-afcf-e91bb72af727/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/5707b717-4793-46d6-afcf-e91bb72af727",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "500 kV transmission lines, West Point-Miller (AL,MS) : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) proposes a project to establish a new transmission line, the West Point-Miller-LESend substation, to improve power delivery to the region. This project involves a series of alternate routes to connect existing generating plants, including the Miller and Lesend power plants. The goal is to increase the reliability and efficiency of the power grid, reducing transmission losses and ensuring a stable power supply for the Tennessee Valley. The project utilizes a combination of existing and proposed transmission lines, with careful consideration given to environmental impact and grid stability. The project is overseen by the TVA, with input from various federal and state agencies."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "West Point-Miller 500-kV Transmission Line"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Peter A. Krenkel; James H. Miller; Cooper Creek"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) initiated a project to investigate the potential effects of high-voltage transmission lines on air quality, particularly ozone. Recognizing the potential for ozone depletion and respiratory problems, the project aimed to quantify these effects through laboratory and field measurements. The project ultimately concluded with a proposed substation extension at West Point-Miller, a project that faced significant challenges and ultimately faced delays and cost overruns, leading to its cancellation. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "500 kV transmission lines, West Point-Miller (AL,MS) : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/5707b717-4793-46d6-afcf-e91bb72af727/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5707b717-4793-46d6-afcf-e91bb72af727/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5707b717-4793-46d6-afcf-e91bb72af727",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

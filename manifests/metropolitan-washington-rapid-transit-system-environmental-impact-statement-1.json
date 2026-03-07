@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Metropolitan Washington rapid transit system : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the Maryland Department of Transportation’s (MDOT) FY 1978-1982 Consolidated Transportation Program. It outlines a comprehensive plan to modernize and improve transportation infrastructure across Maryland, focusing on funding for road construction, bridge repairs, and public transit improvements. The program aims to enhance connectivity, reduce congestion, and improve the overall quality of life for Marylanders. MDOT is collaborating with federal agencies, local municipalities, and state transportation officials to achieve this goal. The program encompasses a significant investment in roads, bridges, and public transit systems, representing a substantial financial commitment to Maryland’s transportation network. The document emphasizes responsiveness to citizen concerns regarding noise pollution and the need for improved transportation infrastructure."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/baa4e032-f31a-4460-9dd2-7a6f45997ec9/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/baa4e032-f31a-4460-9dd2-7a6f45997ec9",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Metropolitan Washington rapid transit system : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the Maryland Department of Transportation’s (MDOT) FY 1978-1982 Consolidated Transportation Program. It outlines a comprehensive plan to modernize and improve transportation infrastructure across Maryland, focusing on funding for road construction, bridge repairs, and public transit improvements. The program aims to enhance connectivity, reduce congestion, and improve the overall quality of life for Marylanders. MDOT is collaborating with federal agencies, local municipalities, and state transportation officials to achieve this goal. The program encompasses a significant investment in roads, bridges, and public transit systems, representing a substantial financial commitment to Maryland’s transportation network. The document emphasizes responsiveness to citizen concerns regarding noise pollution and the need for improved transportation infrastructure."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rockville, Maryland"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Di Je Cc; N. W.; S. W.; Shady Grove; Rockville Station; Nicholson Lane"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Montgomery County Noise Control Project, initiated in 1973, arose from growing public concern over noise pollution in Montgomery County, Maryland, stemming from increased traffic, construction, and residential development. The project aimed to establish a comprehensive noise management plan, incorporating monitoring, enforcement, and mitigation strategies. Despite initial enthusiasm, the project faced significant challenges, including budget constraints, political opposition, and the complexity of addressing a multifaceted problem. Ultimately, the project was deemed unsuccessful due to insufficient funding and a lack of widespread community buy-in, resulting in a largely unimplemented plan."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Metropolitan Washington rapid transit system : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/baa4e032-f31a-4460-9dd2-7a6f45997ec9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/baa4e032-f31a-4460-9dd2-7a6f45997ec9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/baa4e032-f31a-4460-9dd2-7a6f45997ec9",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

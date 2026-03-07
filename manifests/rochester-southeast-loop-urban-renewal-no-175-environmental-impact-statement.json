@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Rochester, Southeast loop urban renewal no.175 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Rochester South East Loop Urban Renewal Project is a large-scale development planned for the city of Rochester, New York. It involves the demolition of 68% of the land and the construction of 760 housing units. The project aims to revitalize the area through new infrastructure and housing, but it raises significant environmental concerns. The draft Environmental Impact Statement (EIS) highlights potential noise pollution, particularly from construction activities. The document emphasizes the need to mitigate noise impacts, specifically for the First Universalist Church, a historic landmark. It calls for additional measures to preserve the church's integrity and integrate it into the new development, balancing urban growth with historical preservation. The EIS also calls for a detailed assessment of potential adverse environmental impacts, including potential groundwater contamination, and recommends consulting with EPA Region II to address these concerns."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/deb1182a-e9b3-450f-8891-5b47c7a3f727/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/deb1182a-e9b3-450f-8891-5b47c7a3f727",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Rochester, Southeast loop urban renewal no.175 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Rochester South East Loop Urban Renewal Project is a large-scale development planned for the city of Rochester, New York. It involves the demolition of 68% of the land and the construction of 760 housing units. The project aims to revitalize the area through new infrastructure and housing, but it raises significant environmental concerns. The draft Environmental Impact Statement (EIS) highlights potential noise pollution, particularly from construction activities. The document emphasizes the need to mitigate noise impacts, specifically for the First Universalist Church, a historic landmark. It calls for additional measures to preserve the church's integrity and integrate it into the new development, balancing urban growth with historical preservation. The EIS also calls for a detailed assessment of potential adverse environmental impacts, including potential groundwater contamination, and recommends consulting with EPA Region II to address these concerns."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Urban Development"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rochester South East Loop Urban Renewal Project"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "S.E.L. Project Manager; S.E.L. Planning Committee; S.E.L. Regulatory Officer; S.E.L. Environmental Specialist; S.E.L. Construction Foreman"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Rochester South East Loop Urban Renewal Project, initiated in the 1970s, aimed to revitalize the city’s industrial district by constructing a new highway and residential areas. It was a significant urban development project, driven by a desire to attract new businesses and residents, but it also faced considerable opposition from local residents concerned about the project’s impact on the historic character of the neighborhood. Ultimately, the project was completed, although it faced challenges and modifications over the years, demonstrating a complex interplay of economic, social, and environmental considerations during this period of urban transformation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Rochester, Southeast loop urban renewal no.175 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/deb1182a-e9b3-450f-8891-5b47c7a3f727/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/deb1182a-e9b3-450f-8891-5b47c7a3f727/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/deb1182a-e9b3-450f-8891-5b47c7a3f727",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/raccoon-mountain-pumped-storage-plant-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Raccoon Mountain pumped-storage plant : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The Tennessee Valley Authority (TVA) has initiated Project UHV, a 36-inch diameter bundle designed to energize a high-voltage transmission line. Located in the mountainous region of Tennessee, this project aims to reduce ozone concentrations near the line. The project involves collaboration between TVA, the U.S. Department of Energy, and the Battelle Memorial Institute. TVA’s goal is to mitigate the environmental impact of the transmission line by controlling ozone production, a potential health hazard. The project’s focus is on reducing ozone levels, a critical concern for the surrounding ecosystem and community health. It’s a significant undertaking to address air quality concerns associated with high-voltage power lines."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/d0d16d78-dbb7-4053-bb04-8e18a2252ab3/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/d0d16d78-dbb7-4053-bb04-8e18a2252ab3",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Raccoon Mountain pumped-storage plant : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) has initiated Project UHV, a 36-inch diameter bundle designed to energize a high-voltage transmission line. Located in the mountainous region of Tennessee, this project aims to reduce ozone concentrations near the line. The project involves collaboration between TVA, the U.S. Department of Energy, and the Battelle Memorial Institute. TVA’s goal is to mitigate the environmental impact of the transmission line by controlling ozone production, a potential health hazard. The project’s focus is on reducing ozone levels, a critical concern for the surrounding ecosystem and community health. It’s a significant undertaking to address air quality concerns associated with high-voltage power lines."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Raccoon Mountain Pumped-Storage Plant"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Peter A. Krenkel; Nickajack; Francis; Charles H. Clark; John V. Lewis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Tennessee Valley Authority (TVA) initiated the Energization Project in 1972, a massive effort to increase power generation from the region’s hydroelectric resources. This project aimed to significantly boost electricity output by utilizing high-voltage transmission lines, a complex undertaking that involved extensive testing and monitoring. Despite significant investment, the project ultimately faced challenges related to cost overruns and unforeseen environmental impacts, leading to its cancellation in 1973. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/raccoon-mountain-pumped-storage-plant-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Raccoon Mountain pumped-storage plant : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/d0d16d78-dbb7-4053-bb04-8e18a2252ab3/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/raccoon-mountain-pumped-storage-plant-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/raccoon-mountain-pumped-storage-plant-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/raccoon-mountain-pumped-storage-plant-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d0d16d78-dbb7-4053-bb04-8e18a2252ab3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d0d16d78-dbb7-4053-bb04-8e18a2252ab3",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

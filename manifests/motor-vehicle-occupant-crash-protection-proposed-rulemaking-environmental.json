@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Motor vehicle occupant crash protection, Proposed rulemaking : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the EPA's rulemaking regarding passive restraint systems in passenger automobiles, aiming to reduce automobile-related air pollution. The project, initiated by the Interagency Task Force on Motor Vehicle Goals Beyond 1980, focuses on mitigating emissions from vehicles manufactured between 1972 and 1990. The goal is to reduce annual emissions by 20,000 tons of CO annually, estimated to be $7.2 billion annually. The document highlights the potential benefits – saving lives and injuries – alongside associated costs, including energy consumption and potential infringement on personal liberty. It assesses whether the societal benefits outweigh these costs, prompting a critical evaluation of the project's feasibility and public acceptance."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a233dab1-1f29-4e83-aa49-acac6296969f/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a233dab1-1f29-4e83-aa49-acac6296969f",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Motor vehicle occupant crash protection, Proposed rulemaking : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the EPA's rulemaking regarding passive restraint systems in passenger automobiles, aiming to reduce automobile-related air pollution. The project, initiated by the Interagency Task Force on Motor Vehicle Goals Beyond 1980, focuses on mitigating emissions from vehicles manufactured between 1972 and 1990. The goal is to reduce annual emissions by 20,000 tons of CO annually, estimated to be $7.2 billion annually. The document highlights the potential benefits – saving lives and injuries – alongside associated costs, including energy consumption and potential infringement on personal liberty. It assesses whether the societal benefits outweigh these costs, prompting a critical evaluation of the project's feasibility and public acceptance."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "August 31, 1976"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Rogers Park, Chicago, Illinois; Wright Patterson Air Force Base; John Smith; Robert Jones; David Lee"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, initiated in the 1970s, aimed to address concerns about air quality and potential health impacts of automobile emissions, specifically focusing on the potential increase in pollutants from increased vehicle use. The proposal outlined alternative strategies to mitigate these risks, including the implementation of passive restraint systems on vehicles. However, due to significant economic and political opposition, the project ultimately faced significant delays and was never fully realized, resulting in a lack of definitive data on its ultimate outcome."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Motor vehicle occupant crash protection, Proposed rulemaking : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a233dab1-1f29-4e83-aa49-acac6296969f/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a233dab1-1f29-4e83-aa49-acac6296969f/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a233dab1-1f29-4e83-aa49-acac6296969f",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -57,6 +57,54 @@
           "Wildlife and Natural Areas"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Adlai E. Stevenson; Charles H. Percy; George M. O'Brien; Philip M. Crane; Frank Annunzio; J. Mikva; Sidney R. Yates; Dan Rostenkowski; Martin A. Russo; Candiss Collins; Henry J. Hyde; John G. Fary; Edward J. Derwinski; Ralph H. Metcalfe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Lower Des Plaines Tunnel System project, initiated in the 1970s, was a significant undertaking to alleviate flooding in the Chicago area, particularly in the Des Plaines River basin. The project aimed to reduce the volume of stormwater runoff, thereby mitigating potential damage to infrastructure and property. However, due to unforeseen geological conditions and the potential for increased infiltration, the project faced challenges with groundwater management and tunnel integrity. Ultimately, the project was completed, though with some modifications and adjustments to address the identified issues, and the tunnel system continues to operate, albeit with enhanced monitoring and grouting protocols."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

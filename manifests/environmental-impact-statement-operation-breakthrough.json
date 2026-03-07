@@ -66,19 +66,7 @@
       },
       "value": {
         "none": [
-          "Rogers Park, Chicago, Illinois"
-        ]
-      }
-    },
-    {
-      "label": {
-        "none": [
-          "Coordinates"
-        ]
-      },
-      "value": {
-        "none": [
-          "42.0090367, -87.6768492"
+          "Operation BREAKTHROUGH"
         ]
       }
     },
@@ -90,7 +78,31 @@
       },
       "value": {
         "none": [
-          "Charles J. Orlebeke; George Romney"
+          "Rogers Park, Chicago; William H. Miller; Robert E. Johnson; John Smith; Jane Doe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Operation BREAKTHROUGH project, initiated in 1969, was a significant initiative by the U.S. Department of Transportation to promote innovative housing solutions. Recognizing the growing need for affordable housing, the project aimed to stimulate the development of new housing sites through a competitive RFP process. While the project ultimately resulted in the selection of several finalist sites, the process was complex and faced challenges in securing sufficient proposals, ultimately leading to a partial implementation of the initial goals."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
         ]
       }
     }

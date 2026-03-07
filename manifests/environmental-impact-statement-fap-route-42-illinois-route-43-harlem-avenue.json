@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, FAP Route 42 (Illinois Route 43) Harlem Avenue (119th Street to 143rd Street) Cook County, Illinois"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details a proposed land exchange in Cook County, Illinois, concerning the Harlem Avenue widening project. The Forest Preserve District of Cook County (FPDC) is seeking to relinquish a 4.8-acre parcel located within the Northeast Quarter of Section 1 Township 36 North, Range 12, East of the Third Principal Meridian. The FPDC intends to transfer this land to Robert Osenga and Nell J. Osenga, joint tenants. The project aims to facilitate the widening of Harlem Avenue, a critical transportation corridor. The document also includes a detailed map (Map 11) illustrating the precise location of the land, including a representation of the parcel's boundaries and total holding area. The FPDC is seeking approval for this land exchange to support the widening project."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/848b792a-a10c-4f90-82bc-facbcad820e5/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/848b792a-a10c-4f90-82bc-facbcad820e5",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, FAP Route 42 (Illinois Route 43) Harlem Avenue (119th Street to 143rd Street) Cook County, Illinois"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details a proposed land exchange in Cook County, Illinois, concerning the Harlem Avenue widening project. The Forest Preserve District of Cook County (FPDC) is seeking to relinquish a 4.8-acre parcel located within the Northeast Quarter of Section 1 Township 36 North, Range 12, East of the Third Principal Meridian. The FPDC intends to transfer this land to Robert Osenga and Nell J. Osenga, joint tenants. The project aims to facilitate the widening of Harlem Avenue, a critical transportation corridor. The document also includes a detailed map (Map 11) illustrating the precise location of the land, including a representation of the parcel's boundaries and total holding area. The FPDC is seeking approval for this land exchange to support the widening project."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Harlem Avenue"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Ziejewski; Barkhausen; Cook; Dickerson; Gulley; Landolt; Lehnhausen; Quillin; Ropp; Snoke; Yoder; Rockwell; Brzyski; McReaken; Wisner; Zoe; Sarah"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project involves the replacement of a portion of the Harlem Avenue corridor with a new road, designed to alleviate traffic congestion and improve connectivity in the Chicago area. The impetus for this project stems from a growing need for enhanced transportation infrastructure, particularly in the rapidly developing region. However, the project faced significant challenges, including cost overruns and delays, ultimately leading to its cancellation after several years of construction and ultimately, the completion of the new road, though with some remaining issues related to the initial design and implementation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, FAP Route 42 (Illinois Route 43) Harlem Avenue (119th Street to 143rd Street) Cook County, Illinois"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/848b792a-a10c-4f90-82bc-facbcad820e5/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/848b792a-a10c-4f90-82bc-facbcad820e5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/848b792a-a10c-4f90-82bc-facbcad820e5",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

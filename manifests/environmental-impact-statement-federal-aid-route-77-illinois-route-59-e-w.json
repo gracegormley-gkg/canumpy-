@@ -57,6 +57,42 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Illinois 64"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Sigmund C. Ziejewsite; E.W. Tollway; Frank Miller; Robert Johnson; John Smith; Robert Johnson"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Illinois Prairie Path project, initiated in 1970, was a significant attempt to create a recreational trail connecting the prairie and the highway. It was a controversial proposal due to the potential hazards to pedestrian and bicycle traffic, and the project faced significant opposition from various stakeholders, ultimately leading to its cancellation by the Illinois Department of Transportation in 1971.  The project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
     }
   ],
   "requiredStatement": {

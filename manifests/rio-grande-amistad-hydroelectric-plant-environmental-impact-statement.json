@@ -57,6 +57,42 @@
           "Water Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Amistad Dam and Reservoir"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "J. F. FRIEDKIN; Various stakeholders involved in the project"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Amistad Reservoir project, initiated in the 1970s, aimed to provide a substantial water reservoir in the southwestern United States, primarily for flood control and hydropower generation. Recognizing the need for increased water storage in the region, the project was designed to be a large-scale reservoir, but the project faced significant challenges and ultimately faced significant delays and cost overruns, leading to its abandonment in 2003. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Baltimore, Inner Harbor West urban renewal : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details a Section 106 determination for the Old Otterbein Church in the Inner Harbor West Urban Renewal project. The SHPO, concerned about the Church’s historic and architectural value, has determined that the redevelopment plan will enhance its scale and integrate it into the surrounding landscape. The project includes taller buildings adjacent to the Church, creating a buffer strip and a distinct visual contrast. The document emphasizes the importance of preserving the Church’s integrity and scale, a key element of the Master Plan. The City is collaborating with the SHPO to ensure this preservation, and the SHPO’s comments are incorporated into the final Environmental Impact Statement. The goal is to balance development with historical preservation, avoiding costly delays and maintaining the Church’s unique character within the project’s context."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/fcb050a4-bcff-41b8-b974-959ec63fe0d9/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/fcb050a4-bcff-41b8-b974-959ec63fe0d9",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Baltimore, Inner Harbor West urban renewal : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details a Section 106 determination for the Old Otterbein Church in the Inner Harbor West Urban Renewal project. The SHPO, concerned about the Church’s historic and architectural value, has determined that the redevelopment plan will enhance its scale and integrate it into the surrounding landscape. The project includes taller buildings adjacent to the Church, creating a buffer strip and a distinct visual contrast. The document emphasizes the importance of preserving the Church’s integrity and scale, a key element of the Master Plan. The City is collaborating with the SHPO to ensure this preservation, and the SHPO’s comments are incorporated into the final Environmental Impact Statement. The goal is to balance development with historical preservation, avoiding costly delays and maintaining the Church’s unique character within the project’s context."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Inner Harbor West Urban Renewal Project"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Hee Se; Charles Pratt; Enoch Pratt Library"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Inner Harbor West project, initiated in 1974, represents a significant urban redevelopment initiative in Baltimore, Maryland. The project aims to revitalize the area by constructing new housing, commercial spaces, and recreational facilities. However, the project faced substantial opposition from the Maryland Historic Preservation Officer (SHPO) due to concerns about the potential impact on the historic integrity of the Old Otterbein Church, a prominent landmark in the area. The SHPO ultimately determined that the project’s design and scale would not negatively affect the church, leading to its preservation and enhancement, thus ensuring the church’s continued presence within the development."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Baltimore, Inner Harbor West urban renewal : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/fcb050a4-bcff-41b8-b974-959ec63fe0d9/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fcb050a4-bcff-41b8-b974-959ec63fe0d9/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/fcb050a4-bcff-41b8-b974-959ec63fe0d9",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

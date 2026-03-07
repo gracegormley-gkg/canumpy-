@@ -57,6 +57,30 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Walter Hobby; Mr. Walter Hobby; Rogers Park, Chicago, Illinois"
+        ]
+      }
     }
   ],
   "requiredStatement": {

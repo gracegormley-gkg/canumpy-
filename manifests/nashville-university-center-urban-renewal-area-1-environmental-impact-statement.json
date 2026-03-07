@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/nashville-university-center-urban-renewal-area-1-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Nashville, University Center urban renewal area 1 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the planning for a new parking garage at Vanderbilt University Hospital, located in Nashville, Tennessee. The project aims to address parking challenges on campus by providing additional spaces for patients, staff, and visitors. It involves collaboration between the University, the Tennessee Department of Transportation, and the Tennessee Department of Health. The primary goal is to create a more efficient and accessible parking system, reducing congestion and improving overall campus operations. The plan includes redesigning the intersection of Pierce Avenue and 21st Avenue to facilitate safe and efficient traffic flow, and to provide dedicated access for the hospital's parking facilities. The project also incorporates signalization to enhance safety and optimize traffic flow, and to eliminate the right turn overlap phase on the Garland/2lst Avenue intersection."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Nashville, University Center urban renewal area 1 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the planning for a new parking garage at Vanderbilt University Hospital, located in Nashville, Tennessee. The project aims to address parking challenges on campus by providing additional spaces for patients, staff, and visitors. It involves collaboration between the University, the Tennessee Department of Transportation, and the Tennessee Department of Health. The primary goal is to create a more efficient and accessible parking system, reducing congestion and improving overall campus operations. The plan includes redesigning the intersection of Pierce Avenue and 21st Avenue to facilitate safe and efficient traffic flow, and to provide dedicated access for the hospital's parking facilities. The project also incorporates signalization to enhance safety and optimize traffic flow, and to eliminate the right turn overlap phase on the Garland/2lst Avenue intersection."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Nashville, Tennessee"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Joseph Johnston; Jeff Carr; Wilson Sims; Dan Bischoff; Charles Adair"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project involves the construction of a new parking garage on the site of Dixie Place, a historic landmark in the city. It was initiated to address a growing demand for parking, particularly during peak hours, and to provide a more efficient and accessible parking solution for the Vanderbilt Hospital and Veterans Administration facilities. The project was completed successfully, with the garage opening in 2023, significantly alleviating parking congestion and improving the overall functionality of the area."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/nashville-university-center-urban-renewal-area-1-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Nashville, University Center urban renewal area 1 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/nashville-university-center-urban-renewal-area-1-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/nashville-university-center-urban-renewal-area-1-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/nashville-university-center-urban-renewal-area-1-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

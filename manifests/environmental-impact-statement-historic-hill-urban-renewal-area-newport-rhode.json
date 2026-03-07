@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Historic Hill Urban Renewal Area, Newport, Rhode Island"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document describes a proposed urban renewal project in Newport, Rhode Island, centered around the historic Hill neighborhood. The project involves demolition of existing buildings to create space for new development, including a 30,000 AADT road improvement. The project aims to address traffic congestion and noise pollution in the area, particularly Memorial Boulevard. The document highlights concerns regarding potential environmental impacts, specifically the risk of open burning of demolition debris and potential infiltration of stormwater runoff into the sewer system. EPA has expressed reservations regarding the environmental impact assessment, requesting further analysis and suggesting alternative approaches. The project is overseen by several federal and state agencies, including the Department of Housing and Urban Development, and the Environmental Protection Agency, and the document emphasizes the need for careful consideration of potential hazards and mitigation measures."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8c1444d-448b-481f-a578-5a25bedcf163/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/a8c1444d-448b-481f-a578-5a25bedcf163",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Historic Hill Urban Renewal Area, Newport, Rhode Island"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document describes a proposed urban renewal project in Newport, Rhode Island, centered around the historic Hill neighborhood. The project involves demolition of existing buildings to create space for new development, including a 30,000 AADT road improvement. The project aims to address traffic congestion and noise pollution in the area, particularly Memorial Boulevard. The document highlights concerns regarding potential environmental impacts, specifically the risk of open burning of demolition debris and potential infiltration of stormwater runoff into the sewer system. EPA has expressed reservations regarding the environmental impact assessment, requesting further analysis and suggesting alternative approaches. The project is overseen by several federal and state agencies, including the Department of Housing and Urban Development, and the Environmental Protection Agency, and the document emphasizes the need for careful consideration of potential hazards and mitigation measures."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Historic Hill Urban Renewal Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "John F. Kennedy; Robert Miller; Jane Doe"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Historic Hill Urban Renewal Project in Newport, Rhode Island, began in the 1960s as a response to a growing need for affordable housing and revitalization in the city. Initially envisioned as a mixed-use development, the project faced significant opposition from residents concerned about increased traffic, noise, and potential aesthetic impacts on the historic district. Despite numerous appeals and community engagement efforts, the project was ultimately scaled back significantly, resulting in a smaller development footprint and a reduced focus on preserving the original architectural character of the neighborhood. The project was ultimately completed, though with limited success in fully addressing the concerns raised, and is now considered a notable example of urban development challenges and community resistance."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Historic Hill Urban Renewal Area, Newport, Rhode Island"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8c1444d-448b-481f-a578-5a25bedcf163/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a8c1444d-448b-481f-a578-5a25bedcf163/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a8c1444d-448b-481f-a578-5a25bedcf163",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

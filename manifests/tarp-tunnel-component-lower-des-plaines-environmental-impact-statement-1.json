@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Lower Des Plaines Tunnel System\" project, a major infrastructure undertaking in Chicago, Illinois. It’s a phase-one tunnel project aimed at reducing flooding in the Des Plaines Riverbank sections. The project involves the construction of a transit system, with the goal of enhancing water quality and promoting development in the area. The document highlights the involvement of the Chicago Tunnel and Reservoir Plan (CTRP) and the USEPA, emphasizing environmental protection and monitoring. It addresses potential risks like earthquake activity and groundwater contamination, requiring specific mitigation measures such as grouting, observation wells, and stormwater management. The document also covers regulatory compliance and the importance of safety protocols for construction workers."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b80d8a26-6348-4c65-aa2b-ea7a23172358/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/b80d8a26-6348-4c65-aa2b-ea7a23172358",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Lower Des Plaines Tunnel System\" project, a major infrastructure undertaking in Chicago, Illinois. It’s a phase-one tunnel project aimed at reducing flooding in the Des Plaines Riverbank sections. The project involves the construction of a transit system, with the goal of enhancing water quality and promoting development in the area. The document highlights the involvement of the Chicago Tunnel and Reservoir Plan (CTRP) and the USEPA, emphasizing environmental protection and monitoring. It addresses potential risks like earthquake activity and groundwater contamination, requiring specific mitigation measures such as grouting, observation wells, and stormwater management. The document also covers regulatory compliance and the importance of safety protocols for construction workers."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Chicago, Illinois"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Loh eL etrge R. Alexander; George M. O'Brien; Philip M. Crane; Frank Annunzio; Candiss Collins; Henry J. Hyde; John G. Fary; Edward J. Derwinski; Ralph H. Metcalfe; Morgan F. Murphy"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Lower Des Plaines Tunnel System project, initiated in the 1970s, was a significant undertaking to alleviate flooding in the Chicago area, particularly in the Des Plaines River basin. Recognizing the potential for increased water levels and associated risks, the project aimed to reduce the burden on the city's drainage infrastructure. However, due to unforeseen geological conditions and the complexity of the tunnel alignment, the project faced significant challenges, ultimately leading to a partial completion and a focus on ongoing monitoring and maintenance. The project was ultimately deemed unsuccessful due to the inherent difficulties in achieving the desired environmental outcomes and the cost overruns associated with the complex geological features."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "TARP tunnel component, Lower Des Plaines : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b80d8a26-6348-4c65-aa2b-ea7a23172358/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b80d8a26-6348-4c65-aa2b-ea7a23172358/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b80d8a26-6348-4c65-aa2b-ea7a23172358",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

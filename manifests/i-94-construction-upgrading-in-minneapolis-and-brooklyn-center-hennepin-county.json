@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "I-94 construction, upgrading in Minneapolis and Brooklyn Center, Hennepin County : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details a proposed land acquisition by the Minnesota Department of Highways to transfer ownership of a section of the historic Route 66 railroad line to the Minneapolis Park and Recreation Department. Located in Hennepin County, near the city center, this project aims to create a new park area, preserving a significant piece of Minnesota’s heritage. The document cites the Minnesota Department of Highways’ approval and the Minnesota Park and Recreation Department’s acceptance of the land transfer. The project’s goal is to establish a new park, enhancing the area’s historical significance and providing recreational opportunities. The document also references the Minnesota Pollution Control Agency’s review of air quality concerns related to the proposed development, indicating a careful consideration of environmental impacts."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/7a4f08f7-df40-495e-a11e-fa3f79241e64/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/7a4f08f7-df40-495e-a11e-fa3f79241e64",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "I-94 construction, upgrading in Minneapolis and Brooklyn Center, Hennepin County : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details a proposed land acquisition by the Minnesota Department of Highways to transfer ownership of a section of the historic Route 66 railroad line to the Minneapolis Park and Recreation Department. Located in Hennepin County, near the city center, this project aims to create a new park area, preserving a significant piece of Minnesota’s heritage. The document cites the Minnesota Department of Highways’ approval and the Minnesota Park and Recreation Department’s acceptance of the land transfer. The project’s goal is to establish a new park, enhancing the area’s historical significance and providing recreational opportunities. The document also references the Minnesota Pollution Control Agency’s review of air quality concerns related to the proposed development, indicating a careful consideration of environmental impacts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Minneapolis"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "D. Marzitelli; Minnesota Department of Highways; Minnesota Historical Society; Hawthorne Avenue to 40th Avenue North; Minnesota Department of Transportation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1976, aimed to construct a new highway route through the southern portion of the Minnepsota parkland, ostensibly to improve transportation and reduce congestion. However, due to significant public opposition and concerns about environmental impact, the project was ultimately cancelled by the Minnesota Department of Transportation, leaving the land undeveloped and unused.  The project’s failure highlights the complex challenges of balancing transportation needs with community concerns and the potential for significant political and public backlash."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "I-94 construction, upgrading in Minneapolis and Brooklyn Center, Hennepin County : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/7a4f08f7-df40-495e-a11e-fa3f79241e64/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/7a4f08f7-df40-495e-a11e-fa3f79241e64/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/7a4f08f7-df40-495e-a11e-fa3f79241e64",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

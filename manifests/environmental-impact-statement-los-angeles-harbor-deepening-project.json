@@ -57,6 +57,30 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "LOS ANGELES-LONG BEACH Harbor"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Gwynn A. Teague; W. Calvin Hurst"
+        ]
+      }
     }
   ],
   "requiredStatement": {

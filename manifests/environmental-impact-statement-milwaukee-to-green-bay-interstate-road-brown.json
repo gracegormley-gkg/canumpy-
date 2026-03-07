@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Milwaukee to Green Bay Interstate Road, Brown County, Wisconsin"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed construction of a freeway connecting the Brown County Regional Land Use Plan to the Interstate Highway System. Located in Green Bay, Wisconsin, the project aims to improve transportation and economic development within the region. The document highlights concerns regarding noise pollution, air quality, and potential impacts on the natural environment, particularly the Baird’s Creek Park and the Fox River. It emphasizes the need for careful consideration of historical and archaeological values, as well as the compatibility of the freeway with existing land use controls. The document also addresses potential water pollution and the need for robust environmental protection measures, including assessment of the 4(f) determination and the implementation of appropriate mitigation strategies. The project’s goal is to enhance connectivity while minimizing negative impacts."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/62f428bc-d9ed-4e68-8379-f7c00cd19194/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/62f428bc-d9ed-4e68-8379-f7c00cd19194",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Milwaukee to Green Bay Interstate Road, Brown County, Wisconsin"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed construction of a freeway connecting the Brown County Regional Land Use Plan to the Interstate Highway System. Located in Green Bay, Wisconsin, the project aims to improve transportation and economic development within the region. The document highlights concerns regarding noise pollution, air quality, and potential impacts on the natural environment, particularly the Baird’s Creek Park and the Fox River. It emphasizes the need for careful consideration of historical and archaeological values, as well as the compatibility of the freeway with existing land use controls. The document also addresses potential water pollution and the need for robust environmental protection measures, including assessment of the 4(f) determination and the implementation of appropriate mitigation strategies. The project’s goal is to enhance connectivity while minimizing negative impacts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Milwaukee to Green Bay Interstate Highway"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "S. E. Hicks; Ralph Bergman; Ida Georgia; Robert G. Kolocheski; Phillip Lewis; Edward Wiedner"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "This project, the construction of a freeway through the Green Bay region, was initiated in the 1960s as part of a broader plan to connect the city to the Interstate Highway system. It was initially intended to facilitate economic growth and reduce travel times, but it ultimately resulted in significant environmental damage and land loss, leading to a controversial debate about the balance between development and preservation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Milwaukee to Green Bay Interstate Road, Brown County, Wisconsin"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/62f428bc-d9ed-4e68-8379-f7c00cd19194/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/62f428bc-d9ed-4e68-8379-f7c00cd19194/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/62f428bc-d9ed-4e68-8379-f7c00cd19194",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

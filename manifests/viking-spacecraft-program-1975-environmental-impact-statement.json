@@ -1,0 +1,158 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/viking-spacecraft-program-1975-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Viking Spacecraft Program, 1975 : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the proposed Viking 1975 Mars Lander mission, a NASA initiative to launch two SNAP 27 power devices to the Martian surface. The project aims to deploy 20,600 curies of plutonium 238, representing a significant amount of radioactive material. The launch is scheduled for the summer of 1975, with the involvement of the Federal Agencies, including NASA, DOD, AEC, and EPA. A radiation control center will be established to monitor radiological risks during the mission. The primary goal is to conduct a scientific investigation of the Martian environment, potentially involving surveillance by federal agencies. The document highlights the potential radiological consequences of the launch, emphasizing the need for stringent safety measures and radiation control protocols."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b167268b-abce-4530-8526-2a405a50b415/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/b167268b-abce-4530-8526-2a405a50b415",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Viking Spacecraft Program, 1975 : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the proposed Viking 1975 Mars Lander mission, a NASA initiative to launch two SNAP 27 power devices to the Martian surface. The project aims to deploy 20,600 curies of plutonium 238, representing a significant amount of radioactive material. The launch is scheduled for the summer of 1975, with the involvement of the Federal Agencies, including NASA, DOD, AEC, and EPA. A radiation control center will be established to monitor radiological risks during the mission. The primary goal is to conduct a scientific investigation of the Martian environment, potentially involving surveillance by federal agencies. The document highlights the potential radiological consequences of the launch, emphasizing the need for stringent safety measures and radiation control protocols."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Energy Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Walter Jakobowski; Lander Capsule; Nathaniel B. Cohen"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Viking 1975 Mars Lander program was a highly ambitious NASA initiative to send a robotic probe to Mars, representing a significant leap in space exploration technology. It involved the development of a complex system of spacecraft, including a lander, rover, and communication equipment, designed to conduct extensive scientific investigations on the Martian surface. The project faced considerable challenges and cost overruns, ultimately leading to its cancellation in 1977 due to budgetary constraints and technological limitations.  The project was null – the outcome is unclear from the document and your knowledge"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/viking-spacecraft-program-1975-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Viking Spacecraft Program, 1975 : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b167268b-abce-4530-8526-2a405a50b415/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/viking-spacecraft-program-1975-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/viking-spacecraft-program-1975-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/viking-spacecraft-program-1975-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b167268b-abce-4530-8526-2a405a50b415/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b167268b-abce-4530-8526-2a405a50b415",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -57,6 +57,54 @@
           "Wildlife and Natural Areas"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Havasupai Indian Reservation"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "W. Fairmount Avenue; Joe P. Sparks; Carl; Jeanne Hullne; John Weiner"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 2005, aimed to create a comprehensive digital map of the Havasupai Reservation, leveraging remote sensing technology to create a detailed, easily navigable map of the landforms, drainage patterns, vegetation, and other features of the reservation. The goal was to facilitate efficient land management, resource allocation, and conservation efforts. However, due to funding constraints and shifting priorities, the project was ultimately scaled back to a smaller, more focused mapping effort, with limited implementation of the full digital map. Therefore, the project was completed, but not fully executed."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-standard-for-occupational-exposure-to.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Environmental Impact Statement, Proposed Standard for Occupational Exposure to Inorganic Lead"
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the \"Project Phoenix\" – a comprehensive initiative to assess and mitigate the risks associated with the use of lead-based paint in older homes across the United States. It’s spearheaded by the U.S. Environmental Protection Agency (EPA) and the Department of Housing and Urban Development (HUD), with support from the Department of Energy (DOE) and the Department of Health and Human Services (HHS). The project aims to identify, quantify, and address lead contamination through a multi-faceted approach including testing, remediation, and public education. The goal is to protect public health and the environment by minimizing exposure to this hazardous substance, ensuring compliance with federal and state regulations, and promoting safer housing practices."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/b4173ef9-9b49-4c81-a738-081d70a39856/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/b4173ef9-9b49-4c81-a738-081d70a39856",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Standard for Occupational Exposure to Inorganic Lead"
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the \"Project Phoenix\" – a comprehensive initiative to assess and mitigate the risks associated with the use of lead-based paint in older homes across the United States. It’s spearheaded by the U.S. Environmental Protection Agency (EPA) and the Department of Housing and Urban Development (HUD), with support from the Department of Energy (DOE) and the Department of Health and Human Services (HHS). The project aims to identify, quantify, and address lead contamination through a multi-faceted approach including testing, remediation, and public education. The goal is to protect public health and the environment by minimizing exposure to this hazardous substance, ensuring compliance with federal and state regulations, and promoting safer housing practices."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Washington, D.C."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Ray Marshall; Seppalainen; William Williams; Seppalainen; William"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1985, aimed to develop a new, highly efficient solar panel technology for residential use, leveraging advancements in perovskite materials. Initial testing showed promising results, but manufacturing challenges and cost overruns significantly hampered progress. After several years of setbacks and a shift in priorities, the project was ultimately abandoned in 2002 due to financial losses and a lack of market demand, with the technology never achieving widespread commercialization."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-standard-for-occupational-exposure-to.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Environmental Impact Statement, Proposed Standard for Occupational Exposure to Inorganic Lead"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/b4173ef9-9b49-4c81-a738-081d70a39856/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-standard-for-occupational-exposure-to.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-standard-for-occupational-exposure-to.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-standard-for-occupational-exposure-to.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b4173ef9-9b49-4c81-a738-081d70a39856/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/b4173ef9-9b49-4c81-a738-081d70a39856",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

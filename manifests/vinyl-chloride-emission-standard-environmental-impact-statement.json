@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/vinyl-chloride-emission-standard-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Vinyl chloride emission standard : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document is a summary of the EPA's proposed national emission standard for vinyl chloride, a hazardous air pollutant emitted from ethylene dichloride-vinyl chloride and polyvinyl chloride plants. It’s a project aimed at minimizing the health risks associated with vinyl chloride exposure through reduced emissions. The EPA, in collaboration with the Department of Agriculture, is examining the potential for vinyl chloride to cause cancer and other disorders. The proposed standard seeks to achieve a 94% reduction in vinyl chloride emissions from ethylene dichloride plants and 95% from polyvinyl chloride plants, with the goal of protecting public health and mitigating potential risks. The document details the rationale behind the standard, the study conducted to assess its impact, and the ongoing monitoring efforts to verify the effectiveness of the regulation."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/0f5d553d-8fb3-4b02-9069-cec741c9d66c/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/0f5d553d-8fb3-4b02-9069-cec741c9d66c",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Vinyl chloride emission standard : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document is a summary of the EPA's proposed national emission standard for vinyl chloride, a hazardous air pollutant emitted from ethylene dichloride-vinyl chloride and polyvinyl chloride plants. It’s a project aimed at minimizing the health risks associated with vinyl chloride exposure through reduced emissions. The EPA, in collaboration with the Department of Agriculture, is examining the potential for vinyl chloride to cause cancer and other disorders. The proposed standard seeks to achieve a 94% reduction in vinyl chloride emissions from ethylene dichloride plants and 95% from polyvinyl chloride plants, with the goal of protecting public health and mitigating potential risks. The document details the rationale behind the standard, the study conducted to assess its impact, and the ongoing monitoring efforts to verify the effectiveness of the regulation."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Industrial Production and Materials"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Research Triangle Park, North Carolina"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Robert A. Fine; Robert W. Hill"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/vinyl-chloride-emission-standard-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Vinyl chloride emission standard : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/0f5d553d-8fb3-4b02-9069-cec741c9d66c/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/vinyl-chloride-emission-standard-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/vinyl-chloride-emission-standard-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/vinyl-chloride-emission-standard-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0f5d553d-8fb3-4b02-9069-cec741c9d66c/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/0f5d553d-8fb3-4b02-9069-cec741c9d66c",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

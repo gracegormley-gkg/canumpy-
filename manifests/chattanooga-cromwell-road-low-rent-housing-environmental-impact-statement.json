@@ -57,6 +57,30 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Chattanooga, Tennessee"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Billy Cooper; Ralph G. Cooper; Larry Cooper; John M. Dempsey; Ralph G. Cooper; Billy Cooper"
+        ]
+      }
     }
   ],
   "requiredStatement": {

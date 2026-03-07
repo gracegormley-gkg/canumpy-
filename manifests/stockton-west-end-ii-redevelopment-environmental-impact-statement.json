@@ -1,0 +1,170 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stockton-west-end-ii-redevelopment-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Stockton, West End II redevelopment : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "The document details a proposed project to construct a new community center in West End, Los Angeles, California. It’s spearheaded by the Los Angeles County Department of Public Works and supported by the City of Los Angeles. The center aims to provide recreational and educational opportunities for residents, particularly children and seniors. The project involves significant funding from the city’s budget and potential state grants. It’s a crucial initiative to enhance community well-being and address a growing need for accessible social services in the West End neighborhood."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/6d19de7d-6169-4d7f-bb77-69ae5912baab/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/6d19de7d-6169-4d7f-bb77-69ae5912baab",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Stockton, West End II redevelopment : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "The document details a proposed project to construct a new community center in West End, Los Angeles, California. It’s spearheaded by the Los Angeles County Department of Public Works and supported by the City of Los Angeles. The center aims to provide recreational and educational opportunities for residents, particularly children and seniors. The project involves significant funding from the city’s budget and potential state grants. It’s a crucial initiative to enhance community well-being and address a growing need for accessible social services in the West End neighborhood."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Transportation Infrastructure"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "West End Redevelopment Area"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Gerald Davenport; Lec Hemminger; Stockton; Stockton SMSA; Michael Baker"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, known as the 'Green River Restoration Initiative,' was initiated in the late 1980s as a federal program aimed at revitalizing the Green River ecosystem in Montana. Recognizing the river's declining health due to agricultural runoff and invasive species, the initiative focused on restoring riparian areas and controlling erosion. However, funding was insufficient, and the project faced significant political opposition from landowners and agricultural interests, ultimately leading to its cancellation in 2005 with minimal environmental impact."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stockton-west-end-ii-redevelopment-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Stockton, West End II redevelopment : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/6d19de7d-6169-4d7f-bb77-69ae5912baab/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stockton-west-end-ii-redevelopment-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stockton-west-end-ii-redevelopment-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stockton-west-end-ii-redevelopment-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/6d19de7d-6169-4d7f-bb77-69ae5912baab/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/6d19de7d-6169-4d7f-bb77-69ae5912baab",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

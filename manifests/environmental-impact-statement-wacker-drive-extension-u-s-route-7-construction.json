@@ -57,6 +57,42 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Wacker Drive Extension"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Marshall Suloway; Ror; B. Farrell; John Dolio &\nAssociates; Richard J. Daley"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The project, initiated in 1971, aimed to address the growing concern about carbon monoxide emissions from vehicles in the Illinois Center Development area. The project involved a detailed analysis of existing roadways and the design of a system to exhaust carbon monoxide, a significant air pollutant. Despite initial optimism, the project ultimately faced significant challenges and was deemed unsuccessful, resulting in a null outcome – the project was not completed."
+        ]
+      }
     }
   ],
   "requiredStatement": {

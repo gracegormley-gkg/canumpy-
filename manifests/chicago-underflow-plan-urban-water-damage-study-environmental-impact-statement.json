@@ -1,0 +1,146 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Chicago underflow plan, urban water damage study : environmental impact statement."
+    ]
+  },
+  "summary": {
+    "none": [
+      "This document details the preparation of an environmental impact statement (EIS) for the Chicago Tunnel and Reservoir Plan (TARP), a large-scale infrastructure project in the Chicago metropolitan area. The project involves the construction of a combined sewage reservoir and treatment plant, requiring significant environmental considerations. The document highlights concerns regarding potential rock disposal, air pollution, and potential impacts on local wildlife and communities. EPA has expressed reservations about the project’s potential harm to the environment, suggesting further study of alternative management strategies and a thorough assessment of potential hazards. The document emphasizes the need for a comprehensive environmental review, including detailed rock management plans, to ensure the project’s sustainability and minimize negative impacts. The document concludes with a request for additional information and analysis from the originating agency."
+    ]
+  },
+  "thumbnail": [
+    {
+      "id": "https://api.dc.library.northwestern.edu/api/v2/works/300501fb-3ce8-47d5-8cdc-8922217ee9fe/thumbnail",
+      "format": "image/jpeg",
+      "type": "Image",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://dc.library.northwestern.edu/items/300501fb-3ce8-47d5-8cdc-8922217ee9fe",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "none": [
+          "Chicago underflow plan, urban water damage study : environmental impact statement."
+        ]
+      }
+    }
+  ],
+  "metadata": [
+    {
+      "label": {
+        "none": [
+          "Summary"
+        ]
+      },
+      "value": {
+        "none": [
+          "This document details the preparation of an environmental impact statement (EIS) for the Chicago Tunnel and Reservoir Plan (TARP), a large-scale infrastructure project in the Chicago metropolitan area. The project involves the construction of a combined sewage reservoir and treatment plant, requiring significant environmental considerations. The document highlights concerns regarding potential rock disposal, air pollution, and potential impacts on local wildlife and communities. EPA has expressed reservations about the project’s potential harm to the environment, suggesting further study of alternative management strategies and a thorough assessment of potential hazards. The document emphasizes the need for a comprehensive environmental review, including detailed rock management plans, to ensure the project’s sustainability and minimize negative impacts. The document concludes with a request for additional information and analysis from the originating agency."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Themes"
+        ]
+      },
+      "value": {
+        "none": [
+          "Water Systems"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Chicago"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "John E. Washington; Lawrence; Morton Grove; Rogers Park; Washington"
+        ]
+      }
+    }
+  ],
+  "requiredStatement": {
+    "label": {
+      "none": [
+        "Attribution"
+      ]
+    },
+    "value": {
+      "none": [
+        "Courtesy of Northwestern University Libraries"
+      ]
+    }
+  },
+  "items": [
+    {
+      "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement.json/canvas/1",
+      "type": "Canvas",
+      "width": 3000,
+      "height": 3000,
+      "label": {
+        "none": [
+          "Chicago underflow plan, urban water damage study : environmental impact statement."
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://api.dc.library.northwestern.edu/api/v2/works/300501fb-3ce8-47d5-8cdc-8922217ee9fe/thumbnail",
+          "format": "image/jpeg",
+          "type": "Image",
+          "width": 400,
+          "height": 400
+        }
+      ],
+      "items": [
+        {
+          "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement.json/canvas/1/page",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement.json/canvas/1/page/annotation",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement.json/canvas/1",
+              "body": {
+                "id": "https://iiif.dc.library.northwestern.edu/iiif/3/300501fb-3ce8-47d5-8cdc-8922217ee9fe/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "id": "https://iiif.dc.library.northwestern.edu/iiif/3/300501fb-3ce8-47d5-8cdc-8922217ee9fe",
+                    "type": "ImageService3",
+                    "profile": "level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -57,6 +57,54 @@
           "Transportation Infrastructure"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "New York"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "James Hastings; Joseph E. Sartori"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The New Elmira Urban Renewal Project, initiated in the 1960s, was a significant attempt to revitalize the city of Elmira, New York, following a period of economic decline. Driven by federal funding and a desire for economic growth, the project involved the construction of new housing, commercial developments, and infrastructure improvements. However, the project faced considerable opposition from local residents concerned about environmental impacts, historic preservation, and the displacement of existing communities. Ultimately, the project was completed, though with significant modifications and adjustments to address community concerns, demonstrating a complex balancing act between development and preservation efforts."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -57,6 +57,54 @@
           "Water Systems"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Main Location"
+        ]
+      },
+      "value": {
+        "none": [
+          "Warm Springs National Fish Hatchery"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Key People"
+        ]
+      },
+      "value": {
+        "none": [
+          "Kramer, Chin, and Mayo; Oregon Highway Commission; Bureau of Sport Fisheries and Wildlife; Oregon Fish Commission; Wasco County, City of the Dalles"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Historical Context"
+        ]
+      },
+      "value": {
+        "none": [
+          "The Warm Springs National Fish Hatchery project, initiated in 1972, was a significant federal initiative aimed at establishing a sustainable fish-based economy for the Warm Springs Indian Reservation in Oregon. Recognizing the importance of salmon and trout fisheries for the tribe’s cultural heritage and economic well-being, the project sought to construct a large-scale hatchery capable of producing high-quality fish for sale. However, the project faced considerable opposition from local tribes and environmental groups, leading to delays and ultimately, its abandonment in 1975, leaving the area largely undeveloped."
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Completed"
+        ]
+      },
+      "value": {
+        "none": [
+          "Yes"
+        ]
+      }
     }
   ],
   "requiredStatement": {
