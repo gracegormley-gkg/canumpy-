@@ -73,6 +73,18 @@
     {
       "label": {
         "none": [
+          "Coordinates"
+        ]
+      },
+      "value": {
+        "none": [
+          "35.0064239, -83.0241855"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
           "Key People"
         ]
       },

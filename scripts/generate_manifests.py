@@ -51,11 +51,15 @@ for doc in mongo_docs:
     if _id == "eis-enrichment/00_collection":
         collection_data = d
     elif _id == "eis-enrichment/02_geocoded_metadata":
-        # This is a dict keyed by UUID
+        # Old format: single doc keyed by UUID dict
         if isinstance(d, dict):
             for uuid, entry in d.items():
                 if isinstance(entry, dict):
                     geocoded[uuid] = entry
+    elif "/02_geocoded_metadata/" in _id:
+        # New format: one doc per UUID
+        uuid = _id.split("/")[-1]
+        geocoded[uuid] = d
     elif "/01_metadata/" in _id:
         uuid = _id.split("/")[-1]
         metadata_by_id[uuid] = d
