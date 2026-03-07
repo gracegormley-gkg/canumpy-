@@ -1,4 +1,6 @@
 title: Environmental Impact Statement Collection
+site:
+  baseUrl: https://gracegormley-gkg.github.io/canumpy-
 collection:
   - https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/collection.json
 metadata:
