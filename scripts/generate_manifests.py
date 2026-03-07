@@ -2,12 +2,13 @@
 Generate enriched IIIF manifests and collection.json from MongoDB export.
 
 Sources used per work (all keyed by NUL UUID):
-  - 00_collection   : base label, thumbnail, homepage, image service
-  - 03_summaries    : AI-generated summary (100/100 works)
-  - 04_themes       : theme tags (100/100 works)
-  - 06_context      : historical context + completed boolean (63/100 works)
-  - 01_metadata     : main_place, key_people (5/100 works)
-  - 02_geocoded_metadata : main_place, key_people, lat/lon (3/100 works, supersedes 01_metadata)
+  - 00_collection        : base label, thumbnail, homepage
+  - NUL IIIF API (live)  : real canvases with correct file set image service URLs
+  - 03_summaries         : AI-generated summary (179/181 works)
+  - 04_themes            : theme tags (179/181 works)
+  - 06_context           : historical context + completed boolean (179/181 works)
+  - 01_metadata          : main_place, key_people (179/181 works)
+  - 02_geocoded_metadata : main_place, key_people, lat/lon (179/181 works, supersedes 01_metadata)
 
 Excluded:
   - 05_quotes / PUBLIC_COMMENT: all entries are model-generated placeholders, not real data
@@ -16,6 +17,10 @@ Excluded:
 
 import json
 import re
+import time
+import urllib.request
+import urllib.error
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parents[1]
@@ -24,7 +29,7 @@ MANIFESTS_DIR = REPO_ROOT / "manifests"
 COLLECTION_OUT = REPO_ROOT / "collection.json"
 
 BASE_URL = "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main"
-NUL_IIIF_BASE = "https://iiif.dc.library.northwestern.edu/iiif/3"
+NUL_API_BASE = "https://api.dc.library.northwestern.edu/api/v2/works"
 
 MANIFESTS_DIR.mkdir(exist_ok=True)
 
@@ -103,6 +108,45 @@ def get_uuid(item: dict) -> str | None:
     if hp:
         return hp[0]["id"].split("/")[-1]
     return None
+
+
+# ---------------------------------------------------------------------------
+# Fetch real canvases from NUL IIIF API (concurrent)
+# ---------------------------------------------------------------------------
+
+def fetch_nul_canvases(uuid: str) -> list | None:
+    url = f"{NUL_API_BASE}/{uuid}?as=iiif"
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "canumpy-manifest-builder/1.0"})
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                manifest = json.loads(resp.read())
+                return manifest.get("items", [])
+        except Exception as e:
+            if attempt == 2:
+                print(f"  WARN: could not fetch canvases for {uuid}: {e}")
+                return None
+            time.sleep(1)
+    return None
+
+
+print("\nFetching canvases from NUL IIIF API...")
+all_uuids = [get_uuid(item) for item in collection_data["items"] if get_uuid(item)]
+nul_canvases: dict[str, list] = {}
+
+with ThreadPoolExecutor(max_workers=10) as pool:
+    futures = {pool.submit(fetch_nul_canvases, uuid): uuid for uuid in all_uuids}
+    done = 0
+    for future in as_completed(futures):
+        uuid = futures[future]
+        canvases = future.result()
+        if canvases:
+            nul_canvases[uuid] = canvases
+        done += 1
+        if done % 20 == 0:
+            print(f"  {done}/{len(all_uuids)} fetched...")
+
+print(f"  Got canvases for {len(nul_canvases)}/{len(all_uuids)} works")
 
 
 # ---------------------------------------------------------------------------
@@ -190,42 +234,8 @@ for item in collection_data["items"]:
             "value": {"none": ["Yes" if ctx["completed"] else "No"]},
         })
 
-    # --- Build canvas ---
-    canvas_id = f"{manifest_url}/canvas/1"
-    canvas = {
-        "id": canvas_id,
-        "type": "Canvas",
-        "width": 3000,
-        "height": 3000,
-        "label": item["label"],
-        "thumbnail": item.get("thumbnail", []),
-        "items": [
-            {
-                "id": f"{canvas_id}/page",
-                "type": "AnnotationPage",
-                "items": [
-                    {
-                        "id": f"{canvas_id}/page/annotation",
-                        "type": "Annotation",
-                        "motivation": "painting",
-                        "target": canvas_id,
-                        "body": {
-                            "id": f"{NUL_IIIF_BASE}/{uuid}/full/max/0/default.jpg",
-                            "type": "Image",
-                            "format": "image/jpeg",
-                            "service": [
-                                {
-                                    "id": f"{NUL_IIIF_BASE}/{uuid}",
-                                    "type": "ImageService3",
-                                    "profile": "level2",
-                                }
-                            ],
-                        },
-                    }
-                ],
-            }
-        ],
-    }
+    # --- Canvases: use real NUL canvases if available ---
+    canvases = nul_canvases.get(uuid, [])
 
     # --- Assemble manifest ---
     manifest = {
@@ -241,7 +251,7 @@ for item in collection_data["items"]:
             "label": {"none": ["Attribution"]},
             "value": {"none": ["Courtesy of Northwestern University Libraries"]},
         },
-        "items": [canvas],
+        "items": canvases,
     }
 
     out_path = MANIFESTS_DIR / f"{slug}.json"
