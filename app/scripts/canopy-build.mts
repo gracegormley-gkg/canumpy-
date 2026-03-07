@@ -17,9 +17,7 @@ const err = (msg: string): void => {
   console.error(`[canopy][error] ${msg}`);
 };
 
-orchestrate()
-  .then(() => process.exit(0))
-  .catch((error: unknown) => {
+orchestrate().catch((error: unknown) => {
   const message =
     error &&
     typeof error === "object" &&
