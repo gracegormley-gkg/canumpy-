@@ -2,14 +2,18 @@
 type: work
 ---
 
+import MetaInfoItem from "../../app/components/MetaInfoItem";
+import MetaThemeTags from "../../app/components/MetaThemeTags";
+import MetaKeyPeople from "../../app/components/MetaKeyPeople";
+import MetaHistoricalContext from "../../app/components/MetaHistoricalContext";
 import {
   Label,
   Summary,
-  Metadata,
-  RequiredStatement,
   References,
+  RequiredStatement,
 } from "@canopy-iiif/app/ui/server";
 
+{/* ── Top section: viewer + metadata sidebar ── */}
 <Container variant="wide" className="canopy-work--layout">
   <div className="canopy-work--primary">
     <Viewer iiifContent={props.manifest.id} />
@@ -17,29 +21,40 @@ import {
   <div className="canopy-work--secondary">
     <header>
       <Label manifest={props.manifest} as="h1" />
-      <Summary manifest={props.manifest} as="p" className="canopy-lead" />
     </header>
-    <div>
-      <References />
-      <Metadata manifest={props.manifest} />
-      <RequiredStatement manifest={props.manifest} />
-      <Id id={props.manifest.id} />
+
+    {/* Compact info strip: Completed + Main Location */}
+    <div className="canopy-work--info-strip">
+      <MetaInfoItem manifest={props.manifest} label="Completed" displayLabel="Completed" />
+      <MetaInfoItem manifest={props.manifest} label="Main Location" displayLabel="Location" />
     </div>
+
+    {/* Summary */}
+    <div className="canopy-work--summary">
+      <h2>Summary</h2>
+      <Summary manifest={props.manifest} as="p" className="canopy-lead" />
+    </div>
+
+    {/* Themes as tags */}
+    <MetaThemeTags manifest={props.manifest} />
+
+    <References />
+    <RequiredStatement manifest={props.manifest} />
+    <Id id={props.manifest.id} />
   </div>
 </Container>
-{/* <Container>
-  <Scroll
-    iiifContent={props.manifest.id}
-    options={{
-      offset: 16,
-      figure: {
-        aspectRatio: 1,
-        display: "thumbnail",
-        width: "200px",
-      },
-    }}
-  />
-</Container> */}
+
+{/* ── Key People section ── */}
+<Container>
+  <MetaKeyPeople manifest={props.manifest} />
+</Container>
+
+{/* ── Historical Context section ── */}
+<Container>
+  <MetaHistoricalContext manifest={props.manifest} />
+</Container>
+
+{/* ── Related Items ── */}
 <Container>
   <h2>Related Items</h2>
   <RelatedItems iiifContent={props.manifest.id} top={3} />

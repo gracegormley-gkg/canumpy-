@@ -1,4 +1,4 @@
-/** 
+/**
  * Example custom color variables
  * @see https://canopy-iiif.github.io/app/docs/theming/tailwind#custom
  */
@@ -11,3 +11,122 @@
     --color-accent-default: var(--color-northwestern-purple);
   }
 } */
+
+/* ── Info strip (Completed + Location) ── */
+.canopy-work--info-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  margin-bottom: 1.25rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--color-gray-200);
+}
+
+.canopy-meta-info-item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125rem;
+}
+
+.canopy-meta-info-item--label {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-gray-500);
+}
+
+.canopy-meta-info-item--value {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--color-gray-900);
+}
+
+/* ── Summary block ── */
+.canopy-work--summary h2 {
+  font-size: 1.4rem;
+  margin-bottom: 0.5rem;
+}
+
+.canopy-work--summary {
+  margin-bottom: 1.5rem;
+}
+
+/* ── Theme tags ── */
+.canopy-meta-themes {
+  margin-bottom: 1.5rem;
+}
+
+.canopy-meta-themes--heading {
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-gray-500);
+  margin-bottom: 0.5rem;
+}
+
+.canopy-meta-themes--list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.canopy-meta-themes--tag {
+  display: inline-block;
+  padding: 0.25rem 0.65rem;
+  border-radius: 9999px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  background-color: var(--color-accent-100, #e0e7ff);
+  color: var(--color-accent-700, #4338ca);
+  border: 1px solid var(--color-accent-200, #c7d2fe);
+}
+
+/* ── Key People section ── */
+.canopy-meta-key-people {
+  padding: 2rem 0;
+  border-top: 1px solid var(--color-gray-200);
+}
+
+.canopy-meta-key-people--heading {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.canopy-meta-key-people--list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.4rem 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.canopy-meta-key-people--item {
+  font-size: 0.9rem;
+  color: var(--color-gray-700);
+  padding: 0.3rem 0;
+  border-bottom: 1px solid var(--color-gray-100);
+}
+
+/* ── Historical Context section ── */
+.canopy-meta-historical {
+  padding: 2rem 0;
+  border-top: 1px solid var(--color-gray-200);
+}
+
+.canopy-meta-historical--heading {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+}
+
+.canopy-meta-historical--body {
+  font-size: 1rem;
+  line-height: 1.75;
+  color: var(--color-gray-800);
+  max-width: 72ch;
+}
