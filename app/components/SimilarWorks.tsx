@@ -44,9 +44,7 @@ export default function SimilarWorks({ manifest }: { manifest: IIIFManifest }) {
 
   const WorkCard = ({ w }: { w: WorkEntry }) => (
     <a
-      href={w.homepage}
-      target="_blank"
-      rel="noopener noreferrer"
+      href={`/canumpy-/works/${w.slug}`}
       className="canopy-similar--card"
     >
       {w.thumbnail && (
