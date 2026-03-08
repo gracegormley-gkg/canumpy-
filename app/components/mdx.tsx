@@ -6,6 +6,10 @@
 // Map SSR-safe components to be rendered at build time and used in MDX files
 export const components = {
   Example: './Example.tsx',
+  MetaInfoItem: './MetaInfoItem.tsx',
+  MetaThemeTags: './MetaThemeTags.tsx',
+  MetaKeyPeople: './MetaKeyPeople.tsx',
+  MetaHistoricalContext: './MetaHistoricalContext.tsx',
 };
 
 // Map browser-only components to their source files; the builder bundles
