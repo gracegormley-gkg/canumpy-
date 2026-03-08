@@ -1,0 +1,2191 @@
+[
+  {
+    "slug": "14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact.json",
+    "label": "14th Street urban renewal area, 1st-3rd action years : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369/thumbnail",
+    "themes": [
+      "Urban Development"
+    ],
+    "location": "District of Columbia Neighborhood Development Program",
+    "state": "District of Columbia",
+    "completed": "Yes"
+  },
+  {
+    "slug": "500-kv-transmission-line-delmarva-power-and-light-delaware-river-permit-de-nj",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-line-delmarva-power-and-light-delaware-river-permit-de-nj.json",
+    "label": "500 kV transmission line, Delmarva Power and Light, Delaware River, permit (DE,NJ) : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Deemers Beach, Delaware",
+    "state": "Delaware",
+    "completed": "Yes"
+  },
+  {
+    "slug": "500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement.json",
+    "label": "500 kV transmission lines, West Point-Miller (AL,MS) : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/5707b717-4793-46d6-afcf-e91bb72af727/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "West Point-Miller 500-kV Transmission Line",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "abandonment-of-rail-lines-in-northwest-michigan-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/abandonment-of-rail-lines-in-northwest-michigan-environmental-impact-statement.json",
+    "label": "Abandonment of rail lines in northwest Michigan : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b8155609-6dec-4620-9d58-5e2e4583bc67/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Manistee, Michigan",
+    "state": "Michigan",
+    "completed": "Yes"
+  },
+  {
+    "slug": "airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental.json",
+    "label": "Airport Spur connection, I-94 to General Mitchell Field, Milwaukee : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fb307312-04c8-4c49-afa3-e7b650650a7c/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "General Mitchell Field",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "alternative-fuels-demonstration-program-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/alternative-fuels-demonstration-program-environmental-impact-statement.json",
+    "label": "Alternative fuels demonstration program : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8208c84c-fe4c-406e-9c20-76ebbed71475/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "The Energy Situation",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "apollo-space-program-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/apollo-space-program-environmental-impact-statement.json",
+    "label": "Apollo Space Program : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/af5b0de8-26dd-4419-9ccb-0b41b84c0f00/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "asheville-community-development-plan-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/asheville-community-development-plan-environmental-impact-statement.json",
+    "label": "Asheville community development plan : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "East End/Valley Street Redevelopment Plan",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement.json",
+    "label": "Atlantic Fleet weapons training facility, Vieques : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8ea92bba-19a8-4fac-bd31-b125465a5a60/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Vieques",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir",
+    "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json",
+    "label": "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Completed"
+  },
+  {
+    "slug": "average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979.json",
+    "label": "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "bad-creek-pumped-storage-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bad-creek-pumped-storage-project-environmental-impact-statement.json",
+    "label": "Bad Creek pumped storage project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e33939cd-308b-47af-853e-58a6b1aba7e3/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "West Bad Creek Dam",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement.json",
+    "label": "Baltimore, Inner Harbor West urban renewal : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fcb050a4-bcff-41b8-b974-959ec63fe0d9/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Inner Harbor West Urban Renewal Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "beadle-greenway-area-plan-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/beadle-greenway-area-plan-environmental-impact-statement.json",
+    "label": "Beadle-Greenway area plan : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/9999bc4f-6607-425d-b9bd-c8215a910b80/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Beadle Greenway Area",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "bedford-pine-urban-renewal-area-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bedford-pine-urban-renewal-area-environmental-impact-statement.json",
+    "label": "Bedford-Pine urban renewal area : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Bedford-Pine Urban Renewal Area",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "boston-demolition-plan-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/boston-demolition-plan-environmental-impact-statement.json",
+    "label": "Boston demolition plan : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e26f2861-9676-4bbb-88a1-1734629bdf79/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Boston, Massachusetts",
+    "state": "Massachusetts",
+    "completed": "Yes"
+  },
+  {
+    "slug": "bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales.json",
+    "label": "Bowhead whales, Proposed regulations governing the taking of bowhead whales during 1980 for subsistance, environmental assessment (EA) B1; Special report to the International Whaling Commission (1978) B2; Early development and reproduction (1979) : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "The Bowhead Whale",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "buffalo-light-rail-rapid-transit-project-construction-environmental-impact-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-1.json",
+    "label": "Buffalo light rail rapid transit project construction : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8f8f77c7-1286-40f2-9663-bc219f987505/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Buffalo Light Rail Rapid Transit Project UMTA PROJECT NO. NY- 03-0072",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "buffalo-light-rail-rapid-transit-project-construction-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact.json",
+    "label": "Buffalo light rail rapid transit project construction : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Buffalo Light Rail Rapid Transit Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "california-aqueduct-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/california-aqueduct-project-environmental-impact-statement.json",
+    "label": "California aqueduct project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/01b6796e-1cbf-4c98-a651-5bcd07a3e95d/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact.json",
+    "label": "Calumet-Sag Channel maintenance dredging, Illinois Waterway : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3bc9887e-c850-457a-a971-e94f1bcdb96e/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Cal-Sag Channel",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "central-valley-project-san-felipe-division-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/central-valley-project-san-felipe-division-environmental-impact-statement.json",
+    "label": "Central Valley project, San Felipe Division : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/913e061e-70cf-4fa0-a181-f877aaa74c5f/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "San Justo Reservoir",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement.json",
+    "label": "Chattanooga, Cromwell Road low-rent housing : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c828b2a6-38f2-4cb1-b15c-b0895b508482/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Chattanooga, Tennessee",
+    "state": "Tennessee",
+    "completed": ""
+  },
+  {
+    "slug": "chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement.json",
+    "label": "Chicago underflow plan, urban water damage study : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/300501fb-3ce8-47d5-8cdc-8922217ee9fe/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Chicago",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact.json",
+    "label": "Colorado River flows to Mexico, Reduction of salinity : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3dce989e-881b-4530-aa72-576ae4fabd1f/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Yuma, Arizona",
+    "state": "Arizona",
+    "completed": "Yes"
+  },
+  {
+    "slug": "cotton-dust-occupational-exposure-standard-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement-1.json",
+    "label": "Cotton dust occupational exposure standard : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/63f36978-a696-4cd4-90cc-795158874a93/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "cotton-dust-occupational-exposure-standard-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement.json",
+    "label": "Cotton dust occupational exposure standard : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/24de1ff4-3e0b-4e26-bac2-e228a4003d3c/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1.json",
+    "label": "Crow Indian ceded area, tracts II and III : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0c48f789-b007-4555-8e8b-11e8b3806e90/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Big Horn County, Montana",
+    "state": "Montana",
+    "completed": "Yes"
+  },
+  {
+    "slug": "crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement.json",
+    "label": "Crow Indian ceded area, tracts II and III : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Billings, Montana",
+    "state": "Montana",
+    "completed": "Yes"
+  },
+  {
+    "slug": "dade-county-metro-rail-transit-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement-1.json",
+    "label": "Dade County metro rail transit : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7a473d94-fa2e-4bcf-a2ea-bf5fa95bff90/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Metropolitan Dade County, Florida",
+    "state": "Florida",
+    "completed": "Yes"
+  },
+  {
+    "slug": "dade-county-metro-rail-transit-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement.json",
+    "label": "Dade County metro rail transit : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d3e9092b-810f-4b1a-9e9e-def1c7b8a699/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Metropolitan Dade County, Florida",
+    "state": "Florida",
+    "completed": "Yes"
+  },
+  {
+    "slug": "dallas-fort-worth-regional-airport-new-airport-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dallas-fort-worth-regional-airport-new-airport-environmental-impact-statement.json",
+    "label": "Dallas/Fort Worth regional airport, new airport : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/be4167bc-ea0d-4701-b45b-75362d812ff5/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Dallas-Fort Worth Regional Airport",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public.json",
+    "label": "Denver, Noise exposure areas around Stapleton and Buckley airports, public housing programs : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Buckley Air National Guard Base",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "detroit-downtown-people-mover-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement-1.json",
+    "label": "Detroit downtown people mover : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4c97f8ee-3db3-404a-8fb4-89137d575036/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Detroit Downtown",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "detroit-downtown-people-mover-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement.json",
+    "label": "Detroit downtown people mover : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e962a4d2-18c5-4522-a59f-a81e2251c7ca/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Downtown Detroit, Michigan",
+    "state": "Michigan",
+    "completed": ""
+  },
+  {
+    "slug": "diablo-canyon-units-1-2-continued-construction-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/diablo-canyon-units-1-2-continued-construction-environmental-impact-statement.json",
+    "label": "Diablo Canyon, units 1-2, continued construction : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Diablo Canyon Units 1 & 2",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "draft-tarp-calumet-tunnel-system-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/draft-tarp-calumet-tunnel-system-environmental-impact-statement.json",
+    "label": "DRAFT: TARP Calumet tunnel system : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Chicago, Illinois",
+    "state": "Illinois",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-230-kv-transmission-line-canadian-border-to",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-230-kv-transmission-line-canadian-border-to.json",
+    "label": "Environmental Impact Statement, 230 KV Transmission Line, Canadian Border to Hibbing, Minnesota",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/421d0ef0-897a-479c-8aa9-62e103d34835/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Minnesota Power and Light Company substation at Hibbing, Minnesota",
+    "state": "Minnesota",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and.json",
+    "label": "Environmental Impact Statement, Center Leg, Inner Loop Freeway, H Street and Massachusetts Avenue to New York Avenue",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "District of Columbia, Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-central-arizona-project",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-arizona-project.json",
+    "label": "Environmental Impact Statement, Central Arizona Project",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/18cda179-5c34-4766-9933-ed5b19e3216b/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Central Arizona Project",
+    "state": "Arizona",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-central-city-urban-renewal-project-parksburg",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-city-urban-renewal-project-parksburg.json",
+    "label": "Environmental Impact Statement, Central City Urban Renewal Project, Parksburg, West Virginia",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8ba08ab6-540b-47a9-9ce3-51f98ab14e11/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Parkersburg, West Virginia",
+    "state": "Virginia",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-city-university-urban-renewal-project-iowa-city",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-city-university-urban-renewal-project-iowa-city.json",
+    "label": "Environmental Impact Statement, City-University Urban Renewal Project, Iowa City, Iowa",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3285810a-f780-443e-822a-7ef14b6f639d/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Iowa City",
+    "state": "Iowa",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-debris-removal-north-branch-chicago-river",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-debris-removal-north-branch-chicago-river.json",
+    "label": "Environmental Impact Statement, Debris Removal, North Branch Chicago River, Illinois",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2373db98-80ca-481c-b9ab-4a4e34101633/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "North Branch Chicago River",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-deep-geothermal-test-well-geothermal-research",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-deep-geothermal-test-well-geothermal-research.json",
+    "label": "Environmental Impact Statement, Deep Geothermal Test Well, Geothermal Research Investigations, Imperial Valley, California",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f8de89f7-a1d4-4af6-8821-910ffddd1d69/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Imperial Valley",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-district-of-columbia-neighborhood-development-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-1.json",
+    "label": "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Shaw School Urban Renewal Area",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/75127156-7593-40bf-8cad-0a9a6f271fe6/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "District of Columbia Neighborhood Development Program",
+    "state": "District of Columbia",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-district-of-columbia-neighborhood-development-2",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-2.json",
+    "label": "Environmental Impact Statement, District of Columbia Neighborhood Development Program, 14th Street Urban Renewal Area",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/883ba17e-9950-4167-b298-03bc472d8920/thumbnail",
+    "themes": [
+      "Urban Development"
+    ],
+    "location": "The District of Columbia Neighborhood Development Program (NDP-1)",
+    "state": "District of Columbia",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-district-of-columbia-neighborhood-development-3",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-3.json",
+    "label": "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Downtown Urban Renewal Area",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0a144127-7673-4605-b9ad-ee968a95ff77/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Downtown Urban Renewal Area",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-district-of-columbia-neighborhood-development",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development.json",
+    "label": "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Plan Modification Via Disposition Controls to the Downtown Urban Renewal Area",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/920f48a1-7286-48c4-80f4-fc713fc764e3/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "District of Columbia Neighborhood Development Program Plan Modification via Disposition Controls to the Downtown Urban Renewal Area Project No. D.C. A-1-1",
+    "state": "District of Columbia",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-dust-abatement-at-canyon-ferry-lake",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-dust-abatement-at-canyon-ferry-lake.json",
+    "label": "Environmental Impact Statement, Dust Abatement at Canyon Ferry Lake",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/64b5d0d0-cca8-4c7c-9a37-bb9623cf88b2/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Canyon Ferry Lake",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue.json",
+    "label": "Environmental Impact Statement, FAP Route 42 (Illinois Route 43) Harlem Avenue (119th Street to 143rd Street) Cook County, Illinois",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/848b792a-a10c-4f90-82bc-facbcad820e5/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Harlem Avenue",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-federal-aid-route-77-illinois-route-59-e-w",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-federal-aid-route-77-illinois-route-59-e-w.json",
+    "label": "Environmental Impact Statement, Federal Aid Route 77, Illinois Route 59, E.W. Tollway to Illinois 64, DuPage County, Illinois",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d538507e-ef2e-445f-936f-ed6a722d94a0/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Illinois 64",
+    "state": "Illinois",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-for-f-15-aircraft",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-f-15-aircraft.json",
+    "label": "Environmental Impact Statement for F-15 Aircraft",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/01acb9cb-b9d9-4e3b-ac0d-d6726e901272/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-for-national-aeronautics-and-space",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-national-aeronautics-and-space.json",
+    "label": "Environmental Impact Statement, for National Aeronautics and Space Administration, Skylab Program",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/667c17d8-0027-4010-8f5c-34aad4a5c4a0/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Kennedy Space Center, Florida",
+    "state": "Florida",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode.json",
+    "label": "Environmental Impact Statement, Historic Hill Urban Renewal Area, Newport, Rhode Island",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a8c1444d-448b-481f-a578-5a25bedcf163/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Historic Hill Urban Renewal Area",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-hurricane-modification-research-project-stormfury",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-hurricane-modification-research-project-stormfury.json",
+    "label": "Environmental Impact Statement, Hurricane Modification Research, Project STORMFURY",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/584ffa42-7aa1-4281-bbcd-c552c80b7240/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Rockville, Maryland",
+    "state": "Maryland",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-interim-review-report-little-calumet-river",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interim-review-report-little-calumet-river.json",
+    "label": "Environmental Impact Statement, Interim Review Report, Little Calumet River, Indiana",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/25a105fa-0445-4fa8-b955-4ac7a6a6a080/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Little Calumet River, Indiana",
+    "state": "Indiana",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-interstate-5-pedestrian-park-washington-state",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interstate-5-pedestrian-park-washington-state.json",
+    "label": "Environmental Impact Statement, Interstate 5 Pedestrian Park, Washington State",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7bc711f6-961a-494a-9910-04160d85c149/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Seattle, Washington",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-land-and-water-conservation-fund-project",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-land-and-water-conservation-fund-project.json",
+    "label": "Environmental Impact Statement, Land and Water Conservation Fund Project",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/de72d730-179e-4543-a712-edfc8cdc420f/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Illinois Beach State Park",
+    "state": "Illinois",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-lead-content-in-paint-volume-1-and-2",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-lead-content-in-paint-volume-1-and-2.json",
+    "label": "Environmental Impact Statement, Lead Content in Paint Volume 1 and 2",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/70683871-9c7f-4126-bb89-a59c6c823289/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-los-angeles-harbor-deepening-project",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-los-angeles-harbor-deepening-project.json",
+    "label": "Environmental Impact Statement, Los Angeles Harbor Deepening Project",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a97f5f02-c891-4d22-895d-b4e5a1bf7e5c/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "LOS ANGELES-LONG BEACH Harbor",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-milton-south-disaster-urban-renewal-project",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milton-south-disaster-urban-renewal-project.json",
+    "label": "Environmental Impact Statement, Milton-South Disaster Urban Renewal Project, Milton-North Disaster Urban Renewal Project, Turbot Disaster Urban Renewal Project",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Milton-North Disaster Urban Renewal Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown.json",
+    "label": "Environmental Impact Statement, Milwaukee to Green Bay Interstate Road, Brown County, Wisconsin",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/62f428bc-d9ed-4e68-8379-f7c00cd19194/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Milwaukee to Green Bay Interstate Highway",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-national-aeronautics-and-space-administration",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-national-aeronautics-and-space-administration.json",
+    "label": "Environmental Impact Statement, National Aeronautics and Space Administration, Flight Research Center, Edwards, California",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3d31724f-2898-4cf8-a986-5a3854bb7f07/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-new-york-new-york-low-rent-public-housing",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-new-york-new-york-low-rent-public-housing.json",
+    "label": "Environmental Impact Statement, New York, New York, Low-Rent Public Housing",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/758612a7-9985-4a7d-939b-69be24327b39/thumbnail",
+    "themes": [
+      "Urban Development"
+    ],
+    "location": "Forest Hills",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-northeast-corridor-improvement-project",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-northeast-corridor-improvement-project.json",
+    "label": "Environmental Impact Statement, Northeast Corridor Improvement Project",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b11bb019-bda7-4f39-a7c7-6d4a4d03df42/thumbnail",
+    "themes": [],
+    "location": "",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-operation-breakthrough",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-operation-breakthrough.json",
+    "label": "Environmental Impact Statement, Operation BREAKTHROUGH",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/efbeb91b-0c29-4e54-b67f-2370a1c06ea4/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Operation BREAKTHROUGH",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-pauhai-urban-renewal-project-hawaii-r-15",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-pauhai-urban-renewal-project-hawaii-r-15.json",
+    "label": "Environmental Impact Statement, Pauhai Urban Renewal Project, Hawaii R-15",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4ace7810-06ae-426a-8ebe-e2c52a38bfa1/thumbnail",
+    "themes": [
+      "Urban Development"
+    ],
+    "location": "Pauahi Urban Renewal Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-permit-application-by-delmarva-power-and-light",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-permit-application-by-delmarva-power-and-light.json",
+    "label": "Environmental Impact Statement, Permit Application by Delmarva Power and Light Company, 500 KV Aerial Transmission Line, Deemers Beach, Delaware and Kelly Point, New Jersey",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/42b71b8a-9ad4-4b88-9c8b-7716d22c7907/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Delaware River, New Jersey",
+    "state": "Delaware",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-promulgated-standards-of-performance-for-lime",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-promulgated-standards-of-performance-for-lime.json",
+    "label": "Environmental Impact Statement, Promulgated Standards of Performance for Lime Manufacturing Plants",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Research Triangle Park, North Carolina",
+    "state": "North Carolina",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-proposed-castaic-haskell-junction-power",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-castaic-haskell-junction-power.json",
+    "label": "Environmental Impact Statement, Proposed Castaic-Haskell Junction Power Transmission Line",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8941a914-a49d-4c22-a6dc-b4adc5725870/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Castaic-Haskell Junction Power Transmission Line",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-proposed-construction-of-the-downtown-loop",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-construction-of-the-downtown-loop.json",
+    "label": "Environmental Impact Statement, Proposed Construction of the Downtown Loop Freeway at Greenville, South Carolina",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Downtown Loop Freeway at Greenville, South Carolina",
+    "state": "South Carolina",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-proposed-hud-project-selection-criteria-for",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-hud-project-selection-criteria-for.json",
+    "label": "Environmental Impact Statement, Proposed HUD Project Selection Criteria for Subsidized Housing",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8e2b9830-6017-4644-a596-831a4a55b359/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-proposed-regulation-vinyl-chloride",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-regulation-vinyl-chloride.json",
+    "label": "Environmental Impact Statement, Proposed Regulation Vinyl Chloride",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/393e3bda-64a5-4ac5-acf6-634388a4c2f3/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-proposed-standard-for-occupational-exposure-to",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-standard-for-occupational-exposure-to.json",
+    "label": "Environmental Impact Statement, Proposed Standard for Occupational Exposure to Inorganic Lead",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b4173ef9-9b49-4c81-a738-081d70a39856/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-public-transportation-amendments-of-1980",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-public-transportation-amendments-of-1980.json",
+    "label": "Environmental Impact Statement, Public Transportation Amendments of 1980",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/5cfbddc1-d414-4b93-95d4-67dd8aca5df3/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-randolph-urban-renewal-project",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-randolph-urban-renewal-project.json",
+    "label": "Environmental Impact Statement, Randolph Urban Renewal Project",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f1598e68-5c67-40ab-b6a2-81a0eb055725/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Randolph Urban Renewal Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii.json",
+    "label": "Environmental Impact Statement, Route 23 Urban Renewal Project, New York Region II",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ee7c1e74-80bd-4f7a-b748-be62ddac92f6/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Route 23, U.R. Project Area",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-rush-hubbard-apartments-chicago-illinois",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-rush-hubbard-apartments-chicago-illinois.json",
+    "label": "Environmental Impact Statement, Rush-Hubbard Apartments, Chicago, Illinois",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8438a116-20bf-4766-ab05-2914ee604664/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Rush-Hubbard Apartments (207) Chicago, Illinois",
+    "state": "Illinois",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-social-security-administration-payment-center",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-social-security-administration-payment-center.json",
+    "label": "Environmental Impact Statement, Social Security Administration Payment Center, Chicago, Illinois",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/72e53178-4561-4367-8b07-0d64bd70f60f/thumbnail",
+    "themes": [
+      "Urban Development"
+    ],
+    "location": "Chicago, Illinois",
+    "state": "Illinois",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-the-construction-of-the-second-avenue-subway-in",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-the-construction-of-the-second-avenue-subway-in.json",
+    "label": "Environmental Impact Statement, The Construction of the Second Avenue Subway in New York City, New York, 34th Street to 126th Street, Manhattan",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f514e16e-0bc2-4dc5-91db-d6c93edc71a0/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Second Avenue Subway, New York City",
+    "state": "New York",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2.json",
+    "label": "Environmental Impact Statement, Three Mile Island Nuclear Station, Units 1 and 2",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a98de126-0860-48b0-891e-d97682e0ac1b/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Three Mile Island Nuclear Station Units 1 and 2",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-transit-system-improvements-in-the-los-angeles",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-transit-system-improvements-in-the-los-angeles.json",
+    "label": "Environmental Impact Statement, Transit System Improvements in the Los Angeles Regional Core",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b0e9742f-e362-41a2-b171-0c070403606c/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Los Angeles, California",
+    "state": "California",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-tropical-cumulus-cloud-modification-project",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tropical-cumulus-cloud-modification-project.json",
+    "label": "Environmental Impact Statement, Tropical Cumulus Cloud Modification Project",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/5152710f-9624-4b63-a76e-b3d2553f8215/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Rockville, Maryland",
+    "state": "Maryland",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan.json",
+    "label": "Environmental Impact Statement, Tunnel Component of the Tunnel and Resevoir Plan Proposed by the Metropolitan Sanitary District of Greater Chicago",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8a64d270-66b2-411e-8c22-3fd9f49a9dc6/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Chicago, Illinois",
+    "state": "Illinois",
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-wacker-drive-extension-u-s-route-7-construction",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-wacker-drive-extension-u-s-route-7-construction.json",
+    "label": "Environmental Impact Statement, Wacker Drive Extension, U.S. Route 7, Construction",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e2c41484-ef73-400a-ad96-35ef2d93fc94/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Wacker Drive Extension",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "environmental-impact-statement-winter-orographc-cloud-modification-experiment",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-winter-orographc-cloud-modification-experiment.json",
+    "label": "Environmental Impact Statement, Winter Orographc Cloud Modification Experiment, Rocky Mountains of Colorado",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7c20b0af-cc9e-478b-b8b5-076ab66d4313/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Climax, Colorado",
+    "state": "Colorado",
+    "completed": "Yes"
+  },
+  {
+    "slug": "environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new.json",
+    "label": "Environmental Impact Statement, Zia Urban Renewal Project Amendment, Gallup, New Mexico",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/19ab5449-ac00-4526-8d85-763c230cdb98/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Zia Urban Renewal Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "fap-3-milwaukee-county-expressway-system-construction-to-connect-i-94-stadium",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/fap-3-milwaukee-county-expressway-system-construction-to-connect-i-94-stadium.json",
+    "label": "FAP-3, Milwaukee County expressway system construction to connect I-94 stadium interchange and I-894 Greenfield interchange, Milwaukee County : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ebba288b-2bd9-4113-8900-609b69987526/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Milwaukee County Expressway System",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "florida-area-cumulus-experiment-of-1978-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/florida-area-cumulus-experiment-of-1978-environmental-impact-statement.json",
+    "label": "Florida area cumulus experiment of 1978 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Florida Area Cumulus Experiment (FACE) of 1978",
+    "state": "Florida",
+    "completed": "Yes"
+  },
+  {
+    "slug": "four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1.json",
+    "label": "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "The proposed four-corners-ambrosia-pajarito 500 kV transmission line project",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact.json",
+    "label": "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/eeee0a97-8076-4885-8582-6e25e3c29773/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Four Corners-Ambrosia-Pajarito 500 kV Transmission Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "glen-canyon-greenehaven-underground-transmission-line-permit-az-ut",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/glen-canyon-greenehaven-underground-transmission-line-permit-az-ut.json",
+    "label": "Glen Canyon, Greenehaven underground transmission line permit (AZ,UT) : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/236ff945-85fd-4124-a6f3-5527c07da301/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Glen Canyon National Recreation Area",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "gloucester-second-waterfront-urban-renewal-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/gloucester-second-waterfront-urban-renewal-environmental-impact-statement.json",
+    "label": "Gloucester, Second waterfront urban renewal : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a9323139-05cc-402f-b5ec-064cd79b604c/thumbnail",
+    "themes": [
+      "Urban Development"
+    ],
+    "location": "Gloucester, Massachusetts",
+    "state": "Massachusetts",
+    "completed": ""
+  },
+  {
+    "slug": "havasupai-indian-reservation-addition-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement-1.json",
+    "label": "Havasupai Indian Reservation addition : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/760952eb-290e-4c72-ac06-0277603570e5/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Havasupai Indian Reservation",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "havasupai-indian-reservation-addition-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement.json",
+    "label": "Havasupai Indian Reservation addition : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Havasupai Indian Reservation",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "hungry-horse-cloud-seeding-program-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/hungry-horse-cloud-seeding-program-environmental-impact-statement.json",
+    "label": "Hungry Horse cloud seeding program : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e05c9c4e-c5fa-494c-a675-121ebb0da011/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Hungry Horse Reservoir",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "i-210-proposed-construction-los-angeles-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-210-proposed-construction-los-angeles-environmental-impact-statement.json",
+    "label": "I-210 proposed construction, Los Angeles : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Hansen Dam Recreational Area",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "i-55-from-woodrow-wilson-dr-to-i-220-jackson-section-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-55-from-woodrow-wilson-dr-to-i-220-jackson-section-environmental-impact.json",
+    "label": "I-55 from Woodrow Wilson Dr to I-220, Jackson section : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/34927df0-6d84-4a46-be59-35c4a6806be8/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Woodrow Wilson Drive, Jackson, Mississippi",
+    "state": "Mississippi",
+    "completed": ""
+  },
+  {
+    "slug": "i-676-vine-st-expressway-construction-from-schuykill-expressway-to-the-benjamin",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-676-vine-st-expressway-construction-from-schuykill-expressway-to-the-benjamin.json",
+    "label": "I-676, Vine St Expressway construction from Schuykill Expressway to the Benjamin Franklin Bridge and I-95 interchange, Philadelphia : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/78bef8c8-361c-4548-8e2d-07847eb7a3e7/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Vine Street Expressway",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county.json",
+    "label": "I-94 construction, upgrading in Minneapolis and Brooklyn Center, Hennepin County : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7a4f08f7-df40-495e-a11e-fa3f79241e64/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Minneapolis",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "inorganic-lead-occupational-exposure-standard-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/inorganic-lead-occupational-exposure-standard-environmental-impact-statement.json",
+    "label": "Inorganic lead occupational exposure standard : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c378cec1-8b83-4931-a2ea-74902caa3d29/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact.json",
+    "label": "Joshua Tree National Monument (N.M.), Proposed wilderness area : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f29be4ff-79af-4b20-84a0-eb52fa3fca48/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Joshua Tree National Monument",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "kanab-escalante-grazing-management-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kanab-escalante-grazing-management-environmental-impact-statement.json",
+    "label": "Kanab/Escalante grazing management : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Kanab/Escalante Grazing Management Draft Environmental Impact Statement",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "kendall-square-urban-renewal-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement-1.json",
+    "label": "Kendall Square urban renewal : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4d4c7746-8342-4de4-b577-800db1eede37/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Kendall Square Urban Renewal Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "kendall-square-urban-renewal-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement.json",
+    "label": "Kendall Square urban renewal : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2d55f0a5-2241-49ef-a135-cd5785cc36de/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Kendall Square",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "kingston-urban-renewal-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kingston-urban-renewal-project-environmental-impact-statement.json",
+    "label": "Kingston urban renewal project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Kingston, Pennsylvania",
+    "state": "Pennsylvania",
+    "completed": "Yes"
+  },
+  {
+    "slug": "lead-content-in-paint-proposed-regulation-under-consumer-products-safety-act",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lead-content-in-paint-proposed-regulation-under-consumer-products-safety-act.json",
+    "label": "Lead content in paint, proposed regulation under Consumer Products Safety Act : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ee020c1c-c909-4280-82e3-9a3c840bf039/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "The Consumer Product Safety Commission (CPSC) Notice Published October 6, 1976 (41 FR 44126)",
+    "state": null,
+    "completed": "No"
+  },
+  {
+    "slug": "light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county.json",
+    "label": "Light rail transit line and Banfield Hwy improvements, Multnomah County : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/36d5b0f3-7371-4cac-a1bf-c052900d2d8c/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Banfield Transitway Project",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "lime-manufacturing-plants-standards-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lime-manufacturing-plants-standards-environmental-impact-statement.json",
+    "label": "Lime manufacturing plants standards : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3102f822-0c8a-4c77-96e0-f949d793efbc/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "Research Triangle Park, North Carolina 27711",
+    "state": "North Carolina",
+    "completed": "Yes"
+  },
+  {
+    "slug": "lincoln-hwy-upgrade-from-cicero-ave-to-chicago-road-cook-county-environmental",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lincoln-hwy-upgrade-from-cicero-ave-to-chicago-road-cook-county-environmental.json",
+    "label": "Lincoln Hwy upgrade from Cicero Ave. to Chicago Road, Cook County : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/9234b452-0bfe-48f8-92dd-88ca41ebfbf8/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "US-30, Lincoln Highway",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "loring-park-development-district-loring-100-apartments-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/loring-park-development-district-loring-100-apartments-environmental-impact.json",
+    "label": "Loring Park Development District, Loring 100 apartments : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2b36982f-0ab3-43ef-a590-c2144b815bf9/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Loring Park Development District",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "los-angeles-and-long-beach-harbors-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-and-long-beach-harbors-environmental-impact-statement.json",
+    "label": "Los Angeles and Long Beach harbors : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a7f30acc-9be6-40e1-b46d-39e68e734757/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Los Angeles-Long Beach Harbors",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "los-angeles-regional-core-transit-system-improvements-alternatives-analysis",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-regional-core-transit-system-improvements-alternatives-analysis.json",
+    "label": "Los Angeles regional core transit system improvements alternatives analysis : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0a612a40-d453-4f71-977e-8f48c8a7e34b/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "La Brea Fossil Deposit",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "marijuana-eradication-project-pulaski-county-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/marijuana-eradication-project-pulaski-county-environmental-impact-statement.json",
+    "label": "Marijuana eradication project, Pulaski County : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Richgrove Township, Pulaski County, Indiana",
+    "state": "Indiana",
+    "completed": "Yes"
+  },
+  {
+    "slug": "metropolitan-atlanta-rapid-transit-system-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-environmental-impact-statement.json",
+    "label": "Metropolitan Atlanta rapid transit system : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/6ea882b2-5f5e-4e2a-9124-2ef215a46d18/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "The proposed Metropclitan Atlanta Rapid Transit System project, specifically the construction of the new rail lines and stations at Vine City, Techwood, Candler Park, and East Lake.",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment.json",
+    "label": "Metropolitan Atlanta rapid transit system, North Line (Lindbergh-Piedmont segment), Lindbergh Drive-Piedmont Road consolidation : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/29b89810-6b04-4796-82dc-a0080bab8942/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Lindbergh Station",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "metropolitan-washington-rapid-transit-system-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement-1.json",
+    "label": "Metropolitan Washington rapid transit system : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/baa4e032-f31a-4460-9dd2-7a6f45997ec9/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Rockville, Maryland",
+    "state": "Maryland",
+    "completed": "Yes"
+  },
+  {
+    "slug": "metropolitan-washington-rapid-transit-system-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement.json",
+    "label": "Metropolitan Washington rapid transit system : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/42ff7d65-d32d-400d-bcff-0a8b1df54a68/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Dulles International Airport",
+    "state": null,
+    "completed": "No"
+  },
+  {
+    "slug": "motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement.json",
+    "label": "Motor carrier commercial zones and terminal areas : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental.json",
+    "label": "Motor vehicle occupant crash protection, Proposed rulemaking : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a233dab1-1f29-4e83-aa49-acac6296969f/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "August 31, 1976",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "motorcycle-noise-emission-regulations-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-noise-emission-regulations-environmental-impact-statement.json",
+    "label": "Motorcycle noise emission regulations : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/29e993fd-c646-46b9-b599-e0fe041c5f14/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "No"
+  },
+  {
+    "slug": "motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1.json",
+    "label": "Motorcycle race, Johnson Valley to Parker : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e5c9c784-fb97-4882-996c-724957dc959f/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Johnson Valley to Parker Motorcycle Race September 1980",
+    "state": null,
+    "completed": "No"
+  },
+  {
+    "slug": "motorcycle-race-johnson-valley-to-parker-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement.json",
+    "label": "Motorcycle race, Johnson Valley to Parker : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a30c227a-eb2b-4083-9e5f-5f697a6a58b7/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Johnson Valley Open Area",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1.json",
+    "label": "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/15705865-43f8-4aa2-9401-03cf661c8b61/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Columbia River Mile 63-72 and Cowlitz River Mile 0-9",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement.json",
+    "label": "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/86988796-c1e3-43bd-bd7b-e58195a521fc/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Columbia River Mile 63-72 and Cowlitz River Mile 0-9.0",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "nashville-university-center-urban-renewal-area-1-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/nashville-university-center-urban-renewal-area-1-environmental-impact-statement.json",
+    "label": "Nashville, University Center urban renewal area 1 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Nashville, Tennessee",
+    "state": "Tennessee",
+    "completed": "Yes"
+  },
+  {
+    "slug": "naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental.json",
+    "label": "Naval Weapons Center, China Lake, Off-road vehicles recreation : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/81a6fe3d-37e2-4f09-966e-504323479b6c/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "China Lake, California",
+    "state": "California",
+    "completed": "Yes"
+  },
+  {
+    "slug": "new-elmira-urban-renewal-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-elmira-urban-renewal-project-environmental-impact-statement.json",
+    "label": "New Elmira urban renewal project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ff9a87f5-067b-4d43-8241-851005628586/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "New York",
+    "state": "New York",
+    "completed": "Yes"
+  },
+  {
+    "slug": "new-panama-canal-treaty-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-panama-canal-treaty-environmental-impact-statement.json",
+    "label": "New Panama Canal Treaty : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/af044d87-15d1-4c4a-a5c9-820f5c5a89a9/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Panama Canal Treaty",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1.json",
+    "label": "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Broadway Plaza",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square.json",
+    "label": "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8d06b1c8-2136-4eb2-9557-597ae2174d1d/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Broadway Plaza",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "noise-regulations-and-type-certification-alternatives-civil-supersonic-sst",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/noise-regulations-and-type-certification-alternatives-civil-supersonic-sst.json",
+    "label": "Noise regulations and type certification alternatives, civil supersonic (SST) aircraft : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/87baf9bd-ab6f-449e-af0e-b69f95b43cfa/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "ocean-dumping-criteria-proposed-revisions-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ocean-dumping-criteria-proposed-revisions-environmental-impact-statement.json",
+    "label": "Ocean dumping criteria, Proposed revisions : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4ae772df-a902-455f-b279-28ce16b6f3db/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "off-road-vehicle-regulations-proposed-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicle-regulations-proposed-environmental-impact-statement.json",
+    "label": "Off-road vehicle regulations, proposed : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/04f934e3-8c84-4e39-9827-5b062d04ae04/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "off-road-vehicles-on-public-lands-implementation-of-executive-order-11644",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicles-on-public-lands-implementation-of-executive-order-11644.json",
+    "label": "Off-road vehicles on public lands, implementation of Executive Order 11644 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f009744b-3e0c-4e53-97b5-e3262f036b8b/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "olympic-winter-games-1980-lake-placid-north-elba-and-wilmington-and-vicinity",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/olympic-winter-games-1980-lake-placid-north-elba-and-wilmington-and-vicinity.json",
+    "label": "Olympic Winter Games, 1980, Lake Placid, North Elba and Wilmington and vicinity : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/1d9ca3fe-6260-4990-b4aa-081821da89a5/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Lake Placid, New York",
+    "state": "New York",
+    "completed": ""
+  },
+  {
+    "slug": "passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-1.json",
+    "label": "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2db0013d-db56-496b-a68f-9fdc13a11e2f/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "The Environmental Impact Statement (EIS)",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed.json",
+    "label": "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "National Highway Traffic Safety Administration",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "penn-susquehanna-urban-renewal-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/penn-susquehanna-urban-renewal-project-environmental-impact-statement.json",
+    "label": "Penn Susquehanna urban renewal project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/200209c2-e42f-411f-9644-5f086f2f791c/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Penn-Susquehanna Urban Renewal Project, Harrisburg, Pennsylvania",
+    "state": "Pennsylvania",
+    "completed": ""
+  },
+  {
+    "slug": "philadelphia-eastwick-urban-renewal-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-eastwick-urban-renewal-environmental-impact-statement.json",
+    "label": "Philadelphia, Eastwick urban renewal : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/39985efa-66b9-4eef-8f44-3e1a6fc27645/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Eastwick Urban Renewal Area, Philadelphia, Pennsylvania",
+    "state": "Pennsylvania",
+    "completed": "Yes"
+  },
+  {
+    "slug": "philadelphia-washington-square-west-urban-renewal-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-washington-square-west-urban-renewal-environmental-impact-statement.json",
+    "label": "Philadelphia, Washington Square West urban renewal : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0940594e-e055-4864-bda0-377927b03b4d/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington Square West Urban Renewal Area",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "plastic-bottles-for-carbonated-beverages-and-beer-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/plastic-bottles-for-carbonated-beverages-and-beer-environmental-impact-statement.json",
+    "label": "Plastic bottles for carbonated beverages and beer : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/16bd6843-d6c6-4ed0-b831-0f755ecec291/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "The United States",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement.json",
+    "label": "Polychlorinated biphenyls, Proposed rule making : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/17398b31-01b3-42f3-8a6f-7e7ac9f48823/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "Federal Register",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "project-stormfury-atlantic-weather-modification-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/project-stormfury-atlantic-weather-modification-environmental-impact-statement.json",
+    "label": "Project STORMFURY, Atlantic weather modification : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/bbae926c-0ea9-401d-9b66-a08e1513a8c1/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Miami, Puerto Rico, or Bermuda",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "proposed-endangered-species-conservation-act-of-1973-incomplete-appendices",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-endangered-species-conservation-act-of-1973-incomplete-appendices.json",
+    "label": "Proposed endangered species conservation act of 1973 (incomplete appendices) : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/60f7459a-53ad-4b30-9a36-99340046bcdb/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "The Endangered Species Conservation Act of 1973, specifically the proposed changes to its authority and the implications for endangered species protection.",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "proposed-lead-based-paint-regulations-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-lead-based-paint-regulations-environmental-impact-statement.json",
+    "label": "Proposed lead based paint regulations : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e9579277-9c90-475e-94a6-055975228d2c/thumbnail",
+    "themes": [
+      "Urban Development"
+    ],
+    "location": "HUD-PDP/OCC-Nis-75",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "raccoon-mountain-pumped-storage-plant-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/raccoon-mountain-pumped-storage-plant-environmental-impact-statement.json",
+    "label": "Raccoon Mountain pumped-storage plant : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d0d16d78-dbb7-4053-bb04-8e18a2252ab3/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Raccoon Mountain Pumped-Storage Plant",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "rio-grande-amistad-hydroelectric-plant-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rio-grande-amistad-hydroelectric-plant-environmental-impact-statement.json",
+    "label": "Rio Grande, Amistad hydroelectric plant : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c56d2b58-e4a8-4b16-bd48-43dc29c6d905/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Amistad Dam and Reservoir",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement.json",
+    "label": "Rochester, Southeast loop urban renewal no.175 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/deb1182a-e9b3-450f-8891-5b47c7a3f727/thumbnail",
+    "themes": [
+      "Urban Development"
+    ],
+    "location": "Rochester South East Loop Urban Renewal Project",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "ross-ice-shelf-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ross-ice-shelf-project-environmental-impact-statement.json",
+    "label": "Ross Ice Shelf project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/99663d77-3c1d-41fb-aac6-161e96c6c181/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Ross Ice Shelf Project (RISP)",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981.json",
+    "label": "San Jose community development block grant 3-year plan, July 1978-June 1981 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "San Jose, California",
+    "state": "California",
+    "completed": "Yes"
+  },
+  {
+    "slug": "shaw-school-urban-renewal-plan-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/shaw-school-urban-renewal-plan-environmental-impact-statement.json",
+    "label": "Shaw School urban renewal plan : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2b7ab62b-094f-4cfc-a01f-3e05391f8784/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "The District of Columbia Neighborhood Development Program (NDP-4)",
+    "state": "District of Columbia",
+    "completed": "Yes"
+  },
+  {
+    "slug": "spokane-world-exposition-expo-74-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/spokane-world-exposition-expo-74-environmental-impact-statement.json",
+    "label": "Spokane World Exposition, Expo 74 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Spokane, Washington",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact.json",
+    "label": "SR-252 construction connecting I-5 and I-805, San Diego : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/74b6a128-27b7-4877-b7d4-a22842139fb7/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Southeast San Diego",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "st-joseph-urban-renewal-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/st-joseph-urban-renewal-project-environmental-impact-statement.json",
+    "label": "St.Joseph urban renewal project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/623b42e5-8776-42e2-a055-51067bc3e2d4/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "St. Joseph Center I Urban Renewal Area",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "stockton-west-end-ii-redevelopment-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stockton-west-end-ii-redevelopment-environmental-impact-statement.json",
+    "label": "Stockton, West End II redevelopment : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/6d19de7d-6169-4d7f-bb77-69ae5912baab/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "West End Redevelopment Area",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "stony-island-ave-widening-reconstruction-e-64th-st-to-e-70th-st-chicago",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stony-island-ave-widening-reconstruction-e-64th-st-to-e-70th-st-chicago.json",
+    "label": "Stony Island Ave widening, reconstruction, E. 64th St to E. 70th St, Chicago : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/065547ad-ed41-41ea-8f90-11726668cc6f/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "South Cornell Drive, Chicago, Illinois",
+    "state": "Illinois",
+    "completed": ""
+  },
+  {
+    "slug": "summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact.json",
+    "label": "Summer Nuclear Plant 230 kV transmission lines, Cayce : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/81bbecc8-30f2-4ffd-85c5-f0db284eeb92/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Summer Nuclear Plant, Fairfield County",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact.json",
+    "label": "Sundesert Nuclear Power Plant units 1-2, construction : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a09ad3f4-1191-442f-8219-545f2e0a62a0/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Sundesert Nuclear Plant",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "tarp-calumet-tunnel-system-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-calumet-tunnel-system-environmental-impact-statement.json",
+    "label": "TARP Calumet tunnel system : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2d38cd3c-afea-453a-919a-aa3926fef3ed/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Calumet Tunnel System",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1.json",
+    "label": "TARP tunnel component, Lower Des Plaines : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b80d8a26-6348-4c65-aa2b-ea7a23172358/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Chicago, Illinois",
+    "state": "Illinois",
+    "completed": "Yes"
+  },
+  {
+    "slug": "tarp-tunnel-component-lower-des-plaines-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement.json",
+    "label": "TARP tunnel component, Lower Des Plaines : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/be007e4b-d662-4e2f-81c0-53f93844929c/thumbnail",
+    "themes": [
+      "Wildlife and Natural Areas"
+    ],
+    "location": "Chicago, Illinois",
+    "state": "Illinois",
+    "completed": "Yes"
+  },
+  {
+    "slug": "teton-jackson-115-kv-transmission-line-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/teton-jackson-115-kv-transmission-line-environmental-impact-statement.json",
+    "label": "Teton-Jackson 115 kV transmission line : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2e745ac2-b7e1-457c-8695-5715a96202a7/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Teton to Jackson Transmission Line",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "the-1980-report-to-congress-on-the-nation-s-renewable-resources-environmental",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-1980-report-to-congress-on-the-nation-s-renewable-resources-environmental.json",
+    "label": "The 1980 Report to Congress on the nation's renewable resources : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/04086999-628d-4959-bd39-6f6c8dc9dad2/thumbnail",
+    "themes": [],
+    "location": "",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility.json",
+    "label": "The upgrading of 103rd Street and Timuquana Road to a multi-lane facility, Jacksonville : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e37c4f05-d33a-4e81-8df2-91aedfa3f84a/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Jacksonville, Florida",
+    "state": "Florida",
+    "completed": "Yes"
+  },
+  {
+    "slug": "three-mile-island-nuclear-station-unit-2-operation-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/three-mile-island-nuclear-station-unit-2-operation-environmental-impact.json",
+    "label": "Three Mile Island Nuclear Station unit 2, operation : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Three Mile Island Nuclear Station Unit 2",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1.json",
+    "label": "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/6a527c28-c55d-4748-ada9-be0c126cf911/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Arkansas River",
+    "state": "Arkansas",
+    "completed": ""
+  },
+  {
+    "slug": "tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact.json",
+    "label": "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b31cb341-6937-4df8-a5c7-8997d29bf1e4/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Arkansas River Parks Project, Tulsa, Oklahoma",
+    "state": "Arkansas",
+    "completed": "Yes"
+  },
+  {
+    "slug": "underground-nuclear-test-program-fy-1973-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-test-program-fy-1973-environmental-impact-statement.json",
+    "label": "Underground nuclear test program, FY 1973 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fd37e5be-40d4-4941-8515-1d8813b41b71/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Nevada Test Site",
+    "state": "Nevada",
+    "completed": "Yes"
+  },
+  {
+    "slug": "underground-nuclear-testing-program-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-testing-program-environmental-impact-statement.json",
+    "label": "Underground nuclear testing program : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ccd55da3-3f23-409b-a94e-83a7eccf317d/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Nevada Test Site, Nye County, Nevada",
+    "state": "Nevada",
+    "completed": "Yes"
+  },
+  {
+    "slug": "viking-spacecraft-program-1975-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/viking-spacecraft-program-1975-environmental-impact-statement.json",
+    "label": "Viking Spacecraft Program, 1975 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b167268b-abce-4530-8526-2a405a50b415/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": ""
+  },
+  {
+    "slug": "vinyl-chloride-emission-standard-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/vinyl-chloride-emission-standard-environmental-impact-statement.json",
+    "label": "Vinyl chloride emission standard : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0f5d553d-8fb3-4b02-9069-cec741c9d66c/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "Research Triangle Park, North Carolina",
+    "state": "North Carolina",
+    "completed": ""
+  },
+  {
+    "slug": "warm-springs-indian-reservation-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/warm-springs-indian-reservation-environmental-impact-statement.json",
+    "label": "Warm Springs Indian Reservation : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fba536d5-f1db-4e81-b8a6-e9af0be010bd/thumbnail",
+    "themes": [
+      "Water Systems"
+    ],
+    "location": "Warm Springs National Fish Hatchery",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "west-berkeley-urban-renewal-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-berkeley-urban-renewal-project-environmental-impact-statement.json",
+    "label": "West Berkeley urban renewal project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3d1c890a-1782-45ec-ad54-55011cf69b88/thumbnail",
+    "themes": [
+      "Industrial Production and Materials"
+    ],
+    "location": "West Berkeley Industrial Park",
+    "state": null,
+    "completed": ""
+  },
+  {
+    "slug": "west-seattle-freeway-36th-ave-se-to-i-5-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-seattle-freeway-36th-ave-se-to-i-5-environmental-impact-statement.json",
+    "label": "West Seattle Freeway, 36th Ave SE to I-5 : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/1b6858dc-9375-4205-aba4-d319e027dc91/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "West Seattle Freeway",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "wild-free-roaming-horse-and-burro-management-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wild-free-roaming-horse-and-burro-management-environmental-impact-statement.json",
+    "label": "Wild free roaming horse and burro management : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/72905c97-4f67-4a33-a864-871c879b80eb/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Washington, D.C.",
+    "state": "Washington",
+    "completed": "Yes"
+  },
+  {
+    "slug": "wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement.json",
+    "label": "Wilkes-Barre, Industrial park urban renewal : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/87ad6f7e-4990-4d1e-b694-d2b75dcf0475/thumbnail",
+    "themes": [
+      "Transportation Infrastructure",
+      "Energy Systems",
+      "Wildlife and Natural Areas",
+      "Water Systems",
+      "Urban Development",
+      "Industrial Production and Materials",
+      "Climate and Weather Modification",
+      "Governance and Institutional Control",
+      "Place Based Development Conflicts",
+      "Indigenous Narratives and Sovereignty"
+    ],
+    "location": " Wilkes-Barre, Pennsylvania",
+    "state": "Pennsylvania",
+    "completed": "No"
+  },
+  {
+    "slug": "wilkes-barre-urban-renewal-project-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-urban-renewal-project-environmental-impact-statement.json",
+    "label": "Wilkes-Barre urban renewal project : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fc05222e-9ffe-4744-af37-e9ea7c776bc6/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Wilkes-Barre, Pennsylvania",
+    "state": "Pennsylvania",
+    "completed": "Yes"
+  },
+  {
+    "slug": "willowridge-subdivision-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/willowridge-subdivision-environmental-impact-statement.json",
+    "label": "Willowridge subdivision : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/037cfa4c-bb5f-4257-9abf-c6be5c0b524f/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Willowridge Subdivision",
+    "state": null,
+    "completed": "Yes"
+  },
+  {
+    "slug": "yellow-creek-nuclear-plant-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yellow-creek-nuclear-plant-environmental-impact-statement.json",
+    "label": "Yellow Creek Nuclear Plant : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/28ae4c66-5926-430b-bf02-c22b6929adc9/thumbnail",
+    "themes": [
+      "Energy Systems"
+    ],
+    "location": "Rogers Park, Chicago, Illinois",
+    "state": "Illinois",
+    "completed": ""
+  },
+  {
+    "slug": "yerba-buena-center-urban-renewal-plan-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yerba-buena-center-urban-renewal-plan-environmental-impact-statement.json",
+    "label": "Yerba Buena Center urban renewal plan : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/57211e13-7b3f-432a-978a-6217a8260385/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Yerba Buena Center Redevelopment Area, San Francisco, California",
+    "state": "California",
+    "completed": "Yes"
+  },
+  {
+    "slug": "yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement",
+    "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement.json",
+    "label": "Yonkers, Downtown commercial complex, preliminary : environmental impact statement.",
+    "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/eb2d39a3-6e5f-49df-ad86-fa9b74e254de/thumbnail",
+    "themes": [
+      "Transportation Infrastructure"
+    ],
+    "location": "Getty Square",
+    "state": null,
+    "completed": ""
+  }
+]

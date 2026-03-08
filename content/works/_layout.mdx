@@ -40,14 +40,19 @@ import {
   </div>
 </Container>
 
-{/* ── Key People section ── */}
+{/* ── Historical Context section ── */}
+<Container>
+  <MetaHistoricalContext manifest={props.manifest} />
+</Container>
+
+{/* ── Key People section (below Historical Context) ── */}
 <Container>
   <MetaKeyPeople manifest={props.manifest} />
 </Container>
 
-{/* ── Historical Context section ── */}
+{/* ── Similar Works ── */}
 <Container>
-  <MetaHistoricalContext manifest={props.manifest} />
+  <SimilarWorks manifest={props.manifest} />
 </Container>
 
 {/* ── Related Items ── */}

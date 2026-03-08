@@ -17,4 +17,5 @@ export const components = {
 export const clientComponents = {
   ExampleClient: './Example.client.tsx',
   StoryMapJS: './StoryMapJS.client.tsx',
+  SimilarWorks: './SimilarWorks.client.tsx',
 };
