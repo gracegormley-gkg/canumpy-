@@ -8,6 +8,7 @@ type WorkEntry = {
   id: string;
   label: string;
   thumbnail: string;
+  homepage: string;
   themes: string[];
   state: string | null;
   completed: string;
@@ -79,7 +80,7 @@ export default function SimilarWorks({ manifest }: { manifest: IIIFManifest }) {
   );
 
   const WorkCard = ({ w }: { w: WorkEntry }) => (
-    <a href={`/canumpy-/works/${w.slug}`} className="canopy-similar--card">
+    <a href={w.homepage || `/canumpy-/works/${w.slug}`} target="_blank" rel="noopener noreferrer" className="canopy-similar--card">
       {w.thumbnail && (
         <div className="canopy-similar--thumb-wrap">
           <img src={w.thumbnail} alt="" className="canopy-similar--thumb" loading="lazy" />

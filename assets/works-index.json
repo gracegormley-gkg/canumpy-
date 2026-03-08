@@ -4,6 +4,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/14th-street-urban-renewal-area-1st-3rd-action-years-environmental-impact.json",
     "label": "14th Street urban renewal area, 1st-3rd action years : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/57e9ae4f-7cc0-4670-8eaa-6b0f8242c369",
     "themes": [
       "Urban Development"
     ],
@@ -16,6 +17,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-line-delmarva-power-and-light-delaware-river-permit-de-nj.json",
     "label": "500 kV transmission line, Delmarva Power and Light, Delaware River, permit (DE,NJ) : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/642d0a98-ab7d-42f2-b2f9-66b9afb9fc12",
     "themes": [
       "Energy Systems"
     ],
@@ -28,6 +30,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/500-kv-transmission-lines-west-point-miller-al-ms-environmental-impact-statement.json",
     "label": "500 kV transmission lines, West Point-Miller (AL,MS) : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/5707b717-4793-46d6-afcf-e91bb72af727/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/5707b717-4793-46d6-afcf-e91bb72af727",
     "themes": [
       "Energy Systems"
     ],
@@ -40,6 +43,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/abandonment-of-rail-lines-in-northwest-michigan-environmental-impact-statement.json",
     "label": "Abandonment of rail lines in northwest Michigan : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b8155609-6dec-4620-9d58-5e2e4583bc67/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/b8155609-6dec-4620-9d58-5e2e4583bc67",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -52,6 +56,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/airport-spur-connection-i-94-to-general-mitchell-field-milwaukee-environmental.json",
     "label": "Airport Spur connection, I-94 to General Mitchell Field, Milwaukee : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fb307312-04c8-4c49-afa3-e7b650650a7c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/fb307312-04c8-4c49-afa3-e7b650650a7c",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -64,6 +69,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/alternative-fuels-demonstration-program-environmental-impact-statement.json",
     "label": "Alternative fuels demonstration program : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8208c84c-fe4c-406e-9c20-76ebbed71475/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8208c84c-fe4c-406e-9c20-76ebbed71475",
     "themes": [
       "Energy Systems"
     ],
@@ -76,6 +82,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/apollo-space-program-environmental-impact-statement.json",
     "label": "Apollo Space Program : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/af5b0de8-26dd-4419-9ccb-0b41b84c0f00/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/af5b0de8-26dd-4419-9ccb-0b41b84c0f00",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -88,6 +95,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/asheville-community-development-plan-environmental-impact-statement.json",
     "label": "Asheville community development plan : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a6cfd0c9-5aa0-43e7-b00c-9638ec0ee244",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -100,6 +108,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/atlantic-fleet-weapons-training-facility-vieques-environmental-impact-statement.json",
     "label": "Atlantic Fleet weapons training facility, Vieques : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8ea92bba-19a8-4fac-bd31-b125465a5a60/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8ea92bba-19a8-4fac-bd31-b125465a5a60",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -112,6 +121,7 @@
     "id": "https://gracegormley-gkg.github.io/canumpy-/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979-envir.json",
     "label": "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -124,6 +134,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/average-fuel-economy-standard-for-nonpassenger-automobiles-model-year-1979.json",
     "label": "Average fuel economy standard for nonpassenger automobiles, model year 1979 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/30f79b05-3b6d-43a3-87a8-f3f2ac20e6a4",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -136,6 +147,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bad-creek-pumped-storage-project-environmental-impact-statement.json",
     "label": "Bad Creek pumped storage project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e33939cd-308b-47af-853e-58a6b1aba7e3/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e33939cd-308b-47af-853e-58a6b1aba7e3",
     "themes": [
       "Energy Systems"
     ],
@@ -148,6 +160,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/baltimore-inner-harbor-west-urban-renewal-environmental-impact-statement.json",
     "label": "Baltimore, Inner Harbor West urban renewal : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fcb050a4-bcff-41b8-b974-959ec63fe0d9/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/fcb050a4-bcff-41b8-b974-959ec63fe0d9",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -160,6 +173,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/beadle-greenway-area-plan-environmental-impact-statement.json",
     "label": "Beadle-Greenway area plan : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/9999bc4f-6607-425d-b9bd-c8215a910b80/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/9999bc4f-6607-425d-b9bd-c8215a910b80",
     "themes": [
       "Water Systems"
     ],
@@ -172,6 +186,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bedford-pine-urban-renewal-area-environmental-impact-statement.json",
     "label": "Bedford-Pine urban renewal area : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/c079de3e-b9ae-42fa-9e52-f0fe3cdd8eb9",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -184,6 +199,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/boston-demolition-plan-environmental-impact-statement.json",
     "label": "Boston demolition plan : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e26f2861-9676-4bbb-88a1-1734629bdf79/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e26f2861-9676-4bbb-88a1-1734629bdf79",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -196,6 +212,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/bowhead-whales-proposed-regulations-governing-the-taking-of-bowhead-whales.json",
     "label": "Bowhead whales, Proposed regulations governing the taking of bowhead whales during 1980 for subsistance, environmental assessment (EA) B1; Special report to the International Whaling Commission (1978) B2; Early development and reproduction (1979) : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/d1414c2d-c9c9-486a-b17b-3c6001a9cbd2",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -208,6 +225,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact-1.json",
     "label": "Buffalo light rail rapid transit project construction : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8f8f77c7-1286-40f2-9663-bc219f987505/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8f8f77c7-1286-40f2-9663-bc219f987505",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -220,6 +238,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/buffalo-light-rail-rapid-transit-project-construction-environmental-impact.json",
     "label": "Buffalo light rail rapid transit project construction : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/3b4bc357-0ee4-4a5f-be91-a2a1c02d38e3",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -232,6 +251,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/california-aqueduct-project-environmental-impact-statement.json",
     "label": "California aqueduct project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/01b6796e-1cbf-4c98-a651-5bcd07a3e95d/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/01b6796e-1cbf-4c98-a651-5bcd07a3e95d",
     "themes": [
       "Energy Systems"
     ],
@@ -244,6 +264,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/calumet-sag-channel-maintenance-dredging-illinois-waterway-environmental-impact.json",
     "label": "Calumet-Sag Channel maintenance dredging, Illinois Waterway : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3bc9887e-c850-457a-a971-e94f1bcdb96e/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/3bc9887e-c850-457a-a971-e94f1bcdb96e",
     "themes": [
       "Water Systems"
     ],
@@ -256,6 +277,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/central-valley-project-san-felipe-division-environmental-impact-statement.json",
     "label": "Central Valley project, San Felipe Division : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/913e061e-70cf-4fa0-a181-f877aaa74c5f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/913e061e-70cf-4fa0-a181-f877aaa74c5f",
     "themes": [
       "Water Systems"
     ],
@@ -268,6 +290,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chattanooga-cromwell-road-low-rent-housing-environmental-impact-statement.json",
     "label": "Chattanooga, Cromwell Road low-rent housing : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c828b2a6-38f2-4cb1-b15c-b0895b508482/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/c828b2a6-38f2-4cb1-b15c-b0895b508482",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -280,6 +303,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/chicago-underflow-plan-urban-water-damage-study-environmental-impact-statement.json",
     "label": "Chicago underflow plan, urban water damage study : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/300501fb-3ce8-47d5-8cdc-8922217ee9fe/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/300501fb-3ce8-47d5-8cdc-8922217ee9fe",
     "themes": [
       "Water Systems"
     ],
@@ -292,6 +316,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/colorado-river-flows-to-mexico-reduction-of-salinity-environmental-impact.json",
     "label": "Colorado River flows to Mexico, Reduction of salinity : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3dce989e-881b-4530-aa72-576ae4fabd1f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/3dce989e-881b-4530-aa72-576ae4fabd1f",
     "themes": [
       "Water Systems"
     ],
@@ -304,6 +329,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement-1.json",
     "label": "Cotton dust occupational exposure standard : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/63f36978-a696-4cd4-90cc-795158874a93/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/63f36978-a696-4cd4-90cc-795158874a93",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -316,6 +342,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/cotton-dust-occupational-exposure-standard-environmental-impact-statement.json",
     "label": "Cotton dust occupational exposure standard : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/24de1ff4-3e0b-4e26-bac2-e228a4003d3c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/24de1ff4-3e0b-4e26-bac2-e228a4003d3c",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -328,6 +355,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement-1.json",
     "label": "Crow Indian ceded area, tracts II and III : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0c48f789-b007-4555-8e8b-11e8b3806e90/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/0c48f789-b007-4555-8e8b-11e8b3806e90",
     "themes": [
       "Energy Systems"
     ],
@@ -340,6 +368,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/crow-indian-ceded-area-tracts-ii-and-iii-environmental-impact-statement.json",
     "label": "Crow Indian ceded area, tracts II and III : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/5935fad2-1fd4-4308-ae84-1bf2ecdb95b8",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -352,6 +381,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement-1.json",
     "label": "Dade County metro rail transit : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7a473d94-fa2e-4bcf-a2ea-bf5fa95bff90/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/7a473d94-fa2e-4bcf-a2ea-bf5fa95bff90",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -364,6 +394,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dade-county-metro-rail-transit-environmental-impact-statement.json",
     "label": "Dade County metro rail transit : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d3e9092b-810f-4b1a-9e9e-def1c7b8a699/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/d3e9092b-810f-4b1a-9e9e-def1c7b8a699",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -376,6 +407,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/dallas-fort-worth-regional-airport-new-airport-environmental-impact-statement.json",
     "label": "Dallas/Fort Worth regional airport, new airport : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/be4167bc-ea0d-4701-b45b-75362d812ff5/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/be4167bc-ea0d-4701-b45b-75362d812ff5",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -388,6 +420,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/denver-noise-exposure-areas-around-stapleton-and-buckley-airports-public.json",
     "label": "Denver, Noise exposure areas around Stapleton and Buckley airports, public housing programs : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/20e124ef-9d74-46eb-b4ac-c3b18a7e78c0",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -400,6 +433,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement-1.json",
     "label": "Detroit downtown people mover : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4c97f8ee-3db3-404a-8fb4-89137d575036/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/4c97f8ee-3db3-404a-8fb4-89137d575036",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -412,6 +446,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/detroit-downtown-people-mover-environmental-impact-statement.json",
     "label": "Detroit downtown people mover : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e962a4d2-18c5-4522-a59f-a81e2251c7ca/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e962a4d2-18c5-4522-a59f-a81e2251c7ca",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -424,6 +459,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/diablo-canyon-units-1-2-continued-construction-environmental-impact-statement.json",
     "label": "Diablo Canyon, units 1-2, continued construction : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/2c357c5c-ebb8-41d1-9bf8-cff3d396cbfc",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -436,6 +472,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/draft-tarp-calumet-tunnel-system-environmental-impact-statement.json",
     "label": "DRAFT: TARP Calumet tunnel system : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/4684d95a-4a2a-4e06-9a9e-25fd0a55bf56",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -448,6 +485,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-230-kv-transmission-line-canadian-border-to.json",
     "label": "Environmental Impact Statement, 230 KV Transmission Line, Canadian Border to Hibbing, Minnesota",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/421d0ef0-897a-479c-8aa9-62e103d34835/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/421d0ef0-897a-479c-8aa9-62e103d34835",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -460,6 +498,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-center-leg-inner-loop-freeway-h-street-and.json",
     "label": "Environmental Impact Statement, Center Leg, Inner Loop Freeway, H Street and Massachusetts Avenue to New York Avenue",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/c6bd97e3-79e5-40a8-b4d7-5de792ccb90b",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -472,6 +511,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-arizona-project.json",
     "label": "Environmental Impact Statement, Central Arizona Project",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/18cda179-5c34-4766-9933-ed5b19e3216b/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/18cda179-5c34-4766-9933-ed5b19e3216b",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -484,6 +524,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-central-city-urban-renewal-project-parksburg.json",
     "label": "Environmental Impact Statement, Central City Urban Renewal Project, Parksburg, West Virginia",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8ba08ab6-540b-47a9-9ce3-51f98ab14e11/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8ba08ab6-540b-47a9-9ce3-51f98ab14e11",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -496,6 +537,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-city-university-urban-renewal-project-iowa-city.json",
     "label": "Environmental Impact Statement, City-University Urban Renewal Project, Iowa City, Iowa",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3285810a-f780-443e-822a-7ef14b6f639d/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/3285810a-f780-443e-822a-7ef14b6f639d",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -508,6 +550,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-debris-removal-north-branch-chicago-river.json",
     "label": "Environmental Impact Statement, Debris Removal, North Branch Chicago River, Illinois",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2373db98-80ca-481c-b9ab-4a4e34101633/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/2373db98-80ca-481c-b9ab-4a4e34101633",
     "themes": [
       "Water Systems"
     ],
@@ -520,6 +563,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-deep-geothermal-test-well-geothermal-research.json",
     "label": "Environmental Impact Statement, Deep Geothermal Test Well, Geothermal Research Investigations, Imperial Valley, California",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f8de89f7-a1d4-4af6-8821-910ffddd1d69/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/f8de89f7-a1d4-4af6-8821-910ffddd1d69",
     "themes": [
       "Energy Systems"
     ],
@@ -532,6 +576,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-1.json",
     "label": "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Shaw School Urban Renewal Area",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/75127156-7593-40bf-8cad-0a9a6f271fe6/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/75127156-7593-40bf-8cad-0a9a6f271fe6",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -544,6 +589,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-2.json",
     "label": "Environmental Impact Statement, District of Columbia Neighborhood Development Program, 14th Street Urban Renewal Area",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/883ba17e-9950-4167-b298-03bc472d8920/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/883ba17e-9950-4167-b298-03bc472d8920",
     "themes": [
       "Urban Development"
     ],
@@ -556,6 +602,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development-3.json",
     "label": "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Downtown Urban Renewal Area",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0a144127-7673-4605-b9ad-ee968a95ff77/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/0a144127-7673-4605-b9ad-ee968a95ff77",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -568,6 +615,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-district-of-columbia-neighborhood-development.json",
     "label": "Environmental Impact Statement, District of Columbia Neighborhood Development Program, Plan Modification Via Disposition Controls to the Downtown Urban Renewal Area",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/920f48a1-7286-48c4-80f4-fc713fc764e3/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/920f48a1-7286-48c4-80f4-fc713fc764e3",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -580,6 +628,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-dust-abatement-at-canyon-ferry-lake.json",
     "label": "Environmental Impact Statement, Dust Abatement at Canyon Ferry Lake",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/64b5d0d0-cca8-4c7c-9a37-bb9623cf88b2/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/64b5d0d0-cca8-4c7c-9a37-bb9623cf88b2",
     "themes": [
       "Water Systems"
     ],
@@ -592,6 +641,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-fap-route-42-illinois-route-43-harlem-avenue.json",
     "label": "Environmental Impact Statement, FAP Route 42 (Illinois Route 43) Harlem Avenue (119th Street to 143rd Street) Cook County, Illinois",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/848b792a-a10c-4f90-82bc-facbcad820e5/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/848b792a-a10c-4f90-82bc-facbcad820e5",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -604,6 +654,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-federal-aid-route-77-illinois-route-59-e-w.json",
     "label": "Environmental Impact Statement, Federal Aid Route 77, Illinois Route 59, E.W. Tollway to Illinois 64, DuPage County, Illinois",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d538507e-ef2e-445f-936f-ed6a722d94a0/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/d538507e-ef2e-445f-936f-ed6a722d94a0",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -616,6 +667,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-f-15-aircraft.json",
     "label": "Environmental Impact Statement for F-15 Aircraft",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/01acb9cb-b9d9-4e3b-ac0d-d6726e901272/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/01acb9cb-b9d9-4e3b-ac0d-d6726e901272",
     "themes": [
       "Energy Systems"
     ],
@@ -628,6 +680,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-for-national-aeronautics-and-space.json",
     "label": "Environmental Impact Statement, for National Aeronautics and Space Administration, Skylab Program",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/667c17d8-0027-4010-8f5c-34aad4a5c4a0/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/667c17d8-0027-4010-8f5c-34aad4a5c4a0",
     "themes": [
       "Water Systems"
     ],
@@ -640,6 +693,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-historic-hill-urban-renewal-area-newport-rhode.json",
     "label": "Environmental Impact Statement, Historic Hill Urban Renewal Area, Newport, Rhode Island",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a8c1444d-448b-481f-a578-5a25bedcf163/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a8c1444d-448b-481f-a578-5a25bedcf163",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -652,6 +706,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-hurricane-modification-research-project-stormfury.json",
     "label": "Environmental Impact Statement, Hurricane Modification Research, Project STORMFURY",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/584ffa42-7aa1-4281-bbcd-c552c80b7240/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/584ffa42-7aa1-4281-bbcd-c552c80b7240",
     "themes": [
       "Energy Systems"
     ],
@@ -664,6 +719,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interim-review-report-little-calumet-river.json",
     "label": "Environmental Impact Statement, Interim Review Report, Little Calumet River, Indiana",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/25a105fa-0445-4fa8-b955-4ac7a6a6a080/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/25a105fa-0445-4fa8-b955-4ac7a6a6a080",
     "themes": [
       "Water Systems"
     ],
@@ -676,6 +732,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-interstate-5-pedestrian-park-washington-state.json",
     "label": "Environmental Impact Statement, Interstate 5 Pedestrian Park, Washington State",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7bc711f6-961a-494a-9910-04160d85c149/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/7bc711f6-961a-494a-9910-04160d85c149",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -688,6 +745,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-land-and-water-conservation-fund-project.json",
     "label": "Environmental Impact Statement, Land and Water Conservation Fund Project",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/de72d730-179e-4543-a712-edfc8cdc420f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/de72d730-179e-4543-a712-edfc8cdc420f",
     "themes": [
       "Water Systems"
     ],
@@ -700,6 +758,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-lead-content-in-paint-volume-1-and-2.json",
     "label": "Environmental Impact Statement, Lead Content in Paint Volume 1 and 2",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/70683871-9c7f-4126-bb89-a59c6c823289/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/70683871-9c7f-4126-bb89-a59c6c823289",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -712,6 +771,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-los-angeles-harbor-deepening-project.json",
     "label": "Environmental Impact Statement, Los Angeles Harbor Deepening Project",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a97f5f02-c891-4d22-895d-b4e5a1bf7e5c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a97f5f02-c891-4d22-895d-b4e5a1bf7e5c",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -724,6 +784,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milton-south-disaster-urban-renewal-project.json",
     "label": "Environmental Impact Statement, Milton-South Disaster Urban Renewal Project, Milton-North Disaster Urban Renewal Project, Turbot Disaster Urban Renewal Project",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/bad88e66-29d3-4ac3-b7bf-79aa10d46b7a",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -736,6 +797,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-milwaukee-to-green-bay-interstate-road-brown.json",
     "label": "Environmental Impact Statement, Milwaukee to Green Bay Interstate Road, Brown County, Wisconsin",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/62f428bc-d9ed-4e68-8379-f7c00cd19194/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/62f428bc-d9ed-4e68-8379-f7c00cd19194",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -748,6 +810,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-national-aeronautics-and-space-administration.json",
     "label": "Environmental Impact Statement, National Aeronautics and Space Administration, Flight Research Center, Edwards, California",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3d31724f-2898-4cf8-a986-5a3854bb7f07/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/3d31724f-2898-4cf8-a986-5a3854bb7f07",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -760,6 +823,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-new-york-new-york-low-rent-public-housing.json",
     "label": "Environmental Impact Statement, New York, New York, Low-Rent Public Housing",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/758612a7-9985-4a7d-939b-69be24327b39/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/758612a7-9985-4a7d-939b-69be24327b39",
     "themes": [
       "Urban Development"
     ],
@@ -772,6 +836,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-northeast-corridor-improvement-project.json",
     "label": "Environmental Impact Statement, Northeast Corridor Improvement Project",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b11bb019-bda7-4f39-a7c7-6d4a4d03df42/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/b11bb019-bda7-4f39-a7c7-6d4a4d03df42",
     "themes": [],
     "location": "",
     "state": null,
@@ -782,6 +847,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-operation-breakthrough.json",
     "label": "Environmental Impact Statement, Operation BREAKTHROUGH",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/efbeb91b-0c29-4e54-b67f-2370a1c06ea4/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/efbeb91b-0c29-4e54-b67f-2370a1c06ea4",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -794,6 +860,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-pauhai-urban-renewal-project-hawaii-r-15.json",
     "label": "Environmental Impact Statement, Pauhai Urban Renewal Project, Hawaii R-15",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4ace7810-06ae-426a-8ebe-e2c52a38bfa1/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/4ace7810-06ae-426a-8ebe-e2c52a38bfa1",
     "themes": [
       "Urban Development"
     ],
@@ -806,6 +873,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-permit-application-by-delmarva-power-and-light.json",
     "label": "Environmental Impact Statement, Permit Application by Delmarva Power and Light Company, 500 KV Aerial Transmission Line, Deemers Beach, Delaware and Kelly Point, New Jersey",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/42b71b8a-9ad4-4b88-9c8b-7716d22c7907/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/42b71b8a-9ad4-4b88-9c8b-7716d22c7907",
     "themes": [
       "Water Systems"
     ],
@@ -818,6 +886,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-promulgated-standards-of-performance-for-lime.json",
     "label": "Environmental Impact Statement, Promulgated Standards of Performance for Lime Manufacturing Plants",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/4b9ad5a6-37e7-4a80-99df-c32ba33d6eed",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -830,6 +899,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-castaic-haskell-junction-power.json",
     "label": "Environmental Impact Statement, Proposed Castaic-Haskell Junction Power Transmission Line",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8941a914-a49d-4c22-a6dc-b4adc5725870/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8941a914-a49d-4c22-a6dc-b4adc5725870",
     "themes": [
       "Energy Systems"
     ],
@@ -842,6 +912,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-construction-of-the-downtown-loop.json",
     "label": "Environmental Impact Statement, Proposed Construction of the Downtown Loop Freeway at Greenville, South Carolina",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/c11ed375-5ef6-4b74-bad2-acf782427c87",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -854,6 +925,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-hud-project-selection-criteria-for.json",
     "label": "Environmental Impact Statement, Proposed HUD Project Selection Criteria for Subsidized Housing",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8e2b9830-6017-4644-a596-831a4a55b359/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8e2b9830-6017-4644-a596-831a4a55b359",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -866,6 +938,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-regulation-vinyl-chloride.json",
     "label": "Environmental Impact Statement, Proposed Regulation Vinyl Chloride",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/393e3bda-64a5-4ac5-acf6-634388a4c2f3/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/393e3bda-64a5-4ac5-acf6-634388a4c2f3",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -878,6 +951,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-proposed-standard-for-occupational-exposure-to.json",
     "label": "Environmental Impact Statement, Proposed Standard for Occupational Exposure to Inorganic Lead",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b4173ef9-9b49-4c81-a738-081d70a39856/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/b4173ef9-9b49-4c81-a738-081d70a39856",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -890,6 +964,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-public-transportation-amendments-of-1980.json",
     "label": "Environmental Impact Statement, Public Transportation Amendments of 1980",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/5cfbddc1-d414-4b93-95d4-67dd8aca5df3/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/5cfbddc1-d414-4b93-95d4-67dd8aca5df3",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -902,6 +977,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-randolph-urban-renewal-project.json",
     "label": "Environmental Impact Statement, Randolph Urban Renewal Project",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f1598e68-5c67-40ab-b6a2-81a0eb055725/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/f1598e68-5c67-40ab-b6a2-81a0eb055725",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -914,6 +990,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-route-23-urban-renewal-project-new-york-region-ii.json",
     "label": "Environmental Impact Statement, Route 23 Urban Renewal Project, New York Region II",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ee7c1e74-80bd-4f7a-b748-be62ddac92f6/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/ee7c1e74-80bd-4f7a-b748-be62ddac92f6",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -926,6 +1003,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-rush-hubbard-apartments-chicago-illinois.json",
     "label": "Environmental Impact Statement, Rush-Hubbard Apartments, Chicago, Illinois",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8438a116-20bf-4766-ab05-2914ee604664/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8438a116-20bf-4766-ab05-2914ee604664",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -938,6 +1016,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-social-security-administration-payment-center.json",
     "label": "Environmental Impact Statement, Social Security Administration Payment Center, Chicago, Illinois",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/72e53178-4561-4367-8b07-0d64bd70f60f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/72e53178-4561-4367-8b07-0d64bd70f60f",
     "themes": [
       "Urban Development"
     ],
@@ -950,6 +1029,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-the-construction-of-the-second-avenue-subway-in.json",
     "label": "Environmental Impact Statement, The Construction of the Second Avenue Subway in New York City, New York, 34th Street to 126th Street, Manhattan",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f514e16e-0bc2-4dc5-91db-d6c93edc71a0/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/f514e16e-0bc2-4dc5-91db-d6c93edc71a0",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -962,6 +1042,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-three-mile-island-nuclear-station-units-1-and-2.json",
     "label": "Environmental Impact Statement, Three Mile Island Nuclear Station, Units 1 and 2",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a98de126-0860-48b0-891e-d97682e0ac1b/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a98de126-0860-48b0-891e-d97682e0ac1b",
     "themes": [
       "Energy Systems"
     ],
@@ -974,6 +1055,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-transit-system-improvements-in-the-los-angeles.json",
     "label": "Environmental Impact Statement, Transit System Improvements in the Los Angeles Regional Core",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b0e9742f-e362-41a2-b171-0c070403606c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/b0e9742f-e362-41a2-b171-0c070403606c",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -986,6 +1068,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tropical-cumulus-cloud-modification-project.json",
     "label": "Environmental Impact Statement, Tropical Cumulus Cloud Modification Project",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/5152710f-9624-4b63-a76e-b3d2553f8215/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/5152710f-9624-4b63-a76e-b3d2553f8215",
     "themes": [
       "Energy Systems"
     ],
@@ -998,6 +1081,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-tunnel-component-of-the-tunnel-and-resevoir-plan.json",
     "label": "Environmental Impact Statement, Tunnel Component of the Tunnel and Resevoir Plan Proposed by the Metropolitan Sanitary District of Greater Chicago",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8a64d270-66b2-411e-8c22-3fd9f49a9dc6/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8a64d270-66b2-411e-8c22-3fd9f49a9dc6",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1010,6 +1094,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-wacker-drive-extension-u-s-route-7-construction.json",
     "label": "Environmental Impact Statement, Wacker Drive Extension, U.S. Route 7, Construction",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e2c41484-ef73-400a-ad96-35ef2d93fc94/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e2c41484-ef73-400a-ad96-35ef2d93fc94",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1022,6 +1107,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-winter-orographc-cloud-modification-experiment.json",
     "label": "Environmental Impact Statement, Winter Orographc Cloud Modification Experiment, Rocky Mountains of Colorado",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7c20b0af-cc9e-478b-b8b5-076ab66d4313/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/7c20b0af-cc9e-478b-b8b5-076ab66d4313",
     "themes": [
       "Energy Systems"
     ],
@@ -1034,6 +1120,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/environmental-impact-statement-zia-urban-renewal-project-amendment-gallup-new.json",
     "label": "Environmental Impact Statement, Zia Urban Renewal Project Amendment, Gallup, New Mexico",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/19ab5449-ac00-4526-8d85-763c230cdb98/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/19ab5449-ac00-4526-8d85-763c230cdb98",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1046,6 +1133,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/fap-3-milwaukee-county-expressway-system-construction-to-connect-i-94-stadium.json",
     "label": "FAP-3, Milwaukee County expressway system construction to connect I-94 stadium interchange and I-894 Greenfield interchange, Milwaukee County : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ebba288b-2bd9-4113-8900-609b69987526/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/ebba288b-2bd9-4113-8900-609b69987526",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1058,6 +1146,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/florida-area-cumulus-experiment-of-1978-environmental-impact-statement.json",
     "label": "Florida area cumulus experiment of 1978 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a8aa03bb-7b63-4fef-861e-af6fc478efc7",
     "themes": [
       "Water Systems"
     ],
@@ -1070,6 +1159,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact-1.json",
     "label": "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/94a9ee21-9cf4-41e9-9cc4-702f451ab7bf",
     "themes": [
       "Energy Systems"
     ],
@@ -1082,6 +1172,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/four-corners-ambrosia-pajariot-500-kv-transmission-line-environmental-impact.json",
     "label": "Four Corners/Ambrosia/Pajariot 500 kV transmission line : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/eeee0a97-8076-4885-8582-6e25e3c29773/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/eeee0a97-8076-4885-8582-6e25e3c29773",
     "themes": [
       "Energy Systems"
     ],
@@ -1094,6 +1185,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/glen-canyon-greenehaven-underground-transmission-line-permit-az-ut.json",
     "label": "Glen Canyon, Greenehaven underground transmission line permit (AZ,UT) : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/236ff945-85fd-4124-a6f3-5527c07da301/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/236ff945-85fd-4124-a6f3-5527c07da301",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1106,6 +1198,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/gloucester-second-waterfront-urban-renewal-environmental-impact-statement.json",
     "label": "Gloucester, Second waterfront urban renewal : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a9323139-05cc-402f-b5ec-064cd79b604c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a9323139-05cc-402f-b5ec-064cd79b604c",
     "themes": [
       "Urban Development"
     ],
@@ -1118,6 +1211,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement-1.json",
     "label": "Havasupai Indian Reservation addition : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/760952eb-290e-4c72-ac06-0277603570e5/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/760952eb-290e-4c72-ac06-0277603570e5",
     "themes": [
       "Water Systems"
     ],
@@ -1130,6 +1224,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/havasupai-indian-reservation-addition-environmental-impact-statement.json",
     "label": "Havasupai Indian Reservation addition : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/fe841cfc-70d7-4c1f-8121-6af4b14fc4a0",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1142,6 +1237,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/hungry-horse-cloud-seeding-program-environmental-impact-statement.json",
     "label": "Hungry Horse cloud seeding program : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e05c9c4e-c5fa-494c-a675-121ebb0da011/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e05c9c4e-c5fa-494c-a675-121ebb0da011",
     "themes": [
       "Water Systems"
     ],
@@ -1154,6 +1250,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-210-proposed-construction-los-angeles-environmental-impact-statement.json",
     "label": "I-210 proposed construction, Los Angeles : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/d7fff022-f7e9-4ef4-81eb-cee57c9e2b64",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1166,6 +1263,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-55-from-woodrow-wilson-dr-to-i-220-jackson-section-environmental-impact.json",
     "label": "I-55 from Woodrow Wilson Dr to I-220, Jackson section : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/34927df0-6d84-4a46-be59-35c4a6806be8/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/34927df0-6d84-4a46-be59-35c4a6806be8",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1178,6 +1276,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-676-vine-st-expressway-construction-from-schuykill-expressway-to-the-benjamin.json",
     "label": "I-676, Vine St Expressway construction from Schuykill Expressway to the Benjamin Franklin Bridge and I-95 interchange, Philadelphia : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/78bef8c8-361c-4548-8e2d-07847eb7a3e7/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/78bef8c8-361c-4548-8e2d-07847eb7a3e7",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1190,6 +1289,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/i-94-construction-upgrading-in-minneapolis-and-brooklyn-center-hennepin-county.json",
     "label": "I-94 construction, upgrading in Minneapolis and Brooklyn Center, Hennepin County : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7a4f08f7-df40-495e-a11e-fa3f79241e64/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/7a4f08f7-df40-495e-a11e-fa3f79241e64",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1202,6 +1302,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/inorganic-lead-occupational-exposure-standard-environmental-impact-statement.json",
     "label": "Inorganic lead occupational exposure standard : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c378cec1-8b83-4931-a2ea-74902caa3d29/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/c378cec1-8b83-4931-a2ea-74902caa3d29",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -1214,6 +1315,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/joshua-tree-national-monument-n-m-proposed-wilderness-area-environmental-impact.json",
     "label": "Joshua Tree National Monument (N.M.), Proposed wilderness area : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f29be4ff-79af-4b20-84a0-eb52fa3fca48/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/f29be4ff-79af-4b20-84a0-eb52fa3fca48",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1226,6 +1328,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kanab-escalante-grazing-management-environmental-impact-statement.json",
     "label": "Kanab/Escalante grazing management : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/1d34f20c-a8e0-4cb3-9887-fdbc1ce50bd5",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1238,6 +1341,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement-1.json",
     "label": "Kendall Square urban renewal : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4d4c7746-8342-4de4-b577-800db1eede37/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/4d4c7746-8342-4de4-b577-800db1eede37",
     "themes": [
       "Energy Systems"
     ],
@@ -1250,6 +1354,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kendall-square-urban-renewal-environmental-impact-statement.json",
     "label": "Kendall Square urban renewal : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2d55f0a5-2241-49ef-a135-cd5785cc36de/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/2d55f0a5-2241-49ef-a135-cd5785cc36de",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1262,6 +1367,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/kingston-urban-renewal-project-environmental-impact-statement.json",
     "label": "Kingston urban renewal project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/4a342ccc-03ca-47d4-bd0c-55ae3abcf9f5",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1274,6 +1380,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lead-content-in-paint-proposed-regulation-under-consumer-products-safety-act.json",
     "label": "Lead content in paint, proposed regulation under Consumer Products Safety Act : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ee020c1c-c909-4280-82e3-9a3c840bf039/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/ee020c1c-c909-4280-82e3-9a3c840bf039",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -1286,6 +1393,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/light-rail-transit-line-and-banfield-hwy-improvements-multnomah-county.json",
     "label": "Light rail transit line and Banfield Hwy improvements, Multnomah County : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/36d5b0f3-7371-4cac-a1bf-c052900d2d8c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/36d5b0f3-7371-4cac-a1bf-c052900d2d8c",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1298,6 +1406,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lime-manufacturing-plants-standards-environmental-impact-statement.json",
     "label": "Lime manufacturing plants standards : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3102f822-0c8a-4c77-96e0-f949d793efbc/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/3102f822-0c8a-4c77-96e0-f949d793efbc",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -1310,6 +1419,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/lincoln-hwy-upgrade-from-cicero-ave-to-chicago-road-cook-county-environmental.json",
     "label": "Lincoln Hwy upgrade from Cicero Ave. to Chicago Road, Cook County : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/9234b452-0bfe-48f8-92dd-88ca41ebfbf8/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/9234b452-0bfe-48f8-92dd-88ca41ebfbf8",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1322,6 +1432,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/loring-park-development-district-loring-100-apartments-environmental-impact.json",
     "label": "Loring Park Development District, Loring 100 apartments : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2b36982f-0ab3-43ef-a590-c2144b815bf9/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/2b36982f-0ab3-43ef-a590-c2144b815bf9",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1334,6 +1445,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-and-long-beach-harbors-environmental-impact-statement.json",
     "label": "Los Angeles and Long Beach harbors : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a7f30acc-9be6-40e1-b46d-39e68e734757/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a7f30acc-9be6-40e1-b46d-39e68e734757",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1346,6 +1458,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/los-angeles-regional-core-transit-system-improvements-alternatives-analysis.json",
     "label": "Los Angeles regional core transit system improvements alternatives analysis : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0a612a40-d453-4f71-977e-8f48c8a7e34b/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/0a612a40-d453-4f71-977e-8f48c8a7e34b",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1358,6 +1471,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/marijuana-eradication-project-pulaski-county-environmental-impact-statement.json",
     "label": "Marijuana eradication project, Pulaski County : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/24d6f1bd-a14f-4a1f-81e7-6e1ca0895556",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1370,6 +1484,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-environmental-impact-statement.json",
     "label": "Metropolitan Atlanta rapid transit system : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/6ea882b2-5f5e-4e2a-9124-2ef215a46d18/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/6ea882b2-5f5e-4e2a-9124-2ef215a46d18",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1382,6 +1497,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-atlanta-rapid-transit-system-north-line-lindbergh-piedmont-segment.json",
     "label": "Metropolitan Atlanta rapid transit system, North Line (Lindbergh-Piedmont segment), Lindbergh Drive-Piedmont Road consolidation : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/29b89810-6b04-4796-82dc-a0080bab8942/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/29b89810-6b04-4796-82dc-a0080bab8942",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1394,6 +1510,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement-1.json",
     "label": "Metropolitan Washington rapid transit system : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/baa4e032-f31a-4460-9dd2-7a6f45997ec9/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/baa4e032-f31a-4460-9dd2-7a6f45997ec9",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1406,6 +1523,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/metropolitan-washington-rapid-transit-system-environmental-impact-statement.json",
     "label": "Metropolitan Washington rapid transit system : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/42ff7d65-d32d-400d-bcff-0a8b1df54a68/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/42ff7d65-d32d-400d-bcff-0a8b1df54a68",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1418,6 +1536,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-carrier-commercial-zones-and-terminal-areas-environmental-impact-statement.json",
     "label": "Motor carrier commercial zones and terminal areas : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/cdfce13d-3b5d-450b-8dc6-4ec70b36a8d4",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1430,6 +1549,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motor-vehicle-occupant-crash-protection-proposed-rulemaking-environmental.json",
     "label": "Motor vehicle occupant crash protection, Proposed rulemaking : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a233dab1-1f29-4e83-aa49-acac6296969f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a233dab1-1f29-4e83-aa49-acac6296969f",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1442,6 +1562,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-noise-emission-regulations-environmental-impact-statement.json",
     "label": "Motorcycle noise emission regulations : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/29e993fd-c646-46b9-b599-e0fe041c5f14/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/29e993fd-c646-46b9-b599-e0fe041c5f14",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1454,6 +1575,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement-1.json",
     "label": "Motorcycle race, Johnson Valley to Parker : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e5c9c784-fb97-4882-996c-724957dc959f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e5c9c784-fb97-4882-996c-724957dc959f",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1466,6 +1588,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/motorcycle-race-johnson-valley-to-parker-environmental-impact-statement.json",
     "label": "Motorcycle race, Johnson Valley to Parker : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a30c227a-eb2b-4083-9e5f-5f697a6a58b7/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a30c227a-eb2b-4083-9e5f-5f697a6a58b7",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1478,6 +1601,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement-1.json",
     "label": "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/15705865-43f8-4aa2-9401-03cf661c8b61/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/15705865-43f8-4aa2-9401-03cf661c8b61",
     "themes": [
       "Water Systems"
     ],
@@ -1490,6 +1614,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/mt-saint-helens-recovery-operation-wa-or-environmental-impact-statement.json",
     "label": "Mt. Saint Helens recovery operation (WA,OR) : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/86988796-c1e3-43bd-bd7b-e58195a521fc/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/86988796-c1e3-43bd-bd7b-e58195a521fc",
     "themes": [
       "Water Systems"
     ],
@@ -1502,6 +1627,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/nashville-university-center-urban-renewal-area-1-environmental-impact-statement.json",
     "label": "Nashville, University Center urban renewal area 1 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/eb2210e9-64d5-4e35-a9cb-6d5ffc7bac4d",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1514,6 +1640,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/naval-weapons-center-china-lake-off-road-vehicles-recreation-environmental.json",
     "label": "Naval Weapons Center, China Lake, Off-road vehicles recreation : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/81a6fe3d-37e2-4f09-966e-504323479b6c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/81a6fe3d-37e2-4f09-966e-504323479b6c",
     "themes": [
       "Energy Systems"
     ],
@@ -1526,6 +1653,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-elmira-urban-renewal-project-environmental-impact-statement.json",
     "label": "New Elmira urban renewal project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ff9a87f5-067b-4d43-8241-851005628586/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/ff9a87f5-067b-4d43-8241-851005628586",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1538,6 +1666,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-panama-canal-treaty-environmental-impact-statement.json",
     "label": "New Panama Canal Treaty : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/af044d87-15d1-4c4a-a5c9-820f5c5a89a9/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/af044d87-15d1-4c4a-a5c9-820f5c5a89a9",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1550,6 +1679,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square-1.json",
     "label": "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/7d1d5fe8-8ac7-40be-91bc-e7a0d7209cd5",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1562,6 +1692,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/new-york-broadway-plaza-proposed-pedestrian-transit-mall-times-square.json",
     "label": "New York Broadway Plaza, Proposed pedestrian transit mall, Times Square : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8d06b1c8-2136-4eb2-9557-597ae2174d1d/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8d06b1c8-2136-4eb2-9557-597ae2174d1d",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1574,6 +1705,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/noise-regulations-and-type-certification-alternatives-civil-supersonic-sst.json",
     "label": "Noise regulations and type certification alternatives, civil supersonic (SST) aircraft : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/87baf9bd-ab6f-449e-af0e-b69f95b43cfa/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/87baf9bd-ab6f-449e-af0e-b69f95b43cfa",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1586,6 +1718,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ocean-dumping-criteria-proposed-revisions-environmental-impact-statement.json",
     "label": "Ocean dumping criteria, Proposed revisions : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/4ae772df-a902-455f-b279-28ce16b6f3db/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/4ae772df-a902-455f-b279-28ce16b6f3db",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1598,6 +1731,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicle-regulations-proposed-environmental-impact-statement.json",
     "label": "Off-road vehicle regulations, proposed : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/04f934e3-8c84-4e39-9827-5b062d04ae04/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/04f934e3-8c84-4e39-9827-5b062d04ae04",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1610,6 +1744,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/off-road-vehicles-on-public-lands-implementation-of-executive-order-11644.json",
     "label": "Off-road vehicles on public lands, implementation of Executive Order 11644 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/f009744b-3e0c-4e53-97b5-e3262f036b8b/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/f009744b-3e0c-4e53-97b5-e3262f036b8b",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1622,6 +1757,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/olympic-winter-games-1980-lake-placid-north-elba-and-wilmington-and-vicinity.json",
     "label": "Olympic Winter Games, 1980, Lake Placid, North Elba and Wilmington and vicinity : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/1d9ca3fe-6260-4990-b4aa-081821da89a5/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/1d9ca3fe-6260-4990-b4aa-081821da89a5",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1634,6 +1770,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed-1.json",
     "label": "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2db0013d-db56-496b-a68f-9fdc13a11e2f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/2db0013d-db56-496b-a68f-9fdc13a11e2f",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1646,6 +1783,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/passenger-automobile-average-fuel-economy-model-years-1981-1984-proposed.json",
     "label": "Passenger automobile average fuel economy, model years 1981-1984, Proposed rulemaking : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e5c1ac45-22bf-49dc-be0b-9e51153c0c7e",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1658,6 +1796,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/penn-susquehanna-urban-renewal-project-environmental-impact-statement.json",
     "label": "Penn Susquehanna urban renewal project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/200209c2-e42f-411f-9644-5f086f2f791c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/200209c2-e42f-411f-9644-5f086f2f791c",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1670,6 +1809,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-eastwick-urban-renewal-environmental-impact-statement.json",
     "label": "Philadelphia, Eastwick urban renewal : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/39985efa-66b9-4eef-8f44-3e1a6fc27645/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/39985efa-66b9-4eef-8f44-3e1a6fc27645",
     "themes": [
       "Water Systems"
     ],
@@ -1682,6 +1822,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/philadelphia-washington-square-west-urban-renewal-environmental-impact-statement.json",
     "label": "Philadelphia, Washington Square West urban renewal : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0940594e-e055-4864-bda0-377927b03b4d/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/0940594e-e055-4864-bda0-377927b03b4d",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1694,6 +1835,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/plastic-bottles-for-carbonated-beverages-and-beer-environmental-impact-statement.json",
     "label": "Plastic bottles for carbonated beverages and beer : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/16bd6843-d6c6-4ed0-b831-0f755ecec291/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/16bd6843-d6c6-4ed0-b831-0f755ecec291",
     "themes": [
       "Energy Systems"
     ],
@@ -1706,6 +1848,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/polychlorinated-biphenyls-proposed-rule-making-environmental-impact-statement.json",
     "label": "Polychlorinated biphenyls, Proposed rule making : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/17398b31-01b3-42f3-8a6f-7e7ac9f48823/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/17398b31-01b3-42f3-8a6f-7e7ac9f48823",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -1718,6 +1861,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/project-stormfury-atlantic-weather-modification-environmental-impact-statement.json",
     "label": "Project STORMFURY, Atlantic weather modification : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/bbae926c-0ea9-401d-9b66-a08e1513a8c1/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/bbae926c-0ea9-401d-9b66-a08e1513a8c1",
     "themes": [
       "Energy Systems"
     ],
@@ -1730,6 +1874,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-endangered-species-conservation-act-of-1973-incomplete-appendices.json",
     "label": "Proposed endangered species conservation act of 1973 (incomplete appendices) : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/60f7459a-53ad-4b30-9a36-99340046bcdb/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/60f7459a-53ad-4b30-9a36-99340046bcdb",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1742,6 +1887,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/proposed-lead-based-paint-regulations-environmental-impact-statement.json",
     "label": "Proposed lead based paint regulations : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e9579277-9c90-475e-94a6-055975228d2c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e9579277-9c90-475e-94a6-055975228d2c",
     "themes": [
       "Urban Development"
     ],
@@ -1754,6 +1900,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/raccoon-mountain-pumped-storage-plant-environmental-impact-statement.json",
     "label": "Raccoon Mountain pumped-storage plant : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/d0d16d78-dbb7-4053-bb04-8e18a2252ab3/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/d0d16d78-dbb7-4053-bb04-8e18a2252ab3",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1766,6 +1913,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rio-grande-amistad-hydroelectric-plant-environmental-impact-statement.json",
     "label": "Rio Grande, Amistad hydroelectric plant : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c56d2b58-e4a8-4b16-bd48-43dc29c6d905/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/c56d2b58-e4a8-4b16-bd48-43dc29c6d905",
     "themes": [
       "Water Systems"
     ],
@@ -1778,6 +1926,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/rochester-southeast-loop-urban-renewal-no-175-environmental-impact-statement.json",
     "label": "Rochester, Southeast loop urban renewal no.175 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/deb1182a-e9b3-450f-8891-5b47c7a3f727/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/deb1182a-e9b3-450f-8891-5b47c7a3f727",
     "themes": [
       "Urban Development"
     ],
@@ -1790,6 +1939,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/ross-ice-shelf-project-environmental-impact-statement.json",
     "label": "Ross Ice Shelf project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/99663d77-3c1d-41fb-aac6-161e96c6c181/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/99663d77-3c1d-41fb-aac6-161e96c6c181",
     "themes": [
       "Energy Systems"
     ],
@@ -1802,6 +1952,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/san-jose-community-development-block-grant-3-year-plan-july-1978-june-1981.json",
     "label": "San Jose community development block grant 3-year plan, July 1978-June 1981 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1814,6 +1965,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/shaw-school-urban-renewal-plan-environmental-impact-statement.json",
     "label": "Shaw School urban renewal plan : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2b7ab62b-094f-4cfc-a01f-3e05391f8784/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/2b7ab62b-094f-4cfc-a01f-3e05391f8784",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1826,6 +1978,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/spokane-world-exposition-expo-74-environmental-impact-statement.json",
     "label": "Spokane World Exposition, Expo 74 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/8930e8a8-a63d-42fb-8b1f-5c1c4db499c1",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1838,6 +1991,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sr-252-construction-connecting-i-5-and-i-805-san-diego-environmental-impact.json",
     "label": "SR-252 construction connecting I-5 and I-805, San Diego : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/74b6a128-27b7-4877-b7d4-a22842139fb7/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/74b6a128-27b7-4877-b7d4-a22842139fb7",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1850,6 +2004,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/st-joseph-urban-renewal-project-environmental-impact-statement.json",
     "label": "St.Joseph urban renewal project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/623b42e5-8776-42e2-a055-51067bc3e2d4/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/623b42e5-8776-42e2-a055-51067bc3e2d4",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1862,6 +2017,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stockton-west-end-ii-redevelopment-environmental-impact-statement.json",
     "label": "Stockton, West End II redevelopment : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/6d19de7d-6169-4d7f-bb77-69ae5912baab/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/6d19de7d-6169-4d7f-bb77-69ae5912baab",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1874,6 +2030,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/stony-island-ave-widening-reconstruction-e-64th-st-to-e-70th-st-chicago.json",
     "label": "Stony Island Ave widening, reconstruction, E. 64th St to E. 70th St, Chicago : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/065547ad-ed41-41ea-8f90-11726668cc6f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/065547ad-ed41-41ea-8f90-11726668cc6f",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1886,6 +2043,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/summer-nuclear-plant-230-kv-transmission-lines-cayce-environmental-impact.json",
     "label": "Summer Nuclear Plant 230 kV transmission lines, Cayce : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/81bbecc8-30f2-4ffd-85c5-f0db284eeb92/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/81bbecc8-30f2-4ffd-85c5-f0db284eeb92",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1898,6 +2056,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/sundesert-nuclear-power-plant-units-1-2-construction-environmental-impact.json",
     "label": "Sundesert Nuclear Power Plant units 1-2, construction : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/a09ad3f4-1191-442f-8219-545f2e0a62a0/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/a09ad3f4-1191-442f-8219-545f2e0a62a0",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1910,6 +2069,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-calumet-tunnel-system-environmental-impact-statement.json",
     "label": "TARP Calumet tunnel system : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2d38cd3c-afea-453a-919a-aa3926fef3ed/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/2d38cd3c-afea-453a-919a-aa3926fef3ed",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1922,6 +2082,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement-1.json",
     "label": "TARP tunnel component, Lower Des Plaines : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b80d8a26-6348-4c65-aa2b-ea7a23172358/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/b80d8a26-6348-4c65-aa2b-ea7a23172358",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1934,6 +2095,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tarp-tunnel-component-lower-des-plaines-environmental-impact-statement.json",
     "label": "TARP tunnel component, Lower Des Plaines : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/be007e4b-d662-4e2f-81c0-53f93844929c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/be007e4b-d662-4e2f-81c0-53f93844929c",
     "themes": [
       "Wildlife and Natural Areas"
     ],
@@ -1946,6 +2108,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/teton-jackson-115-kv-transmission-line-environmental-impact-statement.json",
     "label": "Teton-Jackson 115 kV transmission line : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/2e745ac2-b7e1-457c-8695-5715a96202a7/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/2e745ac2-b7e1-457c-8695-5715a96202a7",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1958,6 +2121,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-1980-report-to-congress-on-the-nation-s-renewable-resources-environmental.json",
     "label": "The 1980 Report to Congress on the nation's renewable resources : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/04086999-628d-4959-bd39-6f6c8dc9dad2/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/04086999-628d-4959-bd39-6f6c8dc9dad2",
     "themes": [],
     "location": "",
     "state": null,
@@ -1968,6 +2132,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/the-upgrading-of-103rd-street-and-timuquana-road-to-a-multi-lane-facility.json",
     "label": "The upgrading of 103rd Street and Timuquana Road to a multi-lane facility, Jacksonville : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/e37c4f05-d33a-4e81-8df2-91aedfa3f84a/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/e37c4f05-d33a-4e81-8df2-91aedfa3f84a",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1980,6 +2145,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/three-mile-island-nuclear-station-unit-2-operation-environmental-impact.json",
     "label": "Three Mile Island Nuclear Station unit 2, operation : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/c0e59cd5-f060-46b8-b0d9-88b51ba7fba5",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -1992,6 +2158,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact-1.json",
     "label": "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/6a527c28-c55d-4748-ada9-be0c126cf911/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/6a527c28-c55d-4748-ada9-be0c126cf911",
     "themes": [
       "Energy Systems"
     ],
@@ -2004,6 +2171,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/tulsa-urban-renewal-authority-river-parks-project-permit-environmental-impact.json",
     "label": "Tulsa Urban Renewal Authority river parks project permit : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b31cb341-6937-4df8-a5c7-8997d29bf1e4/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/b31cb341-6937-4df8-a5c7-8997d29bf1e4",
     "themes": [
       "Water Systems"
     ],
@@ -2016,6 +2184,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-test-program-fy-1973-environmental-impact-statement.json",
     "label": "Underground nuclear test program, FY 1973 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fd37e5be-40d4-4941-8515-1d8813b41b71/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/fd37e5be-40d4-4941-8515-1d8813b41b71",
     "themes": [
       "Energy Systems"
     ],
@@ -2028,6 +2197,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/underground-nuclear-testing-program-environmental-impact-statement.json",
     "label": "Underground nuclear testing program : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/ccd55da3-3f23-409b-a94e-83a7eccf317d/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/ccd55da3-3f23-409b-a94e-83a7eccf317d",
     "themes": [
       "Energy Systems"
     ],
@@ -2040,6 +2210,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/viking-spacecraft-program-1975-environmental-impact-statement.json",
     "label": "Viking Spacecraft Program, 1975 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/b167268b-abce-4530-8526-2a405a50b415/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/b167268b-abce-4530-8526-2a405a50b415",
     "themes": [
       "Energy Systems"
     ],
@@ -2052,6 +2223,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/vinyl-chloride-emission-standard-environmental-impact-statement.json",
     "label": "Vinyl chloride emission standard : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/0f5d553d-8fb3-4b02-9069-cec741c9d66c/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/0f5d553d-8fb3-4b02-9069-cec741c9d66c",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -2064,6 +2236,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/warm-springs-indian-reservation-environmental-impact-statement.json",
     "label": "Warm Springs Indian Reservation : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fba536d5-f1db-4e81-b8a6-e9af0be010bd/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/fba536d5-f1db-4e81-b8a6-e9af0be010bd",
     "themes": [
       "Water Systems"
     ],
@@ -2076,6 +2249,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-berkeley-urban-renewal-project-environmental-impact-statement.json",
     "label": "West Berkeley urban renewal project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/3d1c890a-1782-45ec-ad54-55011cf69b88/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/3d1c890a-1782-45ec-ad54-55011cf69b88",
     "themes": [
       "Industrial Production and Materials"
     ],
@@ -2088,6 +2262,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/west-seattle-freeway-36th-ave-se-to-i-5-environmental-impact-statement.json",
     "label": "West Seattle Freeway, 36th Ave SE to I-5 : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/1b6858dc-9375-4205-aba4-d319e027dc91/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/1b6858dc-9375-4205-aba4-d319e027dc91",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -2100,6 +2275,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wild-free-roaming-horse-and-burro-management-environmental-impact-statement.json",
     "label": "Wild free roaming horse and burro management : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/72905c97-4f67-4a33-a864-871c879b80eb/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/72905c97-4f67-4a33-a864-871c879b80eb",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -2112,6 +2288,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-industrial-park-urban-renewal-environmental-impact-statement.json",
     "label": "Wilkes-Barre, Industrial park urban renewal : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/87ad6f7e-4990-4d1e-b694-d2b75dcf0475/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/87ad6f7e-4990-4d1e-b694-d2b75dcf0475",
     "themes": [
       "Transportation Infrastructure",
       "Energy Systems",
@@ -2133,6 +2310,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/wilkes-barre-urban-renewal-project-environmental-impact-statement.json",
     "label": "Wilkes-Barre urban renewal project : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/fc05222e-9ffe-4744-af37-e9ea7c776bc6/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/fc05222e-9ffe-4744-af37-e9ea7c776bc6",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -2145,6 +2323,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/willowridge-subdivision-environmental-impact-statement.json",
     "label": "Willowridge subdivision : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/037cfa4c-bb5f-4257-9abf-c6be5c0b524f/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/037cfa4c-bb5f-4257-9abf-c6be5c0b524f",
     "themes": [
       "Energy Systems"
     ],
@@ -2157,6 +2336,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yellow-creek-nuclear-plant-environmental-impact-statement.json",
     "label": "Yellow Creek Nuclear Plant : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/28ae4c66-5926-430b-bf02-c22b6929adc9/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/28ae4c66-5926-430b-bf02-c22b6929adc9",
     "themes": [
       "Energy Systems"
     ],
@@ -2169,6 +2349,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yerba-buena-center-urban-renewal-plan-environmental-impact-statement.json",
     "label": "Yerba Buena Center urban renewal plan : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/57211e13-7b3f-432a-978a-6217a8260385/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/57211e13-7b3f-432a-978a-6217a8260385",
     "themes": [
       "Transportation Infrastructure"
     ],
@@ -2181,6 +2362,7 @@
     "id": "https://raw.githubusercontent.com/gracegormley-gkg/canumpy-/main/manifests/yonkers-downtown-commercial-complex-preliminary-environmental-impact-statement.json",
     "label": "Yonkers, Downtown commercial complex, preliminary : environmental impact statement.",
     "thumbnail": "https://api.dc.library.northwestern.edu/api/v2/works/eb2d39a3-6e5f-49df-ad86-fa9b74e254de/thumbnail",
+    "homepage": "https://dc.library.northwestern.edu/items/eb2d39a3-6e5f-49df-ad86-fa9b74e254de",
     "themes": [
       "Transportation Infrastructure"
     ],
