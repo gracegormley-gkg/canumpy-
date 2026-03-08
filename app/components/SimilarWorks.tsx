@@ -1,37 +1,6 @@
 import React from "react";
-import fs from "fs";
-import path from "path";
 import { getMetaValues, IIIFManifest } from "./MetadataUtils";
-
-type WorkEntry = {
-  slug: string;
-  id: string;
-  label: string;
-  thumbnail: string;
-  homepage: string;
-  themes: string[];
-  state: string | null;
-  completed: string;
-};
-
-const US_STATES = [
-  "Alabama","Alaska","Arizona","Arkansas","California","Colorado",
-  "Connecticut","Delaware","Florida","Georgia","Hawaii","Idaho",
-  "Illinois","Indiana","Iowa","Kansas","Kentucky","Louisiana","Maine",
-  "Maryland","Massachusetts","Michigan","Minnesota","Mississippi",
-  "Missouri","Montana","Nebraska","Nevada","New Hampshire","New Jersey",
-  "New Mexico","New York","North Carolina","North Dakota","Ohio",
-  "Oklahoma","Oregon","Pennsylvania","Rhode Island","South Carolina",
-  "South Dakota","Tennessee","Texas","Utah","Vermont","Virginia",
-  "Washington","West Virginia","Wisconsin","Wyoming","District of Columbia",
-];
-
-function extractState(location: string): string {
-  for (const state of US_STATES) {
-    if (location.toLowerCase().includes(state.toLowerCase())) return state;
-  }
-  return "";
-}
+import worksIndex, { WorkEntry } from "./worksIndex";
 
 function score(entry: WorkEntry, themes: string[], state: string): number {
   let s = 0;
@@ -44,25 +13,19 @@ function score(entry: WorkEntry, themes: string[], state: string): number {
 }
 
 export default function SimilarWorks({ manifest }: { manifest: IIIFManifest }) {
-  let index: WorkEntry[] = [];
-  try {
-    const indexPath = path.resolve(process.cwd(), "assets/works-index.json");
-    index = JSON.parse(fs.readFileSync(indexPath, "utf-8"));
-  } catch {
-    return null;
-  }
-
   const rawThemes = getMetaValues(manifest, "Themes");
   const currentThemes = rawThemes
     .flatMap((t) => t.split(";").map((s) => s.trim()))
     .filter(Boolean);
 
   const locationVals = getMetaValues(manifest, "Main Location");
-  const currentState = locationVals.length ? extractState(locationVals[0]) : "";
+  const currentState = locationVals[0]
+    ? worksIndex.find((w) => w.id === (manifest as { id: string }).id)?.state ?? ""
+    : "";
 
-  const candidates = index
+  const candidates = worksIndex
     .filter((w) => w.id !== (manifest as { id: string }).id)
-    .map((w) => ({ ...w, _score: score(w, currentThemes, currentState) }))
+    .map((w) => ({ ...w, _score: score(w, currentThemes, currentState ?? "") }))
     .filter((w) => w._score > 0)
     .sort((a, b) => b._score - a._score)
     .slice(0, 6);
@@ -80,7 +43,12 @@ export default function SimilarWorks({ manifest }: { manifest: IIIFManifest }) {
   );
 
   const WorkCard = ({ w }: { w: WorkEntry }) => (
-    <a href={w.homepage || `/canumpy-/works/${w.slug}`} target="_blank" rel="noopener noreferrer" className="canopy-similar--card">
+    <a
+      href={w.homepage}
+      target="_blank"
+      rel="noopener noreferrer"
+      className="canopy-similar--card"
+    >
       {w.thumbnail && (
         <div className="canopy-similar--thumb-wrap">
           <img src={w.thumbnail} alt="" className="canopy-similar--thumb" loading="lazy" />
