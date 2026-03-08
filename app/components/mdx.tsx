@@ -10,6 +10,7 @@ export const components = {
   MetaThemeTags: './MetaThemeTags.tsx',
   MetaKeyPeople: './MetaKeyPeople.tsx',
   MetaHistoricalContext: './MetaHistoricalContext.tsx',
+  SimilarWorks: './SimilarWorks.tsx',
 };
 
 // Map browser-only components to their source files; the builder bundles
@@ -17,5 +18,4 @@ export const components = {
 export const clientComponents = {
   ExampleClient: './Example.client.tsx',
   StoryMapJS: './StoryMapJS.client.tsx',
-  SimilarWorks: './SimilarWorks.client.tsx',
 };

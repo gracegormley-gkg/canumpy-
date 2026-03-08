@@ -44,12 +44,17 @@
 
 /* ── Summary block ── */
 .canopy-work--summary h2 {
-  font-size: 1.4rem;
-  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+  margin-bottom: 0.4rem;
 }
 
 .canopy-work--summary {
   margin-bottom: 1.5rem;
+}
+
+.canopy-work--summary p {
+  font-size: 0.85rem;
+  line-height: 1.6;
 }
 
 /* ── Theme tags ── */
