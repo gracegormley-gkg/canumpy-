@@ -8,7 +8,7 @@ The starting point was `full_doc_mongo_output_FINAL.json` (72MB), a MongoDB expo
 |---|---|---|
 | `ocr_output` | 179 | Raw OCR text from scanned pages |
 | `01_metadata` | 179 | Extracted `main_place` and `key_people` per work |
-| `02_geocoded_metadata` | 179 | Same + lat/lon coordinates (105/179 successfully geocoded) |
+| `02_geocoded_metadata` | 179 | Same + lat/lon coordinates (106/179 successfully geocoded) |
 | `03_summaries` | 179 | AI-generated plain-text summary per work |
 | `04_themes` | 179 | Categorical theme tags per work |
 | `05_quotes` | 179 | Public comments (excluded — all were model-generated placeholders) |
@@ -25,17 +25,18 @@ The starting point was `full_doc_mongo_output_FINAL.json` (72MB), a MongoDB expo
 A Python script that reads the MongoDB export and produces all IIIF output. It:
 
 1. Indexes all documents by NUL UUID (the shared key across all categories)
-2. For each of the 181 works in the NUL collection, assembles a complete IIIF Presentation 3 Manifest combining:
+2. Fetches the real IIIF manifest for each work from the Northwestern API (`api.dc.library.northwestern.edu/api/v2/works/{uuid}?as=iiif`) using a 10-worker thread pool to extract real canvases with correct file set image service URLs and page dimensions
+3. For each of the 181 works, assembles a complete IIIF Presentation 3 Manifest combining:
    - Base data (label, thumbnail, homepage) from `00_collection`
+   - Real canvases (pages + image service) from the live NUL IIIF API
    - Summary text from `03_summaries`
    - Theme tags from `04_themes`
    - Main location + key people from `02_geocoded_metadata` (falling back to `01_metadata`)
    - Lat/lon coordinates from `02_geocoded_metadata` where available
    - Historical context + completed status from `06_context`
-   - A canvas pointing to Northwestern's live IIIF image service (`iiif.dc.library.northwestern.edu/iiif/3/{uuid}`)
-3. Generates URL-safe slugs from titles (max 80 chars, word-boundary truncated, `-1`/`-2` suffixed for duplicates)
-4. Writes each manifest to `manifests/{slug}.json`
-5. Writes a new `collection.json` referencing all 181 manifests
+4. Generates URL-safe slugs from titles (max 80 chars, word-boundary truncated, `-1`/`-2` suffixed for duplicates)
+5. Writes each manifest to `manifests/{slug}.json`
+6. Writes a new `collection.json` referencing all 181 manifests
 
 **Metadata coverage in generated manifests:**
 
@@ -70,19 +71,37 @@ A Python script that reads the MongoDB export and produces all IIIF output. It:
 |---|---|---|---|
 | `CANOPY_FETCH_CONCURRENCY` | `1` | `10` | Sequential fetching of 181 manifests took ~200s; parallel cuts it to ~20s |
 | `CANOPY_CHUNK_SIZE` | `10` | `25` | Better batching for larger collection |
-| `run` command | `npm run build` | `timeout 300 npm run build \|\| true` | Canopy's build and dev share the same entry point; after printing "Build complete" the process hangs on open handles (esbuild/HTTP clients). The shell timeout kills it cleanly after completion without blocking the upload step |
+| `run` command | `npm run build` | `timeout 300 npm run build \|\| true` | Canopy's build and dev scripts share the same entry point; after printing "Build complete" the process hangs indefinitely on open handles (esbuild/HTTP clients). The shell timeout kills it cleanly after the build completes without blocking the artifact upload step |
 
 ### 3. `manifests/` *(181 new files)*
 
-All generated from the MongoDB pipeline. The template ships with no manifests; these replace the 3-item stub that existed in the previous partial attempt.
+All generated from the MongoDB pipeline via `scripts/generate_manifests.py`. The template ships with no manifests; these replace the 3-item stub that existed in the previous partial attempt.
+
+Each manifest is a valid IIIF Presentation 3 document containing:
+- Real canvases copied from the Northwestern IIIF API (correct file set UUIDs, real page dimensions)
+- All enrichment metadata from the pipeline as IIIF `metadata` label/value pairs
+- Northwestern attribution statement
+- Thumbnail and homepage linking back to the NUL Digital Collections item
 
 ### 4. `collection.json` *(replaced)*
 
-The previous version pointed to a non-existent `canopy_output/manifests/` path and listed only ~45 items (with only 3 having actual manifest files). Replaced with a clean collection referencing all 181 generated manifests at their correct `raw.githubusercontent.com` URLs, with AI-generated summaries surfaced as the collection item summaries (replacing the generic `"Image"` placeholder from the original NUL data).
+The previous version pointed to a non-existent `canopy_output/manifests/` path and listed only ~45 items (with only 3 having actual manifest files). Replaced with a clean IIIF Collection referencing all 181 generated manifests at their correct `raw.githubusercontent.com` URLs, with AI-generated summaries surfaced as collection item summaries (replacing the generic `"Image"` placeholder from the original NUL data).
 
 ### 5. `app/scripts/canopy-build.mts` *(unchanged from template)*
 
-Reverted to the original template version after an attempted `process.exit(0)` fix proved to kill the process before `site/` writes flushed to disk.
+Reverted to the original template version after an attempted `process.exit(0)` fix proved to kill the Node process before `site/` writes flushed to disk, producing an empty deployed artifact. The hanging process is handled instead by the `timeout` wrapper in the workflow.
+
+---
+
+## Why Images Were Initially Broken
+
+The first version of `generate_manifests.py` constructed IIIF canvases using the work UUID as the image service identifier:
+
+```
+https://iiif.dc.library.northwestern.edu/iiif/3/{work-uuid}/full/max/0/default.jpg
+```
+
+Northwestern's IIIF image server does not use work UUIDs — it uses **file set UUIDs**, one per scanned page, which are different from and not derivable from the work UUID. The fix was to fetch the real IIIF manifest from the NUL API for each work and copy its canvas structure directly, which provides the correct file set UUIDs, accurate page dimensions, and the full multi-page structure for works with more than one scan.
 
 ---
 
@@ -91,4 +110,4 @@ Reverted to the original template version after an attempted `process.exit(0)` f
 - `full_doc_mongo_output.json` (42MB, first pipeline run)
 - `full_doc_mongo_output_FINAL.json` (72MB, final pipeline run)
 
-Both exceed GitHub's recommended 50MB file size threshold. The generated manifests are the durable artifact; the raw MongoDB exports should be stored separately (e.g., locally or in object storage) and re-run through `scripts/generate_manifests.py` if manifests need to be regenerated.
+Both exceed GitHub's recommended 50MB file size threshold. The generated manifests are the durable artifact; the raw MongoDB exports should be stored separately (locally or in object storage) and re-run through `scripts/generate_manifests.py` if manifests need to be regenerated.
