@@ -90,17 +90,12 @@ print(f"  Context: {len(context)}")
 # Slug generation (matches existing naming convention)
 # ---------------------------------------------------------------------------
 
-MAX_SLUG_LEN = 80
+MAX_SLUG_LEN = 50  # Must match Canopy's MAX_ENTRY_SLUG_LENGTH
 
 def slugify(title: str) -> str:
     slug = title.lower()
     slug = re.sub(r"[^a-z0-9]+", "-", slug).strip("-")
-    if len(slug) > MAX_SLUG_LEN:
-        truncated = slug[:MAX_SLUG_LEN]
-        # cut at last hyphen to avoid splitting a word
-        last_hyphen = truncated.rfind("-")
-        slug = truncated[:last_hyphen] if last_hyphen > 0 else truncated
-    return slug
+    return slug[:MAX_SLUG_LEN].rstrip("-")
 
 
 def get_uuid(item: dict) -> str | None:
@@ -168,10 +163,13 @@ for item in collection_data["items"]:
     label_text = item["label"]["none"][0]
     slug_base = slugify(label_text)
 
-    # Deduplicate slugs
+    # Deduplicate slugs — mirrors Canopy's buildSlugWithSuffix logic
     if slug_base in slug_seen:
         slug_seen[slug_base] += 1
-        slug = f"{slug_base}-{slug_seen[slug_base]}"
+        suffix = f"-{slug_seen[slug_base]}"
+        base_limit = MAX_SLUG_LEN - len(suffix)
+        trimmed_base = slug_base[:base_limit].rstrip("-")
+        slug = f"{trimmed_base}{suffix}"
     else:
         slug_seen[slug_base] = 0
         slug = slug_base
