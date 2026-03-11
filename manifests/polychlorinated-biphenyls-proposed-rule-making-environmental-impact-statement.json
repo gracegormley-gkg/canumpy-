@@ -105,6 +105,30 @@
           "The project, initiated in 1971 by the FDA, aimed to address a growing concern about PCB contamination in food – a problem that had been increasingly documented through industry reports and environmental monitoring. The initial proposal focused on establishing a temporary tolerance for unavoidable PCB residues in paper food packaging, recognizing the potential for long-term environmental impacts. However, due to industry resistance and concerns about unintended consequences, the project ultimately faced significant challenges and was ultimately abandoned in favor of a more targeted approach involving stricter regulation and monitoring of PCB levels in food products. Therefore, the project was completed – null -."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1972"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Food and Drug Administration"
+        ]
+      }
     }
   ],
   "requiredStatement": {

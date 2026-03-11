@@ -105,6 +105,30 @@
           "Yes"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1974"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Federal Aviation Administration"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -93,6 +93,30 @@
           "The Tennessee Valley Authority (TVA) initiated a project to investigate the potential effects of high-voltage transmission lines on air quality, particularly ozone. Recognizing the potential for ozone depletion and respiratory problems, the project aimed to quantify these effects through laboratory and field measurements. The project ultimately concluded with a proposed substation extension at West Point-Miller, a project that faced significant challenges and ultimately faced delays and cost overruns, leading to its cancellation. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1977"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "Tennessee Valley Authority"
+        ]
+      }
     }
   ],
   "requiredStatement": {

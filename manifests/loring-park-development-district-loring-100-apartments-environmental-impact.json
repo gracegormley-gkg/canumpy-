@@ -81,6 +81,30 @@
           "Douglas Head; Dennis Grindahl; Robert Purcell; Walter Dziedzic; Thomas Johnson"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1977"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Department of Housing and Urban Development"
+        ]
+      }
     }
   ],
   "requiredStatement": {

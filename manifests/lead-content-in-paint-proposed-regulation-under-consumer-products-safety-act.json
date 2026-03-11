@@ -105,6 +105,30 @@
           "No"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1977"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "U.S. Consumer Product Safety Commission"
+        ]
+      }
     }
   ],
   "requiredStatement": {

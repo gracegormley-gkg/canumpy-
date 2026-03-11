@@ -105,6 +105,30 @@
           "The Tennessee Valley Authority (TVA) initiated the Yellow Creek Nuclear Power Plant project in the 1970s, a crucial effort to provide electricity to the Tennessee Valley region, which was heavily reliant on coal. The project aimed to modernize the region’s energy infrastructure and stimulate economic growth. However, due to environmental concerns and public opposition, the project faced significant challenges and ultimately faced delays and cost overruns, leading to its abandonment in 1986. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1978"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "Tennessee Valley Authority"
+        ]
+      }
     }
   ],
   "requiredStatement": {

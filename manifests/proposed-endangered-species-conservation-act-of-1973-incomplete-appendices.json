@@ -93,6 +93,30 @@
           "This project, initiated in the late 1960s, aimed to establish a comprehensive system for tracking and managing endangered species across the United States. The initial goal was to create a national database of species, their habitats, and conservation efforts. The project involved collaboration between federal agencies, state governments, and scientific organizations. However, due to funding limitations and shifting priorities, the project was significantly scaled back and ultimately abandoned in the early 1970s. The lack of sufficient resources and the evolving landscape of conservation led to a reduction in scope and a diminished impact on the original goals of species tracking and management. Therefore, the project was completed, but with a significantly reduced scope and a lack of long-term impact."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1973"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "U.S. Fish and Wildlife Service"
+        ]
+      }
     }
   ],
   "requiredStatement": {

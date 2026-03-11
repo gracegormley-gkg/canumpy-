@@ -117,6 +117,30 @@
           "Yes"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1972"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Economic Development Administration"
+        ]
+      }
     }
   ],
   "requiredStatement": {

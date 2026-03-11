@@ -93,6 +93,30 @@
           "Billy Cooper; Ralph G. Cooper; Larry Cooper; John M. Dempsey; Ralph G. Cooper; Billy Cooper"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1975"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Department of Housing and Urban Development"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -81,6 +81,30 @@
           "David A. Hamil; William R. Dalton; Central Electric Power Cooperative, Inc.; Richard Koutes; William R. Dalton; David A. Hamil"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1976"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Rural Electrification Administration"
+        ]
+      }
     }
   ],
   "requiredStatement": {

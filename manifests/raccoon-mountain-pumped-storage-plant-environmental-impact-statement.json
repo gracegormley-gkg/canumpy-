@@ -93,6 +93,30 @@
           "The Tennessee Valley Authority (TVA) initiated the Energization Project in 1972, a massive effort to increase power generation from the region’s hydroelectric resources. This project aimed to significantly boost electricity output by utilizing high-voltage transmission lines, a complex undertaking that involved extensive testing and monitoring. Despite significant investment, the project ultimately faced challenges related to cost overruns and unforeseen environmental impacts, leading to its cancellation in 1973. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1976"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "Tennessee Valley Authority"
+        ]
+      }
     }
   ],
   "requiredStatement": {

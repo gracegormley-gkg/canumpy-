@@ -69,6 +69,30 @@
           "John P. Giacomini; Mary Alice McWhinnie; David Elliot; Robert H. Rutford; Bruce Parker; Y. S. Antarctic Research Program"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1976"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "National Science Foundation (U.S.)"
+        ]
+      }
     }
   ],
   "requiredStatement": {

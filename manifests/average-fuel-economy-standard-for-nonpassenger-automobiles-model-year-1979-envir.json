@@ -117,6 +117,30 @@
           "Completed"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1977"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. National Highway Traffic Safety Administration"
+        ]
+      }
     }
   ],
   "requiredStatement": {

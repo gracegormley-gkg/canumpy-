@@ -105,6 +105,30 @@
           "The project, initiated in the 1970s, aimed to construct a stormwater retention basin in Tulsa, Oklahoma, to mitigate flooding and improve water quality. Recognizing the historical problem of phosphorus runoff from industrial and residential areas, the project was designed to capture and treat this pollutant. However, due to unforeseen challenges with sediment transport and the potential for increased algal blooms, the project was ultimately scaled back and abandoned, leaving the basin largely undeveloped. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1977"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Army. Corps of Engineers"
+        ]
+      }
     }
   ],
   "requiredStatement": {

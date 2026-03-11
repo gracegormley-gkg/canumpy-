@@ -105,6 +105,30 @@
           "The project, initially envisioned as a significant revitalization of Times Square, faced significant opposition from local businesses and residents concerned about traffic congestion and the loss of historic character. Despite initial enthusiasm, the project was ultimately scaled back and significantly reduced in scope, largely due to budget constraints and community concerns. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1980"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Urban Mass Transportation Administration"
+        ]
+      }
     }
   ],
   "requiredStatement": {

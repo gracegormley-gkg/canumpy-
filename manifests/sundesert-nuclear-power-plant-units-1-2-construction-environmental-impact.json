@@ -93,6 +93,30 @@
           "The Mule Mountains Transmission Line project, initiated in the 1970s, aimed to improve regional transportation and energy distribution by constructing a new high-capacity transmission line. Recognizing the potential for increased power flow and economic benefits, the project was initially approved with significant funding. However, due to unforeseen geological challenges and cost overruns, the project faced delays and ultimately faced significant financial challenges, leading to its abandonment in 2005. Therefore, the project was null – the outcome is unclear from the document and your knowledge."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1978"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "U.S. Nuclear Regulatory Commission"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -93,6 +93,30 @@
           "Robert A. Fine; Robert W. Hill"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1976"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Environmental Protection Agency"
+        ]
+      }
     }
   ],
   "requiredStatement": {

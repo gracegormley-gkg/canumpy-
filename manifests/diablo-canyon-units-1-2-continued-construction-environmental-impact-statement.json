@@ -105,6 +105,30 @@
           "The project, initiated in 1963, was a crucial effort by the U.S. Nuclear Regulatory Commission (NRC) to assess the environmental risks associated with the construction of new nuclear power plants, specifically the Diablo Canyon power plants. The goal was to establish a comprehensive framework for managing these risks, incorporating both technical and regulatory considerations. The project, initially focused on evaluating potential environmental impacts, evolved into a detailed environmental impact assessment (EIA) that became a cornerstone of nuclear power plant design and regulation. However, due to political and public opposition, the project was ultimately scaled back and ultimately abandoned, with the Diablo Canyon plants remaining operational, though with ongoing monitoring and potential future revisions to the environmental assessment. Therefore, the project was null."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1973"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "U.S. Atomic Energy Commission"
+        ]
+      }
     }
   ],
   "requiredStatement": {

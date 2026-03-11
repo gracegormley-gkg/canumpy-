@@ -105,6 +105,30 @@
           "The project, initiated in 2018, focused on developing a new AI-powered diagnostic tool for early detection of Alzheimer’s disease. Initially presented as a significant investment, the project faced significant challenges related to data acquisition and algorithm accuracy. Despite initial optimistic projections, the tool ultimately failed to achieve the desired level of performance and was subsequently cancelled after a year of development and testing. Therefore, the project was completed: false"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1973"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Forest Service"
+        ]
+      }
     }
   ],
   "requiredStatement": {

@@ -93,6 +93,30 @@
           "The Valley Street-East End revitalization project, initiated in 1978, was a significant attempt to address urban decay and economic decline in a rapidly growing area of Asheville, North Carolina.  The project aimed to improve infrastructure, stimulate local businesses, and provide housing opportunities for residents. However, due to budget constraints and shifting priorities, the project faced delays and ultimately fell short of its initial goals, leaving the area with a mixed bag of improvements and unresolved issues.  Therefore, the project was null – the outcome is unclear from the document and your knowledge."
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1978"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Department of Housing and Urban Development"
+        ]
+      }
     }
   ],
   "requiredStatement": {

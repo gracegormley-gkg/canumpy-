@@ -93,6 +93,30 @@
           "John E. Washington; Lawrence; Morton Grove; Rogers Park; Washington"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1976"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Army. Corps of Engineers"
+        ]
+      }
     }
   ],
   "requiredStatement": {

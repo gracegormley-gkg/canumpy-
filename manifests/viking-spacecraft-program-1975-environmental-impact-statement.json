@@ -105,6 +105,30 @@
           "The Viking 1975 Mars Lander program was a highly ambitious NASA initiative to send a robotic probe to Mars, representing a significant leap in space exploration technology. It involved the development of a complex system of spacecraft, including a lander, rover, and communication equipment, designed to conduct extensive scientific investigations on the Martian surface. The project faced considerable challenges and cost overruns, ultimately leading to its cancellation in 1977 due to budgetary constraints and technological limitations.  The project was null – the outcome is unclear from the document and your knowledge"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1975"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. National Aeronautics and Space Administration"
+        ]
+      }
     }
   ],
   "requiredStatement": {

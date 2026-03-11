@@ -117,6 +117,30 @@
           "Yes"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1981"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Bureau of Indian Affairs"
+        ]
+      }
     }
   ],
   "requiredStatement": {

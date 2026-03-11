@@ -93,6 +93,30 @@
           "Cornell Drive; Paul; Redeemer; Mary Prohy Johnson; Jay Miller"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Year"
+        ]
+      },
+      "value": {
+        "none": [
+          "1980"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Bureau"
+        ]
+      },
+      "value": {
+        "none": [
+          "United States. Federal Highway Administration"
+        ]
+      }
     }
   ],
   "requiredStatement": {
