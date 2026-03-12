@@ -131,6 +131,18 @@
           "U.S. Nuclear Regulatory Commission"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Contributor"
+        ]
+      },
+      "value": {
+        "none": [
+          "U.S. Nuclear Regulatory Commission"
+        ]
+      }
     }
   ],
   "requiredStatement": {
