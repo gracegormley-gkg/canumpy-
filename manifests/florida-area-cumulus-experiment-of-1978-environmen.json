@@ -9,16 +9,14 @@
   },
   "summary": {
     "none": [
-      "This final supplement to the Florida Area Cumulus Experiment (FACE) EIS, initiated in 1978, outlines a two-year research program designed to evaluate dynamic seeding techniques for rainfall increase. The FACE-2 experiment, focused on acquiring 35-67 experimental days for evaluation, was conducted in South Florida by NOAA and the Friends of the Earth, Sierra Club, and the National Wildlife Federation. The project’s goal is to determine the effectiveness of seeding in increasing rainfall and rainfall patterns. The FACE-2 program will be conducted from July 2nd to August 31st, with a planned 1980 experiment concluding the research. The project involves several agencies, including the Department of Defense, Department of the Interior, and the State of Georgia, and is overseen by Mr. Walter Kolb. The document emphasizes the potential for increased rainfall and the need for ongoing monitoring and reassessment of the environmental impact, particularly concerning the silver iodide used for seeding, which is expected to be dispersed over a wide area."
+      "The Florida Area Cumulus Experiment (FACE) of 1978 aimed to increase rainfall in South Florida using cloud seeding. This research, led by NOAA, sought to confirm earlier findings that dynamic seeding could enhance convective rainfall. The experiment was extended for two more years, with the goal of "
     ]
   },
   "thumbnail": [
     {
       "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7/thumbnail",
-      "format": "image/jpeg",
       "type": "Image",
-      "width": 400,
-      "height": 400
+      "format": "image/jpeg"
     }
   ],
   "homepage": [
@@ -42,7 +40,7 @@
       },
       "value": {
         "none": [
-          "This final supplement to the Florida Area Cumulus Experiment (FACE) EIS, initiated in 1978, outlines a two-year research program designed to evaluate dynamic seeding techniques for rainfall increase. The FACE-2 experiment, focused on acquiring 35-67 experimental days for evaluation, was conducted in South Florida by NOAA and the Friends of the Earth, Sierra Club, and the National Wildlife Federation. The project’s goal is to determine the effectiveness of seeding in increasing rainfall and rainfall patterns. The FACE-2 program will be conducted from July 2nd to August 31st, with a planned 1980 experiment concluding the research. The project involves several agencies, including the Department of Defense, Department of the Interior, and the State of Georgia, and is overseen by Mr. Walter Kolb. The document emphasizes the potential for increased rainfall and the need for ongoing monitoring and reassessment of the environmental impact, particularly concerning the silver iodide used for seeding, which is expected to be dispersed over a wide area."
+          "The Florida Area Cumulus Experiment (FACE) of 1978 aimed to increase rainfall in South Florida using cloud seeding. This research, led by NOAA, sought to confirm earlier findings that dynamic seeding could enhance convective rainfall. The experiment was extended for two more years, with the goal of achieving up to 60 experimental days. While the project had minimal environmental impact, concerns were raised about potential effects on local agriculture, particularly tomatoes, and the broader ecosystem if applied long-term. The experiment was closely coordinated with local agricultural interests to mitigate any adverse effects."
         ]
       }
     },
@@ -54,7 +52,7 @@
       },
       "value": {
         "none": [
-          "Water Systems"
+          "Climate and Weather Modification"
         ]
       }
     },
@@ -66,7 +64,7 @@
       },
       "value": {
         "none": [
-          "Florida Area Cumulus Experiment (FACE) of 1978"
+          "South Florida"
         ]
       }
     },
@@ -78,7 +76,11 @@
       },
       "value": {
         "none": [
-          "Walter Kolb; Mr. Walter Kolb; Governor; Mr. Walter Kolb; Governor; Governor"
+          "NOAA",
+          "Department of Defense",
+          "Friends of the Earth",
+          "Sierra Club",
+          "Governor, State of Florida"
         ]
       }
     },
@@ -90,7 +92,7 @@
       },
       "value": {
         "none": [
-          "The Florida Area Cumulus Experiment (FACE) began in 1970-76 as a research program to evaluate the potential of increased rainfall through dynamic seeding. This project aimed to demonstrate the feasibility of this technique, initially focused on confirming initial rainfall data. NOAA initiated FACE-2 in 1978 to expand the experiment, aiming for a minimum of 60 days of seeding to refine the research and to continue the initial 15-month period. The project’s ultimate goal was to assess the environmental impacts of the seeding operation, particularly regarding potential impacts on the local ecosystem and water quality."
+          "The Florida Area Cumulus Experiment (FACE) was proposed to explore the potential of cloud seeding to increase rainfall in South Florida, an area often affected by drought. While the project aimed to enhance rainfall for agricultural benefits, there were concerns from the public and local farmers about the possible long-term impacts on crops and the environment. Ultimately, the experiment was conducted with careful coordination with agricultural stakeholders to address these concerns, and it was deemed to have minimal environmental impact."
         ]
       }
     },
@@ -102,7 +104,7 @@
       },
       "value": {
         "none": [
-          "Yes"
+          "Completed"
         ]
       }
     },
@@ -129,6 +131,18 @@
           "United States. National Oceanic and Atmospheric Administration"
         ]
       }
+    },
+    {
+      "label": {
+        "none": [
+          "Notable Quotes"
+        ]
+      },
+      "value": {
+        "none": [
+          "\"Tomatoes are grown in the target area during the winter, spring and early summer. This is a rain-sensitive crop, particularly during ripening stage. Obviously increased rainfall from seeding at this time would have an adverse effect on this crop.\" — Impact Assessment Through 1980"
+        ]
+      }
     }
   ],
   "requiredStatement": {
@@ -139,7 +153,7 @@
     },
     "value": {
       "none": [
-        "Courtesy of Northwestern University Libraries"
+        "Materials published by the U.S. Government Printing Office are in the public domain and, as such, not subject to copyright restriction. However, the Libraries request users to cite the URL and Northwestern University Libraries if they wish to reproduce images from this site."
       ]
     }
   },
@@ -186,11 +200,6 @@
                 "format": "image/jpeg",
                 "height": 3104,
                 "width": 2368,
-                "label": {
-                  "en": [
-                    "0"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/af33ebff-a630-46d0-ad31-094782d130ef",
@@ -201,46 +210,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/0/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 838,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/0/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/0/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/af33ebff-a630-46d0-ad31-094782d130ef/full/!640,838/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 838,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/af33ebff-a630-46d0-ad31-094782d130ef",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/0/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/af33ebff-a630-46d0-ad31-094782d130ef/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -276,7 +245,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/1/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/1",
@@ -286,11 +255,6 @@
                 "format": "image/jpeg",
                 "height": 3104,
                 "width": 2368,
-                "label": {
-                  "en": [
-                    "1"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/c3e3e637-b3ad-48ef-8625-40fa2559598b",
@@ -301,46 +265,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/1/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 838,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/1/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/1/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c3e3e637-b3ad-48ef-8625-40fa2559598b/full/!640,838/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 838,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/c3e3e637-b3ad-48ef-8625-40fa2559598b",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/1/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/c3e3e637-b3ad-48ef-8625-40fa2559598b/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -376,7 +300,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/2/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/2/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/2",
@@ -386,11 +310,6 @@
                 "format": "image/jpeg",
                 "height": 3104,
                 "width": 2384,
-                "label": {
-                  "en": [
-                    "2"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/93f24ce1-5328-4c46-82c5-41616723b047",
@@ -401,46 +320,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/2/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 833,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/2/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/2/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/93f24ce1-5328-4c46-82c5-41616723b047/full/!640,833/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 833,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/93f24ce1-5328-4c46-82c5-41616723b047",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/2/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/93f24ce1-5328-4c46-82c5-41616723b047/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -476,7 +355,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/3/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/3/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/3",
@@ -486,11 +365,6 @@
                 "format": "image/jpeg",
                 "height": 3104,
                 "width": 2384,
-                "label": {
-                  "en": [
-                    "3"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/68bdff19-29e7-46fc-9ea7-2607562393dc",
@@ -501,46 +375,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/3/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 833,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/3/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/3/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/68bdff19-29e7-46fc-9ea7-2607562393dc/full/!640,833/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 833,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/68bdff19-29e7-46fc-9ea7-2607562393dc",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/3/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/68bdff19-29e7-46fc-9ea7-2607562393dc/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -576,7 +410,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/4/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/4/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/4",
@@ -586,11 +420,6 @@
                 "format": "image/jpeg",
                 "height": 3216,
                 "width": 2432,
-                "label": {
-                  "en": [
-                    "4"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/469b4efa-ff3b-4225-8845-3b3a17f5dba2",
@@ -601,46 +430,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/4/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 846,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/4/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/4/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/469b4efa-ff3b-4225-8845-3b3a17f5dba2/full/!640,846/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 846,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/469b4efa-ff3b-4225-8845-3b3a17f5dba2",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/a8aa03bb-7b63-4fef-861e-af6fc478efc7?as=iiif/canvas/4/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/469b4efa-ff3b-4225-8845-3b3a17f5dba2/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     }

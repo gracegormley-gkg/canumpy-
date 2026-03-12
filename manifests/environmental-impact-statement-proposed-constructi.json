@@ -9,16 +9,14 @@
   },
   "summary": {
     "none": [
-      "This document details the construction of a new multi-lane controlled access road connecting Greenville, South Carolina, to the existing downtown loop. The project, spearheaded by the Department of Transportation, aims to improve traffic flow and reduce congestion in the region. The document highlights the need for compensation to the city of Greenville for the taking of land and recreational areas, as outlined in the Environmental Policy Act of 1969. The project involves collaboration between the State Highway Department, the Department of Housing and Urban Development, and the Forest Service, with the EPA overseeing radiation safety. The document emphasizes the importance of consulting with local planning agencies and clearinghouses to ensure compliance with environmental regulations and to address potential impacts on the region's natural resources. It also recommends consultation with experts on radiation safety and recommends reviewing Circular A-95 for alternative relocation strategies."
+      "The proposed Downtown Loop Freeway in Greenville, South Carolina, aims to improve travel safety and accessibility by connecting I-385 to U.S. 123 over a 3.5-mile stretch. The project promises to enhance commercial activity in the downtown area but will displace numerous families, businesses, and chu"
     ]
   },
   "thumbnail": [
     {
       "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87/thumbnail",
-      "format": "image/jpeg",
       "type": "Image",
-      "width": 400,
-      "height": 400
+      "format": "image/jpeg"
     }
   ],
   "homepage": [
@@ -42,7 +40,7 @@
       },
       "value": {
         "none": [
-          "This document details the construction of a new multi-lane controlled access road connecting Greenville, South Carolina, to the existing downtown loop. The project, spearheaded by the Department of Transportation, aims to improve traffic flow and reduce congestion in the region. The document highlights the need for compensation to the city of Greenville for the taking of land and recreational areas, as outlined in the Environmental Policy Act of 1969. The project involves collaboration between the State Highway Department, the Department of Housing and Urban Development, and the Forest Service, with the EPA overseeing radiation safety. The document emphasizes the importance of consulting with local planning agencies and clearinghouses to ensure compliance with environmental regulations and to address potential impacts on the region's natural resources. It also recommends consultation with experts on radiation safety and recommends reviewing Circular A-95 for alternative relocation strategies."
+          "The proposed Downtown Loop Freeway in Greenville, South Carolina, aims to improve travel safety and accessibility by connecting I-385 to U.S. 123 over a 3.5-mile stretch. The project promises to enhance commercial activity in the downtown area but will displace numerous families, businesses, and churches. While the freeway is expected to improve traffic flow and emergency response times, it will introduce noise and air pollution to the corridor. The project has faced opposition due to its impact on historic areas and recreational spaces, but adjustments have been made to minimize harm."
         ]
       }
     },
@@ -66,7 +64,7 @@
       },
       "value": {
         "none": [
-          "Downtown Loop Freeway at Greenville, South Carolina"
+          "Greenville, South Carolina"
         ]
       }
     },
@@ -78,7 +76,11 @@
       },
       "value": {
         "none": [
-          "U. S. C. Department of Housing and Statewide Clearinghouse; Joseph Lieberman; Robert L. Broughton; Herbert F. DeSimone; W. N. Dulin; D.J. Miller"
+          "Federal Highway Administration",
+          "South Carolina State Highway Department",
+          "Greenville County Planning Commission",
+          "Harland Bartholomew and Associates",
+          "James Street Community Group"
         ]
       }
     },
@@ -90,7 +92,7 @@
       },
       "value": {
         "none": [
-          "The Downtown Loop Freeway project, initiated in the 1960s, was a significant urban development initiative in Greenville, South Carolina, aimed at improving traffic flow and facilitating economic growth. The project involved the construction of a new multi-lane freeway, designed to connect the city’s downtown area to surrounding areas. However, the project faced considerable opposition from local residents and environmental groups, leading to delays and ultimately, abandonment of the project in 1973 due to cost overruns and community concerns regarding potential environmental impacts. The project ultimately failed to achieve its intended goals of creating a more efficient transportation network, highlighting the challenges of balancing urban development with community concerns and resource constraints."
+          "The Downtown Loop Freeway project in Greenville was proposed to enhance transportation efficiency and stimulate economic growth in the downtown area. However, it faced significant public opposition due to concerns over displacement of residents and businesses, as well as potential damage to historic sites and green spaces. Despite these challenges, modifications were made to the plan to address some of the community's concerns, allowing the project to move forward."
         ]
       }
     },
@@ -102,7 +104,20 @@
       },
       "value": {
         "none": [
-          "Yes"
+          "Incomplete"
+        ]
+      }
+    },
+    {
+      "label": {
+        "none": [
+          "Notable Quotes"
+        ]
+      },
+      "value": {
+        "none": [
+          "\"Strong opposition was voiced to any location in that area.\" — Public Reaction Summary",
+          "\"The Department staff considered that the great opposition due to the apparent historical significance of the James Street area warranted a shift in the preferred alignment.\" — Summary of Public Hearing Environmental Comments"
         ]
       }
     }
@@ -115,7 +130,7 @@
     },
     "value": {
       "none": [
-        "Courtesy of Northwestern University Libraries"
+        null
       ]
     }
   },
@@ -162,11 +177,6 @@
                 "format": "image/jpeg",
                 "height": 3376,
                 "width": 2576,
-                "label": {
-                  "en": [
-                    "0"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/66f255f3-27b6-4366-8319-9d52fa681ff2",
@@ -177,46 +187,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/0/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 838,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/0/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/0/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/66f255f3-27b6-4366-8319-9d52fa681ff2/full/!640,838/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 838,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/66f255f3-27b6-4366-8319-9d52fa681ff2",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/0/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/66f255f3-27b6-4366-8319-9d52fa681ff2/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -252,7 +222,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/1/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/1/annotation/1",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/1",
@@ -262,11 +232,6 @@
                 "format": "image/jpeg",
                 "height": 3376,
                 "width": 2624,
-                "label": {
-                  "en": [
-                    "1"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/8b202dc1-d7fc-43ff-96c1-ba31b63688fa",
@@ -277,46 +242,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/1/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 823,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/1/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/1/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8b202dc1-d7fc-43ff-96c1-ba31b63688fa/full/!640,823/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 823,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/8b202dc1-d7fc-43ff-96c1-ba31b63688fa",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/1/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8b202dc1-d7fc-43ff-96c1-ba31b63688fa/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -352,7 +277,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/2/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/2/annotation/2",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/2",
@@ -362,11 +287,6 @@
                 "format": "image/jpeg",
                 "height": 3360,
                 "width": 2656,
-                "label": {
-                  "en": [
-                    "2"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/1bfe9dfb-a6ae-4c42-9bdc-b23b3fd4162a",
@@ -377,46 +297,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/2/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 809,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/2/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/2/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/1bfe9dfb-a6ae-4c42-9bdc-b23b3fd4162a/full/!640,809/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 809,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/1bfe9dfb-a6ae-4c42-9bdc-b23b3fd4162a",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/2/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/1bfe9dfb-a6ae-4c42-9bdc-b23b3fd4162a/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -452,7 +332,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/3/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/3/annotation/3",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/3",
@@ -462,11 +342,6 @@
                 "format": "image/jpeg",
                 "height": 3376,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "3"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/e0370165-6fbc-4a9c-9718-a47833da3b74",
@@ -477,46 +352,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/3/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 828,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/3/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/3/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/e0370165-6fbc-4a9c-9718-a47833da3b74/full/!640,828/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 828,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/e0370165-6fbc-4a9c-9718-a47833da3b74",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/3/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/e0370165-6fbc-4a9c-9718-a47833da3b74/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -552,7 +387,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/4/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/4/annotation/4",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/4",
@@ -562,11 +397,6 @@
                 "format": "image/jpeg",
                 "height": 3360,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "4"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/559a6157-45bc-4488-9d9d-050127b408b8",
@@ -577,46 +407,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/4/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 824,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/4/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/4/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/559a6157-45bc-4488-9d9d-050127b408b8/full/!640,824/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 824,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/559a6157-45bc-4488-9d9d-050127b408b8",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/4/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/559a6157-45bc-4488-9d9d-050127b408b8/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -652,7 +442,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/5/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/5/annotation/5",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/5",
@@ -662,11 +452,6 @@
                 "format": "image/jpeg",
                 "height": 3376,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "5"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/c76196f8-735c-4850-8318-8fd54ff7737b",
@@ -677,46 +462,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/5/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 828,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/5/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/5/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/c76196f8-735c-4850-8318-8fd54ff7737b/full/!640,828/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 828,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/c76196f8-735c-4850-8318-8fd54ff7737b",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/5/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/c76196f8-735c-4850-8318-8fd54ff7737b/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -752,7 +497,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/6/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/6/annotation/6",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/6",
@@ -762,11 +507,6 @@
                 "format": "image/jpeg",
                 "height": 3376,
                 "width": 2592,
-                "label": {
-                  "en": [
-                    "6"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/ce51c711-50b4-49b1-a145-0279c028925f",
@@ -777,46 +517,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/6/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 833,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/6/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/6/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/ce51c711-50b4-49b1-a145-0279c028925f/full/!640,833/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 833,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/ce51c711-50b4-49b1-a145-0279c028925f",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/6/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/ce51c711-50b4-49b1-a145-0279c028925f/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -852,7 +552,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/7/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/7/annotation/7",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/7",
@@ -862,11 +562,6 @@
                 "format": "image/jpeg",
                 "height": 3376,
                 "width": 2592,
-                "label": {
-                  "en": [
-                    "7"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/983c3602-65e5-4c57-9a47-cb9bab3710eb",
@@ -877,46 +572,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/7/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 833,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/7/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/7/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/983c3602-65e5-4c57-9a47-cb9bab3710eb/full/!640,833/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 833,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/983c3602-65e5-4c57-9a47-cb9bab3710eb",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/7/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/983c3602-65e5-4c57-9a47-cb9bab3710eb/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -952,7 +607,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/8/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/8/annotation/8",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/8",
@@ -962,11 +617,6 @@
                 "format": "image/jpeg",
                 "height": 3264,
                 "width": 2528,
-                "label": {
-                  "en": [
-                    "8"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/974526c8-9753-40e0-ad6e-2ab62653a50d",
@@ -977,46 +627,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/8/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 826,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/8/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/8/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/974526c8-9753-40e0-ad6e-2ab62653a50d/full/!640,826/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 826,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/974526c8-9753-40e0-ad6e-2ab62653a50d",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/8/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/974526c8-9753-40e0-ad6e-2ab62653a50d/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1052,7 +662,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/9/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/9/annotation/9",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/9",
@@ -1062,11 +672,6 @@
                 "format": "image/jpeg",
                 "height": 3376,
                 "width": 2640,
-                "label": {
-                  "en": [
-                    "9"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/dd725fb0-70fd-4f9b-992e-ca6c54c37af0",
@@ -1077,46 +682,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/9/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 818,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/9/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/9/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/dd725fb0-70fd-4f9b-992e-ca6c54c37af0/full/!640,818/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 818,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/dd725fb0-70fd-4f9b-992e-ca6c54c37af0",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/9/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/dd725fb0-70fd-4f9b-992e-ca6c54c37af0/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1152,7 +717,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/10/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/10/annotation/10",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/10",
@@ -1162,11 +727,6 @@
                 "format": "image/jpeg",
                 "height": 3360,
                 "width": 2672,
-                "label": {
-                  "en": [
-                    "10"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/a32b1aaf-d196-4334-ae48-414d08eedfd4",
@@ -1177,46 +737,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/10/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 804,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/10/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/10/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/a32b1aaf-d196-4334-ae48-414d08eedfd4/full/!640,804/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 804,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/a32b1aaf-d196-4334-ae48-414d08eedfd4",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/10/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/a32b1aaf-d196-4334-ae48-414d08eedfd4/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1252,7 +772,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/11/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/11/annotation/11",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/11",
@@ -1262,11 +782,6 @@
                 "format": "image/jpeg",
                 "height": 3376,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "11"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/29389f1b-bcbc-4998-8f83-ebf145736594",
@@ -1277,46 +792,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/11/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 828,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/11/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/11/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/29389f1b-bcbc-4998-8f83-ebf145736594/full/!640,828/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 828,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/29389f1b-bcbc-4998-8f83-ebf145736594",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/11/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/29389f1b-bcbc-4998-8f83-ebf145736594/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1352,7 +827,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/12/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/12/annotation/12",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/12",
@@ -1362,11 +837,6 @@
                 "format": "image/jpeg",
                 "height": 2608,
                 "width": 3408,
-                "label": {
-                  "en": [
-                    "12"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/d32f23b7-e031-476d-b971-40362787666e",
@@ -1377,46 +847,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/12/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 489,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/12/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/12/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/d32f23b7-e031-476d-b971-40362787666e/full/!640,489/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 489,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/d32f23b7-e031-476d-b971-40362787666e",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/12/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/d32f23b7-e031-476d-b971-40362787666e/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1452,7 +882,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/13/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/13/annotation/13",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/13",
@@ -1462,11 +892,6 @@
                 "format": "image/jpeg",
                 "height": 2546,
                 "width": 3290,
-                "label": {
-                  "en": [
-                    "13"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/147478f3-b64c-49b8-9c6a-4d690fcba65b",
@@ -1477,46 +902,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/13/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 495,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/13/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/13/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/147478f3-b64c-49b8-9c6a-4d690fcba65b/full/!640,495/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 495,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/147478f3-b64c-49b8-9c6a-4d690fcba65b",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/13/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/147478f3-b64c-49b8-9c6a-4d690fcba65b/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1552,7 +937,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/14/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/14/annotation/14",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/14",
@@ -1562,11 +947,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "14"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/99ab1063-dc4f-4a9b-96d0-56aa22b4d4d9",
@@ -1577,46 +957,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/14/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 832,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/14/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/14/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/99ab1063-dc4f-4a9b-96d0-56aa22b4d4d9/full/!640,832/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 832,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/99ab1063-dc4f-4a9b-96d0-56aa22b4d4d9",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/14/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/99ab1063-dc4f-4a9b-96d0-56aa22b4d4d9/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1652,7 +992,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/15/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/15/annotation/15",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/15",
@@ -1662,11 +1002,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "15"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/662c072b-fa0c-4824-8ead-264660343247",
@@ -1677,46 +1012,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/15/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 832,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/15/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/15/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/662c072b-fa0c-4824-8ead-264660343247/full/!640,832/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 832,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/662c072b-fa0c-4824-8ead-264660343247",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/15/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/662c072b-fa0c-4824-8ead-264660343247/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1752,7 +1047,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/16/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/16/annotation/16",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/16",
@@ -1762,11 +1057,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "16"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/5cd05477-2ad7-4fde-8fb4-d4089d0e9185",
@@ -1777,46 +1067,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/16/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 832,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/16/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/16/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/5cd05477-2ad7-4fde-8fb4-d4089d0e9185/full/!640,832/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 832,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/5cd05477-2ad7-4fde-8fb4-d4089d0e9185",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/16/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/5cd05477-2ad7-4fde-8fb4-d4089d0e9185/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1852,7 +1102,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/17/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/17/annotation/17",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/17",
@@ -1862,11 +1112,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2592,
-                "label": {
-                  "en": [
-                    "17"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/dc5156ed-876a-437a-9806-f278ee87b955",
@@ -1877,46 +1122,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/17/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 837,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/17/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/17/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/dc5156ed-876a-437a-9806-f278ee87b955/full/!640,837/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 837,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/dc5156ed-876a-437a-9806-f278ee87b955",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/17/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/dc5156ed-876a-437a-9806-f278ee87b955/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -1952,7 +1157,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/18/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/18/annotation/18",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/18",
@@ -1962,11 +1167,6 @@
                 "format": "image/jpeg",
                 "height": 2536,
                 "width": 3292,
-                "label": {
-                  "en": [
-                    "18"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/8321eb13-d32e-4e31-aeb0-d295f706c974",
@@ -1977,46 +1177,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/18/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 493,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/18/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/18/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8321eb13-d32e-4e31-aeb0-d295f706c974/full/!640,493/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 493,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/8321eb13-d32e-4e31-aeb0-d295f706c974",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/18/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8321eb13-d32e-4e31-aeb0-d295f706c974/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2052,7 +1212,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/19/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/19/annotation/19",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/19",
@@ -2062,11 +1222,6 @@
                 "format": "image/jpeg",
                 "height": 2557,
                 "width": 3288,
-                "label": {
-                  "en": [
-                    "19"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/6e319b3c-a6c7-4b69-9e9c-f0baaa4759ce",
@@ -2077,46 +1232,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/19/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 497,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/19/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/19/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/6e319b3c-a6c7-4b69-9e9c-f0baaa4759ce/full/!640,497/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 497,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/6e319b3c-a6c7-4b69-9e9c-f0baaa4759ce",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/19/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/6e319b3c-a6c7-4b69-9e9c-f0baaa4759ce/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2152,7 +1267,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/20/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/20/annotation/20",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/20",
@@ -2162,11 +1277,6 @@
                 "format": "image/jpeg",
                 "height": 3304,
                 "width": 2531,
-                "label": {
-                  "en": [
-                    "20"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/ab02b4fd-77c4-46e6-b326-194627ddb922",
@@ -2177,46 +1287,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/20/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 835,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/20/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/20/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/ab02b4fd-77c4-46e6-b326-194627ddb922/full/!640,835/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 835,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/ab02b4fd-77c4-46e6-b326-194627ddb922",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/20/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/ab02b4fd-77c4-46e6-b326-194627ddb922/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2252,7 +1322,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/21/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/21/annotation/21",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/21",
@@ -2262,11 +1332,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2592,
-                "label": {
-                  "en": [
-                    "21"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/587f7178-c3a1-499d-b139-998589c18b31",
@@ -2277,46 +1342,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/21/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 837,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/21/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/21/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/587f7178-c3a1-499d-b139-998589c18b31/full/!640,837/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 837,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/587f7178-c3a1-499d-b139-998589c18b31",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/21/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/587f7178-c3a1-499d-b139-998589c18b31/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2352,7 +1377,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/22/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/22/annotation/22",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/22",
@@ -2362,11 +1387,6 @@
                 "format": "image/jpeg",
                 "height": 3424,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "22"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/37b6c049-25d2-4f4e-a884-ef6db264ce41",
@@ -2377,46 +1397,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/22/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 840,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/22/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/22/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/37b6c049-25d2-4f4e-a884-ef6db264ce41/full/!640,840/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 840,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/37b6c049-25d2-4f4e-a884-ef6db264ce41",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/22/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/37b6c049-25d2-4f4e-a884-ef6db264ce41/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2452,7 +1432,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/23/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/23/annotation/23",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/23",
@@ -2462,11 +1442,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "23"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/400b5467-3507-4afa-a050-5cc8951329a1",
@@ -2477,46 +1452,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/23/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 832,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/23/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/23/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/400b5467-3507-4afa-a050-5cc8951329a1/full/!640,832/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 832,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/400b5467-3507-4afa-a050-5cc8951329a1",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/23/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/400b5467-3507-4afa-a050-5cc8951329a1/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2552,7 +1487,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/24/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/24/annotation/24",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/24",
@@ -2562,11 +1497,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "24"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/74d65e43-d1d4-44bf-8c51-693b4b0e6d72",
@@ -2577,46 +1507,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/24/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 832,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/24/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/24/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/74d65e43-d1d4-44bf-8c51-693b4b0e6d72/full/!640,832/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 832,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/74d65e43-d1d4-44bf-8c51-693b4b0e6d72",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/24/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/74d65e43-d1d4-44bf-8c51-693b4b0e6d72/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2652,7 +1542,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/25/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/25/annotation/25",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/25",
@@ -2662,11 +1552,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "25"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/8b594da4-5fa2-42ad-b60a-2437ce9a4e21",
@@ -2677,46 +1562,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/25/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 832,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/25/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/25/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/8b594da4-5fa2-42ad-b60a-2437ce9a4e21/full/!640,832/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 832,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/8b594da4-5fa2-42ad-b60a-2437ce9a4e21",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/25/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/8b594da4-5fa2-42ad-b60a-2437ce9a4e21/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2752,7 +1597,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/26/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/26/annotation/26",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/26",
@@ -2762,11 +1607,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "26"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/06c7f68f-8494-438f-99b8-cbe798aca377",
@@ -2777,46 +1617,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/26/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 832,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/26/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/26/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/06c7f68f-8494-438f-99b8-cbe798aca377/full/!640,832/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 832,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/06c7f68f-8494-438f-99b8-cbe798aca377",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/26/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/06c7f68f-8494-438f-99b8-cbe798aca377/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2852,7 +1652,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/27/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/27/annotation/27",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/27",
@@ -2862,11 +1662,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2608,
-                "label": {
-                  "en": [
-                    "27"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/529ae9c6-4e5d-4366-b62c-81f57c0d614b",
@@ -2877,46 +1672,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/27/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 832,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/27/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/27/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/529ae9c6-4e5d-4366-b62c-81f57c0d614b/full/!640,832/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 832,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/529ae9c6-4e5d-4366-b62c-81f57c0d614b",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/27/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/529ae9c6-4e5d-4366-b62c-81f57c0d614b/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     },
@@ -2952,7 +1707,7 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/28/annotation/0",
+              "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/28/annotation/28",
               "type": "Annotation",
               "motivation": "painting",
               "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/28",
@@ -2962,11 +1717,6 @@
                 "format": "image/jpeg",
                 "height": 3392,
                 "width": 2592,
-                "label": {
-                  "en": [
-                    "28"
-                  ]
-                },
                 "service": [
                   {
                     "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/bc7ef200-21a1-4c83-baae-c9cec4091f03",
@@ -2977,46 +1727,6 @@
               }
             }
           ]
-        }
-      ],
-      "placeholderCanvas": {
-        "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/28/placeholder",
-        "type": "Canvas",
-        "width": 640,
-        "height": 837,
-        "items": [
-          {
-            "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/28/placeholder/annotation-page/0",
-            "type": "AnnotationPage",
-            "items": [
-              {
-                "id": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/28/placeholder/annotation/0",
-                "type": "Annotation",
-                "motivation": "painting",
-                "body": {
-                  "id": "https://iiif.dc.library.northwestern.edu/iiif/3/bc7ef200-21a1-4c83-baae-c9cec4091f03/full/!640,837/0/default.jpg",
-                  "type": "Image",
-                  "format": "image/jpeg",
-                  "width": 640,
-                  "height": 837,
-                  "service": [
-                    {
-                      "@id": "https://iiif.dc.library.northwestern.edu/iiif/3/bc7ef200-21a1-4c83-baae-c9cec4091f03",
-                      "@type": "ImageService2",
-                      "profile": "http://iiif.io/api/image/2/level2.json"
-                    }
-                  ]
-                },
-                "target": "https://api.dc.library.northwestern.edu/api/v2/works/c11ed375-5ef6-4b74-bad2-acf782427c87?as=iiif/canvas/28/placeholder"
-              }
-            ]
-          }
-        ]
-      },
-      "annotations": [
-        {
-          "id": "https://api.dc.library.northwestern.edu/api/v2/file-sets/bc7ef200-21a1-4c83-baae-c9cec4091f03/annotations?as=iiif",
-          "type": "AnnotationPage"
         }
       ]
     }
