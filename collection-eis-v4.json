@@ -9,7 +9,7 @@
   },
   "summary": {
     "none": [
-      "Environmental Impact Statement Collection — Northwestern University Libraries"
+      "Environmental Impact Statement Collection \u2014 Northwestern University Libraries"
     ]
   },
   "items": [
@@ -67,6 +67,42 @@
           "value": {
             "none": [
               "Industrial Manufacturing and Pollution"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
             ]
           }
         }
@@ -190,6 +226,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.661256"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-91.529911"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Iowa City, Johnson County, Iowa, United States"
+            ]
+          }
         }
       ]
     },
@@ -306,6 +378,42 @@
           "value": {
             "none": [
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "34.926083"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-117.935068"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Edwards, Kern County, California, 93523, United States"
             ]
           }
         }
@@ -612,6 +720,42 @@
               "Infrastructure Impacts on Landscapes"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "34.851354"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-82.398488"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Greenville, Greenville County, South Carolina, United States"
+            ]
+          }
         }
       ]
     },
@@ -793,6 +937,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.901877"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-74.263363"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Township of Wayne McCoog Park, Fairfield Village, Mountain View, Wayne, Passaic County, New Jersey, United States"
+            ]
+          }
         }
       ]
     },
@@ -914,6 +1094,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.875562"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.624421"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chicago, South Chicago Township, Cook County, Illinois, United States"
+            ]
+          }
         }
       ]
     },
@@ -971,6 +1187,42 @@
           "value": {
             "none": [
               "Water Infrastructure and Management"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.875562"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.624421"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chicago, South Chicago Township, Cook County, Illinois, United States"
             ]
           }
         }
@@ -1031,6 +1283,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.266731"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-81.562076"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Parkersburg, Wood County, West Virginia, United States"
             ]
           }
         }
@@ -1331,6 +1619,42 @@
               "Energy Distribution and Consumption"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.266311"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-76.886112"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Harrisburg, Dauphin County, Pennsylvania, United States"
+            ]
+          }
         }
       ]
     },
@@ -1390,6 +1714,42 @@
             "none": [
               "Habitat Conservation and Biodiversity",
               "Urban Expansion and Land Use Change"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.332738"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.993955"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Lake County, Illinois, United States"
             ]
           }
         }
@@ -1631,6 +1991,42 @@
               "Energy Distribution and Consumption"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.266311"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-76.886112"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Harrisburg, Dauphin County, Pennsylvania, United States"
+            ]
+          }
         }
       ]
     },
@@ -1692,6 +2088,42 @@
               "Urban Expansion and Land Use Change"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.332738"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.993955"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Lake County, Illinois, United States"
+            ]
+          }
         }
       ]
     },
@@ -1750,6 +2182,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "35.528351"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-108.743907"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Gallup, McKinley County, New Mexico, 87301, United States"
             ]
           }
         }
@@ -1813,6 +2281,42 @@
               "Community Resistance and Activism"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "21.312903"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-157.8628"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chinatown, Honolulu, Honolulu County, Hawaii, 96808, United States"
+            ]
+          }
         }
       ]
     },
@@ -1870,6 +2374,42 @@
           "value": {
             "none": [
               "Industrial Manufacturing and Pollution"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
             ]
           }
         }
@@ -1933,6 +2473,42 @@
               "Habitat Conservation and Biodiversity"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "33.709742"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-118.267571"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Los Angeles Harbor, Los Angeles, Los Angeles County, California, 90734, United States"
+            ]
+          }
         }
       ]
     },
@@ -1991,6 +2567,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.875562"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.624421"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chicago, South Chicago Township, Cook County, Illinois, United States"
             ]
           }
         }
@@ -2053,6 +2665,42 @@
               "Infrastructure Impacts on Landscapes"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.860374"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-88.090687"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "DuPage County, Illinois, United States"
+            ]
+          }
         }
       ]
     },
@@ -2110,6 +2758,42 @@
           "value": {
             "none": [
               "Water Infrastructure and Management"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.981696"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.742536"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "North Branch Chicago River, Chicago, Jefferson Township, Cook County, Illinois, United States"
             ]
           }
         }
@@ -2171,6 +2855,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Urban Expansion and Land Use Change"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
             ]
           }
         }
@@ -2290,6 +3010,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.489983"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-71.313771"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Newport, Newport County, Rhode Island, 02840, United States"
             ]
           }
         }
@@ -2532,6 +3288,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
+            ]
+          }
         }
       ]
     },
@@ -2711,6 +3503,42 @@
               "Mobility Networks and Connectivity"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.757955"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-73.985532"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Manhattan, New York County, New York, United States"
+            ]
+          }
         }
       ]
     },
@@ -2768,6 +3596,42 @@
           "value": {
             "none": [
               "Energy Extraction and Production"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "28.519231"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-80.64325"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "John F. Kennedy Space Center, Brevard County, Florida, 32899, United States"
             ]
           }
         }
@@ -2830,6 +3694,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.723101"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-73.846613"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Forest Hills, Queens, Queens County, New York, United States"
+            ]
+          }
         }
       ]
     },
@@ -2888,6 +3788,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "33.754466"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-84.389815"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Atlanta, Fulton County, Georgia, United States"
             ]
           }
         }
@@ -3009,6 +3945,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
+            ]
+          }
         }
       ]
     },
@@ -3066,6 +4038,42 @@
           "value": {
             "none": [
               "Energy Extraction and Production"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "28.21002"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-80.799718"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Brevard County, Florida, United States"
             ]
           }
         }
@@ -3126,6 +4134,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "47.657193"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-117.42351"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Spokane, Spokane County, Washington, United States"
             ]
           }
         }
@@ -3249,6 +4293,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "37.868951"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-122.296827"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "West Berkeley, Berkeley, Alameda County, California, 94710, United States"
+            ]
+          }
         }
       ]
     },
@@ -3307,6 +4387,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.768605"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-94.846632"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Saint Joseph, Buchanan County, Missouri, United States"
             ]
           }
         }
@@ -3369,6 +4485,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "35.217084"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-120.826087"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Diablo Canyon, San Luis Obispo County, California, United States"
+            ]
+          }
         }
       ]
     },
@@ -3427,6 +4579,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.246482"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-75.881732"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Wilkes-Barre, Luzerne County, Pennsylvania, United States"
             ]
           }
         }
@@ -3489,6 +4677,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "35.217084"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-120.826087"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Diablo Canyon, San Luis Obispo County, California, United States"
+            ]
+          }
         }
       ]
     },
@@ -3549,6 +4773,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.246482"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-75.881732"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Wilkes-Barre, Luzerne County, Pennsylvania, United States"
+            ]
+          }
         }
       ]
     },
@@ -3606,7 +4866,7 @@
           "value": {
             "none": [
               "Habitat Conservation and Biodiversity",
-              "Human–Wildlife Interactions"
+              "Human\u2013Wildlife Interactions"
             ]
           }
         }
@@ -3728,6 +4988,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.262014"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-75.897197"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Kingston, Luzerne County, Pennsylvania, United States"
             ]
           }
         }
@@ -3969,6 +5265,42 @@
               "Energy Extraction and Production"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "37.103559"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-116.05833"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Nevada National Security Site, Nye County, Nevada, United States"
+            ]
+          }
         }
       ]
     },
@@ -4089,6 +5421,42 @@
               "Infrastructure Impacts on Landscapes"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "32.757328"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-96.867496"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "AIR Supply of North Texas, 2829, Fort Worth Avenue, Dallas, Dallas County, Texas, 75211, United States"
+            ]
+          }
         }
       ]
     },
@@ -4148,6 +5516,42 @@
             "none": [
               "Habitat Conservation and Biodiversity",
               "Mobility Networks and Connectivity"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.147262"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-82.980155"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Public Lands, 1510, Polaris Parkway, Columbus, Delaware County, Ohio, 43240, United States"
             ]
           }
         }
@@ -4211,6 +5615,42 @@
               "Community Resistance and Activism"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "30.326225"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-81.657918"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Jacksonville, Duval County, Florida, United States"
+            ]
+          }
         }
       ]
     },
@@ -4272,6 +5712,42 @@
               "Mobility Networks and Connectivity"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.689978"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.797414"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Worth, Worth Township, Cook County, Illinois, 60482, United States"
+            ]
+          }
         }
       ]
     },
@@ -4329,6 +5805,42 @@
           "value": {
             "none": [
               "Energy Extraction and Production"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "28.451356"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-80.528306"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Cape Canaveral, Brevard County, Florida, United States"
             ]
           }
         }
@@ -4392,6 +5904,42 @@
               "Community Resistance and Activism"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.290882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-76.610759"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Baltimore, Maryland, United States"
+            ]
+          }
         }
       ]
     },
@@ -4453,6 +6001,42 @@
               "Mobility Networks and Connectivity"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.689978"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.797414"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Worth, Worth Township, Cook County, Illinois, 60482, United States"
+            ]
+          }
         }
       ]
     },
@@ -4510,6 +6094,42 @@
           "value": {
             "none": [
               "Energy Extraction and Production"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "28.451356"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-80.528306"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Cape Canaveral, Brevard County, Florida, United States"
             ]
           }
         }
@@ -4573,6 +6193,42 @@
               "Community Resistance and Activism"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.290882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-76.610759"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Baltimore, Maryland, United States"
+            ]
+          }
         }
       ]
     },
@@ -4633,6 +6289,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "37.103559"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-116.05833"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Nevada National Security Site, Nye County, Nevada, United States"
+            ]
+          }
         }
       ]
     },
@@ -4691,6 +6383,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "35.045722"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-85.309488"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chattanooga, Hamilton County, East Tennessee, Tennessee, United States"
             ]
           }
         }
@@ -4754,6 +6482,42 @@
               "Mobility Networks and Connectivity"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "35.657591"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-117.641867"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "China Lake, Ridgecrest, Kern County, California, 93555, United States"
+            ]
+          }
         }
       ]
     },
@@ -4815,6 +6579,42 @@
               "Urban Expansion and Land Use Change"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.107833"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.188013"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Shady Grove Plaza, King Farm, Rockville, Montgomery County, Maryland, United States"
+            ]
+          }
         }
       ]
     },
@@ -4873,6 +6673,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.946918"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-75.15908"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington Square West, Center City, Philadelphia, Philadelphia County, Pennsylvania, 19109, United States"
             ]
           }
         }
@@ -4996,6 +6832,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.081798"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.151684"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Rockville, Montgomery County, Maryland, United States"
+            ]
+          }
         }
       ]
     },
@@ -5055,6 +6927,42 @@
             "none": [
               "Energy Distribution and Consumption",
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "43.913921"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-110.638036"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Teton County, Wyoming, United States"
             ]
           }
         }
@@ -5301,6 +7209,42 @@
               "Urban Expansion and Land Use Change"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "36.996109"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-111.55627"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Greenehaven, Coconino County, Arizona, United States"
+            ]
+          }
         }
       ]
     },
@@ -5360,6 +7304,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Habitat Conservation and Biodiversity"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "33.709742"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-118.267571"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Los Angeles Harbor, Los Angeles, Los Angeles County, California, 90733, United States"
             ]
           }
         }
@@ -5481,6 +7461,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "43.018032"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.580755"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Milwaukee County, Wisconsin, United States"
             ]
           }
         }
@@ -5605,6 +7621,42 @@
               "Urban Expansion and Land Use Change"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "36.996109"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-111.55627"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Greenehaven, Coconino County, Arizona, United States"
+            ]
+          }
         }
       ]
     },
@@ -5664,6 +7716,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Habitat Conservation and Biodiversity"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "33.709742"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-118.267571"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Los Angeles Harbor, Los Angeles, Los Angeles County, California, 90733, United States"
             ]
           }
         }
@@ -5787,6 +7875,42 @@
               "Infrastructure Impacts on Landscapes"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "43.018032"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.580755"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Milwaukee County, Wisconsin, United States"
+            ]
+          }
         }
       ]
     },
@@ -5906,6 +8030,42 @@
               "Water Infrastructure and Management"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.266311"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-76.886112"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Harrisburg, Dauphin County, Pennsylvania, United States"
+            ]
+          }
         }
       ]
     },
@@ -5963,6 +8123,42 @@
           "value": {
             "none": [
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
             ]
           }
         }
@@ -6025,6 +8221,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.891693"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-75.244947"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Eastwick, Mario Lanza Boulevard, Southwest Philadelphia, Philadelphia, Philadelphia County, Pennsylvania, 19153, United States"
+            ]
+          }
         }
       ]
     },
@@ -6083,6 +8315,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.358834"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-71.05783"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Boston, Suffolk County, Massachusetts, United States"
             ]
           }
         }
@@ -6146,6 +8414,42 @@
               "Mobility Networks and Connectivity"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "36.162277"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-86.774298"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Nashville, Davidson County, Middle Tennessee, Tennessee, United States"
+            ]
+          }
         }
       ]
     },
@@ -6205,6 +8509,42 @@
               "Climate Engineering and Intervention"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "37.167048"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-94.846385"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "South Florida, Columbus, Cherokee County, Kansas, 66725, United States"
+            ]
+          }
         }
       ]
     },
@@ -6262,6 +8602,42 @@
           "value": {
             "none": [
               "Industrial Manufacturing and Pollution"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "35.892377"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-78.86589"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Research Triangle Park, Durham County, North Carolina, 27709, United States"
             ]
           }
         }
@@ -6324,6 +8700,42 @@
               "Infrastructure Impacts on Landscapes"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "32.695886"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-117.117809"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Southeast Church of the Nazarene, National Avenue, Mountain View, San Diego, San Diego County, California, 92113, United States"
+            ]
+          }
         }
       ]
     },
@@ -6382,6 +8794,42 @@
             "none": [
               "Energy Extraction and Production",
               "Industrial Manufacturing and Pollution"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "35.047462"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-85.391314"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Raccoon Mountain, Marion County, East Tennessee, Tennessee, 37419, United States"
             ]
           }
         }
@@ -6444,6 +8892,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "43.157285"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.615214"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "City of Rochester, Monroe County, New York, United States"
+            ]
+          }
         }
       ]
     },
@@ -6503,6 +8987,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Water Infrastructure and Management"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "36.152331"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-95.94596"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "University of Tulsa, East 10th Street, Kendall-Whittier, Tulsa, Oklahoma, 74104, United States"
             ]
           }
         }
@@ -6625,6 +9145,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
+            ]
+          }
         }
       ]
     },
@@ -6684,6 +9240,42 @@
             "none": [
               "Energy Distribution and Consumption",
               "Mobility Networks and Connectivity"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
             ]
           }
         }
@@ -6746,6 +9338,42 @@
               "Energy Distribution and Consumption"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
+            ]
+          }
         }
       ]
     },
@@ -6803,6 +9431,42 @@
           "value": {
             "none": [
               "Water Infrastructure and Management"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
             ]
           }
         }
@@ -6865,6 +9529,42 @@
               "Mobility Networks and Connectivity",
               "Community Resistance and Activism",
               "Land Rights and Displacement"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.952724"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-75.163526"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Philadelphia, Philadelphia County, Pennsylvania, United States"
             ]
           }
         }
@@ -6986,6 +9686,42 @@
               "Water Infrastructure and Management"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.875562"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.624421"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chicago, South Chicago Township, Cook County, Illinois, United States"
+            ]
+          }
         }
       ]
     },
@@ -7044,6 +9780,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "44.969682"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-93.279655"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States"
             ]
           }
         }
@@ -7106,6 +9878,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "37.957702"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-121.290779"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Stockton, San Joaquin County, California, United States"
+            ]
+          }
         }
       ]
     },
@@ -7163,6 +9971,42 @@
           "value": {
             "none": [
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
             ]
           }
         }
@@ -7345,6 +10189,42 @@
               "Mobility Networks and Connectivity"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
+            ]
+          }
         }
       ]
     },
@@ -7464,6 +10344,42 @@
               "Water Infrastructure and Management"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.875562"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.624421"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chicago, South Chicago Township, Cook County, Illinois, United States"
+            ]
+          }
         }
       ]
     },
@@ -7522,6 +10438,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "44.969682"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-93.279655"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Loring Park, Minneapolis, Hennepin County, Minnesota, 55403, United States"
             ]
           }
         }
@@ -7584,6 +10536,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "37.957702"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-121.290779"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Stockton, San Joaquin County, California, United States"
+            ]
+          }
         }
       ]
     },
@@ -7641,6 +10629,42 @@
           "value": {
             "none": [
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
             ]
           }
         }
@@ -7821,6 +10845,42 @@
               "Water Infrastructure and Management"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.875562"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.624421"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chicago, South Chicago Township, Cook County, Illinois, United States"
+            ]
+          }
         }
       ]
     },
@@ -7939,6 +10999,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
+            ]
+          }
         }
       ]
     },
@@ -7998,6 +11094,42 @@
             "none": [
               "Energy Distribution and Consumption",
               "Mobility Networks and Connectivity"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
             ]
           }
         }
@@ -8120,6 +11252,42 @@
               "Urban Expansion and Land Use Change",
               "Mobility Networks and Connectivity",
               "Land Rights and Displacement"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.246482"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-75.881732"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Wilkes-Barre, Luzerne County, Pennsylvania, United States"
             ]
           }
         }
@@ -8302,6 +11470,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.615359"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-70.662461"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Gloucester, Essex County, Massachusetts, United States"
+            ]
+          }
         }
       ]
     },
@@ -8362,6 +11566,42 @@
               "Urban Expansion and Land Use Change",
               "Water Infrastructure and Management",
               "Habitat Conservation and Biodiversity"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "36.156312"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-95.992752"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Tulsa, Oklahoma, United States"
             ]
           }
         }
@@ -8602,6 +11842,42 @@
               "Industrial Manufacturing and Pollution"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "35.892377"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-78.86589"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Research Triangle Park, Durham County, North Carolina, 27709, United States"
+            ]
+          }
         }
       ]
     },
@@ -8659,6 +11935,42 @@
           "value": {
             "none": [
               "Industrial Manufacturing and Pollution"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
             ]
           }
         }
@@ -8721,6 +12033,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.362611"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-71.08761"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Kendall Square, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            ]
+          }
         }
       ]
     },
@@ -8780,6 +12128,42 @@
               "Mobility Networks and Connectivity",
               "Urban Expansion and Land Use Change",
               "Community Resistance and Activism"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "25.774157"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-80.193597"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Miami, Miami-Dade County, Florida, United States"
             ]
           }
         }
@@ -8962,6 +12346,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "33.721999"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-116.037247"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Riverside County, California, United States"
+            ]
+          }
         }
       ]
     },
@@ -9081,6 +12501,42 @@
             "none": [
               "Energy Extraction and Production",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "33.721999"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-116.037247"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Riverside County, California, United States"
             ]
           }
         }
@@ -9204,6 +12660,42 @@
               "Land Rights and Displacement"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "43.547601"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-96.729363"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Sioux Falls, Sioux Falls Township, Minnehaha County, South Dakota, United States"
+            ]
+          }
         }
       ]
     },
@@ -9323,6 +12815,42 @@
               "Urban Expansion and Land Use Change"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "25.750499"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-80.202105"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "The Metropolitan, 2475, Brickell Avenue, Brickell Hammock, Miami, Miami-Dade County, Florida, 33129, United States"
+            ]
+          }
         }
       ]
     },
@@ -9383,6 +12911,42 @@
               "Housing, Planning, and Built Environment"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.362611"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-71.08761"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Kendall Square, Cambridge, Middlesex County, Massachusetts, 02142, United States"
+            ]
+          }
         }
       ]
     },
@@ -9441,6 +13005,42 @@
             "none": [
               "Urban Expansion and Land Use Change",
               "Housing, Planning, and Built Environment"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "37.787936"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-122.40752"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "San Francisco, California, United States"
             ]
           }
         }
@@ -9564,6 +13164,42 @@
               "Urban Expansion and Land Use Change"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "34.723863"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-88.22684"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Tishomingo County, Mississippi, United States"
+            ]
+          }
         }
       ]
     },
@@ -9622,6 +13258,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "41.875562"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-87.624421"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Chicago, South Chicago Township, Cook County, Illinois, United States"
             ]
           }
         }
@@ -9864,6 +13536,42 @@
               "Infrastructure Impacts on Landscapes"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.331551"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-83.04664"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Detroit, Wayne County, Michigan, United States"
+            ]
+          }
         }
       ]
     },
@@ -10045,6 +13753,42 @@
               "Infrastructure Impacts on Landscapes"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.331551"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-83.04664"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Detroit, Wayne County, Michigan, United States"
+            ]
+          }
         }
       ]
     },
@@ -10103,6 +13847,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "42.331551"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-83.04664"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Detroit, Wayne County, Michigan, United States"
             ]
           }
         }
@@ -10222,8 +14002,44 @@
           },
           "value": {
             "none": [
-              "Human–Wildlife Interactions",
+              "Human\u2013Wildlife Interactions",
               "Habitat Conservation and Biodiversity"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "71.290537"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-156.78844"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Utqia\u0121vik, North Slope Borough, Alaska, United States"
             ]
           }
         }
@@ -10284,6 +14100,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "45.50938"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-122.400641"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Multnomah County, Oregon, United States"
             ]
           }
         }
@@ -10347,6 +14199,42 @@
               "Water Infrastructure and Management"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "39.78373"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-100.445882"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "United States"
+            ]
+          }
         }
       ]
     },
@@ -10407,6 +14295,42 @@
               "Infrastructure Impacts on Landscapes"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.75701"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-73.985972"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Times Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States"
+            ]
+          }
         }
       ]
     },
@@ -10465,6 +14389,42 @@
             "none": [
               "Mobility Networks and Connectivity",
               "Infrastructure Impacts on Landscapes"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "40.75701"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-73.985972"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Times Square, Manhattan Community Board 5, Manhattan, New York County, New York, 10036, United States"
             ]
           }
         }
@@ -10589,6 +14549,42 @@
               "Environmental Regulation and Policy"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "18.121674"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-65.457119"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Vieques, Puerto Rico, 00765, United States"
+            ]
+          }
         }
       ]
     },
@@ -10711,6 +14707,42 @@
               "Urban Expansion and Land Use Change"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "36.153171"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-112.672521"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Havsuw\u2019 Baaja, Coconino County, Arizona, United States"
+            ]
+          }
         }
       ]
     },
@@ -10768,6 +14800,42 @@
           "value": {
             "none": [
               "Industrial Manufacturing and Pollution"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
             ]
           }
         }
@@ -10830,6 +14898,42 @@
               "Sovereignty, Rights, and Self-Determination"
             ]
           }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "36.153171"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-112.672521"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Havsuw\u2019 Baaja, Coconino County, Arizona, United States"
+            ]
+          }
         }
       ]
     },
@@ -10887,6 +14991,42 @@
           "value": {
             "none": [
               "Industrial Manufacturing and Pollution"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Latitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "38.895037"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Longitude"
+            ]
+          },
+          "value": {
+            "none": [
+              "-77.036543"
+            ]
+          }
+        },
+        {
+          "label": {
+            "none": [
+              "Geocoded Location"
+            ]
+          },
+          "value": {
+            "none": [
+              "Washington, District of Columbia, United States"
             ]
           }
         }
