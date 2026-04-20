@@ -22,3 +22,9 @@ packages/app/ui/dist/
 tests/coverage/
 playwright-report/
 test-results/
+
+# Large pipeline data files (store locally or in object storage)
+full_doc_mongo_output*.json
+eis_results*.json
+docs_with_digits.json
+ocr_cache/
