@@ -1,27 +1,5 @@
-node_modules/
-.tool-versions
-
-# canopy specific
-site/
-.template-build/
-.org-build/
-
-# remove this if you would like to commit the cache
-.cache
-
-# ignore pnpm local store (we standardize on npm)
-.pnpm-store/
-
-# Do not commit compiled UI stylesheet; built in dev/publish
-packages/app/ui/styles/index.css
-
-# Ignore built UI bundle; built on demand and at publish
-packages/app/ui/dist/
-
-# Test outputs
-tests/coverage/
-playwright-report/
-test-results/
+# Mac
+.DS_Store
 
 # Large pipeline data files (store locally or in object storage)
 full_doc_mongo_output*.json
